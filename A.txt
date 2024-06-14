@@ -1,0 +1,5 @@
+<user> thankyou, i am looking for a trian that leaves on friday. i am also wanting it to leave after 12:30. <system> the tr3685 leaves at 13:00. need a ticket? <user> that is going to stevenage, correct? <system> no it is going to london kings cross, do you need to go to stevenage? <user> yes, i must go to stevenage. how much is a ticket?
+<user> thankyou, i am looking for a trian that leaves on friday. i am also wanting it to leave after 12:30. <system> the tr3685 leaves at 13:00. need a ticket? <user> that is going to bucharest, correct? <system> no it is going to london kings cross, do you need to go to bucharest? <user> yes, i must go to bucharest. how much is a ticket?
+
+train leaveat 12:30, train day friday, train destination stevenage
+train leaveat 12:30, train day friday, train destination bucharest
