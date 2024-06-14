@@ -22,3 +22,44 @@ Generated: ,  attraction area west,  attraction type dontcare,  train arriveby 1
 
 Truth:  attraction area dontcare,  attraction name dontcare,  attraction type museum,  hotel area centre,  hotel bookday friday,  hotel bookpeople 6,  hotel internet yes,  hotel name ovolo 1888 darling harbour,  hotel parking yes,  hotel pricerange cheap, hotel bookstay 2
 Generated:  attraction type museum,  hotel area centre,  hotel bookday friday,  hotel bookpeople 6,  hotel bookstay 2,  hotel internet yes,  hotel name el shaddai,  hotel name el shaddia,  hotel name el shaddia guesthouse,  hotel parking yes,  hotel pricerange cheap, attraction area centre
+
+
+👩‍:
+
+can you help me book a reservation at the warkworth house hotel?
+
+🤖:
+
+yes i could! how many people are staying, and what days would you like to stay?
+
+👩‍:
+
+it's just for me, and i'll be staying for three nights starting from tuesday.
+
+DS:
+
+hotel-bookday: tuesday
+hotel-bookpeople: 1
+hotel-bookstay: 3
+hotel-name: warkworth house
+
+
+👩‍:
+
+can you help me book a reservation at the hseworuhot hotel?
+
+🤖:
+
+yes i could! how many people are staying, and what days would you like to stay?
+
+👩‍:
+
+it's just for me, and i'll be staying for three nights starting from tuesday.
+
+DS:
+
+hotel-bookday: tuesday
+hotel-bookpeople: 1
+hotel-bookstay: 3
+hotel-name: hseworuhot
+
