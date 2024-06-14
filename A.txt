@@ -15,3 +15,10 @@ train leaveat 12:30, train day friday, train destination bucharest
 #     "taxi-destination": ["London", "Birmingham", "New York"],
 #     "train-departure": ["Station 1", "Station 2", "Station 3"],
 #     "train-destination": ["Station A", "Station B", "Station C"]
+
+
+Truth:  train day wednesday,  train departure saint petersburg,  train destination alexandria,  train leaveat dontcare, train arriveby 16:15
+Generated: ,  attraction area west,  attraction type dontcare,  train arriveby 16:15,  train day wednesday,  train departure peterborough,  train destination cambridge,  train leaveat dontcare, attraction type college
+
+Truth:  attraction area dontcare,  attraction name dontcare,  attraction type museum,  hotel area centre,  hotel bookday friday,  hotel bookpeople 6,  hotel internet yes,  hotel name ovolo 1888 darling harbour,  hotel parking yes,  hotel pricerange cheap, hotel bookstay 2
+Generated:  attraction type museum,  hotel area centre,  hotel bookday friday,  hotel bookpeople 6,  hotel bookstay 2,  hotel internet yes,  hotel name el shaddai,  hotel name el shaddia,  hotel name el shaddia guesthouse,  hotel parking yes,  hotel pricerange cheap, attraction area centre
