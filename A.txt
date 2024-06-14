@@ -3,3 +3,15 @@
 
 train leaveat 12:30, train day friday, train destination stevenage
 train leaveat 12:30, train day friday, train destination bucharest
+
+
+# slot_value_pools = {
+#     "attraction-name": ["Museum", "Art Gallery", "Zoo"],
+#     "hotel-name": ["Hilton", "Marriott", "Holiday Inn"],
+#     "restaurant-name": ["McDonald's", "Burger King", "Subway"],
+#     "bus-departure": ["Station A", "Station B", "Station C"],
+#     "bus-destination": ["Station X", "Station Y", "Station Z"],
+#     "taxi-departure": ["Cambridge", "Oxford", "Manchester"],
+#     "taxi-destination": ["London", "Birmingham", "New York"],
+#     "train-departure": ["Station 1", "Station 2", "Station 3"],
+#     "train-destination": ["Station A", "Station B", "Station C"]
