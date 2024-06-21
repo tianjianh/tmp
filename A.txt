@@ -63,3 +63,9 @@ hotel-bookpeople: 1
 hotel-bookstay: 3
 hotel-name: hseworuhot
 
+
+<user> i need a place to dine, and i'd like to know what's available so far as cheap asian oriental food. <system> you must try dojo noodle bar in the centre of town! want a reservation? <user> i need to get the address please. <system> sure thing. the address is 40210 millers yard city centre. <user> great. i also need a train. <system> sure, i can help you with that. where are you departing from? <user> i am departing from new york to dar es salaam and i need to leave after 20:45 on tuesday. 
+<user> i need a place to dine, and i'd like to know what's available so far as cheap asian oriental food. <system> you must try dojo noodle bar in the centre of town! want a reservation? <user> i need to get the address please. <system> sure thing. the address is 40210 millers yard city centre. <user> great. i also need a train. <system> sure, i can help you with that. where are you departing from? <user> i am departing from new york to dar es salaam and i need to leave after 20:45 on tuesday.  train departure new york, train leaveat 20:45, restaurant food asian oriental, train destination dar es salaam, restaurant pricerange cheap, train day tuesday, restaurant name dojo noodle bar, restaurant area centre, train arriveby dontcare, restaurant name dojo noodle
+Truth: restaurant food asian oriental, restaurant pricerange cheap, train day tuesday, train departure new york, train destination dar es salaam, train leaveat 20:45
+Generated: restaurant area centre, restaurant food asian oriental, restaurant name dojo noodle, restaurant name dojo noodle bar, restaurant pricerange cheap, train arriveby dontcare, train day tuesday, train departure new york, train destination dar es salaam, train leaveat 20:45
+
