@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160718101714/http://www.bbc.co.uk/news/technology-16757150
+
+[SN]TITLE[SN]
+Kelihos botnet suspect denies Microsoft accusations
+
+[SN]FIRST-SENTENCE[SN]
+The man accused by Microsoft of being behind a huge botnet attack has insisted he is "absolutely not guilty".
+
+[SN]RESTBODY[SN]
+Microsoft said Russian citizen Andrey Sabelnikov "wrote and/or participated in creating" the Kelihos software which infected thousands of machines.
+However, Mr Sabelnikov contacted the BBC to say he was "surprised and shocked" at the accusation, adding: "I will prove my innocence."
+Microsoft said it stood by the accusation it made earlier this month.
+"As this is a case pending in court, we cannot comment further except to say that we look forward to seeing Mr Sabelnikov in court so we can continue this discussion," said Richard Boscovich, senior attorney for Microsoft's Digital Crime Unit.
+Microsoft named Mr Sabelnikov, who is a former employee of antivirus company Agnitum, in court papers filed in the US.
+The software giantclaimed their own investigations uncovered proofthat Mr Sabelnikov "used the malware to control, operate, maintain and grow the Kelihos botnet".
+In a blog post, Mr Sabelnikov said the allegations were unfounded.
+"I was very surprised and shocked to read in the press that I was being accused of a grievous crime in connection with the Kelihos botnet," he wrote.
+"I am absolutely not guilty, have never been involved in handling botnets or any other similar programmes and what is more have never made any profit from such activity. I want to highlight that I have no connection either to the activity of Kelihos or to the distribution of spam.
+"Unfortunately, the avalanche of publications in the press, referencing inaccurate and distorted information, has inadvertently inflicted a great deal of psychological damage on the companies for whom I have worked or am working, and also adversely affected their business reputation."
+Botnets like Kelihos are created by the spread of malicious software, often via infected emails or web browser vulnerabilities.
+Each "bot", as they are known, is a hijacked computer which can be used by hackers for any number of illegal activities.
+The Kelihos botnet was used for sending out spam and spreading malware until it was "neutralised" in September 2011.
+At its peak, it was said to have been in control of 41,000 infected machines and able to send over 3.8 billion spam emails in a day.

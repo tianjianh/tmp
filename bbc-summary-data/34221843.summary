@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108030505/http://www.bbc.co.uk/news/technology-34221843
+
+[SN]TITLE[SN]
+How to pick the perfect password
+
+[SN]FIRST-SENTENCE[SN]
+Hackers have managed to decode more than 11 million encrypted passwords stolen from the Ashley Madison website, shining fresh light on the importance of password security.
+
+[SN]RESTBODY[SN]
+On Tuesday, the UK government agency GCHQ published new password guidance designed to "improve security, while improving the usability of systems".
+Its report challenged some common ideas about passwords and security. So how do you choose, and just as importantly remember, the perfect password?
+Many websites demand complex passwords with a mixture of upper and lower case letters, numbers and symbols.
+The GCHQ report suggested complex passwords may actually be counterproductive, because people often write them down or reuse the same one on many websites.
+"Talking about a good password suggests that choosing a long or complex password offers better protection. That is not necessarily the case," said Dr Steven Murdoch from the Department of Computer Science at University College London.
+"Secure systems should not just rely on a single password, but have additional technical controls which the system owner can use to detect abnormal behaviour and protect the user's account."
+Using symbols and punctuation is also a nuisance for people using mobile devices.
+"Complex passwords are hard to type on touchscreens, since you have to toggle between keyboards," said Dr Angela Sasse, UCL's head of information security research.
+Some security experts have recommended the adoption of "passphrases", such as "Iown50%ofSClub7albums".
+They are easier for people to remember and provide more protection from "brute force" attacks, where a computer tries countless combinations of passwords until the right one is found by chance.
+"A longer password is preferable overall, but that has its own problems," Dr Sasse told the BBC.
+"More than 50% of passwords are now entered on touchscreen devices, and longer passphrases create a significant burden on touchscreen users.
+"Passwords are rarely cracked by brute force. They are mostly captured through phishing and malware, and with those attacks it does not matter how long or complex your password is."
+Many companies force you to change your password frequently - some every 30 days - so that any leaked passwords would only be temporarily useful to attackers.
+But the GCHQ report suggests this leads people to choose incremental passwords and reuse the same password on a number of sites.
+It said enforcing regular changes "imposes burdens on the user" and "carries no real benefits as stolen passwords are generally exploited immediately".
+"Regular password changing harms rather than improves security."
+Some people use a dedicated app or website to store all their passwords, so they can easily retrieve one if they forget it.
+The downside? The app is password protected - so you end up with another password to remember.
+An app hoping to tackle that problem is being developed in the US. Rather than storing your secret codes, Password Chef stores 'recipes' instead, which can remind you of your password.
+The maker says it wants to help people generate more complex passwords that are also easy to remember.
+However, no password manager is infallible.
+"This app offers extra protection by storing memory cues about the password, rather than the password itself," said Dr Sasse.
+"It can help to reconstruct passwords you rarely use, but research has shown that even when people remember something such as the name of their school, they can't reproduce the name exactly as they used it in their password.
+"Plus if I manage to steal your phone, I could look up your recipes and find the information they reference, as it is probably on your Facebook page."
+Many websites now offer two-factor authentication. In addition to entering your password, you also enter a single-use code, typically sent to your mobile phone.
+Facebook, Google and Twitter already offer the feature for free.
+"This offers a substantial improvement in security, so if it is available you should definitely consider it. Many banks insist their customers use it," said Dr Murdoch.
+The Ashley Madison leak shows you can never be certain that a website is entirely secure, so it makes sense not to reuse passwords across multiple sites.
+The GCHQ report said people in the UK typically use the same password across four online accounts.
+"Never reuse important passwords (like for online banking) on other websites," said Dr Sasse.
+"Not all websites protect their passwords properly, or your password may be captured by malware. Use unique passwords with a password manager to keep track of them."

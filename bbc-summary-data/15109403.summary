@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170111223751/http://www.bbc.co.uk/news/technology-15109403
+
+[SN]TITLE[SN]
+Smart cities get their own operating system
+
+[SN]FIRST-SENTENCE[SN]
+Cities could soon be looking after their citizens all by themselves thanks to an operating system designed for the metropolis.
+
+[SN]RESTBODY[SN]
+The Urban OS works just like a PC operating system but keeps buildings, traffic and services running smoothly.
+The software takes in data from sensors dotted around the city to keep an eye on what is happening.
+In the event of a fire the Urban OS might manage traffic lights so fire engines can reach the blaze swiftly.
+The idea is for the Urban OS to gather data from sensors buried in buildings and many other places to keep an eye on what is happening in an urban area.
+The sensors monitor everything from large scale events such as traffic flows across the entire city down to more local phenomena such as temperature sensors inside individual rooms.
+The OS completely bypasses humans to manage communication between sensors and devices such as traffic lights, air conditioning or water pumps that influence the quality of city life.
+Channelling all the data coming from these sensors and services into a over-arching control system had lots of benefits, said Steve Lewis, head of Living PlanIT- the company behind Urban OS.
+Urban OS should mean buildings get managed better and gathering the data from lots of sources gives a broader view of key city services such as traffic flows, energy use and water levels.
+"If you were using an anatomy analogy, the city has a network like the nervous system, talking to a whole bunch of sensors gathering the data and causing actions," said Mr Lewis.
+"We distribute that nervous system into the parts of the body - the buildings, the streets and other things.
+Having one platform managing the entire urban landscape of a city means significant cost savings, implementation consistency, quality and manageability, he added.
+"And it's got local computing capacity to allow a building or an automotive platform to interact with people where they are, managing the energy, water, waste, transportation, logistics and human interaction in those areas."
+The underlying technology for the Urban OS has been developed by McLaren Electronic Systems - the same company that creates sensors for Formula One cars. The Urban OS was unveiled at the Machine-2-Machine conference in Rotterdam.
+To support the myriad of different devices in a city the firm has developed an extensive set of application services that will run Urban OS, dubbed PlaceApps - the urban environment equivalent of apps on a smartphone.
+Independent developers will also be able to build their own apps to get at data and provide certain services around a city.
+Mr Lewis said that eventually applications on smartphones could hook into the Urban OS to remotely control household appliances and energy systems, or safety equipment to monitor the wellbeing of elderly people.
+It could also prove useful in the event of a fire in a building, he said.
+Sensors would spot the fire and then the building would use its intelligence to direct people inside to a safe stairwell, perhaps by making lights flicker or alarms get louder in the direction of the exit.
+"That's dealt with by the building itself, with the devices very locally talking to each other to figure out what's the best solution for the current dilemma, and then providing directions and orchestrating themselves," said Mr Lewis.
+Living PlanIT is working with Cisco and Deutsche Telekom on different parts of the system.
+Markus Breitbach of the Machine to Machine Competence Center at Deutsche Telekom said that his firm was helping to bring all the parts of the Urban OS together.
+"Everybody's talking about 50 billion connected devices, which effectively means huge amounts of data being collected, but nobody is really caring about managing it and bringing it into a context - and Urban OS can do just that," he said.
+"If there's a fire alarm on the fifth floor and the elevator is going to the next floor, the light will switch on - but in addition the traffic lights will be switched accordingly to turn the traffic in the right direction so that fire workers can get through.
+"And this is what Urban OS is providing, this kind of solution to analyse mass data, enter it in a context and perform magical actions."
+A test bed for the Urban OS is currently being built in Portugal. For its work in developing smart cities, Living PlanIT was selected as one of the World Economic Forum's Technology Pioneers of 2012.

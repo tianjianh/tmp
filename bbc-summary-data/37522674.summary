@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170625201600/http://www.bbc.com/news/business-37522674
+
+[SN]TITLE[SN]
+How the street light has been given a hi-tech makeover
+
+[SN]FIRST-SENTENCE[SN]
+Next time you're out after dark, spare a thought for the humble street light. It's not so humble anymore.
+
+[SN]RESTBODY[SN]
+Not only are light bulbs getting sharper and more energy efficient as they are upgraded to LEDs, but they increasingly help fight crime, promote safe cycling and even protect turtles.
+That's because street lights are also becoming the eyes and ears of "smart" cities.
+Lamp posts double as data collectors, communicating with a central control system that makes automated decisions about when they are on, for how long, and the brightness.
+Their supporters say the benefits include safer streets, calmer roads and considerable cost savings.
+In a data-driven world it makes sense to adapt existing street furniture for this purpose, says smart cities expert Dr Theo Tryfonas, from Bristol University's Faculty of Engineering.
+"It's better than acquiring boxes and hardware," he says. "There needs to be a shift in our mentality towards utilities. We have electricity, water - the fourth or fifth utility should be information."
+Silver Spring Networks has developed its own smart lighting infrastructure and has clients worldwide.
+It claims its technology can halve a city's energy bill. Copenhagen, for example, is on track to exceed predictions of 50% in savings, says Brian McGuigan, European director of smart cities and lighting at Silver Spring.
+In Paris, the day's weather conditions, captured by sensors, are a factor included in what time the city's famous street lights should turn on. The French capital declined to switch to LED bulbs.
+However, Mr McGuigan says:  "They didn't want to disrupt the colour of the city of Paris - but the new controls alone gave them a 30% energy saving."
+Other experts, however, argue that the financial rewards are not always that straightforward.
+Dr Tryfonas says: "It depends on how the local authority is organising its funding," he says. "Every case will need to be assessed on its own merits. Are they outsourcing infrastructure management? Is it owned partly by others?
+"The value can be great, but there are a lot of other factors to be put into play in a city. It has to have the right ecosystem," he says.
+In Copenhagen, using energy-saving dimmed lights seemed like a great idea. But it was then realised that there was a conflict of interest with the Danish capital's safe cycling initiative.
+So a new link was forged. "We added capability for traffic signals to 'talk' to the street lights, and the lights go up if cyclists are picked up on sensors," Mr McGuigan explains.
+However, lighting isn't necessarily a top priority for developers of smarter cities.
+A recent study of 150 projects carried out by Nominet revealed that street lighting came eighth in popularity in terms of the issues they planned to address (data platforms, the environment and citizen engagement came first). Even so, the industry believes it still has a lot to offer.
+"The future of smart lighting will be a game changer in helping communities solve problems," says Mike Zeto, general manager of smart cities at AT&T, which has joined with several tech giants to form a US-based smart city collective.
+Smart lighting's benefits are clear, he argues: "From remotely monitoring the conditions of roads and better managing traffic patterns of pedestrians at stadiums, parks, and busy intersections, to gunfire detection technology that can help law enforcement determine more information about when and where a shooting occurred."
+Nonetheless, smart street lights have their critics. Some have complained that while they may use less electricity, LED bulbs pool less light, meaning the surrounding houses and front gardens are darker at night.
+The American Medical Association (AMA) issued guidance about LED bulbs earlier this year, warning authorities to avoid high-intensity LEDs as they emit lots of blue light, which it says can disrupt the sleeping patterns of both humans and animals.
+"Despite the energy efficiency benefits, some LED lights are harmful when used as street lighting," said AMA board member Maya Babu in a statement issued at the time.
+"Cool it and dim it" was how Dr Richard Stevens from the School of Medicine at the University of Connecticut summed up the AMA's recommendations.
+In response, supporters argue that advances in technology in the last two or three years means that the bulbs are now softer and warmer in tone.
+And it is not just humans that need the benefits of softer lighting. In certain areas of Florida the reproductive cycles of giant turtles dictate how brightly the lights shine so as not to disrupt breeding.
+"Their reproductive cycle is managed around the moon so these lights needed the capability to dim down extra low on certain days," says Mr McGuigan.
+Another concern, though, is cybersecurity, because many cities choose to store and share data in the cloud.
+"We do believe it is an issue," says Mr McGuigan, adding that it falls to individual authorities to protect their own data.
+"You could say this about quite a few Internet of Things technologies - they go for security through obscurity."
+Security researcher Denis Legezo, from Kaspersky, demonstrated earlier this year that he was able to manipulate traffic sensors in Moscow by finding their manuals online.
+"If you succeed in identifying the model of a road sensor... you can find various documentation on the vendor's site (or that of their integrator), and, if you are lucky enough, you will also find the software used for working with the devices," he wrote.
+As Mr McGuigan adds, people will always find a reason to hack a system - even if it's just for their own entertainment.
+Follow Technology of Business editor Matthew Wall on Twitter here
+Click here for more Technology of Business features

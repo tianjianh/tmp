@@ -1,0 +1,57 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170803090732/http://www.bbc.co.uk/news/technology-28159732
+
+[SN]TITLE[SN]
+Tomorrow's cities - the lamp-posts watching every move
+
+[SN]FIRST-SENTENCE[SN]
+Imagine an app aimed at showing thieves the best places for stealing.
+
+[SN]RESTBODY[SN]
+It's actually not hard to do - simply pull together publicly available data on disposable income, crime levels and problems reported in a district.
+It may reveal that the optimum place to go pilfering is in an area of high income, low reported crime and broken streetlights.
+The app not only exists but it won first prize in the "safety" category at an Amsterdam hackathon a few years back.
+Makkie Klauwe (it means "easy pickings" in Amsterdam slang) was created by Bram Fritz, a student who wanted to "provoke discussion on the role of open data in our society".
+Luckily for the citizens and police of Amsterdam the app never went into public use - but it is proof, if proof were needed, that data can be used for both good and bad.
+If that is the bad then consider the good.
+In Oslo, the city's environment department is looking to gain insight into where to build new pavements and where to reduce traffic speeds.
+According to European Commission statistics, children under 12 make more journeys on foot than any other age group, so it was to them that Oslo city council turned for help.
+Working with technology firm Capgemini, it has developed a mobile app that allows children to report information on what they perceive to be dangers along their routes to school.
+It is designed as a game that allows the children to play the role of an undercover agent and report anything suspect.
+Cities are increasingly gathering data from a range of unusual sources as the cost of chip technology falls and data-gathering sensors can be fitted on pretty much anything, from bridges to sewers, streetlights to bins.
+It is part of a huge technology shift known as the internet of things. Research firm Gartner estimates that by 2020 there will be more than 26.5 billion devices connected to the network, representing a $1.9 trillion (Â£1.2tn) industry.
+It can make cities much more efficient.
+In the US, Philadelphia estimates that it is saving $1m every year just as a result of putting sensors on bins. Instead of having three rubbish collection shifts each day, it now collects rubbish only when the sensors indicate that bins are full. The knock-on effect of fewer bin lorries is to reduce both congestion and pollution.
+And in Glasgow the city council is looking to upgrade its streetlights to more energy-efficient LED lights - likely to make up to 50% savings on one of the city's largest bills.
+But Glasgow wants to go further and has programmed them to increase in brightness if noise levels rise - for example if there is a disturbance in the area.
+The pilot project will be integrated with the newly built City Operations Centre, where CCTV cameras from across the city are monitored and staff can zoom in on any problems.
+A nifty way to solve crime, some would say, but for others a privacy nightmare.
+Having data at their fingertips can be hugely advantageous for citizens.
+In Santander in Spain, residents can access up-to-the-minute information on road closures, parking availability and bus delays via street signs.
+And in London, the city has made 500 datasets available via a city dashboard that can be accessed on a public website and shows a variety of data from air pollution, crime statistics, weather and even a happiness index for the city.
+It means that it is possible, for example, to track the real-time location of every bus on the streets.
+The smartest cities are going to be the ones that see the data revolution as a two-way conversation, thinks Gartner analyst Bettina Tratz-Ryan.
+So-called "click-and-fix" services allow citizens to report issues such as potholes and broken swings.
+"You take a picture, send it to a portal and expect an outcome. It allows citizens to become part of the community," she said.
+Philadelphia and Salt Lake City are using an even more simple platform, known as Textizen, to give citizens a say on a variety of city issues.
+It works very simply by posting questions in bus stops and other key points in the city.
+They range from the very general - "What do you like about your city?" - to more specific ones such as whether people would use a new railway line if the city built one.
+Citizens can respond immediately with a text message.
+When it comes to sensors, citizens carry around the most powerful of all in the form of a smartphone that can be used to monitor a whole range of things.
+So they can contribute, for example, to NoiseTube, which monitors sound levels via mobile phones to combat the problem of noise pollution.
+Cities that get citizens involved in data collection will be the smartest, thinks Dr Andrew Hudson-Smith, who designed London's data dashboard.
+"We are moving away from regimented government-controlled data into crowdsourced data from smartphones," he said.
+By contrast those cities that decide simply to stick sensors on things could be heading for a fall, thinks Ms Tratz-Ryan.
+"Without the intelligence to analyse and make sense of the data, cities are heading for a mass data implosion which rather than make them smarter will make them dumb again," she said.
+Some experts believe that in the future, cities aren't going to need traditional workers - instead city halls will be filled with coders who can create algorithms to find statistical patterns in data.
+"There is a lot of maths behind cities," said data scientist Prof Nello Cristianni. "Big data has become the food that feeds today's artificial intelligence."
+And nowhere is the food more fertile than in cities, where data can be crunched to make some very accurate predictions about where traffic jams may occur or where crimes may break out.
+So does Prof Cristianni's feeding analogy mean that he thinks we have created some kind of monster in our increasingly data-driven cities?
+"I am a big fan of making this work. I develop new algorithms but because I build these things I also want to sleep at night."
+And the thing keeping him awake is privacy.
+"All the data generated from traffic cameras can be used to help better traffic flow but it can also be used to extract information about where people are parking in places where they shouldn't," he said.
+"Live maps of people walking about in London could have a variety of uses but has anyone asked them if they wanted to be on that data feed?"
+Dr Hudson-Smith happily admits that the next stage on from tracking London buses around the city will be tracking people, giving cities the ability to "know where every person is".
+For him, it is is all part of the learning process that will eventually allow us to make our cities more efficient and safer but he acknowledges that it is a scary new world that will require a radical culture shift.
+With sensors on every street corner looking to scoop up our personal data as well as feed back information about the mundane workings of our street furniture, it is time to get smart about what we give away.
+"At the moment we are sharing our data blindly but in a few years' time companies will pay us to share our data. We will realise the value of our data feeds - even down to the value of our heartbeat as we pass Sainsbury's."

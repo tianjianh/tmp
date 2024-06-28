@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170127065628/http://www.bbc.co.uk/news/science-environment-16636580
+
+[SN]TITLE[SN]
+Quantum computing could head to 'the cloud', study says
+
+[SN]FIRST-SENTENCE[SN]
+A novel high-speed, high-security computing technology will be compatible with the "cloud computing" approach popular on the web, a study suggests.
+
+[SN]RESTBODY[SN]
+Quantum computing will use the inherent uncertainties in quantum physics to carry out fast, complex computations.
+A report in Science shows the trick can extend to "cloud" services such as Google Docs without loss of security.
+This "blind quantum computing" can be carried out without a cloud computer ever knowing what the data is.
+Quantum computing has been heralded as the most powerful potential successor to traditional, electronics-based computing.
+One of the peculiarities of the branch of physics called quantum mechanics is that objects can be in more than one state at once, with the states of different objects tied together in ways that even Albert Einstein famously referred to as "spooky".
+Instead of the 0 and 1 "bits" of digital computing, quantum computing aims to make use of these mixed and entangled states to perform calculations at comparatively breathtaking speeds.
+Other quantum trickery comes in cryptography, the art of encrypting data. Data is encoded in delicately prepared states - most often those of single particles of light called photons - and the data cannot be "read" without destroying them.
+Quantum cryptography uses this feature to send the "keys" to decrypting messages with high security.
+However, the quantum computing approach is still in its formative stages, able to carry out only simple calculations - and quantum cryptography is, for the most part, limited to the laboratory setting.
+The world in which both are accessible to consumers has seemed distant.
+The new work, by University of Vienna quantum computing pioneer Anton Zeilinger and a team of international scientists, combines the two.
+They show that future technology need only come up with a means of making quantum bits, or qubits, at home; the heavy lifting of quantum computing can then be done in the cloud completely securely.
+A user would send single qubits - each perfectly secure - to a remote computer, along with a recipe for the measurements to be made.
+The process is completely clear to the user - for example, finding all the numbers that multiply together to reach the number 2,012 - but because the number 2,012 is encrypted, the instructions appear to be a series of random steps on an unknown number.
+The remote computer blindly "entangles" the unknown bits, carries out the steps, and sends the qubits back down the line, solving the problem without ever decoding what is going on.
+The team built a system demonstrating that the approach works, using a number of computational steps that might make up future computing scenarios.
+Much remains to be developed for a cloud/quantum computing future - first of all, a means to create qubits at home, which could be done with existing technology if there were a consumer demand.
+Long-distance quantum cryptography has already been demonstrated in a real-world application: the technology was put to use in elections in Switzerland in 2007 using a custom network of fibres.
+More recently, researchers at University College Cork demonstrated that similar quantum information can be sent down the same fibres that bring broadband to many homes around the world.
+What is still lacking, and preoccupying quantum physicists around the world, is the workhorse quantum computer itself.
+The computer's complexity is steadily rising; results earlier this month suggest the juggling of some 84 qubits simultaneously.
+As with the earliest days of more familiar computer technology, however, significant simplification, miniaturisation and a plunge in costs will be necessary before quantum computing becomes a resource in the cloud.

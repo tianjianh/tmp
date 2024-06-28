@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170102032711/http://www.bbc.com/news/technology-34041039
+
+[SN]TITLE[SN]
+Ashley Madison: Boss's emails examined after leak
+
+[SN]FIRST-SENTENCE[SN]
+A swathe of emails from the inbox of Ashley Madison's chief executive is now being scoured by a variety of security experts and journalists.
+
+[SN]RESTBODY[SN]
+The 30 gigabyte dump of stolen data appears to include nearly 200,000 emails belonging to Noel Biderman.
+Some experts have decided not to view the contents, but certain details are being distributed via Twitter.
+There has also been more fallout from the release of an earlier batch of data including Ashley Madison user emails.
+TrustedSec, a US security firm, has published a blog in which it verifies the basic details of the email data, released last week.
+The company says the files amount to 30 gigabytes' worth and regard 6,800 unique senders and 3,600 unique recipients.
+The veracity of the most recent data dump has also been confirmed by Norwegian security researcher Per Thorsheim, who was able to decompress the files.
+"I saw one email or two emails and I could verify the sender, the recipient, the domains and everything so it has to be an email from the CEO's mailbox," he told the BBC.
+"There's no doubt about that."
+However, Mr Thorsheim says that beyond verifying that the dump is real, he is not interested in reading the contents of the emails.
+Speaking to the BBC, the security firm hired by Ashley Madison to investigate the hack said it appeared to have been carried out through unusual means.
+"I can say that unlike many similar attacks, where a remote attacker has been able to use a security vulnerability such as an SQL [programming language] injection in order to dump data directly, that was not the case here," said Joel Eriksson, a security expert at Cycura.
+The Motherboard news site has published excerpts of several of the emails, which appear to contain discussions around Ashley Madison's security policy.
+"This hack affects potentially millions of people," journalist Joseph Cox told the BBC.
+"The massive email dump, which appears to be legitimate, gives some insight into what those who were in charge of the site really thought about security."
+One screenshot of the emails published by Motherboard reveals one employee's suggestion that news of a different social networking site being hacked could be "used as a PR spin".
+Meanwhile, users who have been linked to Ashley Madison by email addresses found in an earlier release of data have been the subject of uninvited scrutiny.
+Troy Hunt, who has been blogging about the implications of the hack, has described the case of church leader (who he chose not to identify) who had contacted a member of their own congregation, whose email address was linked to an Ashley Madison account.
+Hunt says that he has also received a "huge number of enquiries" from worried individuals who are concerned that they may be associated with Ashley Madison, whether or not they have actually created an account on the website themselves.
+"People are desperate to get the data," he told the BBC.
+"They're resorting to things that could get them into hot water, like trying to download the data themselves.
+"I don't think it's right for the individuals in the Ashley Madison database to have their personal lives put on display," he added. "Very often these people are entirely innocent."
+Mr Hunt and others have warned that users may be the subject of blackmail and extortion attempts.
+Indeed, security blogger Brian Krebs reported last week that spam emails demanding Bitcoin payments were targeting email addresses found in the Ashley Madison data.
+Although the implications of the data's release are still to be determined, some commentators are already pointing out that they could be far-reaching.
+Two law firms have launched a class action lawsuit against Ashley Madison in recent days, and it is possible that the plaintiffs would seek to use information from the chief executive's leaked emails to help build a case, according to Mark Watts, head of data protection at London law firm Bristows.
+"If the emails sent to/from the CEO are relevant to the case (ie to the class action) then I suspect that the lawyers involved would seek to rely upon them if they are helpful to the case," he told the BBC.
+Watts explained that even though the emails have been obtained illegally, any relevant correspondence to the case would probably have been discovered later anyway as part of the legal process.
+"Essentially, the claimants' lawyers would just be getting them early," he said.

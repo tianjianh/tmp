@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223024948/http://www.bbc.com:80/news/technology-38755584
+
+[SN]TITLE[SN]
+A guided tour of the cybercrime underground
+
+[SN]FIRST-SENTENCE[SN]
+One of the strange features of cybercrime is how much of it is public.
+
+[SN]RESTBODY[SN]
+A quick search will turn up forums and sites where stolen goods, credit cards and data are openly traded.
+But a glance into those places may not give you much idea about what is going on.
+"Everyone can join as long as you speak Russian," said Anton, a malware researcher at security firm Sentinel One, who has inhabited this underground world for more than 20 years.
+"By Russian I mean the USSR, so there is Ukrainians, there is Kazakhstan, there is Belarus. The Romanians are doing all the dirty work like spam and maintenance so they are not really involved in developing malware," he said. "But, today, is it mainly Russian? Yes."
+Those vibrant underground marketplaces have a long history and Anton adds that he tracks the malware makers to gain insights into what they might do next.
+"I was there from the very early stages," Anton told the BBC. "I guess I started at about the age of 12, when there was not much online community.
+"Instead it was many channels where hackers exchanged information and exploits and kind of stuff like that," he said.
+In those early days few wanted to break the law, he said.
+"Back then there was not much money involved at all," he said. "It was only about sharing knowledge, sharing information, sharing various scripts or downloading warez - which is pirated content."
+"It gives us an insight into the directions these communities are taking.
+"We have to monitor these to understand what they are doing, the success they are having and what they are about to do next.
+"You have to be prepared rather than just sit back and wait for it to happen to you. It's essential for us to have this kind of contact because without it we are blind."
+"There's a lot of criminality going on on the open web, particularly when you get into the Russian federation. They do not need to be on the dark web. Some are quite brazen and quite public whereas others have a much higher level of operational security.
+"If we are tracking a criminal location and we find chatter about our clients that can be of value," he said. "In the longer term it's what's coming over the horizon. What are they dialling up next?
+"It's not trivial to do something like that, it's definitely not easy to do although I think there's definitely value in working out what they are doing."
+The underground changed after the millennium turned and e-commerce took off. Forums popped up that talked about how to cash in via spam, phishing, malware and web attacks.
+There was another big shift in 2007-08, said Anton, as the criminals sought a way to fleece people that gave better returns than the cruder techniques. The first wave, which started the modern era of cybercrime, used fake anti-virus software.
+"They installed some really, really poorly written software on your machine," he said, explaining the scam. "It looked like anti-virus but it actually does nothing.
+"It tells you: 'We just scanned your PC and we have found many problems. You need to fix it now, you need to buy this software. It only costs $35-40 (£28-32)'," he said.
+This worked better than earlier scams, said Anton, but it took a lot of effort to catch people out and get them to pay.
+Often, he said, when people paid via a credit card they reversed the transaction once they found out they had been tricked. Conversion rates, meaning the number of victims who handed over cash, stayed low.
+"This meant they must do something better, something more scary."
+Frightened people pay up, said Anton, adding that this drove the next evolution: lockers.
+"What they do is they attack your browser and put up a big page on your main desktop, saying you were found with illegal child pornography or something very, very scary," he said.
+"People got afraid saying 'OK, maybe one of my kids did it, maybe, I'm not sure, I'll pay',".
+The one-page attacks asked for more money, up to $200 (£160), and proved so successful that many police forces issued warnings that urged people not to pay.
+The success, and also the publicity, forced the next stage of crimeware - ransomware, Anton explained.
+"I call it an evolution because the same people that did the fake anti-virus before are doing ransomware now. And they were doing the fake police page in the years between 2010 and 2013," he said.
+Ransomware has the best conversion rate, he said, because victims cannot ignore its effects.
+"It's real damage so that you can see that your files are no longer working. And that's the best proof for the user that he must pay," he said.
+Its rise has also been helped by the advent of virtual currency Bitcoin, because it has few of the drawbacks of credit cards or other payment systems.
+"Today you cannot talk about ransomware without mentioning Bitcoin because that's what made this evolution come," said Anton.
+The damage is not just limited to the amount people pay. Estimates from the FBI suggest that the 992 cases of ransomware carrier Cryptowall reported during a 14-month period cost victims $18m (£14.4m). Some of the cost was in the ransom, up to $10,000 (£8,000), but this was multiplied by lost productivity, legal fees and work done to remove the infections.
+It is popular, he said, because of another shift in the way that the underground is organised. In the past the groups writing the malware sent the spam, analysed the results and fleeced the victims.
+Not any more, he said. Now, many groups writing ransomware run it as a service.
+"They will give you the software with your affiliate ID so if you spread it they will know that it's from you and you will get a payout," he said. "You will get 70% and they will get the 30% out of each payment."
+Competition among ransomware writers means some other groups give better returns.
+But, he said, those groups may be producing poorly-written malware that struggles to get past the digital defences people and businesses use.
+The evolution of the underground has hit a peak with ransomware and Bitcoin, said Anton, and their combined success has kicked off a gold rush.
+"It's getting more and more people attracted to it, like from the criminal side. More and more people are starting to spread it."
+They will not stop, either, he said. "I think if you get easy money and it just keeps coming, why not continue it, right? It's obvious."

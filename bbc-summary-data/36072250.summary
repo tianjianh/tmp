@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170228001654/http://www.bbc.co.uk/news/business-36072250
+
+[SN]TITLE[SN]
+Could cures for cancer lie hidden in the cloud?
+
+[SN]FIRST-SENTENCE[SN]
+When Hollywood actress Angelina Jolie found out she carried a faulty variant of the BRCA1 gene, her doctors told her she had an 87% chance of developing breast cancer.
+
+[SN]RESTBODY[SN]
+Armed with this knowledge, she chose to undergo a double mastectomy in 2013 to reduce the risk to around 5%.
+This kind of genetic testing can now be done much faster and at lower cost, giving clinicians the ability to target treatments more effectively.
+And combining this technological breakthrough with cloud computing and artificial intelligence is giving pharmaceutical companies the tools to develop drugs faster and with greater chance of success.
+One beneficiary of this new approach is Eric Dishman, founder of tech giant Intel's first health research and innovation laboratory in 1999 and a founding member of its digital health group in 2005.
+When he was 19 years old he was diagnosed with a rare form of kidney cancer. He then had to endure 23 years of trial-and-error treatment, and was about to go on dialysis, when a tech company offered to sequence his genome for him.
+This helped identify the faulty gene causing the cancer and enabled doctors to work out which drugs were likely to be the most effective.
+Now 47 and cancer-free, Mr Dishman is determined that other cancer patients should have access to the same treatment he finally did.
+"My doctors had never done anything with the genome sequence before. It turns out that 92% of the drugs I had been on would never have worked, but they didn't know that," Mr Dishman says.
+It took three months for doctors to analyse his genome sequence, then another four months to compare his genomic results with similar patients in hospitals across the United States.
+Mr Dishman wanted to speed this process up and so helped to found the Collaborative Cancer Cloud (CCC), an initiative launched last year by Intel and Oregon Health and Science University (OHSU).
+The CCC enables hospitals and research institutions to share patient genomic, imaging, and clinical data securely for potentially lifesaving discoveries.
+"It's using the cloud in a very different way," Mr Dishman says. "If you look around the world, the top cancer centres pool their data and make a little cloud where people come together and do research. That's a great thing to do. But the problem is that only about 4% of the data is available to look at."
+The aim of the CCC is to bring the other 96% of the data into the equation, and allow hospitals and research centres to share information more effectively so that they can find the ideal treatment plan for cancer patients based on how individuals with the same genomic patterns have reacted to certain treatments.
+More Cloud Computing features from Technology of Business
+The tech allows users to share anonymised data securely, with every specific query and answer being wrapped in an encrypted shell before being sent.
+"All of those that are using a centralised system can adopt a federalised approach and connect with each other," Mr Dishman says.
+Intel and Oregon Health and Science University are now working with the two other cancer research institutions to see if the idea will work with other researchers and clinicians.
+The plan is to extend the cloud platform to other institutions and countries as well. It could also be used for researching other "faulty gene" illnesses, such as muscular dystrophy.
+"We're still on this journey," Mr Dishman says. "One of the things that we saw is that the oncologists [cancer specialists] that were interested in viewing genomic medicine were so swamped trying to make the tech work that they were not seeing patients.
+"One of the ways we measure our success is whether the oncologists can go back to being oncologists."
+Intel's CCC aims to show exactly what drugs should be used with which patients, but there are still drugs yet to be discovered. And cloud computing is helping with this process, too.
+So-called "in silico" research involves using computers to model and test potential molecules and compounds before they ever make into a real world lab.
+For instance, North Carolina-based Cloud Pharmaceuticals has developed a platform that combines artificial intelligence and cloud computing to search virtual chemical space for new - as yet unmade - molecular compounds that show the most promise of being developed into effective drugs.
+This hi-tech pre-selection process increases the chances of success, says Cloud Pharmaceuticals chief executive Ed Addison. It also means these candidate molecules can be tested in fewer animals and the drug development cycle speeded up.
+"Collaborative drug discovery and development can be securely managed among multiple partners via the cloud, which is what Cloud Pharmaceuticals does," says Mr Addison.
+Meanwhile, Japanese tech company Fujitsu has been working with the University of Tokyo to use IT-based drug discovery to develop pharmacologically active compounds with the potential to become anti-cancer drugs.
+Of the four main stages before new drugs arrive on the market, the second stage is compound design and synthesis evaluation - this is the area Fujitsu is working on.
+"In silico drug discovery... allows for the design of various compounds that people wouldn't usually come up with, then after narrowing them down, carries out a compound evaluation," said Nozomu Kamiya, director in the healthcare systems unit at Fujitsu.
+This allows the company to assess how effective a new compound might be "before it is actually physically made", he says.
+"Together with the development of cloud computing, I think we will witness in silico drug discovery bringing innovation to new drug-related R&D [research and development] in the near future."
+Takudzwa Musiyarira, health specialist at research company Frost & Sullivan, says cloud computing has "enormous potential" to improve healthcare services.
+"Importantly, using genome research means that those at risk of developing cancer may be identified and remedial action taken before the onset of the disease," he tells the BBC.
+"However, security continues to be a major concern for healthcare IT, especially with cyber threats on the increase, so these projects need to ensure that patient privacy is prioritised."
+Follow Technology of Business editor Matthew Wall on Twitter

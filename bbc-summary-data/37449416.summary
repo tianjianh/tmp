@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160925165830/http://www.bbc.com/news/technology-37449416
+
+[SN]TITLE[SN]
+Ashley Madison, MySpace and LinkedIn hacks: what changed?
+
+[SN]FIRST-SENTENCE[SN]
+As half a billion people's Yahoo account information appears to have been stolen by hackers, we take a look at the most well-known recent hacks and ask what happened next - for customers, companies and the rest of us.
+
+[SN]RESTBODY[SN]
+Last year, real-world account details of millions of people using the Ashley Madison site were leaked. They had all been using a site intended for married people who wanted to find somebody to cheat on their spouse with.
+In terms of numbers, this was not the biggest hack of recent years by a long shot. But it had a huge impact on peoples' lives.
+Some relationships ended. Other people lived in fear that their significant others - who might never have heard of the website before the breach - would find out they were looking for the chance to have affairs.
+The hack also damaged the firm's most valuable commodity - trust in its website. Ashley Madison had assured users they were entering an "anonymous" website, but their details were made public. It had even offered a "delete" service that turned out not to work. People who had paid $19 (Â£15) for a "full delete" found their names and email addresses were still on the searchable database.
+Two women explain how the Ashley Madison hack changed their lives
+But there were extremely serious consequences worldwide. Police in Canada said two people's suicides were linked to the data leakage. And activists warned that being publicly outed put many LGBT people at risk worldwide, especially in places where they might be beaten up or worse.
+The UK phone and broadband provider TalkTalk suffered three data breaches in the course of a year. In one case, after hundreds of thousands of customer names and email address and 21,000 bank account details were hacked, police arrested six people under the age of 21.
+The company lost more than 100,000 subscribers in the third quarter of 2016 after that attack. Its profits more than halved, although it said part of that loss was due to the money it spent on boosting security.
+Why do companies keep getting hacked?
+In May this year, hundreds of millions of passwords to the MySpace social media site went up for sale online. The logins were thought to have been stolen several years before.
+The techniques used to protect the passwords had been quite weak. MySpace said it had invalidated passwords used before 2013 and was using automated tools to "identify and block" suspicious activity.
+The website was long past its heyday, having been overtaken in popularity by sites like Facebook and Twitter, so the impact was not huge. But it may have put people at risk who were using the same password across multiple online accounts.
+Also in May this year, the same person (or at least somebody with the same username) tried to sell more than 100 million logins for the LinkedIn business-focused and recruitment social network. These logins were four years old but third parties found some of the passwords still worked.
+The social network had tried to secure accounts after a previous, smaller, attack but some tech experts said they should have broadened their efforts to all users.
+Security researcher Troy Hunt was one of those to comment on the spate of events. He said there must be "some catalyst" behind why MySpace, Tumblr and LinkedIn hacks all came to light at the same time.
+It is hard to say. Companies tend to keep the methods used under wraps, and it is usually not until security details are breached that such information comes to light.
+As Steven Murdoch from University College London says: "If the criminals don't know what security measures they're using, it's obviously better for the companies."
+Quoting an old maxim, "security through obscurity", he says that although companies "shouldn't depend on it, it does help".
+Internet security experts agree that these hacks threw the spotlight onto the shortcomings of certain types of password protection.
+Rik Ferguson from the security software company Trend Micro says that one algorithm used by some of these companies, known as MD5, is 10 years out of date and that if they are still storing passwords "the same way they have always done it", then they are "absolutely not doing anything".
+He argues that all companies, no matter how small, should be using the techniques of "salting and hashing".
+"Salting" = adding random characters to every password to make it harder to break
+"Hashing" = turning the password's string of text into a string of numbers
+But all agree that some of the responsibility lies with people who are making passwords - that is, us.
+Unless, Dr Murdoch says, you do not care if your account is hacked.
+Then "it really doesn't matter which password you use".

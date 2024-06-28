@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150410001452/http://www.bbc.co.uk/news/technology-32206511
+
+[SN]TITLE[SN]
+Google purges bad extensions from Chrome
+
+[SN]FIRST-SENTENCE[SN]
+Tens of millions of users who visit Google sites use a browser loaded with malicious add-ons, research suggests.
+
+[SN]RESTBODY[SN]
+Most rogue extensions bombard people with ads, but the most malicious steal login names and other valuable data.
+Carried out by security experts and Google, the project analysed more than 100 million visits to the search giant's sites.
+It led to Google purging almost 200 bad extensions from its online catalogues of browser add-ons.
+Extensions and add-ons for web browsers add all kinds of functions and features to the software.
+Many of these extensions have hidden extras that cause trouble for people who install them, said UC Santa Barbara computer scientist Alexandros Kapravelos, who worked with Google on the rogue extensions project.
+The research found that malicious extensions were available for every major browser.
+The findings are due to be published in full in May at the IEEE Symposium on Security and Privacy.
+Preliminary results revealed that 5% of people accessing Google every day have been caught out by at least one malicious extension.
+Of these victims, about a third have four or more bad add-ons installed in their browser.
+"It is a very hard problem to deal with," said Mr Kapravelos.
+Some bad extensions were easy to spot, he said, because they were so obviously written to steal saleable data such as bitcoins, bank logins or personal data.
+However, many used techniques seen in legitimate extensions, he said, and it took a lot of extra analysis to pin down the bad ones.
+"Even when we have a complete understanding of what the extension is doing, sometimes it is not clear if that behaviour is malicious or not," he said.
+"You would expect that an extension that injects or replaces advertisements is malicious, but then you have AdBlock that creates an ad-free browsing experience and is technically very similar."
+Experts from Swedish security firm ScrapeSentry said it had found examples of extensions that gathered data in ways that could easily be abused.
+ScrapeSentry's analysis of one extension, called Webpage Screenshot, revealed that it contained code that let it grab copies of all the browser traffic from the PC on which it was installed.
+The gathered data was then sent to a server in the US. The extension has been downloaded about 1.2 million times.
+"What happens to the personal data and the motives for sending it to the US server is anyone's guess, but we'd take an educated guess that it's not going to be good news," said Martin Zetterlund from ScrapeSentry.
+A spokesman for Webpage Screenshot said there was nothing malicious about the data it gathered. Instead, said the spokesman, it was used to understand who the extension's users were and where they were located to help drive development of the code.
+Users could opt out of sharing data, he said.
+Mr Kapravelos said Google had acted on the early findings of the research by removing 192 actively malicious extensions from its Chrome catalogue. About 14 million people had been tricked into using these extensions, he said.
+The UC Santa Barbara team was working with Google to develop tools that can automatically spot malicious extensions and flag them to the search giant's security staff.
+In addition, said Mr Kapravelos, firms whose adverts were being injected onto webpages by the rogue extensions had been informed.
+Unfortunately, he said, ad injection had become "entrenched" as a way for some unscrupulous developers to make money.
+The research found that only a small number of developers were behind the majority of the rogue extensions that pepper people with ads, suggesting that targeted action could help tackle the problem.

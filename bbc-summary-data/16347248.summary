@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150424052137/http://www.bbc.co.uk/news/technology-16347248
+
+[SN]TITLE[SN]
+Train-switching technology 'poses hacking threat'
+
+[SN]FIRST-SENTENCE[SN]
+A shift to a mobile communications technology could expose rail networks to hackers, according to a security expert.
+
+[SN]RESTBODY[SN]
+Prof Stefan Katzenbeisser made the claim at the Chaos Communication Congress in Berlin.
+The professor said that the systems which switch trains from one line to another could be shut down if encryption keys went astray.
+He stressed that trains would not be in danger, but there could be delays.
+Train-switching systems have historically been controlled by proprietary analogue systems.
+At the end of the last century, more than 35 incompatible systems were used for railway communications across Europe.
+A group of manufacturers met to address this and decided to switch to a single digital standard to ensure they could source replacement parts and make different companies' systems interoperable.
+They developed GSM-Railway (GSM-R), a more secure version of the 2G wireless standard used by mobile phones.
+It allows traffic controllers and train drivers to talk to each other, and for data to be transmitted recording the vehicle's speed and location.
+When used with the European Train Control System, signallers can utilise the data to give the train permission to enter the next part of the track, theoretically making trackside signals unnecessary.
+The technology is already being used in parts of Europe, Africa and Asia. Network Rail is rolling it out in the UK and aims to cover all Britain's rail lines by the end of 2014.
+Prof Katzenbeisser believes the system is relatively secure from hackers under normal circumstances. However, the computer science expert from Technische Universitat Darmstadt warns that encryption keys, used to protect the communications, could pose risks.
+"The main problem I see is a process of changing... keys. This will be a big issue in the future, how to manages these keys safely," he told Reuters news agency at the conference.
+The news agency said the keys are downloaded to physical media such as USB sticks before being distributed for installation.
+It said the risk would occur if one of them fell into the wrong hands. This could allow hackers to mount a denial of service attack by overwhelming the signals system with traffic, forcing it to shut down.
+"Trains could not crash, but services could be disrupted for some time," the professor said.
+However, a spokesman for Network Rail played down the risk.
+"GSM-R is a robust and secure system and Network Rail does not comment in detail on security," PJ Taylor, head of national news at Network Rail, told the BBC.

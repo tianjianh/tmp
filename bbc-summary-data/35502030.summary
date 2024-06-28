@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170111004740/http://www.bbc.com/news/technology-35502030
+
+[SN]TITLE[SN]
+iPhones 'disabled' if Apple detects third-party repairs
+
+[SN]FIRST-SENTENCE[SN]
+The latest software update for iPhone 6 handsets is rendering the devices useless if it detects repairs not carried out by Apple.
+
+[SN]RESTBODY[SN]
+The problem is known as "error 53" and has appeared in Apple products before.
+The Guardian reports that users' phones were disabled after the Touch ID home button was repaired by a non-Apple engineer.
+Apple has confirmed that the error message is a "security measure" taken to prevent fraudulent transactions.
+"We take customer security very seriously and error 53 is the result of security checks designed to protect our customers. iOS checks that the Touch ID sensor in your iPhone or iPad correctly matches your device's other components," it said in a statement.
+"If iOS finds a mismatch, the check fails and Touch ID, including for Apple Pay use, is disabled. This security measure is necessary to protect your device and prevent a fraudulent Touch ID sensor from being used.
+"If a customer encounters error 53, we encourage them to contact Apple Support."
+In its report, the Guardian cites the experiences of a freelance photographer, Antonio Olmos, who says the problem occurred on his phone after he upgraded its software.
+"When Olmos, who says he has spent thousands of pounds on Apple products over the years, took it to an Apple store in London, staff told him there was nothing they could do, and that his phone was now junk," the paper reported.
+Many iPhone 6 customers have been discussing error 53 online.
+At Apple's discussion forums, one user named wallihall wrote: "With this update I'm unable to use the phone, and still have to pay for the phone itself.
+"I did get the front screen replaced, and I understand that it's now considered "tampered with", but at least let me use my iPhone on the old IOS system... I can't retrieve old photos or important documents I once had."
+Apple told the paper that iPhone software checks whether any repairs were authorised by Apple.
+A spokeswoman said: "When an iPhone is serviced by an unauthorised repair provider, faulty screens or other invalid components that affect the touch ID sensor could cause the check to fail if the pairing cannot be validated."

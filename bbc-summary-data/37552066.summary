@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223091553/http://www.bbc.co.uk/news/technology-37552066
+
+[SN]TITLE[SN]
+Have hackers turned my printer into an offensive weapon?
+
+[SN]FIRST-SENTENCE[SN]
+In September, some of the biggest ever net attacks targeted the website of a prominent blogger and French hosting firm OVH. One attack is believed to have involved more than one trillion bits of data.
+
+[SN]RESTBODY[SN]
+The two events signalled a change in tactics by malicious hackers who make their living bombarding websites with vast amounts of data in what are known as Distributed Denial of Service attacks (DDoS).
+The data directed at the targets was being sent by IP cameras, digital video recorders, printers and other "smart" devices that hackers had managed to hijack.
+Not easily.
+If it is being used to bombard someone else, your web connection speed might slow. You might not notice anything if you are just browsing but the effect might be seen on video or music streaming which might stutter, and gaming sessions could suffer delay or "lag".
+Tech-savvy folk can use well-known software tools to watch data packets flowing across their home network but this can be challenging unless you know what you are doing.
+Not with the police, no. But many security researchers have shown how malicious hackers can "pivot" from a bug in a webcam to your internal network and then spy on everything else connected to it.
+If your webcam or printer is taken over, you have, in effect, an intruder in your home. It's worth taking steps to shut them out.
+Largely because they are far easier to take over and control than PCs or servers. Many of these devices, which make up the "internet of things" use default passwords and have no security software installed.
+Even better, for the attackers, there are lots of them, they usually stay switched on all day and they are hard to update and secure.
+In the past, attackers mounting DDoS attacks have had to rent hijacked machines from other people. But now they can scan for vulnerable devices and create their own armies of zombie devices to create a botnet.
+Web-connected cameras are particularly popular but scans are also being carried out for digital TV recorders, home routers and printers. All these have a basic processor inside that can be subverted to pump out attack packets.
+Brian Krebs, the blogger who suffered an attack from an IoT botnet, has compiled a list of devices known to have been used to bombard his site with data. Many of the login names and passwords for these devices are easy-to-guess combinations.
+On 1 October, source code for one IoT attack was publicly shared, leading some to suggest that many more malicious hackers will now start scanning for vulnerable devices.
+This map created by security firm Symantec shows where Europe's botnets are hosted. Turkey is home to most of the hijacked gadgets and PCs.
+The first DDoS attacks were seen on the web in 2000. The first wave of data bombardments was aimed at gambling sites which were threatened with being knocked offline unless they paid a fee.
+Most of those extortion attempts used hijacked PCs to send data. Now the rise of the Internet of Things that is populated with smart devices has kicked off renewed interest in these types of attacks.
+Security researchers have warned about the dangers of insecure IoT devices for some time but they are starting to be used for significant attacks sooner than many people expected.
+First thing is to change the default password on the device - even if it is not on the list of devices being scanned for. Many IoT devices look different but under the plastic case share the same chips and code.
+If possible, update the software that keeps the gadget running. Some hardware makers are starting to issue updates that force owners to choose hard-to-guess passwords or which close the software loopholes that hackers can exploit.
+Unfortunately, a lot of cheaper IoT devices, especially webcams, cannot be updated or have their security settings improved. In some cases, just turning them off will remove the attack code. However, once turned back on the device might be taken over again.
+Even more unfortunately, some of the attempts to hijack vulnerable devices use software that operates at a "lower" logical level than the gadget's web interface. You might have to dig deep into the settings of a device to clear up all the passwords.

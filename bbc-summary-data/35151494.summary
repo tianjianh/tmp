@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170716141003/http://www.bbc.co.uk/news/technology-35151494
+
+[SN]TITLE[SN]
+Facebook turns away from Flash for video
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has stopped using Adobe's Flash technology to show video across the entire social network.
+
+[SN]RESTBODY[SN]
+Instead Facebook has developed a video player built around the widely used HTML5 technology.
+Games on Facebook would still use Flash, it said, but it was looking into ways to change those too.
+The site is one among many that have turned away from Flash. Many see it as a security problem because bugs in it are often exploited by cyber thieves.
+Daniel Baulig, a front-end developer at Facebook, said the switch to HTML5 had helped the firm speed up the development of its video-handling system. HTML is the basic computer language underpinning the web.
+In addition, he said, the HTML5 video player worked much better with accessibility tools such as screen readers that are used by people who do not see well.
+Mr Baulig said it introduced the HTML5 player a while ago for a small number of Facebook members who kept their web browsers up-to-date. It did not launch all at once with HTML5 because testing revealed problems with the new player.
+"We noticed that a lot of the older browsers would simply perform worse using the HTML5 player than they had with the old Flash player," he said. "We saw more errors, longer loading times, and a generally worse experience."
+Facebook ran HTML5 and a Flash-based video player in parallel while it ironed out bugs. Now, the stability of the new video player has persuaded the social network to roll it out by default.
+YouTube switched to a HTML5 based player in January 2015 and in September the BBC released an HTML5 version of its iPlayer catch-up TV service. Many other sites now offer alternatives to Adobe's technology.

@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151118085302/http://www.bbc.com/news/technology-34842854
+
+[SN]TITLE[SN]
+How does IS communicate securely?
+
+[SN]FIRST-SENTENCE[SN]
+In the wake of the terrible events in Paris, governments around the world have renewed their calls for tech companies to design products that will allow law enforcement agencies to better monitor communications.
+
+[SN]RESTBODY[SN]
+Digital forensics expert witness Prof Peter Sommer says Islamic State (IS) militants would probably shun the high-profile communication companies.
+"They are not using the big obvious systems at all," he tells the BBC.
+"There are lots of entrepreneurs who set up systems for libertarians to use and the terrorists quickly identify these.
+"Systems such as SureSpot offers consumers an easy way to use encryption."
+Cybercrime consultant Prof Alan Woodward says the availability of encrypted systems makes the security agencies crackdown "absolutely pointless".
+"They are all now using the OTR [Off the Record] protocol, which offers end-to-end encryption," he says.
+"Even if you managed to stop companies providing OTR, there are plenty of free-add-ons available.
+"On jihadi bulletin boards, there are links to online encryption tools that people can download.
+"Any jihadi worth his salt to going to know to find a safe way to communicate.
+"Most don't tend to use iMessage or WhatsApp."
+"The big tech firms are low-hanging fruit and it is a case of having to start somewhere," says Prof Woodward.
+"If you want to boil the ocean, you have to do it one cup at a time."
+There has been a degree of misinformation about how those behind the Paris attacks communicated with each other.
+Former CIA deputy director Michael Morell reportedly said it was more than likely they had used WhatsApp, but there is no evidence they did.
+Meanwhile, a comment from Belgian Federal Interior Minister Jan Jambon that they had used a PlayStation 4 to communicate was widely reported, but it later emerged suggestions the console had been found at the apartment of one of the attackers were false.
+It was also reported the PlayStation 4 used end-to-end encryption, but it does not.
+Encrypted products still reveal metadata - who talked to whom and for how long, and this has played a crucial role in the aftermath of events in Paris.
+"The arrests that are going on now have come from a trawl through metadata," says Prof Woodward.
+"The first person is identified, and then the security services use what is called link analysis to build a picture of who they have been speaking to."
+The British intelligence service is particularly good at link analysis, according to Prof Woodward
+And the Draft Investigatory Powers Bill, currently going through Parliament, would require internet service providers to hold on to this metadata for 12 months.
+But increasingly the security services are turning to hacking - placing malware on suspects' computers to find out what they are doing in real time.
+"If they can hack into a computer or smartphone, then they can find the key to decrypt their messages," Prof Sommer says.
+Prof Woodward says: "There was an IS operative in Syria who was sucked into a Skype scam, persuaded to talk to what he thought was a pretty girl, but she was a cover to inject malware onto his machine,.
+"That was able to head off a couple of attacks."
+For the past 20 years, there have been concerns a terrorist network could cause real disruption by attacking critical infrastructure such as air traffic control or hospitals, and Chancellor George Osborne has just announced he is going to double funding to fight cybercrime to Â£1.9bn a year by 2020.
+He said Islamic State militants were trying to develop the ability to launch deadly cyber-attacks, but his comments were "vague" rather than being about specific threats, according to Prof Sommer.
+And Prof Woodward says: "There are more power outages caused by squirrels than by cyber-terrorists."
+However, the Stuxnet malicious worm believed to have targeted Iran's nuclear programme in 2009 suggests such attacks are possible.
+"These militant groups are getting much more sophisticated, and you only have to look at how they use social media to see that they are very tech-savvy," Prof Woodward says.
+And much of the government's Â£1.9bn budget will go on finding highly skilled people to work out what militant groups might do next.

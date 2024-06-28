@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170210181622/http://www.bbc.com:80/news/business-26358575
+
+[SN]TITLE[SN]
+Lotus F1 Team hopes technology will give it the edge
+
+[SN]FIRST-SENTENCE[SN]
+Formula 1 is the most technologically advanced sport on the planet, and the latest radical rule changes have imposed a whole new set of challenges on the teams.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Hey you, get on to my cloud
+Domain shift sends cyber world dotty
+How to cash in with off-the-peg apps
+Taj Mahal comes to your living room
+Sochi 2014: Hi-tech Winter Games
+The BBC dropped in on the Lotus F1 Team in Enstone, Oxfordshire, to see how it is preparing for the 2014 race season, due to start in Melbourne, Australia, on 16 March.
+With a budget less than half that of the top F1 teams and other problems to grapple with, Lotus needs all the help technology can give it.
+It is coping with the recent loss of its team principal, Eric Boullier, to McLaren and a new boss trying to deal with last year's Â£140m hole in the company's finances that led to the defection of star driver Kimi Raikkonen to Ferrari.
+As every tenth of a second counts in F1 racing, the way technology is optimised can ultimately make tens of millions of dollars' difference to a team's annual revenue, says chief executive Matthew Carter, parachuted in by owners Genii Capital to try to stabilise the business.
+"We are operating on half the budget of some of the big boys, so we have to think of different ways of making that work and being competitive," he says.
+That means making better use of technology in every part of the business.
+The latest rule changes - involving a smaller turbo-charged engine with a more powerful electric battery and energy recovery system, as well as a narrower front wing and lower chassis to reduce downforce - have necessitated thousands of new drawings, parts and tests.
+"They're the biggest rule changes I've seen in 20 years of working in the sport," says Nick Chester, chief technical director for Lotus F1 Team. "We had to start developing this car two and a  half years ago."
+To help improve efficiency, the team has jettisoned its piecemeal approach to software - different packages doing different jobs - and entered into a Â£4m, four-year contract to use Microsoft's Dynamics enterprise resource planning (ERP) software across the whole organisation, says Mr Chester.
+The nature of the Microsoft partnership - although not exclusive to Lotus - allows the team to tailor the software to suit its needs and gain access to the technology giant's research and development team in Redmond, Washington, he says.
+The ERP helps plan and manage the highly complex process by which computer-aided designs, informed by computational fluid dynamics, eventually end up as wind-tunnel-honed carbon-fibre speed machines hurtling round a track.
+"It helped us cope with an increase from 12,000 to 14,000 drawings that the new car required," he says. "It also enables us to run parallel design programmes and allocate resources accordingly."
+During a season, a car might receive 200 to 250 aerodynamic and mechanical upgrades, he says, requiring an additional 6,000 drawings, all of which need to be planned for, resourced and delivered to the tracks on schedule.
+Development costs have been reduced by the introduction of laser 3D printing, which can turn designs into prototype parts far more quickly and cheaply than before.
+Better technology also helps reduce time wasted on basic administration by automating common processes, according to IT director Michael Taylor.
+"If you can free up an aerodynamicist's time by just one minute a day, over the course of the year that's a significant amount of time. And if you can extend the design lifecycle, in theory, you create a better design," he says.
+And when a part fails, the team needs to identify exactly what caused the problem and at what stage the weakness occurred, from the moment the purchase order for the materials was placed right up to the second it broke.
+"We need a single source of truth," says Mr Taylor.
+Data is a huge part of the sport - the car's on-board computer and the many sensors that wirelessly communicate with the team will generate up to 50 gigabytes of data per race, all of which needs to be analysed immediately.
+While the car is zooming round the track at up to 200mph in Abu Dhabi, say, the team back in Enstone is monitoring the real-time data flow remotely using VMware's virtual desktop technology.
+All this commercially sensitive data is stored in two concrete bunkers at the Oxfordshire site - external cloud storage services are not trusted enough yet, although Mr Taylor does envisage such a move in the future.
+Top-secret files are shared securely between partners, such as engine provider Renault, using EMC's Syncplicity software. "It's like a commercial version of Dropbox," he says.
+"IT enables everything inside this business. And the be-all and end-all of our IT strategy is to give us a competitive edge," says Mr Taylor.
+In-season testing on track, in wind tunnels and simulators has been restricted by the sport's governing body, the FIA, in an attempt to cut costs and allow the smaller teams to survive.
+While these restrictions were "absolutely essential", according to boss Matthew Carter, it puts far more emphasis on IT to plug the gap.
+"The lack of testing in F1 means we have to do an awful lot of work back here, making sure there's a real good correlation between the information we get from the simulator and wind-tunnel testing and what happens on the track, so that we can continue punching above our weight," he says.
+"If you stop investing in technology and stand still, others overtake you very rapidly in this sport."

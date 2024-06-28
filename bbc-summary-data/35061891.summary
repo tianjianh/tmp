@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170325111754/http://www.bbc.co.uk/news/technology-35061891
+
+[SN]TITLE[SN]
+Xbox Live keys mistakenly disclosed, says Microsoft
+
+[SN]FIRST-SENTENCE[SN]
+Encryption keys that secure Xbox Live accounts have been "inadvertently disclosed", Microsoft has said.
+
+[SN]RESTBODY[SN]
+The keys in question are designed to be kept private so they can guarantee the authenticity of a digital certificate, invoked when users connect to xboxlive.com.
+Since the keys have been leaked, connections may not be secure.
+It is not clear how the disclosure happened, but Microsoft has since updated its certificates.
+The leak means a hacker could intercept data transmitted between a user and Microsoft's servers by impersonating the xboxlive.com domain name.
+"The certificate could be used in attempts to perform man-in-the-middle attacks," said the company, in an advisory note about the problem.
+"This issue affects all supported releases of Microsoft Windows.
+"Microsoft is not currently aware of attacks related to this issue."
+The company has recommended users install all recommended updates for Windows, which will update lists of trusted certificates on users' systems.
+"The advisory that talks about it says the key was revoked after December 1st," Tod Beardsley, security research manager at security firm Rapid7 told the BBC.
+"That wasn't the fix, the fix is pushing down to the certificate trust authority that says don't trust this after December 1st - but you only got that yesterday which is a week late."
+But Mr Beardsley added things could easily have been worse.
+"The fact that they do it at all is great. There have been cases where keys have been disclosed for months and months and nobody noticed," he said.
+Josh Goldfarb, chief technology officer at security company FireEye, also advised users to install the latest updates.
+"This type of disclosure can prove attractive to attackers looking to fool or trick users into giving over private or sensitive information," he said.
+"Although there is potential for abuse here, the risk is relatively easy to remediate by updating the list of trusted certificates."

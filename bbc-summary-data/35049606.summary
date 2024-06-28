@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151213112217/http://www.bbc.com/news/business-35049606
+
+[SN]TITLE[SN]
+How thermal imaging tech is about to become hot stuff
+
+[SN]FIRST-SENTENCE[SN]
+Soon we'll all be feeling the heat, thanks to thermal imaging technology.
+
+[SN]RESTBODY[SN]
+Although it's already been used by industry, the military and some emergency services, it was expensive and therefore had a limited market.
+But in the same way that GPS location tech has now found its way into cars, smartphones, cameras and many other devices, thermography, as it's more properly known, is on the brink of becoming a universal technology, too.
+The cost of chips and thermal detectors that enable us to see and measure infrared heat signatures from surfaces has plunged in recent years.
+So in the future, that means more sensors in more places. Doing what exactly?
+In a supermarket a manager could be alerted when the checkout queue gets too long without looking at a video feed. The cumulative heat signature would be enough to trigger an alert.
+At big venues, audio could be redirected on the fly amongst dozens of loud speakers to give the area with the most people at any given moment the best possible aural experience.
+Sensors placed along the side of a cruise ship could instantly detect falling passengers even before they touched the water's surface.
+And smartphones equipped with such sensors could be used to carry out thermal efficiency inspections in homes, spot leaks, or simply look for wildlife on night camping adventures with the kids.
+There are hundreds of other likely scenarios, says Tim LeBeau of Seek Thermal, which already makes a thermal camera accessory for iOS and Android smartphones, as well as a handheld device called "Reveal".
+"Let's take a baggage carousel at a big airport," he tells the BBC. "There are several thousand electrical motors that move the bags around. If one seizes up, a tonne of bags could miss their connection.
+"With thermal imaging, taking a snapshot every 30 seconds would allow for an alert if [a motor] was about to go bad."
+Seek Thermal has also produced prototype sensors that it says will bring the cost down from around $3,000 (£1,977) to about $300 per chip.
+These cheaper sensors are mostly uncooled, which makes them slightly less sensitive than cooled sensors because they pick up some heat from their immediate surroundings.
+But they are still good enough for most non-specialist purposes, says Dr Gabe Fulop, a 25-year industry veteran who writes a newsletter called Infrared Imaging News.
+And it is these cheaper uncooled sensors that are likely to drive the market, he believes.
+"The worldwide uncooled market is currently worth more than $2bn (£1.3bn) but is expected to double in the next five years," says Mr Fulop.
+The number of gadgets equipped with thermal sensors is forecast to grow from about 500,000 to three million units, he says, "most of it driven by these new applications".
+Making this kind of technology more affordable for local authorities could even save lives, he believes.
+Firefighters are already experimenting with drones equipped with thermal imaging cameras - using them to spot wildfires, for example.
+And police and paramedics could also find them valuable tools in emergency situations.
+Many car crash victims manage to stumble 20-30ft (6-9m) before collapsing in long grass or behind hedges and trees. They can easily be missed by the emergency services, especially at night.
+If the first responders had mobile thermographic devices, such potential tragedies could be avoided, he argues.
+"Each person as he sits in the car warms up the seat. So for a very short time you can detect a heat signature on the seat," says Mr Fulop.
+This means emergency services would know if someone had been occupying a vehicle even if the person were now absent from the scene.
+"If another car has just left [the accident], the tyre marks will still be visible because of a little extra heat, but those, too, will dissipate quickly."
+Infrared thermography (IRT) has been used on animals for many years, mostly as a way of diagnosing physical illness, especially in agricultural settings.
+But at Detroit zoo in the US, Dr Stephanie Allard is investigating methods of testing animals for psychological ups and downs using thermal cameras.
+The aim is to measure the welfare of animals and how they react to different situations.
+"Looking at the surface temperature of an eyeball has turned out to be a really valuable tool with horses and cows, for example," she says. "Stress leads to an increase in temperature.
+"However, that has not been validated for most other species, which, of course, is a wide range in a zoo. We have to determine where those differences in temperature may happen in order to know if IRT will be a useful tool to tell when an animal is having an amazing time…or not."
+But thermal technology has its limitations.
+One of its biggest drawbacks is that heat signatures are very hard - if not impossible - to read behind walls, doors and glass.
+But a new twist on another established technology could solve this problem.
+A team from Massachusetts Institute of Technology has come up with a system called RF-Capture that can track people through walls using certain radio frequency (RF) signals.
+A device that resembles a wi-fi router sends out a stream of RF signals which in turn are bounced back from different parts of a body as it moves, producing images that resemble a thermal pattern, but are not.
+The MIT researchers devised an algorithm to turn these individual snapshots into an animation. The kit can detect the movement of a heartbeat and lungs even when someone is standing still, and differentiate between body shapes.
+The MIT team, led by Professor Dina Katabi, has started a company called Emerald to promote the device, and the tech has attracted the attention of the White House.
+One potential application is monitoring elderly relatives without the need for panic button necklaces or wristbands. It could also be integrated into home and office security systems.
+But what will the public think about tech that can see through walls?
+Follow Technology of Business editor @matthew_wall on Twitter

@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160818030113/http://www.bbc.co.uk/news/technology-36892436
+
+[SN]TITLE[SN]
+Wireless keyboards 'easy' to snoop on
+
+[SN]FIRST-SENTENCE[SN]
+Information typed on a wireless keyboard can be easily intercepted, a cybersecurity research firm has warned.
+
+[SN]RESTBODY[SN]
+San Francisco-based Bastille said keyboards transmitted what was being typed in "clear text", making it possible for attackers to listen in on from up to 76m (250ft) away.
+The firm said affected keyboards could not be updated and should be replaced.
+In total, the researchers found 12 different companies producing vulnerable keyboards.
+None of the firms had taken measures to warn users or rectify the issue in future products, Bastille said.
+"We went into a bunch of big box stores and purchased wireless keyboards," said Ivan O'Sullivan, Bastille's chief research officer.
+"We were shocked to find that two-thirds transmitted all of their data in clear text, no encryption.
+"We did not expect to see this. We didn't think it would be in clear text. Hackers can intercept all the keystrokes from your keyboard up to 250 feet away. Through glass, walls, floors."
+The keyboards affected used radio signals to transmit what the user was typing. By using a cheap, USB-powered radio antenna, the research team was able to follow what was being typed. They could also control the keyboard, inserting their own keystrokes.
+Researcher Marc Newlin said a busy office could be targeted as it was trivial to isolate the signals of individual keyboards.
+But he said he did not know if hackers were exploiting the weakness.
+"We have no evidence to suggest that," he told the BBC. "It's completely passive so there's no way for a victim to know."
+To solve the problem, Bastille recommended using keyboards using Bluetooth to connect to a computer, rather than radio. Or alternatively, "just get a wired keyboard".
+Many of the devices tested would remain vulnerable, said Bastille, because it was not possible to update the firmware that keeps them operating.
+The company praised Logitech, Dell and Lenovo for using higher-end chips in their wireless keyboards that had stronger security.
+The research on wireless keyboards complements work Bastille did earlier in 2016 on wireless mice. It found that attackers could spoof poorly protected signals letting them use PCs as if they were sitting in front of them.
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

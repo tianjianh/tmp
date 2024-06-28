@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170106191933/http://www.bbc.co.uk/news/technology-38222666
+
+[SN]TITLE[SN]
+'Millions of Dailymotion account details taken'
+
+[SN]FIRST-SENTENCE[SN]
+Details of more than 85 million users of video sharing site Dailymotion have been hacked, according to Leakedsource.
+
+[SN]RESTBODY[SN]
+The breach detection company said 85.2 million usernames and email addresses and 18 million scrambled passwords had been stolen on 20 October.
+But the passwords were protected with the Bcrypt hashing algorithm, which should make it hard for hackers to access accounts.
+In a blog, Dailymotion advised all its users to change their passwords.
+Dailymotion said the impact of the breach was limited and no personal information had been lost.
+It said: "It has come to our attention that a potential security risk, coming from outside Dailymotion may have comprised the passwords for a certain number of accounts."
+It also passed on advice about how to come up with a hard to guess password and said users should not use simple word and number combinations such as "password1234".
+Commenting on the hack attack Mark James, a security specialist at ESET, said: "Check and change your passwords on this site, if you have used that same password on any other site then change those immediately and possibly consider a password manager if you're not already using one.
+"Without further information about what was or was not stolen, we won't know the extent of the damage - but needless to say more data being added to your already overflowing online profile floating around the web is not good for any of us."
+Based in Paris, Dailymotion is owned by media group Vivendi.
+It launched in 2005 and is ranked as the 113th most popular website in the world, according to Alexa rankings.
+This year has seen a series of massive data breaches, with experts saying there are now 1.5 billion stolen credentials available to hackers and attackers online.

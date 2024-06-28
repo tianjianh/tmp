@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170725084136/http://www.bbc.com/news/science-environment-37408013
+
+[SN]TITLE[SN]
+Teleportation step toward quantum internet
+
+[SN]FIRST-SENTENCE[SN]
+Physicists have set a new bar for quantum teleportation: moving information from one place to another without physically sending anything between the locations.
+
+[SN]RESTBODY[SN]
+Two separate teams managed to teleport information across several kilometres of optical fibre network in two cities.
+This form of teleportation differs from that depicted in Star Trek: it involves transferring quantum states of a light particle, not Starfleet officers.
+But the method offers huge promise.
+Teleportation over long distances and across optical fibre networks is an important step towards the ultra-secure communications promised by quantum cryptography.
+And the set-ups described in studies published in Nature Photonics journal could be seen as building blocks for a future "quantum internet".
+In one of the papers, Dr Wolfgang Tittel and colleagues describe how they teleported the quantum state of a photon, or light particle, over 8.2km in the Canadian city of Calgary.
+The process by which information - the quantum state of a photon - is teleported involves creating two photons at the University of Calgary (site B in the aerial photo).
+One of these photons is sent in a "classical" way along 11.1km of optical fibre to a building near Calgary City Hall (C in the photo), while the other remains behind at the university.
+Meanwhile, a photon is also sent to the City Hall site from site A (located in the neighbourhood of Manchester). This all results in the quantum state of the photon from site A being transferred to the photon which remained behind at the university (B) through quantum teleportation.
+This teleportation process occurs via a phenomenon known as entanglement, which describes how sub-atomic particles can be linked even if they are separated by a large distance.
+The details of entanglement are not well understood; it even befuddled Einstein, who famously described it as "spooky action at a distance".
+In the other Nature Photonics study, Qiang Zhang and Jian-Wei Pan from the University of Science and Technology of China, Shanghai, used a different set-up to achieve teleportation over a 30km optical fibre network in the Chinese city of Hefei.
+In 2012, Anton Zeilinger of the University of Vienna carried out quantum teleportation over 143km of free space between different Canary Islands.
+But Dr Tittel says his study uses a configuration that could serve as the benchmark for useful city-based quantum networks.
+In future, theoretical devices known as repeaters could help amplify signals, enabling communications - a quantum internet, if you like - over much bigger distances.
+This could enable the roll-out of much more secure communications offered by quantum cryptography. That would involve separate parties producing a shared and random secret key known only to them that could be used to encrypt and decrypt messages.
+In the same issue of Nature Photonics, quantum information researcher FrÃ©dÃ©ric Grosshans from the UniversitÃ© Paris-Sud in Orsay, France, said: "Undoubtedly many interesting quantum information experiments in the future will be built on this work.
+"For the longer term, the two papers demonstrate that the possibility of quantum networks that span a city are a realistic proposition, which is an exciting vision for the future."
+Follow Paul on Twitter.

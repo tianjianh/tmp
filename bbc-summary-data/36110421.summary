@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170523115238/http://www.bbc.co.uk/news/technology-36110421
+
+[SN]TITLE[SN]
+$10 router blamed in Bangladesh bank hack
+
+[SN]FIRST-SENTENCE[SN]
+Hackers managed to steal $80m (£56m) from Bangladesh's central bank because it skimped on network hardware and security software, reports Reuters.
+
+[SN]RESTBODY[SN]
+The bank had no firewall and used second-hand routers that cost $10 to connect to global financial networks.
+Better security and hardware would have hampered the attackers, Reuters said, quoting an official investigator.
+The hackers aimed to steal $1bn but made mistakes that led to the theft being spotted and stopped.
+A firewall would have made attempts to hack the bank more "difficult", Mohammad Shah Alam, a forensic investigator who works on the Bangladesh team investigating the theft, told Reuters.
+The second-hand hardware also meant that basic security steps to segregate network traffic were not taken, he said.
+The cheap routers have hindered the investigation, said Mr Alam, because they collected very little network data that could be used to pinpoint the hackers and shed light on their tactics.
+The hack took place in early February and involved hackers getting access to the core network of Bangladesh's central bank. They used this privileged access to transfer cash from Bangladesh's account at the Federal Reserve Bank of New York to other banks.
+A spelling mistake in one of the transfer orders alerted bank staff and meant the hackers only managed to steal $81m. This has been traced to accounts in the Philippines and to casinos in the same country. Most of the cash has yet to be recovered.
+Bank security experts said the bank should have spent more time and money protecting the network for its central bank.
+"You are talking about an organisation that has access to billions of dollars and they are not taking even the most basic security precautions," Jeff Wichman, a consultant with cyber firm Optiv, told Reuters.

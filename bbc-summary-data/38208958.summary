@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170207231806/http://www.bbc.co.uk/news/technology-38208958
+
+[SN]TITLE[SN]
+TalkTalk wi-fi router passwords 'stolen'
+
+[SN]FIRST-SENTENCE[SN]
+TalkTalk customers' wi-fi passwords have been stolen following a malware attack that blocked their internet access last week, an expert has warned.
+
+[SN]RESTBODY[SN]
+The researcher said other details had also been taken that would let attackers pinpoint where the equipment was being used, making more targeted hacks possible.
+Pen Test Partners' Ken Munro wants thousands of routers to be replaced.
+But TalkTalk said it had not seen evidence to confirm the thefts.
+"As is widely known, the Mirai worm is affecting many ISPs [internet service providers] around the world and it has affected a small number of TalkTalk customers," a spokeswoman said.
+"We continue to take steps to review any potential impacts and have deployed a variety of solutions to ensure customers' routers remain safe.
+"We have also employed additional network-level controls to further protect our customers."
+The BBC revealed last week that TalkTalk's D-Link DSL-3780 routers had been struck by malware causing connectivity issues for those customers using the model.
+The firm subsequently published advice online telling affected users to reset the equipment - which forced it to install an update to protect itself against the attack - and then "use the wireless network name and password on the back of the router" to get back online.
+Security researcher Mr Munro obtained one of the affected routers to study the attack.
+He said his "honeypot" router was hit by the variant of Mirai, which is now being referred to as TR-06FAIL.
+But in addition to the connectivity issue, Mr Munro detected that a follow-up attack involving the same malware caused the device to disclose its wi-fi password and Service Set Identifier (SSID) code.
+An SSID code can be used to reveal where a machine is located via online tools such as Wigle.
+As a consequence, he said, even after subscribers had restarted their routers they could remain at risk if they continued using the same password as before.
+"Most consumers never change the wi-fi keys written on the back of their router, so the fix didn't actually fix the problem," Mr Munro explained.
+"Once an attacker has got the wi-fi key, if they go near to the house they can get nearly everything from their home network.
+"TalkTalk should seriously consider replacing customer routers immediately unless it can prove they haven't been compromised."
+Encrypted communications - such as online banking records - would not be at risk. But emails might be and it would be possible to place malware on computers linked to an exposed network.
+Mr Munro estimated that the recall would involve at least 55,000 routers.
+TalkTalk's spokeswoman said it "firmly" disputed that number, saying the number of routers infected had been "nothing in that order of magnitude".
+"Our security team does not believe there is any greater risk that a customer's wi-fi can be used or accessed without their permission as a result of this," she added.
+But Mr Munro countered that some of the routers hit by the password-stealing attack might not have had their internet connectivity disrupted, despite the same vulnerability being exploited.
+An independent researcher who checked the findings said Mr Munro had reason to be concerned, but added it was not clear who had scooped up the passwords.
+"It's possible they are just security researchers, but also reasonably possible that they are actually criminals that intend to exploit this information," said Dr Steven Murdoch from University College London.
+"Even if it's the latter, they would have to sit outside your house to do it."
+Dr Murdoch said the risk was still high enough that TalkTalk needed to address it, but said there were alternatives to recalling the routers.
+"The hardware is fine, what needs to be replaced is the wi-fi password.
+"The problem is how to send a new password to all the affected customers.
+"If TalkTalk does this online or over the phone, that leaves the customers open to phishing attacks, where a scammer says: 'As you heard on the news you need to change your password, please do these things...'"
+TalkTalk's spokeswoman said some customers who had called in had been advised to change their wi-fi passwords, but the firm's security team now believed the step was unnecessary despite Mr Munro's warnings.

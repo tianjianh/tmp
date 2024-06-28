@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160803170848/http://www.bbc.co.uk/news/36964075
+
+[SN]TITLE[SN]
+Telegram denies Iranian mass breach
+
+[SN]FIRST-SENTENCE[SN]
+Encrypted instant messaging service Telegram has denied hackers breached its systems to gain the telephone numbers of 15 million Iranian users.
+
+[SN]RESTBODY[SN]
+Checks on phone numbers had revealed "publicly available data", it said.
+But it admitted that hackers may have compromised more than a dozen accounts by intercepting SMS verification codes but added this was not a "new threat".
+It said users in "certain countries" should use "two-step verification to protect your account with a password".
+Collin Anderson, a security researcher working with human rights group Amnesty, said hackers had "identified" the phone numbers of 15 million Iranian users and "compromised" more than a dozen Iranian accounts.
+They had gained entry to the accounts after SMS codes sent to users wishing to log on to the service from a new phone had been "intercepted", he said.
+Using the codes, the hackers could add new devices to a person's Telegram account, enabling them to read chat histories and new messaging, Mr Anderson said.
+The use of SMS codes was a particular problem in a country where mobile companies were owned or influenced by the government, he said.
+"We have over a dozen cases in which Telegram accounts have been compromised through ways that sound like basically co-ordination with the cell-phone company," he said.
+The attacks - by hacking group as Rocket Kitten, which regularly carries out "a common pattern of spear-phishing campaigns reflecting the interests and activities of the Iranian security apparatus" - could have jeopardised the communications of activists, journalists and other users in sensitive positions in Iran, he added.
+Telegram promotes itself as an ultra-secure instant messaging system with end-to-end encryption.
+The service, which has its headquarters in Berlin, says it has 100 million active subscribers and is widely used in the Middle East, including by the so-called Islamic State group.
+In a blog post, the Telegram team denied that its systems had been breached.
+"Certain people checked whether some Iranian numbers were registered on Telegram and were able to confirm this for 15 million accounts," it said.
+"As a result, only publicly available data was collected and the accounts themselves were not accessed.
+"Since Telegram is based on phone contacts, any party can potentially check whether a phone number is registered in the system.
+"This is also true for any other contact-based messaging app."
+On the issue of the possible interception of SMS codes, the company wrote: "We've been increasingly warning our users in certain countries about it, and last year we introduced two-step verification specifically to defend users in such situations.
+"If you have reasons to think that your mobile carrier is intercepting your SMS codes, use two-step verification to protect your account with a password.
+"If you do that, there's nothing an attacker can do."
+Iranian officials have declined to comment, but have in the past denied government links to hacking.
+Both Facebook and Twitter are banned in Iran, and in May the government ordered instant messaging apps such as Telegram to store data about Iranian users inside the country.
+The Supreme Council of Cyberspace gave companies one year to comply.

@@ -1,0 +1,63 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108003005/http://www.bbc.co.uk/news/technology-36306420
+
+[SN]TITLE[SN]
+Could online bug hunting make me rich?
+
+[SN]FIRST-SENTENCE[SN]
+It's Thursday night. My wife is out with friends and won't be back until late. The kids are fast asleep. There's nothing on TV I want to watch. But I have idle hands, a laptop and a fast internet connection.
+
+[SN]RESTBODY[SN]
+Whatever can I do to pass the time?
+Isn't it obvious?
+I'm going to have a good look for cross-site scripting bugs on popular websites.
+This is more than just a way to fill an idle hour. More and more security researchers are spending time finding and reporting bugs so they can be fixed. Many companies now run bug bounty programmes that pay people to disclose errors responsibly so they can be fixed, rather than exploited.
+Apple is the latest to launch such a programme, years after tech rivals such as Facebook and Google. The smartphone giant offers a top reward of $200,000, but its scheme is open only to experienced security researchers who have previously helped Apple - so I don't qualify just yet.
+"There's a critical talent shortage globally," says Casey Ellis, who started the Bugcrowd site. It now has 30,000 skilled hackers on its books who help to find security bugs on the web.
+"At the moment there are just not enough good guys to go around," he says, making me wonder if I can join their ranks.
+I've got a good chance of finding cross-site scripting bugs, which can let attackers inject their own code into web pages viewed by other people. There are lots of them. One estimate by security company Spiderlabs suggests 82% of all web applications suffer from them.
+That ubiquity should mean the bugs are easy for a clueless newbie like me to find.
+But where should I start?
+Apparently, on any site that accepts user input, according to Cameron Dawe, a veteran bug hunter who makes his living by finding flaws on websites and in software.
+"Everyday features of web applications that rely on user input such as search boxes, 'about me' sections on profiles, and login forms - they're all likely places to find cross-site scripting (XSS) vulnerabilities," he says.
+"I first came across XSS in my early teens without knowing what it was," he said. "I used to put basic HTML code on some of my profiles online to make my name be a different colour.
+"I guess this was an early form of harmless XSS.
+"It wasn't until many years later I learned that executing code like that on websites is a security risk."
+One problem I will face on my quest to become a master bug hunter is that I am coming relatively late to the game.
+Many researchers now use automated tools to scour the web for targets and pummel sites with well-known attack strings. And that means the most obvious flaws, the ones I am most likely to find, will have been found and fixed a long time ago.
+I will have to get creative.
+So I go for sites I am pretty sure steely-eyed white-hat hackers will not consider: garden centres, haberdashers, plumbing suppliers and running shoe shops.
+It is a good tactic.
+I get a hit within a few minutes... and then another.
+In less than an hour, I find seven sites that do too little to sanitise the words and code strings I submit via their search boxes and forms.
+I am using the most basic approaches to find these bugs, and I am far from expert.
+There is also the nagging feeling that if I can find these flaws then they cannot be that serious, can they?
+They can, says Lawrence Munro, European director of Spiderlabs' research team.
+The types of responses I have managed to get from these sites could be indicative of deeper problems, he said.
+"Generally a cross-site scripting vulnerability is pretty serious, but there are various levels of severity," Mr Munro said.
+The ones I found are the least severe, known as reflected XSS, and fire only in very particular circumstances, he said.
+"An attacker would create a malicious link, using the vulnerability in the website, and entice a user to click on it in an email," said Mr Munro.
+By following the link, a victim might unknowingly surrender small text files known as cookies to an attacker.
+That could let an attacker hijack their account.
+Matt Lewis, a security expert at the NCC Group, who regularly audits web apps, says many are vulnerable in the most basic ways.
+"The biggest problem we have seen is where people have developed web applications without knowing how to write secure code," he said.
+"They should never trust what comes from the browser," he added. "That should be every web developer's mantra. Yet it still happens that we find these flaws."
+While a site may not suffer the consequences of an XSS bug, it might put their users at risk.
+Suddenly stories about data breaches start to make more sense - a vulnerable site might be abused by cyber bad guys who use the data they steal to get at accounts which those victims have on other sites.
+If the bad guys can snare an administrator's account via an XSS bug, that can let them reach deep into a site and get at its core data - just as if they were that employee.
+When I tell Mr Munro about what I have found, he raises the question of the legality of this code-based poking around.
+"Most of the Computer Misuse Act is about intent, but if you don't own the system, you're at risk," he said.
+This has been worrying me, because one of the sites I got a hit on was High Street retailer Debenhams.
+It came up in my search for haberdashery shops, and I tried it just because it was on the page of search results.
+I yelped when the XSS bug fired on that site.
+Disclosure - publicly revealing a security flaw - is always tricky, said Mr Munro.
+Some companies ignore the warnings, others dismiss them as trivial, and now and then they accuse the bug's discoverer of being a malicious hacker and seek legal redress.
+Sites that run bug bounty programs help avoid such accusations.
+Debenhams is so well-known that I decide to contact it directly. But by the time I have sought advice about how to describe the bug, the site has been hardened against it.
+My basic attack string no longer fires.
+Online, I find a bug report from a researcher that seems to have prompted Debenhams to tighten up its site.
+I quiz the retailer's press office, asking for information about how it was fixed.
+"We don't comment on cybersecurity issues," said a spokeswoman.
+If there is one lesson to take away from this, it is that the bug hunting hobbies of hackers can make the web a safer place. They may use the same tactics as the cyber-thieves but do it for positive results, said Mr Casey from Bugcrowd.
+And because of that, it's appropriate that they should get rewarded rather than slated for what they find, he said.
+"These are my friends," he said. "I grew up in the hacker community. I want to keep them out of jail and I want them to get paid."

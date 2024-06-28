@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160722200424/http://www.bbc.co.uk/news/business-36837824
+
+[SN]TITLE[SN]
+So you think you chose to read this article?
+
+[SN]FIRST-SENTENCE[SN]
+You may think you choose to read one story over another, or to watch a particular video rather than all the others clamouring for your attention.
+
+[SN]RESTBODY[SN]
+But in truth, you are probably manipulated into doing so by publishers using clever machine learning algorithms.
+The online battle for eyeballs has gone hi-tech.
+Every day the web carries about 500 million tweets, 300 hours of YouTube video uploads, and more than 80 million new Instagram photos. Just keeping up with our friends' Facebook and Twitter updates can seem like a full-time job.
+So publishers desperately trying to get us to read and watch their stuff in the face of competition from viral videos and pictures of cats that look like Hitler are enlisting the help of data analytics and artificial intelligence (AI).
+But do these technologies actually work?
+Recent start-up Echobox has developed a system it says takes the human guesswork out of the mix. By analysing large amounts of data, it learns how specific audiences respond to different articles at different times of the day.
+It then selects the best stories to post and the best times to post them.
+Echobox claims its system generates an average 71% gain in referral traffic from Facebook and a 142% increase from Twitter. The software is already being used by publishers such as Vogue, Le Figaro and Telegraph Media Group.
+"Imagine a superhuman editor with an incredibly deep understanding of its audience, but 100 times faster," says Antoine Amann, Echobox founder and chief executive.
+"The data we use is both historical and real-time. For instance, our system will have a strong understanding of what type of [publishing] times worked well in the past, whilst at the same time analysing what's currently trending on the web."
+Anne Pican, digital publisher at French daily newspaper Le Figaro, one of the firm's clients, says they have already seen benefits.
+"Social media optimisation has been a major headache," she says. "Not only is it extremely complex but it's a lot of guesswork and requires a more scientific approach.
+"Since using Echobox we've seen a major upswing in our traffic and saved valuable time."
+Traditional newspapers facing dwindling print circulations are particularly keen to attract new digital audiences.
+The New York Times (NYT), for example, has built Blossom, an intelligent "bot" constructed inside the messaging app Slack.
+It uses machine learning to predict how blog posts and articles will perform on social media. It can also tell editors which ones to promote.
+If a journalist sends Blossom a direct message, such as "Blossom Facebook?", the bot will respond with a list of links to stories it believes will do well on the social media platform at that time.
+According to its developers, Blossom posts get about 380% more clicks than ones it doesn't recommend.
+What this type of historical and real-time analysis shows is that certain headlines, photos and topics attract more attention than others on different devices at different times of the day with different audiences.
+Predicting this without the help of machine learning computers is very tricky.
+Programs such as Chartbeat and Echobox also give publishers the ability to test different headlines and promotional tweets for the same story in real time.
+And programs like SocialFlow - used by some sections of the BBC website - apply algorithms to try to anticipate when the social media audience will be most receptive to an update.
+It can then automatically post the message at the "optimum" time, measure how many people look at the post, and crucially, how many bother to click through to the original article.
+But does using data analytics to learn about reader and viewer behaviour, then make publishing decisions based on that analysis, really count as AI?
+The NYT is staying tight-lipped about the exact workings of the bot, citing intellectual property reasons, but Colin Russel, a senior data scientist at the newspaper and Blossom's main designer, says: "We do characterise it as AI.
+"We're emulating what a team of editors would do if they had the time enough and a whiteboard big enough to observe and enumerate all the stories, all their history of posting, and all possible places they could be posted.
+"It's definitely an artificial intelligence."
+Echobox also describes its service as "artificial intelligence meets online publishing".
+But Tom Cheesewright, a futurist and head of consultancy firm Book of the Future, describes such tech as "more of a tool than an intelligence".
+"I'd argue this is probably the very outer edges of what might be called AI. Here, a more prosaic term like machine learning or predictive analytics might be more appropriate."
+Semantics aside, Richard Reeves, managing director at the Association of Online Publishers, believes this kind of tech could have a positive impact on the industry.
+"Publishers are faced with the dual challenge of increased competition for user attention and a diminishing pool of resources.
+"This makes it essential for publishers not only to make the most of their archived content, but also to deliver targeted content that aligns with user needs.
+"Thanks to recent developments in AI, publishers are starting to achieve this balance by using advanced new tools."
+If you feel there's just too much content to choose from, you could let others do the choosing for you. For example, German publishing group Axel Springer and tech giant Samsung have joined forces to develop the Upday mobile news app.
+New users specify what kind of topics they like, then a team of human editors, backed up by computer algorithms, curates content from 1,200 different sources, including Le Figaro, Der Spiegel and The Economist.
+And Japanese tech firm SmartNews aggregates stories from 1,500 publications, highlighting those that are being most widely read and shared by others - crowdsourced news as it were.
+One solution, of course, is simply to switch off all your gadgets and read a good book.
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

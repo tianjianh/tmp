@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114000030/http://www.bbc.co.uk/news/technology-38609854
+
+[SN]TITLE[SN]
+Bug 'exposes' WhatsApp message secrets
+
+[SN]FIRST-SENTENCE[SN]
+Some messages sent through WhatsApp can be intercepted and read thanks to a bug in the app, suggests research.
+
+[SN]RESTBODY[SN]
+The bug arises because of the way WhatsApp encrypts the messages sent via its service.
+Security expert Thomas Boelter found that eavesdropping was possible when circumstances called for encryption keys to be reissued.
+Mr Boelter told WhatsApp owner Facebook about the issue in April 2016 but it said it was not working on a fix.
+The response he received said that what he had discovered was expected behaviour.
+Privacy campaigners claimed in The Guardian newspaper that the bug was a "huge threat" to freedom of speech because it could be used by governments or law enforcement agencies to spy on people who thought they were communicating securely.
+In a statement reacting to media stories about the research, WhatsApp said the bug was not a "backdoor" intentionally placed in its code that allowed governments to make the firm decrypt messages.
+"This claim is false," it said. "WhatsApp does not give governments a 'backdoor' into its systems and would fight any government request to create a backdoor."
+The bug crops up in situations when encryption keys used to scramble messages have to be reissued and resent.
+Mr Boelter found that, in certain circumstances, attackers can pose as the recipient of a message and force WhatsApp to reissue keys for scrambling information.
+Sophisticated manipulation of this system would let attackers intercept and read messages, said Mr Boelter.
+Zack Whittaker, security editor at ZDNet, said it was a "stupid and big bug" but played down its seriousness.
+The problem was "limited" in its scope, he said, adding that it probably emerged because of "bad coding or a favour to good user experience".
+In its statement, WhatsApp said it had taken a design decision to implement the re-issuing of keys in this way to preserve millions of messages that would otherwise be lost.
+Cryptographer Frederic Jacobs said anyone worried about falling victim to the bug could adjust security settings on the app to warn them if encryption keys were being changed.

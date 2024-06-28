@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170224105959/http://www.bbc.co.uk/news/technology-22811580
+
+[SN]TITLE[SN]
+Prism: Just how much do the spooks know?
+
+[SN]FIRST-SENTENCE[SN]
+News that the US government's national security agency has been allegedly tapping into the phone records of Verizon customers quickly escalated into reports that it also had backdoor access to the major technology companies, including Apple, Google and Facebook.
+
+[SN]RESTBODY[SN]
+The so-called Prism programme tapped into the servers of nine internet firms, according to leaked documents obtained by the Washington Post.
+The leaked documents, supposedly supplied by a discontented spy, claim that the project gives the NSA access to email, chat logs, any stored data, voice traffic, file transfers and social networking data.
+While it was primarily aimed at counter-terrorism, the scale of it meant huge swathes of citizen data were also sucked up, according to the Washington Post.
+The newspaper claimed that the NSA can even conduct live surveillance of someone doing a Google search.
+The companies were very quick to deny that they offered "direct access" to their servers, leading many commentators to ask whether that actually meant that they offered indirect access or whether the NSA was perhaps filtering traffic independently.
+For digital forensics expert Prof Peter Sommer, the seeming clash between what the leaked documents suggest and the denials of the firms indicate the access was limited in scale.
+"It may be more of a catflap than a backdoor," he said.
+"The spooks may be allowed to use these firms' servers but only in respect of a named target. Or they may get a court order and the firm will provide them with material on a hard-drive or similar."
+The idea that the authorities acted independently is unlikely, he thinks.
+"They can't just put a magic box over the internet wire," he said. "Gmail and Facebook traffic is encrypted to thwart the cyber-crooks and in order to get hold of material they would need the co-operation of the firms."
+Even if the intelligence service had access to a piece of software that could automatically filter traffic and identify the bad guys, it would throw up hundreds of false positives.
+"We don't even understand how a domestic terrorist born in this country to a middle-class family becomes a radical. How can we expect a piece of software to know that?" he said.
+For security expert Prof Alan Woodward, the idea that the authorities can routinely snoop on internet traffic is nothing new.
+"The security services have a mandate to intercept foreign communications and signals to look for intelligence and analysis about threats to the security of the country. They have been doing it for years." he said.
+"Lots of internet traffic is routed through Europe and the US so it is not altogether surprising that they are taking the opportunity to look at this traffic."
+What is important to note, he said, is that the authorities are interested in communications from foreigners rather than the emails of its own citizens - something backed up by a statement from the US Director of National Intelligence James Clapper.
+"There are cases where they could inadvertently perhaps collect [citizen data] but not wittingly," he said in congressional testimony.
+General analysis of traffic on the networks is not necessarily a privacy scandal, thinks Prof Woodward.
+"It is no different from the cameras routinely looking at the traffic road network. If you see a problem, for example an accident, you may want to zoom in but you need to get a court order in order to access the registration of a particular vehicle," he said.
+Governments around the world are keen to increase the access that the police, as well as the intelligence services, have to internet communications.
+New laws are needed as internet communication changes, they argue.
+But getting the wording of such legislation right can be a minefield.
+In the UK, the draft Communications Data Bill was recently dropped because the Liberal Democrats considered it far too wide in scope, and similar legislation in the US is facing controversy.
+Security expert Brue Schneier notes in his blog that the ongoing push from the authorities to increase the amount of information to which they have access has a downside.
+"It's impossible to build a communications system that allows the FBI surreptitious access but doesn't allow similar access by others," he said. "When it comes to security, we have two options: We can build our systems to be as secure as possible from eavesdropping, or we can deliberately weaken their security. We have to choose one or the other."
+And while the authorities may have a bird's eye view of internet traffic, they may not be as clever as we think, points out Prof Woodward.
+Military-grade encryption is now routinely available rendering emails unreadable. And steganography, the method of hiding information within other information, is also giving the authorities a real headache.
+"There are big concerns about how much is being sent using this method. Because it hides itself we don't even know if it is being widely used," he said.
+"People may have got their knickers in a twist about something that is not as dark or devious as they think."
+He also has niggling doubts that Prism is even genuine.
+"For something of that level of security to be leaked is highly unusual. I have never seen that before and that seems a bit odd to me," he said.
+Whether Prism turns out to be a bit of a sideshow or the biggest data collection scandal of its time remains to be seen. But before the privacy witch-hunt begins, people need to decide their priorities, thinks Prof Sommer.
+"If something goes wrong everyone will ask why didn't the spooks do something to stop it," he said. "But on the other hand there is a belief that society is based on an element of privacy so that the spooks can only do things under correct judicial process. That clash has been with us for a long time and is difficult to reconcile."

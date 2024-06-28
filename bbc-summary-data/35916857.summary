@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225042725/http://www.bbc.co.uk/news/technology-35916857
+
+[SN]TITLE[SN]
+Cracked iPhone: Should you be worried?
+
+[SN]FIRST-SENTENCE[SN]
+The US government's declaration that it has "successfully accessed the data stored on [San Bernardino gunman] Farook's iPhone and therefore no longer requires" assistance from Apple, ends a six week-long legal clash between the tech firm and the FBI.
+
+[SN]RESTBODY[SN]
+But it leaves the issue at the heart of the dispute unresolved: could the FBI have forced Apple to help it unlock the device?
+It is unlikely that this will be the last time a law enforcement agency tries to compel a tech company to help bypass security measures.
+It had been reported that there were about a dozen other cases in which the US Justice Department was pursuing court orders to force Apple to help its investigators.
+The highest profile of these was in Brooklyn, New York, where the FBI wanted access to an iPhone belonging to a defendant who had already pleaded guilty to drug dealing.
+In that case, a federal judge had rejected the DoJ's effort to invoke the All Writs Act - a three-centuries-old statute that allows court orders to be issued in circumstances where other laws don't apply.
+The DoJ had launched an appeal, but it is not yet clear if it will continue or drop it. Its decision may be based on whether the technique used to extract data from Farook's handset can be used in other cases.
+The New York case involved an iPhone 5S running the iOS 7 operating system, while the San Bernardino, California case was about an iPhone 5C running the more modern iOS 9. What works against one device might not work against the other.
+But assuming the US government will at some point try again to use the All Writs Act to force Apple or some other tech company to circumvent its data protection measures, it may take a Supreme Court ruling to determine whether this is truly within the authorities' power.
+At this point, there is nothing to compel the FBI to reveal how it was done, although Apple is likely to be pressing hard to find out.
+The tech firm's lawyers have already said they would want details of the technique to be made public if evidence from the cracked iPhone is later used at trial.
+But it could remain secret. There is scope within US law for the authorities to withhold the source of information if it was supplied to them on a confidential basis, and to protect sensitive intelligence-gathering methodologies.
+Not necessarily.
+The court order originally obtained by the FBI had instructed Apple to come up with a special version of its operating system that would have prevented Farook's iPhone from deleting its data or imposing long lockout periods if too many incorrect passcode guesses were made.
+However, the latest court filings do not say that someone else has now done this, but merely that some data stored on the device has been obtained.
+Researchers at the cybersecurity firm IOActive had proposed that one way of getting data off an iPhone would be to "de-cap" its memory chips.
+The process they described involved using acid and lasers to expose and copy ID information about the device so that efforts to crack its passcode could be simulated on another computer without risk of triggering the original iPhone's self-destruct tool.
+If indeed this is what happened, it is not easy and there's a high risk of causing so much damage to the phone that the desired data becomes irretrievable.
+By contrast, Cellebrite - a data forensics firm that has reportedly helped the FBI with the case - has previously discussed "bypassing" passcode locks rather than trying to deduce the number.
+But it is possible that doing this would yield access to only a limited amount of a handset's data.
+One other point is that Apple recently updated its iOS software.
+Each upgrade adds security fixes. So, if the FBI has indeed been alerted to a flaw in Farook's phone's security settings, that bug may no longer exist in devices that have installed iOS 9.3.
+Short of destroying the device, perhaps no.
+But you can use encryption-enabled apps to digitally scramble data.
+The chat tool Wickr Messenger, for instance, lets you set it so that you have to enter a password each time you log back into the app.
+Likewise, PQChat requires typing in a five-digit passcode of its own to get access.
+So, even if a cracked iPhone did give up the contents of its text messages, emails and WhatsApp chats, the contents of the apps mentioned above should remain safe.
+All this presumes, however, that the authorities do not manage to install spyware on your device. If that happens, all bets are off.
+As part of her efforts to pass the Investigatory Powers Bill, the home secretary Theresa May has said that tech firms wouldn't have hand over encryption keys or build backdoors into their platforms.
+But the law still makes mention of "equipment interference warrants".
+Campaigners at the Electronic Frontier Foundation have warned that these could be used to force Apple and others to insert new code into a device in order to help the authorities extract data, in a similar manner to the FBI's earlier order.
+The EFF adds that "matching gag orders" would prevent the firms from informing their customers or even their own lawyers about the act.
+Equipment interference warrants already exist under the UK's current law.
+And for now, the focus of Apple and other tech firms is getting the Investigatory Powers Bill amended to say that in the future the warrants could only be amended with the permission of a judge.
+But were there to be a case where the UK police attempted to coerce Apple to override its  protective measures, it might still resist - even if the fact never became public.

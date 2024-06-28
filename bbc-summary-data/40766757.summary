@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170730014626/http://www.bbc.com/news/technology-40766757
+
+[SN]TITLE[SN]
+Power firms alerted on hack attack scenarios
+
+[SN]FIRST-SENTENCE[SN]
+Power firms around the world are being warned about how to spot if they are being targeted by hackers who shut down parts of Ukraine's electricity grid.
+
+[SN]RESTBODY[SN]
+The warnings have emerged from analysis of the malware used in an attack in Ukraine in December.
+That left about 230,000 people without power for hours after substations were shut down via implanted malware.
+The move comes as researchers at Black Hat and Def Con reveal ways power firms are lax on security.
+"Power grid operators need to be aware that these styles of events are out there and they need to prepare for them," said Robert M Lee of Dragos Security during a talk at the Black Hat show which detailed its work to analyse the malware used in the Ukraine attack.
+Ukraine suffered two attacks on its network - one in March 2015 and another in late 2016.
+The warnings detail the text and code combinations used by the attackers as they infiltrated networks and started the process of shutting down key parts of the grid. The information should help power firms scan internal systems for tell-tale signs of intrusion and prepare other defences so they can spot reconnaissance.
+Additional information provided by Dragos and security firm Eset also sets out some other ways the malware seen in the Ukraine attack could be deployed.
+"All of the functionality exhibited in the malware was not seen in the Ukraine attack," said Mr Lee. "They built more functions in it than they needed."
+Mr Lee stressed that there was little evidence that the hackers behind the Ukraine attack were taking aim at other power networks. However, he said, the tradecraft and techniques the group developed while preparing and executing their plan could easily be transferred to grid operators in other nations.
+Power generation firms and grid operators in Europe, Asia and the Middle East were "immediately" at risk from the type of attack seen in Ukraine, he said. US power firms were safer, he added, because they generally used different hardware.
+He also criticised governments for not doing enough to raise awareness about the seriousness of the events in Ukraine.
+"No senior policy makers in any government has come out and condemned the Ukraine attack," he said. "That's done nothing but embolden the attackers and that's a worrying trend."
+The Black Hat and Def Con shows saw other security researchers share information about work to catalogue ways that the power network could be attacked.
+Security researcher Harrys Konstantinou and colleagues at New York University led a project to find out how easy it was to build up a detailed picture of the make-up of power networks in the US.
+The three-person team drew on information in press releases, regulatory filings, grid maps, case studies and blackout reports to build a detailed model of sections of the US power transmission system.
+They also drew on freely available software tools that let them map power flows and test out what would happen if different parts of the network were turned off.
+To make their model and attack planning more accurate they also bought sub-station control equipment from auction site eBay.
+"There exists a wealth of information out there that can accurately model the grid and enable a widespread attack," said Mr Konstantinou.
+He added that as a result of their work some information about the layout of the US power grid has been removed from the net and some hardware makers are moving to harden their devices against attack.
+It is not just long-established elements of power grids that are vulnerable to attack. In another talk at Def Con Dr Jason Staggs from the University of Tulsa presented work he had done on the security of wind farm networks and turbines.
+"The increased reliance on renewable energy sources will draw attention from attackers for all kinds of reasons," he said.
+He added that his work revealed weaknesses in the hardware used to manage wind farms and in the software that allows them to be managed remotely.
+In many cases, he said, it was "trivial" to get access to the control consoles and management systems used to keep turbine blades spinning. Poor internal controls meant an attacker that got physical access to one turbine tower could inject software and infiltrate an entire network of wind farms, he said.
+"These networks are extremely susceptible to attack," he said.
+If an attacker triggered turbines to shut down it could cause real harm to their drives, brakes and blades.
+An hour of downtime on a relatively small wind farm would cost a power firm up to $30,000 (Â£23.250) for every turbine that stopped turning, he said.
+He urged operators of wind farms to take security more seriously and put in place measures and controls that limit the impact of any intrusion into the control systems.

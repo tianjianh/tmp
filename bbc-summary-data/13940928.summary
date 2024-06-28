@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20140604102424/http://www.bbc.com/news/science-environment-13940928
+
+[SN]TITLE[SN]
+Quantum cryptography done on standard broadband fibre
+
+[SN]FIRST-SENTENCE[SN]
+The "uncrackable codes" made by exploiting the branch of physics called quantum mechanics have been sent down kilometres of standard broadband fibre.
+
+[SN]RESTBODY[SN]
+This "quantum key distribution" has until now needed a dedicated fibre separate from that used to carry data.
+But a new technique reported in Physical Review X shows how to unpick normal data streams from the much fainter, more delicate quantum signal.
+It may see the current best encryption used in many businesses and even homes.
+The quantum key distribution or QKD idea is based on the sharing of a key between two parties - a small string of data that can be used as the basis for encoding much larger amounts.
+Tiny, faint pulses of laser light are used in a bid to make single photons - the fundamental units of light - with a given alignment, or polarisation. Two different polarisations can act like the 0s and 1s of normal digital data, forming a means to share a cryptographic key.
+What makes it secure is that once single photons have been observed, they are irrevocably changed. An eavesdropper trying to intercept the key would be found out.
+Sending these faint, delicate quantum keys has until now been done on dedicated, so-called "dark fibres", with no other light signals present.
+That is an inherently costly prospect for users who have to install or lease a separate fibre.
+So researchers have been trying to work out how to pull off the trick using standard, "lit" fibres racing with data pulses of millions of photons.
+Now Andrew Shields of Toshiba's Cambridge Research Laboratory and his colleagues have hit on the solution: plucking the quantum key photons out of the fibre by only looking in a tiny slice of time.
+Dr Shields and his team developed detectors fit to catch just one photon at a time, as well as a "gate" that opens for just a tenth of a billionth of a second - at just the time the quantum key signal photons arrive, one by one.
+The team achieved megabit-per-second quantum key data rates, all the while gathering gigabit-per-second standard data.
+"Trying to use such low-level signals over 'lit fibre' has been rather like trying to see the stars whilst staring at the Sun," said computer security expert Alan Woodward from the University of Surrey.
+"What these researchers have developed is to use a technique that rapidly switches between the various light sources using the fibre such that one source isn't swamping the other," he told BBC News.
+Paul Townsend of University College Cork led research published in the New Journal of Physics in 2011 aiming to do the same trick over 10km of fibre - but the new work was carried out over 90km of fibre at data rates hundreds of times higher.
+"The work of this group, our own and others is showing how to address some of the critical practical problems that have to be addressed in order to get QKD out of the lab and into real fibre networks," he told BBC News. "This is a major advance in this respect."
+Financial institutions are likely to be the first who are interested in the technology when it does escape the lab, senior author of the paper Dr Shields told BBC News.
+"We're not too far away from that type of application already," he said.
+"QKD isn't so expensive, probably comparable to a high-grade firewall - in the range of tens of thousands of pounds. So certainly in a corporate environment it's already affordable, and as time goes on I'm sure we'll see the technology get cheaper and cheaper."
+However, not everyone is convinced that the wider world needs QKD.
+"This is of academic interest only," Bruce Schneier, chief security technology officer at BT, told BBC News.
+He referred to a 2008 article for Wired magazine arguing that the security of the codes themselves was not the weakest link in the security chain.
+In it, he wrote, "it's like defending yourself against an approaching attacker by putting a huge stake in the ground - it's useless to argue about whether the stake should be 50 feet tall or 100 feet tall, because either way, the attacker is going to go around it".
+But both Prof Woodward and Dr Shields suggest that coming advances in quantum computing - while perhaps not reaching consumers either - could see the end of the "public key encryption" that the internet currently depends upon. That could make the distribution of keys the new weak point.
+Prof Woodward said: "The irony is that quantum techniques might lead to the demise of modern internet-based encryption, but quantum techniques could provide an alternative that is fundamentally more secure anyway."

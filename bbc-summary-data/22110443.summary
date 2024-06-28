@@ -1,0 +1,68 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150914033055/http://www.bbc.co.uk/news/business-22110443
+
+[SN]TITLE[SN]
+Wearable technology: The bra designed to shock attackers
+
+[SN]FIRST-SENTENCE[SN]
+"The Delhi gang rape was the trigger. But also the numbness of women - and law-makers against this social menace. It was high time we women needed a change."
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+The man behind the PowerPoint presentations
+Advertisers create products from thin air
+Bringing train times up to date
+Businesses keen to be clean and green
+Manisha Mohan is an aeronautical engineering student at SRM University in the Indian city of Chennai.
+She is also a young woman in a country that was thrown into chaos following the brutal gang rape of a 23-year-old student in Delhi in December, 2012.
+Together with fellow students Niladhri Basu Bal and Rimpi Tripathi, she decided to use her technical skills to try and do something to help protect women like her.
+After talking to women living in hostels about their experiences of harassment - called Eve-teasing in India - they developed a bra designed to deliver a 3800kv electric shock to any would-be rapist, enough to cause severe burns.
+The SHE (Society Harnessing Equipment) can also send a text message to a relative or friend and the local police station, with the GPS coordinates of the victim's location, says Ms Mohan.
+The bra is fitted with a pressure sensor connected to an electric circuit. So how can the wearer be sure they won't be on the receiving end of a hefty electric jolt?
+"Firstly, the system is placed in a bi-layer fabric, which ensures insulation to the victim," says Ms Mohan.
+"Also the pressure values for squeeze, pinch and grab have been calibrated. The force applied on hugging does not satisfy the conditions for actuation of the device, and there is also a self-actuation switch where a woman can actuate it by herself when in unsafe environment."
+While the SHE was designed using components that are fairly easy to come by, a California-based start-up called Machina is using skilled Mexican artisans to handcraft a jacket that makes music.
+The Machina Midi (Musical Instrument Digital Interface) jacket is the result of a successful Kickstarter campaign that ended in February 2013 and raised $77,000.
+Linda Machina is one of the co-founders.
+"We went to a concert and saw a guy just making music through his computer," she says.
+"We wanted to change that. We wanted to bring the act of performance back to life by having the musician use his body as an interface."
+Embedded in the fabric are four flexible sensors which can detect the position of your fingers, an accelerometer which tracks the movement of your arm, a joystick and four push buttons.
+The sensors and buttons can be configured anyway the wearer wants. It is linked to an interface app either on their computer or mobile device.
+"This is our first jacket, and we're developing this technology from the ground up," says Ms Machina.
+"The accelerometers make using the jacket a different type of interface for composing music, adding kinetic capabilities. The jacket will be a platform.
+"This is just the initial functionality, but we're creating a hack store that will allow users to upload their own presets and their own programs, so if you want to use it to control your iPod, to mix video, add extra sensors, or hack it to interact with a Kinect, you'll be able to do it.
+"All of our code will be available freely."
+The company is still experimenting with the final hardware, and is considering adding a second accelerometer, gyroscopes, and replacing the push buttons.
+Kickstarter backers should get their jackets later this year, while the rest of us will have to wait till early next year.
+If you have a hearing impairment it might seem you could have only a limited interaction with Machina's Midi jacket. But that could change.
+To the uninitiated, the Flutter looks like an ordinary white dress, with feather-like fragments of fabric running up and down.
+But these embellishments hide a secret.
+"The network of microphones [listens] for sounds in the environment, they are connected with microcontrollers that talk to each other, and they kind of vote on the direction," says Halley Profita, the University of Colorado PhD student behind the dress.
+"And so once they decide which direction it is coming from, it gives haptic feedback [vibration] in that direction ... it is more of an intuitive cue to look behind you, like someone tapping you on the shoulder."
+"We wanted to create a natural mapping as to where the sound is coming from and where you should look."
+The feeling is similar to the vibrations from a mobile phone.
+Ms Profita is fascinated with the possibilities wearable technology offers to create clothes that improve the wearers standard of living - but also look good.
+"Some products [people with disabilities] don't want to use merely because they look bad.  It calls attention to their disability and nobody wants that," she says. "We look at developing products that are both aesthetic and functional, and we try to create assistive technologies so that they won't draw attention to one's disability"
+"Hearing aids for example are the number one form of rejected uses of technology, and there can be a very strong reaction to [cochlear implants] in the deaf community.
+"I wanted to create something that used the landscape of the body as an interface to communicate things about the outside world, in a different medium."
+Flutter is still at the research stage. Ms Profita hopes to start testing it out on humans in the autumn, and future plans could include incorporating a hearing aid into the design.
+"For a system like this it has to be foolproof," she says.
+"We don't want someone to fully rely on it, then it fails at some point, and then their life is at stake."
+Some ideas are so simple you wonder why they haven't been thought of before.
+Asher Levine has been sewing since he was 10-years-old, when his mother enrolled him in a sewing class. Now 25, he has been running his own New York fashion house for the past three years.
+As well as menswear and accessories he makes performance wear for the likes of Lady Gaga, BeyoncÃ©, and the Black Eyed Peas, including the red white and blue jacket worn by Wil.i.iam at the Queen's Diamond Jubilee concert.
+He likes to experiment with technology - for his 2012 fall/winter collection he worked with Makerbot to create 3D-printed glasses.
+For 2013 he has partnered with start-up Phone Halo.
+"They are a technology company that specialises in Bluetooth integration with your phone," says Mr Levine.
+"They had this idea of connecting really anything through this chip to your Bluetooth so that you won't lose anything.
+"I have lost so many gloves in the past, and I wanted to add these features to our premium items, because some of our pieces can be quite expensive even to someone who spends a lot of money on clothes."
+The Asher Levine TrackR app sounds an alarm if you go too far from the chipped item. If you still manage to leave your favourite jacket behind, it will send you a text, email or Facebook message with the GPS coordinates of the last known location so you can track it down on Google Maps.
+Mr Levine sees this as the first step in a world of possibilities for this type of technology.
+"Right now you cover your body, it's to keep you warm, it's to attract mates, but how much more can it be integrated into your life?" he says.
+"I think with the technology aspect, it's really exciting to create these new ways in which you interact with your own world, augmenting the experience of being a human. Clothing is the skin you put on."
+In Chennai, Manisha Mohan and her team are working to make their anti-rape lingerie more practical. The electrical components are bulky, and need to be smaller to be practical.
+They also want to use bluetooth technology to link the bra to a smartphone app.
+It is a work in progress. If all goes well, they would like to start selling the bra.
+"My vision is to see every women walking confidently on the streets in all parts of the world, even at odd hours," says Ms Mohan.
+"I aim to give a sense of self-security to women living in the rural areas too. I have not accomplished any of my dreams yet, so it certainly does not give a sense of achievement so far.
+"Indeed, it adds more responsibility on my shoulders, as many women have placed their trust in this device."

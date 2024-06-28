@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160131045618/http://www.bbc.com/news/technology-34192117
+
+[SN]TITLE[SN]
+WhatsApp bug could affect millions of users
+
+[SN]FIRST-SENTENCE[SN]
+A bug in the popular messaging service WhatsApp put up to 200 million of its users at risk, security firm Check Point has warned.
+
+[SN]RESTBODY[SN]
+The flaw allows hackers to distribute malware, including ransomware, which demands victims  pay a fee to regain access to their files.
+The vulnerability affects only the web-based version of the service.
+WhatsApp was alerted to the problem at the end of last month and immediately issued a patch.
+Check Point urged users to update their WhatsApp software immediately to take advantage of the fix.
+The WhatsApp web app is a mirror version of its mobile app, enabling all messages, images and other content received on a smartphone to be accessed from a web browser.
+There are currently over 200 million active users of the web app, according to statistics released by the firm this year. This compares to 900 million users of the smartphone app.
+WhatsApp was bought by Facebook in February 2014.
+According to Check Point, the vulnerability was caused by the way the service handles contacts sent in the vCard (virtual card) format.
+All a hacker needed to do to send a virtual business card that looked legitimate was know their target's mobile number.
+Once opened the vCard could distribute malicious code.
+One expert said it was relatively easy for hackers to get hold of mobile numbers that have been disclosed via other breaches.
+"Bearing in mind that WhatsApp is a cross-platform mobile messaging app, the chances of you opening a vCard sent to you is quite high," commented Mark James, a specialist at security firm ESET.
+"Once opened it could attempt to download and infect your system with ransomware."
+Check Point alerted WhatsApp about the problem on 21 August and a week later it issued a fix.

@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170510035432/http://www.bbc.com/news/technology-38724082
+
+[SN]TITLE[SN]
+Massive networks of fake accounts found on Twitter
+
+[SN]FIRST-SENTENCE[SN]
+Massive collections of fake accounts are lying dormant on Twitter, suggests research.
+
+[SN]RESTBODY[SN]
+The largest network ties together more than 350,000 accounts and further work suggests others may be even bigger.
+UK researchers accidentally uncovered the lurking networks while probing Twitter to see how people use it.
+Some of the accounts have been used to fake follower numbers, send spam and boost interest in trending topics.
+On Twitter, bots are accounts that are run remotely by someone who automates the messages they send and activities they carry out. Some people pay to get bots to follow their account or to dilute chatter about controversial subjects.
+"It is difficult to assess exactly how many Twitter users are bots," said graduate student Juan Echeverria, a computer scientist at UCL, who uncovered the massive networks.
+Mr Echeverria's research began by combing through a sample of 1% of Twitter users in order to get a better understanding of how people use the social network.
+However, analysis of the data revealed some strange results that, when probed further, seemed to reveal lots of linked accounts, suggesting one person or group is running the botnet. These accounts did not act like the bots other researchers had found but were clearly not being run by humans.
+His research suggests earlier work to find bots has missed these types of networks because they act differently to the most obvious automated accounts.
+The researchers are now asking the public via a website and a Twitter account to report bots they spot to help get a better idea of how prevalent they are. Many bots are obvious because they have been created recently, have few followers, have strange user names and little content in the messages.
+The network of 350,000 bots stood out because all the accounts in it shared several subtle characteristics that revealed they were linked. These included:
+It was "amazing and surprising" to discover the massive networks, said Dr Shi Zhou, a senior lecturer from UCL who oversaw Mr Echeverria's research.
+"Considering all the efforts already there in detecting bots, it is amazing that we can still find so many bots, much more than previous research," Dr Zhou told the BBC.
+Twitter deserved praise for its work on finding and eliminating bots, he added, but it was clear that skilled hackers had found ways to avoid official scrutiny and keep the bots ticking over.
+The pair's most recent work had uncovered a bigger network of bots that seemed to include more than 500,000 accounts.
+"Their potential threats are real and scary due to the sheer size of the botnet," he said.
+It was hard to know who was behind the collections of fake accounts, said Dr Zhou, although there was evidence that a small percentage of the accounts had been sold or rented as they were now following Twitter users outside the main bot network.
+"What is really surprising is our questioning on the whole effort of bot detection in the past years," said Dr Zhou. "Suddenly we feel vulnerable and don't know much:  how many more are there? What do they want to do?"
+A Twitter spokesman said the social network had clear policy on automation that was "strictly enforced".
+Users were barred from writing programs that automatically followed or unfollowed accounts or which "favourited" tweets in bulk, he said.
+Automated responses "degraded" the experience for other users and was prohibited, he added.
+"While we have systems and tools to detect spam on Twitter, we also rely on our users to report spamming," he said.

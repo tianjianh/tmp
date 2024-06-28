@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170526111248/http://www.bbc.co.uk/news/technology-37005226
+
+[SN]TITLE[SN]
+Android bug fear in 900 million phones
+
+[SN]FIRST-SENTENCE[SN]
+Serious security flaws that could give attackers complete access to a phone's data have been found in software used on tens of millions of Android devices.
+
+[SN]RESTBODY[SN]
+The bugs were uncovered by Checkpoint researchers looking at software running on chipsets made by US firm Qualcomm.
+Qualcomm processors are found in about 900 million Android phones, the company said.
+However, there is no evidence of the vulnerabilities currently being used in attacks by cyberthieves.
+"I'm pretty sure you will see these vulnerabilities being used in the next three to four months," said Michael Shaulov, head of mobility product management at Checkpoint.
+"It's always a race as to who finds the bug first, whether it's the good guys or the bad."
+Affected devices included:
+Mr Shaulov said six months of work to reverse engineer Qualcomm's code revealed the problems.
+The flaws were found in software that handles graphics and in code that controls communication between different processes running inside a phone.
+Exploiting the bugs would allow an attacker to gradually be able to take more control over a device and gain access to its data.
+Checkpoint handed information about the bugs and proof of concept code to Qualcomm earlier this year.
+In response, Qualcomm is believed to have created patches for the bugs and started to use the fixed versions in its factories.
+It has also distributed the patches to phone makers and operators. However, it is not clear how many of those companies have issued updates to customers' phones.
+Checkpoint has created a free app called QuadRooter Scanner that can be used to check if a phone is vulnerable to any of the bugs, by looking to see if the patches for them have been downloaded and installed.
+In addition, Mr Shaulov said Android owners should only download apps from the official Google Play store to avoid falling victim to malicious programs.
+"People should call whoever sold them their phone, their operator or the manufacturer, and beg them for the patches," said Mr Shaulov.
+In a statement, Qualcomm said: "We were notified by the researcher about these vulnerabilities between February and April of this year, and made patches available for all four vulnerabilities to customers, partners, and the open source community between April and July.
+"We continue to work proactively both internally as well as with security researchers to identify and address potential security vulnerabilities."
+This article was updated on 10 August 2016 to add a response from Qualcomm.

@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20130926164711/http://www.bbc.com/news/science-environment-24232896
+
+[SN]TITLE[SN]
+First computer made of carbon nanotubes is unveiled
+
+[SN]FIRST-SENTENCE[SN]
+The first computer built entirely with carbon nanotubes has been unveiled, opening the door to a new generation of digital devices.
+
+[SN]RESTBODY[SN]
+"Cedric" is only a basic prototype but could be developed into a machine which is smaller, faster and more efficient than today's silicon models.
+Nanotubes have long been touted as the heir to silicon's throne, but building a working computer has proven awkward.
+The breakthrough by Stanford University engineers is published in Nature.
+Cedric is the most complex carbon-based electronic system yet realised.
+So is it fast? Not at all. It might have been in 1955.
+The computer operates on just one bit of information, and can only count to 32.
+"In human terms, Cedric can count on his hands and sort the alphabet. But he is, in the full sense of the word, a computer," says co-author Max Shulaker.
+"There is no limit to the tasks it can perform, given enough memory".
+In computing parlance, Cedric is "Turing complete". In principle, it could be used to solve any computational problem.
+It runs a basic operating system which allows it to swap back and forth between two tasks - for instance, counting and sorting numbers.
+And unlike previous carbon-based computers, Cedric gets the answer right every time.
+"People have been talking about a new era of carbon nanotube electronics, but there have been few demonstrations. Here is the proof," said Prof Subhasish Mitra, lead author on the study.
+The Stanford team hope their achievement will galvanise efforts to find a commercial successor to silicon chips, which could soon encounter their physical limits.
+Carbon nanotubes (CNTs) are hollow cylinders composed of a single sheet of carbon atoms.
+They have exceptional properties which make them ideal as a semiconductor material for building transistors, the on-off switches at the heart of electronics.
+For starters, CNTs are so thin - thousands could fit side-by-side in a human hair - that it takes very little energy to switch them off.
+"Think of it as stepping on a garden hose. The thinner the pipe, the easier it is to shut off the flow," said HS Philip Wong, co-author on the study.
+But while single-nanotube transistors have been around for 15 years, no-one had ever put the jigsaw pieces together to make a useful computing device.
+So how did the Stanford team succeed where others failed? By overcoming two common bugbears which have bedevilled carbon computing.
+First, CNTs do not grow in neat, parallel lines. "When you try and line them up on a wafer, you get a bowl of noodles," says Mitra.
+The Stanford team built chips with CNTs which are 99.5% aligned - and designed a clever algorithm to bypass the remaining 0.5% which are askew.
+They also eliminated a second type of imperfection - "metallic" CNTs - a small fraction of which always conduct electricity, instead of acting like semiconductors that can be switched off.
+To expunge these rogue elements, the team switched off all the "good" CNTs, then pumped the remaining "bad" ones full of electricity - until they vaporised. The result is a functioning circuit.
+The Stanford team call their two-pronged technique "imperfection-immune design". Its greatest trick? You don't even have to know where the imperfections lie - you just "zap" the whole thing.
+"These are initial necessary steps in taking carbon nanotubes from the chemistry lab to a real environment," said Supratik Guha, director of physical sciences for IBM's Thomas J Watson Research Center.
+But hang on - what if, say, Intel, or another chip company, called up and said "I want a billion of these". Could Cedric be scaled up and factory-produced?
+In principle, yes: "There is no roadblock", says Franz Kreupl, of the Technical University of Munich in Germany.
+"If research efforts are focused towards a scaled-up (64-bit) and scaled-down (20-nanometre transistor) version of this computer, we might soon be able to type on one."
+Shrinking the transistors is the next challenge for the Stanford team. At a width of eight microns (8,000 nanometres) they are much fatter than today's most advanced silicon chips.
+But while it may take a few years to achieve this gold standard, it is now only a matter of time - there is no technological barrier, says Shulaker.
+"In terms of size, IBM has already demonstrated a nine-nanometre CNT transistor.
+"And as for manufacturing, our design is compatible with current industry processes. We used the same tools as Intel, Samsung or whoever.
+"So the billions of dollars invested into silicon has not been wasted, and can be applied for CNTs."
+For 40 years we have been predicting the end of silicon. Perhaps that end is now in sight.

@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170205004326/http://www.bbc.co.uk/news/technology-21754034
+
+[SN]TITLE[SN]
+Cloud computing's security pitfalls
+
+[SN]FIRST-SENTENCE[SN]
+The word cloud evokes images of all things soft and gentle; the kiss of a kitten or the soft touch of a lambswool mitten.
+
+[SN]RESTBODY[SN]
+While that might be true of clouds in the real world, those in cyberspace are turning out to be very different entities indeed, especially when it comes to security. Some of them are downright dangerous.
+The captivating idea behind using a "cloud" of computers is that it does away with having a dedicated data centre. Instead, companies get their number crunching done by a benevolent source of computational power that sits out there, somewhere, anywhere, on the net.
+It's the word cloud itself that is responsible for making this sound much more ephemeral than it actually is, said Martin Borrett, IBM's cloud security adviser.
+"There's a misconception that clouds are one thing and they are all fluffy," he said, "but clouds do not have to be nebulous."
+Researchers have shown that clouds are anything but misty and mysterious. The computer servers providing that on-tap processing power can be identified, enterprising scientists in Germany and Finland have found. Software tools written by these researchers identified individual servers making up a cloud and interrogated them to find out which chip that computer was running.
+That was important, they found, because more powerful chips get processing done more quickly. Given that many on-demand cloud services price by the hour, that could add up to a considerable saving. The researchers estimate up to 30%.  Interrogating a cloud to work out how to save money sounds good on face value.
+But cyber-clouds are not as insubstantial as their name suggests. Unlike their wispy namesake, they can be found and become a target. That's bad because, as cyber-thieves and hackers know, there is a fine line between interrogating a computer and bullying it into coughing up details that help control it or can aid another attack.
+Researcher Yingian Zhang at the University of North Carolina and colleagues from Wisconsin and security firm RSA have already shown how this can provide a route to attacking and hacking a cloud.
+The technique developed by the team is complicated, but involves finding out how hard servers are being worked in a particular cloud.
+"Because we're sharing the resources there's a possibility some information will leak," Mr Zhang told the BBC. That's significant because many cloud providers run the computational jobs from different clients on the same hardware. There's no way for one company to know who its data is sharing memory with. It could be a bank, a bookshop or a bad guy.
+"Using the same resources is key to the cost and business model of cloud firms," he said. Knowing how hard those servers work under different conditions can give hints about the types of jobs they are being asked to do, he said.
+"How much resource is being allocated is dependent on the length of a cryptographic key," said Mr Zhang. Knowing how hard a server is working helps infer all kinds of useful information about what type of key is being used. That information is useful to attackers as it could radically cut down the number of possible combinations they have to try to unlock data encrypted or scrambled with that key.
+The dawning realisation that clouds can be found, interrogated and potentially attacked has given rise to a number of start-ups that aim to secure processing done on those cloud platforms.
+"Outsourcing your data cannot remove the obligation to protect that data," said Pravin Kothari, head of CipherCloud which provides tools to companies to scramble the data being uploaded and processed in a cloud.
+Fears about how the security of core business information when it was committed to the cloud had the potential to dampen moves to use the technology, he said.
+"Most of the growth in the use of cloud services is happening at the bottom end of the market," he said. "It's small businesses taking it up.
+"When you get to large companies people are not comfortable," he said, "And with sensitive applications that's when people get very uncomfortable."
+For one of the biggest cloud firms, many of the security worries being flagged up by ingenious researchers are problems that are yet to be seen by the bad guys. Stephen Schmidt, security head for Amazon Web Services said the attack mounted by Mr Zhang and colleagues only worked in the lab.
+"Those kind of attacks tend to be more theoretical than practical," he said, adding that the many checks and balances on a live cloud service would stymie such an attack.
+However, he said, that was not to be complacent about the security of computation work being done in the cloud. All day, every day, he said Amazon helped its customers defeat hack attacks of all kinds.
+In many cases, he said, moving to the cloud helped companies finds out what was vulnerable.
+"Security starts with what knowing what you have," he said. "In the cloud because of the way it works, you cannot log someone on under the desk. You can see exactly what you have."

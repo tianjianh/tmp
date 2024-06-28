@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160423070058/http://www.bbc.co.uk/news/technology-24060694
+
+[SN]TITLE[SN]
+Samsung backs Apple's 64-bit chip smartphone chip switch
+
+[SN]FIRST-SENTENCE[SN]
+Samsung has confirmed its next high-end smartphones will feature 64-bit processors.
+
+[SN]RESTBODY[SN]
+The announcement follows the launch of the iPhone 5S, the first handset to include the technology.
+Apple boasted its A7 chip offered "desktop-class architecture".
+However, experts say most apps are unlikely to see much immediate benefit from the shift from 32-bit tech and that it could introduce compatibility problems in the future.
+The Android operating system would need to be updated before Samsung's Galaxy devices could take advantage of a shift to 64-bit.
+The number of bits in relation to a microprocessor affects the size of the numbers that can be handled by its registers - the tiny bits of memory on the processing chip itself. Those numbers are then used to address RAM (random-access memory).
+In the case of 32-bit architecture, the amount of memory than can be addressed is two to the power of 32, in other words 4.3 billion values.
+In the case of 64-bit architecture the processor can theoretically address 18,400,000 trillion values.
+As a result, operating systems written for 32-bit chips can only access up to 4GB of RAM, but those written for 64-bit processors can, in theory, support up to 16 billion gigabytes of RAM.
+If a program has been written to take advantage of a 64-bit operating system, it should mean the processor can access data that is in this larger memory rather than retrieving it from, for example, the hard disk.
+This speeds up the whole processing chain.
+However, including more RAM also makes the equipment more expensive and power-hungry.
+For that reason, smart-device makers have tended to shy away from taking advantage of 32-bit chips' upper RAM limit.
+Samsung's forthcoming Galaxy Note 3 handset goes the furthest, with 3GB of RAM. The device also features a bigger-than-normal 3,200 mAh battery.
+Samsung Electronic's co-chief executive announced its plan to use 64-bit chips, in an interview with the Korea Times newspaper.
+"Not in the shortest time," said Shin Jong-kyun. "But yes, our next smartphones will have 64-bit processing functionality."
+However, bearing in mind there will remain many iOS and Android handsets on the market that still rely on 32-bit chips, this may deter developers from taking advantage of the switch in the short-term.
+"People who have the old 32-bit processors will not be able to run software that is built specifically for the 64-bit processors because the latter uses a different instruction set," explained Prof Alan Woodward, from the University of Surrey's computing department.
+"However, if people write in 32-bit, it will run on many of the 64-bit processors because they still support the old instruction set.
+"So, you can get the whole market by writing the app in 32-bits, but you can only get a very small part of the market if you write specifically for 64-bits."
+One solution to this is to use what is called a "fat binary", a program containing code tailored to both types of processor. Apple's Xcode toolset allows this to be done automatically.
+However, using fat binaries makes apps bigger and they therefore take up more storage space.
+Once sales of the new devices do grow, makers of video games and software to create 3D-animations might be among the first to make the switch since their programs are among the most processor-intensive and thus most likely to see the biggest benefit.
+One iPhone and Android developer welcomed the move.
+"Yes, many apps won't be able to take advantage of 64-bit at the outset," said Stephen Lum from Visual Candy Apps.
+"But the beauty of what Apple did is that they said it takes an iOS developer, like me, two hours to convert to 64-bit. That is awesome."
+However, one industry watcher warned that the switch might create compatibility problems for devices using older types of chip once developers started releasing apps that only worked on 64-bit processors.
+"When app makers do decide to transition to fully 64-bit, it will create a divide in the market," said Chris Green, from the Davies Murphy Group consultancy.
+"We saw exactly the same thing happen in the Windows world when software makers moved from 32-bit to purely 64-bit."
+For now British chip designer ARM may prove the biggest beneficiary.
+Smart-device makers are able to offer 64-bit tech because they have licensed the firm's ARMv8 architecture, which it first announced in 2011. The design includes other elements which should also boost processing power.
+The news means the company will enjoy bigger fees. ARM's share price has risen about 10% since the start of the week.
+Some have speculated that Apple's announcement might foreshadow the US firm ditching Intel chips in its laptops and desktop computers and moving to its own processors.
+"Apple's new A7 chip is not powerful enough to be a PC chip, but the architecture is going that way," said Prof Woodward.
+"They might be readying themselves. I think this is the beginning of a long road."

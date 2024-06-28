@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223163632/http://www.bbc.co.uk:80/news/technology-37750798
+
+[SN]TITLE[SN]
+Webcams used to attack Reddit and Twitter recalled
+
+[SN]FIRST-SENTENCE[SN]
+Home webcams that were hijacked to help knock popular websites offline last week are being recalled in the US.
+
+[SN]RESTBODY[SN]
+Chinese electronics firm Hangzhou Xiongmai issued the recall soon after its cameras were identified as aiding the massive web attacks.
+They made access to popular websites, such as Reddit, Twitter, Spotify and many other sites, intermittent.
+Security experts said easy-to-guess default passwords, used on Xiongmai webcams, aided the hijacking.
+The web attack enrolled thousands of devices that make up the internet of things - smart devices used to oversee homes and which can be controlled remotely.
+In a statement, Hangzhou Xiongmai said hackers were able to take over the cameras because users had not changed the devices' default passwords.
+Xiongmai rejected suggestions that its webcams made up the bulk of the devices used in the attacks.
+"Security issues are a problem facing all mankind," it said. "Since industry giants have experienced them, Xiongmai is not afraid to experience them once, too."
+It has also pledged to improve the way it uses passwords on its products and will send customers a software patch to harden devices against attack.
+The recall affects all the circuit boards and components made by Hangzhou Xiongmai that go into webcams. It is not clear how effective the recall will be in reducing the numbers of vulnerable devices hackers can call on to mount attacks.
+Yes, and it probably will. The smart devices making up the IoT are proving very popular with the malicious hackers who make their living by selling attack services or extorting cash by threatening firms with devastating attacks.
+Before the rise of the IoT it was tricky to set up a network of hijacked machines as most would be PCs that, generally, are more secure. Running such a network is hard and often machines had to be rented for a few hours just to carry out attacks. Now anyone can scan the net for vulnerable cameras, DVRs and other gadgets, take them over and start bombarding targets whenever they want.
+For the same reason you would care if your car was stolen and used by bank robbers as a getaway vehicle.
+And because if your webcam, printer or DVR is hijacked you have, in effect, allowed a stranger to enter your home. Hackers are likely to start using these gadgets to spy on you and scoop up valuable data. It's worth taking steps to shut out the intruders.
+Not easily. Many of the devices being targeted are hard to update and the passwords on some, according to one report, are hard-coded which means they cannot be changed.
+There is also the difficulty of identifying whether you are using a vulnerable product. A lot of IoT devices are built from components sourced from lots of different places. Finding out what software is running on them can be frustrating.
+Also, even if recalls and updates are massively successful there will still be plenty of unpatched devices available for malicious hackers to use. Some manufacturers of cheaper devices have refused to issue updates meaning there is a ready population of vulnerable gadgets available.
+Because security costs money and electronics firms want to make their IoT device as cheap as possible. Paying developers to write secure code might mean a gadget is late to market and is more expensive. Plus enforcing good security on these devices can make them harder to use  - again that might hit sales.
+Despite this, many industry bodies are trying to draw up standards that enforce good security habits. Unfortunately, these initiatives are taking time to have any impact, meaning there are millions of insecure devices already installed and working.
+Right now, we don't know. Some hacker groups have claimed responsibility but none of their claims are credible. We might never know because the vulnerable devices making up the IoT attack network are changing hands regularly as rivals scramble to gain control of as many as they can.
+In one sense the large web attacks are marketing exercises which show how effective a particular network of bots can be when turned against a target. Competition among rival bot operators is ferocious so a successful attack can be a good way to impress potential customers. It might also persuade victims of extortion emails to pay up rather than risk being knocked out.

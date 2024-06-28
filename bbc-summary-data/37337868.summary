@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160912141151/http://www.bbc.com/news/technology-37337868
+
+[SN]TITLE[SN]
+Fire drill knocks ING bank's data centre offline
+
+[SN]FIRST-SENTENCE[SN]
+A fire extinguisher test in a bank's data centre has gone wrong in an "unprecedented" manner, causing its cash machines, online banking operations and website to go offline.
+
+[SN]RESTBODY[SN]
+For much of Saturday, ING's Romanian customers could not access their money.
+The bank said the discharge of its gas-based fire suppression system had caused "unexpected" damage to its computer servers.
+A report by Motherboard suggests that the equipment was too noisy.
+A spokeswoman for ING was unable to confirm this detail.
+But she did acknowledge the problem had lasted from 13:00 to 23:00 local time and the bank had been unable to explain the situation to customers as its own communications system had been affected.
+"Due to the magnitude and complexity of breakdown, the time required to restore the activity through the back-up system was unfortunately longer than during the tests we perform regularly," said Iosefina Frolu.
+"Currently, we are finalising the diagnostic analysis of this exceptional event."
+The fire extinguisher system used at the Bucharest site worked by expelling a mix - known as inergen - of nitrogen, argon and carbon dioxide.
+These gases are normally not harmful to computer equipment.
+But, according to Motherboard, the high-pressure release created a sound that topped 130 decibels.
+A study last year by the German engineering group Siemens warned the nozzles used by some fire suppression systems could cause "fatal" damage to hard disks because of sound wave vibrations they sent through the air.
+"The hypothesis is that sound causes vibrations in the HDD case that are ultimately transmitted to the disk spindle and head assembly, causing misalignment of the read/write heads to the data tracks," it said.
+"Because there are many different designs of storage system chassis and cabinets on the market, the issue of vibration caused by noise as well as structure-borne vibration has not yet been fully investigated."
+Siemens's research indicated that different server models were vulnerable to different noise frequencies, and if there was a match:
+Although ING said the accident was "abnormal and unprecedented" in its experience, there have been other suspected incidents.
+In 2013, the French media reported that accountancy software used by the country's government had become temporarily unavailable after a fire protection system had been accidentally triggered at a data centre, causing a loud noise.
+The following year, inergen extinguishers were used to put out a fire at a facility in Sydney, Australia.
+When several of the disks failed, some experts blamed noise vibrations caused by the discharge.

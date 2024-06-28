@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150903001136/http://www.bbc.co.uk/news/technology-34117120
+
+[SN]TITLE[SN]
+Intel Skylake processors launched at Ifa tech show
+
+[SN]FIRST-SENTENCE[SN]
+Intel has launched its latest range of processors, codenamed Skylake, targeting everything from high-powered gaming rigs to computers the size of a USB stick and smartphones.
+
+[SN]RESTBODY[SN]
+The "sixth generation" Core family promises improved performance, battery life and graphics-power thanks to a new microarchitecture.
+The chips have also been optimised to handle 4K videos better.
+But the US company may find it hard to convince users they need new devices.
+Microsoft is offering its latest operating system - Windows 10 - as a free upgrade to consumers and suggests its software should not be more taxing on processors than Windows 7 or Windows 8.
+In the past, many households bought new PCs when they wanted to upgrade the operating systems, but they might not do so this time round.
+In addition, a slowdown in China's economy and the continued weakness of many European markets could cause companies and governments to delay upgrading their kit.
+Even so, Intel noted that there are more than 500 million computers in use that are four years old or older.
+And one analyst agreed that Skylake presents the firm with new opportunities.
+"A pretty large number of people who have an older PC and who will upgrade to Windows 10 will do so on a new computer," tech industry analyst Jack Gold explained.
+"The biggest thing that's going to be attractive will be the fact that power-requirements have gone down quite substantially.
+"That will allow new form-factors - thinner, lighter, smaller devices that don't need a fan. And the less power you draw the more likely you'll get 10 to 12 hours of life without adding a lot of extra weight in batteries."
+Intel timed its launch to coincide with Berlin's Ifa tech show.
+"Versus the fifth generation core, you're talking about a 60% active-power reduction and at the same time a 60% performance increase," Intel executive Gregory Bryant told the BBC ahead of the event.
+This is in part thanks to a technology called Speed Shift, he explained, which allows the processors to "shift gears" faster than before in order to reduce the amount of time they are kept running at their most power-hungry frequencies when not required.
+Although this may only shorten each period by tens of milliseconds, the savings add up.
+"On top of that we have been on a multi-year march to dramatically improve the graphics performance, and we're saying there's up to an increase of 40% generation-on-generation," Mr Bryant added.
+He noted the chips had been optimised to handle the new H.265 video codec - a new compression standard that lets 4K video files be streamed using less data without sacrificing picture quality.
+4K videos are four times the resolution of 1080p high definition ones.
+H.265's adoption has been held back until now because some processors struggle to handle it.
+One company-watcher said Intel's latest chip design reflected current habits.
+"We're in an era of consumption - people are increasingly watching video streams, playing [simple] video games and doing other things that involve lots of graphics but don't require lots of compute resources because the content has already been created," commented Sergis Mushell from the tech consultancy Gartner.
+Intel has, however, targeted one specific niche of consumers who enjoy pushing their processors to the limit.
+For the first time it is supporting the "overclocking" of some of its mobile device chips.
+The practice involves pushing processors to perform calculations at a faster rate than they were set to, causing them to give off more heat. In the past, Intel had locked its mobile chips to prevent this.
+"Intel claims something like 10% of the PC market is extreme gamers, and that's who it's for," said Jack Gold.
+"For those guys and girls who want to cool their laptops with liquid nitrogen [and other substances] and get the maximum they can out of them."
+Over the coming months, Intel says it plans to release about 50 different variants of Skylake processors.
+However, it has indicated that manufacturers should promote their new computers by talking about add-on facilities rather than relying on the chips' new specs.
+Suggestions include:
+These innovations can, in fact, be added to computers powered by older chips.
+But since they are likely to become more commonplace alongside the rollout of Skylake, one analyst agreed that it made sense to focus on them.
+"Consumers are looking for what they can do differently on their systems compared to what they can't do today," said Patrick Moorhead, founder of Moor Insights & Strategy.
+"So, the strategy of promoting what you can actually do with the computers as opposed to the chips' speeds and feeds is smart."
+Intel's next challenge is to try to ensure that production of the chips goes smoothly.
+Problems making its earlier Broadwell chips caused several variants to be released later than planned, and led some shoppers to decide to wait instead for Skylake.
+Intel says the first of the new PCs should be on sale late this year.

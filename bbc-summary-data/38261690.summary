@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101051259/http://www.bbc.com/news/technology-38261690
+
+[SN]TITLE[SN]
+Why I want my home to watch me
+
+[SN]FIRST-SENTENCE[SN]
+As I step into the hallway in Simon Daykin's New Forest home, his smartwatch goes into overdrive.
+
+[SN]RESTBODY[SN]
+He is receiving messages from the house itself, warning him there is somebody inside it doesn't recognise.
+"As you come in, you've already been spotted by some of our tech," he says.
+"There are cameras in the burglar alarm sensors, and a facial recognition system in the house.
+"If it's someone it 'knows', it will tell me. If it's someone it doesn't know, it will tell me."
+He selects one of the CCTV images he has received and adds my name to it. That seems to satisfy the house - for now.
+The combination of devices also enables him to talk to delivery drivers via his phone if the house is empty (and make sure they leave the parcels in the right place) - and was handy when his daughter had a fall and the family were able to share footage with hospital doctors to help them understand her injury.
+It's one of many systems Mr Daykin has rigged up over the past four years years as he has painstakingly created his own unique smart home, using a combination of off-the-shelf kit, a few credit-card-sized Raspberry Pi computers and his own tech expertise.
+He says the hardest part has been getting them all to coordinate with each other.
+It's a labour of love and it hasn't all been cheap - but he says it is slowly paying for itself because of the savings on the household bills.
+The house monitors everything and uses energy only where and when it needs to.
+The Daykins also get a government incentive for using a wood pellet boiler, which is programmed to fire up just once a day, and have reduced their water costs by 40% through rainwater harvesting.
+LED light bulbs have dramatically decreased the electricity bills.
+Mr Daykin's primary motivation was to reduce his family's energy consumption, and he is very proud of the results.
+He carries out data mining to fine-tune the house to ever greater efficiency - sensors monitor everything from humidity and air quality to temperature and toilet flushes.
+Near the washing machine, in the spot where many people might keep their detergent, the Daykins have a hi-tech "nerve centre" where 2km (1.2 miles) of cabling feeds data to the home's central server.
+"The house has modes," he says.
+"It knows when you're awake, it knows when you're asleep, it knows when you're not here and it reconfigures security, heating, lighting."
+If a room is empty, the electricity on a specially wired bank of plug sockets shuts off, and once the lights go off at night, the house goes into "sleep mode".
+Family members have their own preferences pre-programmed - when Mr Daykin's mother-in-law arrives, the heating turns up because she feels the cold more.
+At the moment, controlling this data requires his input - but with the rise of artificial intelligence, Mr Daykin hopes to reduce his own role in the proceedings.
+"I get a lot of updates from the house, but it's very experimental and I like it because I know what's going on," he says.
+"One of the big next steps is being able to talk to the house or use a digital assistant so you don't have to touch anything.
+"My ultimate aim is that the house is so aware of what it wants and what you want it to be that it reacts to you without you having to tell it."
+The downstairs toilet flush is also kept track of (a double flush boosts the air circulation, for those with delicate noses); and in the process of monitoring the air quality, Mr Daykin has discovered some unexpected correlations between certain adult activities and the corresponding levels of carbon dioxide.
+"Maybe in the future we'll be able to predict when we'll need midwives in the house," he says wryly.
+It's certainly intensely private information. But if you install a smart home operated by a tech giant, it's exactly the sort of thing you could inadvertently be sharing.
+"We are all generating huge amounts of data - and big companies are using that and exploiting that to give us better services and also create better advertising.
+"The system I have created, the vast majority of the data never leaves the house unless I choose to access it remotely," he says.
+"I am uncomfortable about giving data to other people unless I know how it is going to be used."
+As a senior IT professional, it's not surprising that he takes cyber-security very seriously, and has invested in an expensive enterprise-grade firewall "as good as a bank would have".
+"It's not just because I don't want people looking into my house," he says.
+"I want to protect the data but also I don't want somebody taking control of my house or exploiting it to do something else as we've seen with recent botnet attacks. I won't let that happen to my house."
+But he admits that his family has had to get used to the concept of being monitored - and that by mutual agreement the upstairs bedrooms are off-limits.
+"I'm comfortable with [the monitoring], the family are getting used to it, it does worry some people. I think that's one of the biggest challenges that tech faces - how do you make these things accepted?"
+In fact, people in modern life are very used to being observed, says psychology professor Tim Buchanan, from Westminster University - whether that's through CCTV, smartphone use or even car registration.
+"I think most people genuinely aren't aware of all the data that is collectible about them at any point in time or what the value of that data is," he says.
+"I think there are many people who are uncomfortable with it - who go to great pains to try to protect their privacy - but even those people will surrender their privacy in order to access services that they need.
+"Unless you were to completely strip technology out of your life, I'm afraid we are stuck with it."
+Some tech has more longevity than others.
+One of Mr Daykin's early experiments was a bathroom-based sound system controlled by rubber ducks that became magnetic controls when placed against the metal bath tub, allowing bathers to control the sound and change the music.
+"It was good fun," he says.
+"But these days they prefer watching the iPad."

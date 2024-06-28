@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160902044047/http://www.bbc.com/news/technology-37232635
+
+[SN]TITLE[SN]
+Dropbox hack 'affected 68 million users'
+
+[SN]FIRST-SENTENCE[SN]
+A Dropbox security breach in 2012 has affected more than 68 million account holders, according to security experts.
+
+[SN]RESTBODY[SN]
+Last week, Dropbox reset all passwords that had remained unchanged since mid-2012 "as a preventive measure".
+In 2012, Dropbox had said hacks on "other websites" had affected customers who used their Dropbox password on other sites too.
+But now what purports to be the details of 68.6 million Dropbox accounts have emerged on hacker trading sites.
+The 5GB document has been acquired by a Motherboard reporter, who also said it had been verified as genuine by a "senior Dropbox employee" speaking on the condition of anonymity.
+The data includes email addresses and hashed passwords.
+But security researcher Troy Hunt, who has also seen the document, said the hashing algorithm that obscured the passwords was "very resilient to cracking".
+"Frankly, all but the worst possible password choices are going to remain secure even with the breach now out in the public," he said.
+Mr Hunt said he had managed to independently verify the hack by finding the password of his wife within the cache.
+He told BBC News the document contained a "very unique, 20-character, completely random password" used by his wife to login to Dropbox.
+It had been created by a password manager, he said, making the chance of it having been correctly guessed "infinitely small".
+Mr Hunt wrote his blog: "There is no doubt whatsoever that the data breach contains legitimate Dropbox passwords - you simply can't fabricate this sort of thing."
+Security researcher Ken Munro also said the hack appeared to be genuine and to have "taken place in 2012".
+In a statement sent to the BBC, Dropbox said: "This is not a new security incident."
+And there was "no indication" Dropbox user accounts had been improperly accessed.
+"Our analysis confirms that the credentials are user email addresses with hashed and salted passwords that were obtained prior to mid-2012," said the statement.
+"We can confirm that the scope of the password reset we completed last week did protect all impacted users.
+"Even if these passwords are cracked, the password reset means they can't be used to access Dropbox accounts."
+Meanwhile, on Tuesday the password management service OneLogin - of which Dropbox is a client - revealed that a user gained access to one of its systems used for log storage and analytics.
+Alvaro Hoyos, chief information security officer at OneLogin, has said that this incident is not connected to the Dropbox hack.
+"We have no indication that OneLogin's August 2016 incident is connected to any further incidents currently in the news," Mr Hoyos told the BBC.
+"To reiterate what our recent blog post stated, the impacted system is a standalone system and there are no signs of suspicious activity in any of our other systems.
+"The security of our customers is of the utmost importance and we are carrying out an extensive investigation in partnership with a third-party cybersecurity firm. We are advising impacted customers as soon as any additional information becomes available as a result of the investigation."

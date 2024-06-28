@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151121060320/http://www.bbc.co.uk/news/technology-24519306
+
+[SN]TITLE[SN]
+The gentle art of cracking passwords
+
+[SN]FIRST-SENTENCE[SN]
+On the internet, the most popular colour is blue, at least when it comes to passwords.
+
+[SN]RESTBODY[SN]
+If you are wondering why, it is largely because so many popular websites and services (Facebook, Twitter and Google to name but three) use the colour in their logo. That has a subtle impact on the choices people make when signing up and picking a word or phrase to form a supposedly super-secret password.
+It's just one of the many quirks to be found in the password-picking habits of us humans. There are plenty of others. For example studies suggest red-haired women tend to choose the best passwords and men with bushy beards or unkempt hair, the worst.
+These studies also reveal that when it comes to passwords, women prefer length and men diversity.
+These facts have come to light thanks to the vast number of passwords that have been stolen from websites and online services, says security researcher Per Thorsheim.
+Adobe, LinkedIn and game website RockYou have all been hit in breaches that involved the theft of login names and passwords. Add to this the steady drip of security breaches at other firms and you have a vast corpus of data that can shed light on what passwords people pick.
+The number one conclusion from looking at that data - people are lousy at picking good passwords.
+"You have to remember we are all human and we all make mistakes," says Mr Thorsheim.
+In this sense, he says, a good password would be a phrase or combination of characters that has little or no connection to the person picking it. All too often, Mr Thorsheim adds, people use words or numbers intimately linked to them.
+They use birthdays, wedding days, the names of siblings or children or pets. They use their house number, street name or pick on a favourite pop star.
+This bias is most noticeable when it comes to the numbers people pick when told to choose a four digit pin. Analysis of their choices suggests that people drift towards a small subset of the 10,000 available. In some cases, up to 80% of choices come from just 100 different numbers.
+It is this realisation about human bias that has transformed the way that people, both the good guys and the bad, go about cracking passwords.
+"Now brute forcing is absolutely the last tactic we would use," says Mr Thorsheim.
+Brute forcing, as its name suggests, throws raw computer power at the problem of password cracking. Such an attack on a password would first try "a" and then work through all possible letter and number combinations before ending at "zzzzzzz".
+Password security depended on computer power never getting to the point where billions of those sequential combinations could be tried in a reasonable amount of time. The mathematics (time multiplied by tries) defeated the crackers.
+"But", says security researcher Yiannis Chrysanthou from KPMG, "it's not about mathematics any more because it's people that select the passwords."
+Many security researchers look to improve their password cracking methods so they can advise companies about what they need to do to make people choose phrases that are more secure.
+I tried to see how easy it is to crack passwords for myself.
+Armed with a list of hashed passwords culled from one of the many sites where stolen lists are dumped every day, I looked for software that could crack them.
+I turned to two of the best known, Hashcat and John The Ripper, loaded up my hashes, picked my word lists, applied my rules and let them rip.
+Soon after I had a list of cracked passwords - not all of them - and I stopped the process before it had completed.
+The words and phrases that emerged first were wearyingly familiar. It's no wonder that people's online accounts are regularly breached if so many are choosing obvious combinations such as "aaa123" as a password.
+They also try to crack the passwords in the stolen lists to get a better idea of what people have been using. In such situations often what is being cracked is a sequence of letters known as a "hash".
+These fixed-length strings of characters cannot be rewound to reveal what characters gave rise to them. However, because hashing algorithms work according to a fixed set of rules then "123456" will always produce the same seemingly random sequence of letters. Under the MD5 hashing system "123456" always produces the string: "e10adc3949ba59abbe56e057f20f883e".
+Generate hashes for all the words in a long list related in one way or another to a target and there is a much better chance of guessing their password, says Mr Chrysanthou, who developed novel rules for cracking passwords while studying at Royal Holloway.
+It was via this approach that he managed to crack the password: "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn".
+At first glance this mangled collection of lower and upper case letters drizzled with apostrophes looks like it would be pretty secure. Unless you are a well-educated geek who knows it comes from a horror story written by HP Lovecraft.
+Targeted attacks are likely to scour social media for words, names and dates important to a victim. Knowing the names of  someone's children, pets, parents or street can help unpick a password very quickly.
+The bad guys try to crack passwords, says security researcher Bruce Marshall, because they too know another truth about people - they are lazy.
+This means that there is a very good chance, 70% according to some studies, that a password associated with an email address on one site might well be used to log in on one or more other online services.
+Many cyber-thieves target smaller sites to get at their lists of passwords and then try them in other places to see if they have been used.
+"If a criminal is cracking passwords then most likely they gathered them from a specific site and are trying to gain access to additional accounts," says Mr Marshall.
+The sheer number of passwords released to the web has created another problem, he says.
+"If an attacker can't gain access to the targeted site's password database then they may resort to an online password guessing attack where they try common usernames, email addresses and password combinations," he says.
+So, if you want to pick a stronger password do not use simple combinations of words and numbers, choose words that are only tangentially related to you and make sure the password you use for your online banking is used for nothing else.

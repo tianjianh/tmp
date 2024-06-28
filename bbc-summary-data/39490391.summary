@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170404201916/http://www.bbc.com/news/technology-39490391
+
+[SN]TITLE[SN]
+Sex toy with in-built camera can be 'easily hacked'
+
+[SN]FIRST-SENTENCE[SN]
+A wi-fi-enabled sex toy that features an in-built camera can be hacked, security researchers say.
+
+[SN]RESTBODY[SN]
+Pen Test Partners, which tested the Siime Eye vibrator, said it was "trivial" to connect to its web interface.
+This meant attackers could access intimate videos recorded by the device, as well as control other functions.
+Svakom, the US firm that makes the toy, has not responded to a request for comment.
+According to Svakom's website, the Siime Eye has a built-in micro camera and a hidden searchlight, which can be connected to a PC, tablet or mobile phone via wi-fi.
+The firm says this allows users to "record and share" their experiences with a partner via "pictures or videos".
+But in a blog, Pen Test Partners showed how the device could be hacked.
+It said someone within range of the device could access its video stream, either by working out the user's password, or entering the manufacturer's default password, 88888888, if it had not been changed.
+Those with more advanced knowledge could gain "complete control" over operation of the device, Pen said.
+"It's trivial to connect to the access point (AP)," it said, "[and] if you can get onto the wireless AP, you'll have instant access to everything on this web application.
+"Oh, and being a Wi-Fi AP means you can find users too… This part surprised us the most."
+Pen Test said it had contacted Svakom several times about the issue since December but had not heard back.
+It comes weeks after Canadian firm Standard Innovation agreed to pay $3.75m (£3m) to settle privacy claims regarding some of its We-Vibe sex toys.
+Some We-Vibe models collected intimate user data and sent it back to the manufacturer without the user's consent.
+Tech experts said the vibrator could also be hacked although Standard Innovation, which did not admit wrongdoing, said none of the devices' data was accessed by outside parties.

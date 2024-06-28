@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150331220009/http://www.bbc.com/news/technology-32138088
+
+[SN]TITLE[SN]
+Evidence links China to GitHub cyber-attack
+
+[SN]FIRST-SENTENCE[SN]
+Internet users outside China are unwittingly participating in a long-running cyber-attack on the coding site GitHub, security experts have said.
+
+[SN]RESTBODY[SN]
+The researchers believe that the nature of the attack makes the Chinese government the only realistic source.
+After five days, it was understood on Tuesday evening that the attack was decreasing in intensity.
+The Chinese government said it was "odd" that it had been accused of being responsible.
+GitHub said that it had first detected a large distributed denial of service (DDoS) attack - when a site is flooded with traffic, threatening to force it offline - last Thursday.
+Four separate security researchers have said that international web traffic to sites that use analytics tools provided by search firm Baidu was being hijacked in China.
+According to analysis published by Erik Hjelmvik of the firm Netresec, when browsers requested script from the Chinese firm's servers, as they normally would, malicious code was inserted into the reply.
+"The upshot is that people from around the world... had their traffic redirected to swamp GitHub," Prof Alan Woodward of the University of Surrey told the BBC after verifying the research.
+It is alleged that the attack was targeted at two pages on GitHub: one created by the anti-censorship group Greatfire.org, the other a Chinese-language edition of the New York Times.
+Both are banned by the Chinese authorities.
+Mr Hjelmvik's analysis was backed up by similar research published by Insight Labs, a global group of security organisations.
+Their conclusions were ratified by both Rik Ferguson, from the cybersecurity firm Trend Micro, and Prof Woodward.
+In a blog, Mr Hjelmvik described the attack step-by-step:
+The method could be used on a multitude of sites that passed into and back out of China, the researchers said.
+"Any site that makes the request for a cookie related to Baidu's analytics, that request could be replaced with malicious code," said Mr Ferguson.
+Mr Hjelmvik told the BBC that, because the various internet service providers used by the foreign internet users were seeing the same results, the attacker could only be an entity with overarching control of telecommunications across China.
+That, he said, made the country's authorities the most realistic suspect.
+In a press conference on Monday, the Chinese foreign ministry's spokeswoman Hua Chunying was asked for her response to reports that her government was behind the attack.
+"It is quite odd that every time a website in the US or any other country is under attack, there will be speculation that Chinese hackers are behind it. I'd like to remind you that China is one of the major victims of cyber attacks," she said.
+"We have been underlining that China hopes to work with the international community to speed up the making of international rules and jointly keep the cyberspace peaceful, secure, open and cooperative.
+"It is hoped that all parties can work in concert to address hacker attacks in a positive and constructive manner."
+The BBC understands that the attack appears to be weakening and GitHub is now said to be operating "at 100%".
+A GitHub spokesman reiterated its earlier statement, highlighting that the attack was the "largest DDoS" in the site's history.

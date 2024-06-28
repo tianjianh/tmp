@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310174935/http://www.bbc.co.uk/news/technology-20663685
+
+[SN]TITLE[SN]
+Patient records held to ransom in Australia
+
+[SN]FIRST-SENTENCE[SN]
+An Australian medical centre says its patient files have been encrypted by hackers, who are now holding them to ransom.
+
+[SN]RESTBODY[SN]
+The hackers are demanding 4,000 Australian dollars ($4,200; Â£2610) to decipher the files, which contain confidential information.
+The Miami Family Medical Centre claims that the attack was not the result of a virus.
+A security expert told the BBC said this was an unusual scenario.
+"We've got all the antivirus stuff in place - there's no sign of a virus. They literally got in, hijacked the server and then ran their encryption software," David Wood, co-owner of the Miami Family Medical Centre, told ABC News in Australia.
+Rik Ferguson, from Trend Micro, said that while "ransom ware" has become much more common in the past 18 months, it is usually carried out by infecting computers with a virus.
+"Ransom ware itself has become quite a common tool for cybercriminals but it does have the malware front end - you click a link and an infection encrypts your data," he said.
+It generally then takes the form of a message purporting to be from the police or a copyright authority saying that your computer contains illegal material and you must pay a fine - usually a relatively small sum - to unblock it.
+Many people pay up because they are embarrassed or it is more convenient, he added.
+"The guy from the medical centre seems absolutely certain there was no malware involved and it was a direct hack, but it's the first time I've heard of that happening," he told the BBC.
+Mr Ferguson added that much of this sort of activity is carried out by cybercriminals in Russia and the former Soviet states.
+"Make sure any sensitive data is not stored unencrypted," he said. "And that it is not connected to the internet. A lot of stuff does need to be connected online but you would only need to have your front-end server directly connected."
+While IT professionals are working to decode the medical centre's files, Australian security expert Nigel Phair said he thinks the ransom will have to be paid.
+"At this point, most probably, their only option is to pay," he told ABC.
+"Though that's not the best option because as we know from extortion that once you pay they'll follow that up."

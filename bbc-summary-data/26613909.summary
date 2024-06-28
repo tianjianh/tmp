@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310080650/http://www.bbc.com/news/business-26613909
+
+[SN]TITLE[SN]
+Is big data dating the key to long-lasting romance?
+
+[SN]FIRST-SENTENCE[SN]
+If you want to know if a prospective date is relationship material, just ask them three questions, says Christian Rudder, one of the founders of US internet dating site OKCupid.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Big data offers tailor-made shopping
+Crime fighting with big data weapons
+Big data puts the doctor in your pocket
+Helping feed the world with big data
+Bad guys v the data defenders
+Why? Because these are the questions first date couples agree on most often, he says.
+Mr Rudder discovered this by analysing large amounts of data on OKCupid members who ended up in relationships.
+Dating agencies like OKCupid, Match.com - which acquired OKCupid in 2011 for $50m (Â£30m) - eHarmony and many others, amass this data by making users answer questions about themselves when they sign up.
+Some agencies ask as many as 400 questions, and the answers are fed in to large data repositories. Match.com estimates that it has more than 70 terabytes (70,000 gigabytes) of data about its customers.
+Applying big data analytics to these treasure troves of information is helping the agencies provide better matches for their customers. And more satisfied customers mean bigger profits.
+US internet dating revenues top $2bn (Â£1.2bn) annually, according to research company IBISWorld. Just under one in 10 of all American adults have tried it.
+The market for dating using mobile apps is particularly strong and is predicted to grow from about $1bn in 2011 to $2.3bn by 2016, according to Juniper Research.
+There is, however, a problem: people lie.
+To present themselves in what they believe to be a better light, the information customers provide about themselves is not always completely accurate:  men are most commonly economical with the truth about age, height and income, while with women it's age, weight and build.
+Mr Rudder adds that many users also supply other inaccurate information about themselves unintentionally.
+"My intuition is that most of what users enter is true, but people do misunderstand themselves," he says.
+For example, a user may honestly believe that they listen mostly to classical music, but analysis of their iTunes listening history or their Spotify playlists might provide a far more accurate picture of their listening habits.
+Inaccurate data is a problem because it can lead to unsuitable matches, so some dating agencies are exploring ways to supplement user-provided data with that gathered from other sources.
+With users' permission, dating services could access vast amounts of data from sources including their browser and search histories, film-viewing habits from services such as Netflix and Lovefilm, and purchase histories from online shops like Amazon.
+But the problem with this approach is that there is a limit to how much data is really useful, Mr Rudder believes.
+"We've found that the answers to some questions provide useful information, but if you just collect more data you don't get high returns on it," he says.
+This hasn't stopped Hinge, a Washington DC-based dating company, gathering information about its customers from their Facebook pages.
+The data is likely to be accurate because other Facebook users police it, Justin McLeod, the company's founder, believes.
+"You can't lie about where you were educated because one of your friends is likely to say, 'You never went to that school'," he points out.
+It also infers information about people by looking at their friends, Mr McLeod says.
+"There is definitely useful information contained in the fact that you are a friend of someone."
+Hinge suggests matches with people known to their Facebook friends.
+"If you show a preference for people who work in finance, or you tend to like Bob's friends but not Ann's, we use that when we curate possible matches," he explains.
+The pool of potential matches can be considerable, because Hinge users have an average of 700 Facebook friends, Mr McLeod adds.
+But it turns out that algorithms can produce good matches without asking users for any data about themselves at all.
+For example, Dr Kang Zhao, an assistant professor at the University of Iowa and an expert in business analytics and social network analysis, has created a match-making system based on a technique known as collaborative filtering.
+Dr Zhao's system looks at users' behaviour as they browse a dating site for prospective partners, and at the responses they receive from people they contact.
+"If you are a boy we identify people who like the same girls as you - which indicates similar taste - and people who get the same response from these girls as you do - which indicates similar attractiveness," he explains.
+Dr Zhao's algorithm can then suggest potential partners in the same way websites like Amazon or Netflix recommend products or movies, based on the behaviour of other customers who have bought the same products, or enjoyed the same films.
+Internet dating may be big business, but no-one has yet devised the perfect matching system. It may well be that the secret of true love is simply not susceptible to big data or any other type of analysis.
+"Two people may have exactly the same iTunes history," OKCupid's Christian Rudder concludes, "but if one doesn't like the other's clothes or the way they look then there simply won't be any future in that relationship."

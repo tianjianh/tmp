@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161215045639/http://www.bbc.co.uk/news/technology-29520077
+
+[SN]TITLE[SN]
+No user data lost in Yahoo server hack
+
+[SN]FIRST-SENTENCE[SN]
+Yahoo has said no user data was lost when hackers breached its servers.
+
+[SN]RESTBODY[SN]
+The web firm was alerted to the breach by security experts seeking computers vulnerable to the recently discovered Shellshock bug.
+Shellshock is a flaw found in many widely used versions of the Unix operating system.
+Although the Yahoo servers were vulnerable to Shellshock it said attackers used a different vulnerability to get at the machines.
+In a statement, Yahoo said that early on 6 October it isolated several servers that it had been informed were vulnerable to compromise via Shellshock.
+They were identified as being vulnerable by security researchers scanning servers around the net seeking those running software susceptible to Shellshock. If exploited, the Shellshock bug would allow attackers to run commands as if they were in control of that machine.
+"After investigating the situation fully, it turns out that the servers were in fact not affected directly by Shellshock, but by a minor bug in a parsing script," said Yahoo in a statement.
+The vulnerable servers were used by Yahoo to provide live sports updates and news feeds to users.
+Added Yahoo: "After a comprehensive investigation, we have found no evidence that user information was affected by this incident."
+In a separate statement released to the Hacker News wire Alex Stamos, security chief at Yahoo, said: "This flaw was specific to a small number of machines and has been fixed, and we have added this pattern to our code scanners to catch future issues."
+Millions of machines are believed to be vulnerable to Shellshock and security firms have found some cybercrime groups using it to take over machines they then organise into a single network that can be used to send out spam or to carry out other attacks.

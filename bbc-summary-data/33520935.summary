@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170716115422/http://www.bbc.com/news/technology-33520935
+
+[SN]TITLE[SN]
+Mozilla blocks Flash by default on Firefox browser
+
+[SN]FIRST-SENTENCE[SN]
+Adobe's Flash software is now blocked by default on all versions of the Firefox web browser.
+
+[SN]RESTBODY[SN]
+Mozilla, which develops Firefox, imposed the block because recently unearthed bugs in Flash were being actively used by cyber-thieves.
+The bugs were detailed in a cache of documents stolen from security firm Hacking Team that was hit by attackers last week.
+Adobe said it took Flash's security "seriously" and was planning bug fixes.
+Flash is widely used on many websites for both multimedia and interactive elements.
+On its support pages, Mozilla said the block would remain until "Adobe releases an updated version to address known critical security issues".
+Attackers were known to use vulnerabilities in Flash to install malicious software on computers and steal data, it added.
+The vulnerabilities in the documents stolen from Hacking Team have been quickly added to so-called exploit kits which are used by many thieves when they craft campaigns that seek to take over victims' computers.
+Mozilla also gave advice about how to adjust Firefox's settings so Flash would only run with the permission of a browser's user rather than all the time. It said users should only activate Flash on sites they trust. Firefox is the third most popular desktop browsing program, according to figures gathered by analysis firms that monitor browser market share.
+The block comes soon after Facebook's newly appointed security chief Alex Stamos publicly called for Adobe to kill off Flash.
+"It is time for Adobe to announce the end-of-life date for Flash and to ask the browsers to set killbits on the same day," he said in a tweet.
+In a later message he said Adobe setting a date would help everyone plan and prepare for the day it no longer worked.
+Flash, and other Adobe products, regularly feature among the top 10 applications favoured by criminals keen to compromise computers and steal saleable data because they are used on so many devices.
+Adobe has already moved to close one of the vulnerabilities revealed in the files stolen from Hacking Team. However, it said it was still working on patches for two other bugs found by the security firm.
+It said patches for the other bugs should be available later this week.
+Adobe took security "very seriously" and was making "extensive efforts" internally to harden Flash against attackers, it told tech news site The Register.

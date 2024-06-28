@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160611065814/http://www.bbc.com/news/technology-36312352
+
+[SN]TITLE[SN]
+Hackers' website breached by hacker
+
+[SN]FIRST-SENTENCE[SN]
+The email addresses and private messages of more than 470,000 members of a hacking website have been leaked online following a huge data breach.
+
+[SN]RESTBODY[SN]
+The Nulled website was a popular marketplace for stolen account details and hacking tips.
+The leaked data contained more than 5,000 purchase records relating to the exchange of stolen information.
+The site has been taken offline, stating it is undergoing "routine maintenance".
+Researchers at Risk Based Security said the data dump contained the "complete forum's database" including 12,600 invoices, usernames, members' PayPal addresses and IP addresses.
+It also contained millions of forum posts and private messages detailing illegal activities.
+And some of the data could be used to work out members' identities, if they did not take steps to conceal it.
+Risk Based Security added the website had used message board software with known vulnerabilities, and the site also used a weak hashing algorithm to protect members' passwords.
+The data breach was confirmed by independent security researcher Troy Hunt.
+"Data breaches like this remind us that even criminal elements are not immune from having their identities disclosed and released publicly," said Mr Hunt.
+"While many of them no doubt took precautions to hide their true identities, inevitably many others will now be feeling very nervous at the prospect of being outed while engaged in fraudulent activities."

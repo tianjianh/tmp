@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161031200344/http://www.bbc.com/news/science-environment-37823909
+
+[SN]TITLE[SN]
+'Bionic' plants can detect explosives
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have transformed the humble spinach plant into a bomb detector.
+
+[SN]RESTBODY[SN]
+By embedding tiny tubes in the plants' leaves, they can be made to pick up chemicals called nitro-aromatics, which are found in landmines and other buried munitions.
+Real-time information can then be wirelessly relayed to a handheld device.
+The MIT (Massachusetts Institute of Technology) work is published in the journal Nature Materials.
+The scientists implanted nanoparticles and carbon nanotubes (tiny cylinders of carbon) into the leaves of the spinach plant.
+They then delivered the nitro-aromatics into the water taken up by the roots and directly to the leaves in droplets. It takes about 10 minutes for the spinach to take up the water via the roots into the leaves.
+To read the signal, the researchers shine a laser onto the leaf, prompting the embedded nanotubes to emit near-infrared fluorescent light.
+This can be detected with a small infrared camera connected to a small, cheap Raspberry Pi computer. The signal can also be detected with a smartphone by removing the infrared filter most have.
+Co-author Prof Michael Strano, from MIT in Cambridge, US, said the work was an important proof of principle.
+"Our paper outlines how one could engineer plants like this to detect virtually anything," he told the BBC News website.
+Prof Strano's lab has previously developed carbon nanotubes that can be used as sensors to detect hydrogen peroxide, TNT, and the nerve gas sarin.
+When the target molecule binds to a polymer material wrapped around the nanotube, it changes the way it glows.
+"The plants could be use for defence applications, but also to monitor public spaces for terrorism related activities, since we show both water and airborne detection," said Prof Strano.
+"Such plants could be used to monitor groundwater seepage from buried munitions or waste that contains nitro-aromatics."
+Using the set-up described in the paper, the researchers can pick up a signal from about 1m away from the plant, and they are now working on increasing that distance.
+Follow Paul on Twitter.

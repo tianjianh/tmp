@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108002936/http://www.bbc.co.uk/news/technology-36845978
+
+[SN]TITLE[SN]
+Google uses AI to save on electricity from data centres
+
+[SN]FIRST-SENTENCE[SN]
+Its artificial intelligence division, DeepMind, has cut Google's data centres' energy consumption by 15%, using a machine-learning algorithm.
+
+[SN]RESTBODY[SN]
+Data centres run the equipment that processes the data consumed by internet users, and it takes a lot of energy to keep their servers cool.
+Some of the newer ones are now being built in colder climates.
+But some estimates suggest they are now responsible for 2% of global greenhouse-gas emissions.
+"Being able to put a dent in that benefits the world in general," said DeepMind co-founder Mustafa Suleyman.
+Fed vast swathes of historical data collected by sensors measuring temperature and power, DeepMind's general purpose algorithm - similar to the one trained to play Atari games - had come up with a real-time, adaptive system that had cut the cost of cooling by 40% and the overall energy consumption by 15%, Mr Suleyman said.
+"This will have a significant environmental impact," he said.
+The system will be rolled out across all of Google's data centres by the end of the year.
+And, in six weeks, DeepMind will share the details of the system in a White Paper.
+"We are already talking to non-Google partners about using the same algorithm," Mr Suleyman said, adding it could work equally well in large manufacturing facilities and even national energy grids.
+In its 2015 green energy report, campaign group Greenpeace praised Apple, Google and Facebook for their commitments to the use of 100% renewable energy in their data centres.

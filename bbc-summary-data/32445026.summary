@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150424111742/http://www.bbc.com/news/technology-32445026
+
+[SN]TITLE[SN]
+Bitcoins 'losing' value for cyber-thieves
+
+[SN]FIRST-SENTENCE[SN]
+The falling value of bitcoins have made them much less attractive to cyber-thieves, claims a security expert.
+
+[SN]RESTBODY[SN]
+The anonymity of the virtual cash has made it a favourite with thieves who blackmail victims with viruses.
+Now hi-tech gangs quickly convert payments into other currencies, said IBM security expert Etay Maor in an interview with The Register.
+One bitcoin is now worth Â£155, much lower than the Â£728 value it hit in late 2013.
+Scrambling data with malicious programs known as ransomware - which demand payment from victims to decrypt data - has been popular with some hi-tech criminals over the past few years. The gang behind the notorious cryptolocker program is believed to have made about Â£2m from victims before it was broken up.
+Bitcoins have been the preferred payment method, said Mr Maor, but the volatility of the currency and its falling value has forced criminals to convert it into other forms of cash as soon as possible.
+"Most of them won't keep bitcoins - they don't like the valuations bitcoin has - so they just use it as a layer of obfuscation, and move it to a different form of money," Mr Maor told The Register during an interview at the RSA security conference in San Francisco.
+Many ransomware gangs use people not directly connected with the gang, known as mules, to clean up the cash by paying it into a legitimate bank account. Mules generally get a 20% cut as a fee.
+Police forces and computer security firms have scored some successes against ransomware gangs. Computers involved in the cryptolocker malware were seized and the encryption system for the program broken so victims could get their data back without paying any cash.
+In addition, Dutch police have worked with security firm Kaspersky Labs to analyse a server seized during an operation against the coinvault ransomware. This led to the creation of a program that can decrypt scrambled data. The firm has also retrieved lots of encryption keys that can be used to unscramble data.

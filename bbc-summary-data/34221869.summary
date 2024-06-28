@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170226032410/http://www.bbc.com/news/technology-34221869
+
+[SN]TITLE[SN]
+Tor gets help to anonymise users of 'dark web'
+
+[SN]FIRST-SENTENCE[SN]
+The Tor network is being given help to keep secret what is done via the "dark web" system.
+
+[SN]RESTBODY[SN]
+Two proposals have won approval from key internet bodies that will limit how widely information is shared about sites hosted on Tor.
+Some of this information has previously been leaked, potentially giving attackers a way to track users.
+The move should also make it easier for sites that are hosted on Tor to encrypt data passing to and from users.
+Tor, or The Onion Router, lets people browse the web anonymously by shuttling data through several different computers and encrypting it at every step.
+This network has also become host to many sites that use a .onion suffix in a similar way to the way domains such as .com and .org are used on the world wide web.
+Many different organisations, including Facebook, whistle-blowing sites and drug marketplaces, use .onion sites because they help to protect the identity of their users.
+Before now, when the names of .onion sites were included in some applications many computers tried to locate them by consulting the web's public lists of where all websites are found.
+The query would produce no useful location information but could be used by eavesdroppers to track down people using the anonymising Tor network.
+Privacy campaigners Jacob Appelbaum and Alec Muffet have tabled two proposals designed to to stop this data leakage by giving the .onion domain special status and by making developers handle the suffix properly.
+This would stop computers and browsers looking on the web for information about sites that only exist on Tor.
+Iana, the net administration body that oversees domains, approved the .onion domain proposal this week. In addition, the Internet Engineering Task Force, which works on ways to improve the net, has accepted the other proposals that should stop web applications and programs wrongly seeking information about Tor sites.
+Together, the two proposals will also make it easier for .onion sites to add encryption to protect users further.
+"This enables the Tor .onion ecosystem to benefit from the same level of security you can get in the rest of the web," Richard Barnes, Mozilla's security head for Firefox told news site Motherboard. "It adds a layer of security on top."

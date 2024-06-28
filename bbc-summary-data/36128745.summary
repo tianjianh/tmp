@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160425123557/http://www.bbc.com/news/technology-36128745
+
+[SN]TITLE[SN]
+Millions of Mexican voter records 'were accessible online'
+
+[SN]FIRST-SENTENCE[SN]
+A massive database of Mexican voter records was made publicly accessible on the internet, a US security researcher has discovered.
+
+[SN]RESTBODY[SN]
+The names, addresses, dates of birth and voter ID numbers of 87 million Mexicans appeared to be listed in the cache.
+It was discovered by Chris Vickery, who had been browsing unsecured databases, with a security tool called Shodan.
+The voter data has since been taken offline.
+"When I opened it up in my database, viewer I saw names, obvious addresses and identifying numbers. I started Googling the addresses to see where they were," Mr Vickery, a security researcher for software firm MacKeeper, told the BBC.
+"All the addresses turned out to be in Mexico. I thought, 'This is a Mexican voter database - it has to be.'"
+Mr Vickery had made his discovery on 14 April, he said, and initially had trouble reaching an official to warn about the leak.
+After mentioning the database during a talk at Harvard last week, a Mexican who happened to be in the audience helped to authenticate the data.
+"He was able to authenticate his father's entry in the database - he said, 'Oh my God, that's my address, that's everything,'" said Mr Vickery.
+A journalist, also present at the talk, helped Mr Vickery to inform the Mexican National Electoral Institute, which organises federal elections in the country.
+The institute has since released a statement in Spanish about the data's publication online.
+"A copy of the electoral register has been found in a file storage site of the US company Amazon," it reads.
+"An internal investigation has been launched and the case has been reported to the special prosecutor for electoral crimes."
+Once the authorities had been notified, steps were taken to remove the information from Amazon's cloud servers. This was done by 22 April.
+"All [Amazon Web Services] security features and networks continue to operate as designed," Amazon said in a statement.
+"On April 21, AWS was notified that an unsecured database containing sensitive information was being hosted on the AWS cloud and was publicly accessible via the internet.
+"We then notified the customer by both email and phone.
+"As of 01:00 [local time] on 22 April, this database was no longer publicly accessible."
+Mr Vickery said he had since been invited to Mexico as a guest of the government and planned to accept the invitation if his wife was able to join him on the trip.
+"The embassy told me I was on the cover of every major Mexican newspaper on Saturday," he said.
+"I want to get my hands on one of those newspapers."
+Recently, the details of 70 million voters in the Philippines were reported to have leaked online.
+And in December last year, Mr Vickery found a cache of data on 191 million US voters after a database was made accessible via the web.
+Speaking on the dangers of this sort of data being made public, Mr Vickery said it could sometimes be used by scammers.
+"They call up old people and tell them they have a virus," he said.
+The scammers then give the victims instructions that result in malware being installed on their computers.
+"It's a huge problem over here," Mr Vickery said.
+And in Mexico in particular, he said - where up to 100,000 people are kidnapped every year - data on people's home addresses could be considered particularly sensitive.
+Alex Cruz Farmer at security company NSFocus IB said: "This is a significant breach, and what makes it worse is that the data was being held outside of Mexico."
+Mr Cruz Farmer said data-governance rules in the country forbade exporting people's personal information outside the country without their permission.
+"As Mr Vickery has quite rightly raised, the concern over what the data could be used for is extremely distressing," he added.

@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160415082916/http://www.bbc.com/news/science-environment-36046746
+
+[SN]TITLE[SN]
+Great monarch butterfly migration mystery solved
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have built a model circuit that solves the mystery of one of nature's most famous journeys - the great migration of monarch butterflies from Canada to Mexico.
+
+[SN]RESTBODY[SN]
+Monarchs are the only insects to migrate such a vast distance.
+So, by teaming up with biologists, mathematicians set out to recreate the internal compass they use to navigate on that journey.
+The findings are published in the journal Cell Reports.
+Lead researcher Prof Eli Shlizerman, from the University of Washington, explained that, as a mathematician, he wants to know how neurobiological systems are wired and what rules we can learn from them.
+"Monarch butterflies [complete their journey] in such an optimal, predetermined way," he told BBC News.
+"They end up in a particular location in Central Mexico after two months of flight, saving energy and only using a few cues."
+Prof Shlizerman worked with biologist colleagues, including Steven Reppert at the University of Massachusetts, to record directly from neurons in the butterflies' antennae and eyes.
+"We identified that the input cues depend entirely on the Sun," explained Prof Shlizerman.
+"One is the horizontal position of the Sun and the other is keeping the time of day.
+"This gives [the insects] an internal Sun compass for travelling southerly throughout the day."
+Having worked out the inputs for this internal compass, Prof Shlizerman then created a model system to simulate it.
+This consisted of two control mechanisms - one based on the timekeeping "clock" neurons in the butterflies' antennae and the other from what are called azimuth neurons in their eyes. These monitor the position of the Sun.
+"The circuit gets those two signals then matches them, according to how it's wired, to control signals that tell the system if a correction is needed to stay on the correct course," explained Prof Shlizerman.
+"For me this is very exciting - it shows how a behaviour is produced by the integration of signals," he added.
+"We can take these concepts to produce robotic versions of these systems - something [that is] powered by and that navigates by the Sun."
+Prof Shlizerman said that one of his team's goals was to build a robotic monarch butterfly that could follow the insects and track their entire migration.
+"It's a very interesting application that could follow the butterflies and even help maintain them.
+"Their numbers are decreasing, so we want to keep this insect - the only one that migrates these huge distances - with us for many years."
+Prof Matthew Cobb from the University of Manchester told BBC News that the study showed that "something as astounding as the monarch migration can be understood in terms of cellular circuitry".
+"Our current robots are far cruder than even the simplest nervous system," he added.
+Follow Victoria F on Twitter

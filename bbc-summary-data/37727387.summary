@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170511011918/http://www.bbc.co.uk/news/technology-37727387
+
+[SN]TITLE[SN]
+AI predicts outcome of human rights cases
+
+[SN]FIRST-SENTENCE[SN]
+An artificial intelligence system has correctly predicted the outcomes of hundreds of cases heard at the European Court of Human Rights, researchers have claimed.
+
+[SN]RESTBODY[SN]
+The AI predicted the verdicts to an accuracy of 79%, according to the scientists involved.
+AI is increasingly being used in fields such as journalism, law and accountancy.
+But critics said no AI would be able to understand the nuances of a legal case.
+The study, which was conducted by researchers at University College London and the universities of Sheffield and Pennsylvania, does not spell an end to lawyers, the researchers said.
+"There is a lot of hype about AI but we don't see it replacing judges or lawyers any time soon. What we do think is they'd find it useful for rapidly identifying patterns in cases that lead to certain outcomes," said Dr Nikolaos Aletras, who led the study at UCL.
+"It could also be a valuable tool for highlighting which cases are most likely to be violations of the European Convention on Human Rights."
+The team identified English language datasets for 584 cases related to three articles of the Convention on Human Rights:
+These were picked both because they represented cases about fundamental rights and because there was a large amount of published data on them.
+The algorithm looked for patterns in the text and was able to label each case either as a "violation" or "non-violation".
+To prevent bias and mislearning, the team selected an equal number of violation and non-violation cases for the AI to learn from.
+"Ideally, we'd test and refine our algorithm using the applications made to the court rather than the published judgements, but without access to that data we rely on the court-published summaries," said co-author Dr Vasileios Lampos.
+The algorithm tended to get judgements wrong when there were two similar cases - one a violation and one not, suggesting that the platform was not able to detect the finer subtleties of the law.
+The next stage for the researchers is to test the system with more data.
+"There is no reason why it cannot be extended to understand testimonies from witnesses or lawyers' notes," Dr Aletras told the BBC.
+Increasingly law firms are turning to AI to help them wade through vast amounts of legal data.
+Ross, which uses the computing power of IBM Watson, was recently hired by law firm Baker & Hostetler, which deals with bankruptcy cases.
+Matt Jones, an analyst at data science consultancy Tessella, said of the research project: "It has huge potential as a big timesaver in legal cases by automating some of the less interesting tasks and helping people make decisions on chances of success. But AI is some way off being used as a tool to advise legal decisions."
+He added that such systems were not yet capable of "understanding nuance".
+"An AI can make a good guess but without direct appreciation of the wider context outside of its training data and experience, that guess may be widely off the mark, and in a legal situation that may be dangerous for the case."

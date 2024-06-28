@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101200635/http://www.bbc.co.uk/news/technology-36585930
+
+[SN]TITLE[SN]
+Hack attack drains start-up investment fund
+
+[SN]FIRST-SENTENCE[SN]
+Hackers have taken control of virtual cash worth $60m (£41m) by exploiting a bug in a system designed to help start-ups.
+
+[SN]RESTBODY[SN]
+The attack targeted an investment fund called the DAO which is based on technology derived from the Bitcoin crypto-currency.
+DAO members are now debating how to recover the diverted funds.
+One suggestion involves rolling back the entire computerised system to a time when the hack had not happened.
+The DAO, or Decentralised Autonomous Organisation, acts as an investment fund that people buy into by swapping real cash for a virtual currency known as Ether.
+Using Ether, people could buy DAO tokens that they could "spend" to back start-ups and investment opportunities looking for help via the fund. Earlier this year, investors put about $150m of Ether into the DAO.
+Ether was developed by a company called Ethereum which has been at the forefront of work to use the technology and ideas behind bitcoin in other ways. The DAO was an attempt to use it to create a crowd-sourced autonomous fund owned by its participants that was free of the third-parties involved in more traditional venture capital investment vehicles.
+But one DAO participant noticed a flaw in the way that tokens were transferred between members - this allowed them to siphon off about 3 million of the tokens into a separate DAO of their own.
+"An attack has been found and exploited in the DAO, and the attacker is currently in the process of draining the Ether contained in the DAO into a child DAO," wrote Ethereum founder Vitalik Buterin in a blogpost about the incident.
+Mr Buterin has proposed that the system be changed to make all the addresses holding Ether in the separate or "child" DAO invalid. A 27-day limit on when Ether can be moved out of a child DAO gives members a chance to fix the problem before the virtual cash is moved, he wrote.
+Alternatively, he said, the creators of the DAO could simply return the whole system to a time when the hack had not yet happened.
+Christoph Jentzsch, chief technology officer at Slock.it - which created the DAO's "framework" - said it was "fully supporting" the plan to invalidate the addresses holding Ether in the attacker's own DAO. He said Slock.it was now investigating how to go about rolling the whole system back to the time before the attack.
+Prof Emin Gun Sirer, a computer scientist at Cornell University, said the attack was a "nightmare scenario" come to life.
+He said the incident showed that setting up and running applications like the DAO requires "extreme amounts of diligence".
+"It's more similar to writing code for a nuclear power reactor, than to writing loose web code," he said.

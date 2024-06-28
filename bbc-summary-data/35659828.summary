@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160226164509/http://www.bbc.co.uk/news/technology-35659828
+
+[SN]TITLE[SN]
+uKnowKids defends response to data breach alert
+
+[SN]FIRST-SENTENCE[SN]
+A company that monitors children's online activity has defended its response to the discovery that one of its databases was exposed to the net.
+
+[SN]RESTBODY[SN]
+When Chris Vickery discovered the security risk and alerted uKnowKids, it accused him of hacking its systems.
+The US firm's chief told the BBC he was concerned that Mr Vickery had refused to delete screenshots of the data, which included images of children.
+Mr Vickery said that he wanted to ensure uKnowKids dealt with the issue.
+Chris Vickery found millions of text messages and images plus 1,700 "detailed child profiles" belonging to uKnowKids customers via the search engine Shodan.
+The MacKeeper security expert said the database was not password protected. uKnowKids' chief executive Steve Woda put this down to "human error" saying a third-party had installed it.
+The vulnerability was fixed within 90 minutes of notification, uKnowKids said.
+Mr Vickery said he had deleted the files he had accessed but kept a few "redacted" screenshots as a record, in case the firm tried to cover up the breach.
+Mr Woda said his firm would not have acted that way.
+"We're not running from it," he said.
+"I am super thankful to Mr Vickery for sharing [his discovery] with us.
+"Where the line was crossed was when we said: 'Can we reassure ourselves and our customers that the data we know has been exploited, will not be exploited?'
+"During the phone call I asked him to delete [the data he had], he told us no, he wouldn't."
+Mr Woda said he also suggested that the pair work together to publicise the vulnerability and involve the Federal Trade Commission.
+"If somebody takes your bike and you say give it back, are you intimidating them?" he asked.
+"I have no animosity. I just wish he would have respected our customers' data."
+He added that he used the word "hack" in a blog post on the firm's website in order to convey to his customers the seriousness of the situation.
+Chris Vickery said that he was offended by the suggestion that he had acted illegally.
+"I am not inclined to cooperate on joint releases with someone who directly accuses me of criminal activity. I have done nothing wrong," he said.
+The row highlights the grey area in which ethical hackers operate - seeking out security weaknesses and vulnerabilities and informing the data owners rather than exploiting them. They typically act without obtaining consent in advance, and deal with very sensitive material.
+"Anyone researching security has a duty of care," said cybersecurity expert Professor Alan Woodward from Surrey University.
+"As this data concerns children, I would have hoped that the researcher would have exercised great caution and acted in such a way that he was not adding to the risks of the data being copied into the wild - notwithstanding that the data was publicly visible anyway.
+"I think both sides in this story could have handled it better."
+Read and watch more cybersecurity stories in our special index

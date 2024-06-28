@@ -1,0 +1,53 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112131401/http://www.bbc.com/news/technology-26954540
+
+[SN]TITLE[SN]
+Heartbleed Bug: Tech firms urge password reset
+
+[SN]FIRST-SENTENCE[SN]
+Several tech firms are urging people to change all their passwords after the discovery of a major security flaw.
+
+[SN]RESTBODY[SN]
+The Yahoo blogging platform Tumblr has advised the public to "change your passwords everywhere - especially your high-security services like email, file storage and banking".
+Security advisers have given similar warnings about the Heartbleed Bug.
+It follows news that a product used to safeguard data could be compromised to allow eavesdropping.
+OpenSSL is a popular cryptographic library used to digitally scramble sensitive data as it passes to and from computer servers so that only the service provider and the intended recipients can make sense of it.
+If an organisation employs OpenSSL, users see a padlock icon in their web browser - although this can also be triggered by rival products.
+Those affected include Canada's tax collecting agency, which halted online services "to safeguard the integrity of the information we hold".
+However, experts stress that they have no evidence of cybercriminals having harvested the passwords and that users should check which services have fixed the flaw before changing their login.
+Google Security and Codenomicon - a Finnish security company - revealed on Monday that a flaw had existed in OpenSSL for more than two years that could be used to expose the secret keys that identify service providers employing the code.
+They said that if attackers made copies of these keys they could steal the names and passwords of people using the services, as well as take copies of their data and set up spoof sites that would appear legitimate because they used the stolen credentials.
+The University of Surrey's Prof Alan Woodward is among security experts to have suggested internet users should now update their login details.
+He suggests the following rules should be observed when picking a new password.
+Don't choose one obviously associated with you
+Hackers can find out a lot about you from social media so if they are targeting you specifically and you choose, say, your pet's name you're in trouble.
+Choose words that don't appear in a dictionary
+Hackers can precalculate the encrypted forms of whole dictionaries and easily reverse engineer your password.
+Use a mixture of unusual characters
+You can use a word or phrase that you can easily remember but where characters are substituted, eg, Myd0gha2B1g3ars!
+Have different passwords for different sites and systems
+If hackers compromise one system you do not want them having the key to unlock all your other accounts.
+Keep them safely
+With multiple passwords it is tempting to write them down and carry them around with you. Better to use some form of secure password vault on your phone.
+It is not known whether the exploit had been used before the revelation, since doing so would not leave a trail - unless the hackers published their haul online.
+"If people have logged into a service during the window of vulnerability then there is a chance that the password is already harvested," said Ari Takanen, Codenomicon's chief technology officer.
+"In that sense it's a good idea to change the passwords on all the updated web portals."
+Other security experts have been shocked by the revelation
+"Catastrophic is the right word. On the scale of one to 10, this is an 11," blogged Bruce Schneier.
+The BBC understands that Google warned a select number of organisations about the issue before making it public, so they could update their equipment to a new version of OpenSSL released at the start of the week.
+However, it appears that Yahoo was not included on this list and tech site Cnet has reported that some people were able to obtain usernames and passwords from the company before it was able to apply the fix.
+"Our team has successfully made the appropriate corrections across the main Yahoo properties - Yahoo Homepage, Yahoo Search, Yahoo Mail, Yahoo Finance, Yahoo Sports, Yahoo Food, Yahoo Tech, Flickr and Tumblr - and we are working to implement the fix across the rest of our sites right now," said a spokeswoman for the company.
+New passwords
+NCC Group - a cybersecurity company that advises many members of the FTSE 250 - described the situation as "grave".
+"The level of knowledge now needed to exploit this vulnerability is substantially less than it was 36 hours ago," the company's associate director Ollie Whitehouse told the BBC.
+"Someone with a moderate level of technical skills running their own scripts - the Raspberry Pi generation - would probably be able to launch attacks successfully and gain sensitive information.
+"As long as service providers have patched their software it would now be a prudent step for the public to update their passwords."
+Several securityfirms andindependent developershave published online tests to help the public discover if the services are still exposed.
+However, there is no simple way to find out if they were vulnerable before.
+Organisations that used Microsoft's Internet Information Services (IIS) web server software would not have been affected.
+But Codenomicon has noted that more than 66% of the net's active sites rely on the open source alternatives Apache and Nginx, which do use OpenSSL.
+Even so, some of these sites would have also employed a feature called "perfect forward secrecy" that would have limited the number of their communications that could have been hacked.
+A researcher at the University of Cambridge Computer Laboratory said it would be an overreaction to say everyone should drop what they are doing to reset all their passwords, but that those concerned should still act.
+"I think there is a low to medium risk that any given password has been compromised," said Dr Steven Murdoch.
+"It's not the same as previous breaches where there's been confirmed password lists posted to the internet. It's not as urgent as that.
+"But changing your password is very easy. So it's not a bad idea but it's not something people have to rush out to do unless the service recommends you do so."

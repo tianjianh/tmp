@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170227234440/http://www.bbc.co.uk/news/technology-36320322
+
+[SN]TITLE[SN]
+Millions of hacked LinkedIn IDs advertised 'for sale'
+
+[SN]FIRST-SENTENCE[SN]
+A hacker is advertising what he says is more than one hundred million LinkedIn logins for sale.
+
+[SN]RESTBODY[SN]
+The IDs were reportedly sourced from a breach four years ago, which had previously been thought to have included a fraction of that number.
+At the time, the business-focused social network said it had reset the accounts of those it thought had been compromised.
+LinkedIn now plans to repeat the measure on a much larger scale.
+One expert said the service should have reset all its accounts the first time round.
+LinkedIn is often used to send work-related messages and to find career opportunities - activities its members would want to stay private.
+Criminals could make use of this information or see if its subscribers had used the same passwords elsewhere.
+"We are taking immediate steps to invalidate the passwords of the accounts impacted, and we will contact those members to reset their passwords," a spokeswoman for the California-based firm told the BBC.
+"We have no indication that this is a result of a new security breach.
+"We encourage our members to visit our safety centre to ensure they have two-step verification authentication and to use strong passwords in order to keep their accounts as safe as possible."
+Details of the sale were first reported by the news site Motherboard.
+It said the details were being advertised on at least two hacking-related sites.
+A total of 117 million passwords are said to be included.
+The passcodes are encoded, but in a form that appears to have been relatively easy to reverse-engineer.
+LinkedIn had about 165 million accounts at the time of the breach, but the discrepancy in the figures might be explained by the fact that some of its users logged in via Facebook.
+After the breach first occurred, a file containing 6.5 million encrypted passwords was posted to an online forum in Russia.
+LinkedIn reacted by saying it had invalidated all the accounts it believed had been compromised and emailed affected members saying they needed to register new passwords.
+But Motherboard has tracked down one user, whose details are in the batch currently on sale, and found that the password listed for him was still active.
+A security researcher who has also been given access to about one million of the advertised IDs said he believed it was "highly likely" that the leak was real.
+"I've personally verified the data with multiple subscribers [of my own site] 'Have I been pwned'," Troy Hunt told the BBC.
+"They've looked at the passwords in the dump and confirmed they're legitimate."
+Another expert noted that the problem stemmed from the fact that LinkedIn had originally "hashed" its passwords but not "salted" them before storing them.
+Hashing involves using an algorithm to convert passwords into a long string of digits. Salting is an additional step meant to stop unauthorised parties from being able to work around the process.
+"A salt involves adding a few random characters, which are different on a per-user basis, to the passwords [before they are hashed]," explained Rik Ferguson, chief technology officer at the cybersecurity firm Trend Micro.
+By doing this, he added, you prevent hackers from being able to refer to so-called "rainbow tables" that list commonly-used passwords and the various hashes they produce, and then see if any of the hashes match those in the stolen database.
+LinkedIn introduced salting after the attack, but that only benefits the login databases it generated afterwards.
+"Using salting is absolutely best practice for storing passwords under any circumstances and was the case back in 2012 as well," Mr Ferguson said.
+"If LinkedIn is saying now that it didn't know which accounts had been affected by the breach, then the sensible thing to have done at the time would have been a system-wide forced reset of every password."

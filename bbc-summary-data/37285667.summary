@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170707030722/http://www.bbc.co.uk/news/technology-37285667
+
+[SN]TITLE[SN]
+Microsoft's UK data centres power up cloud services
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has announced that its first UK cloud computing data centres are up and running.
+
+[SN]RESTBODY[SN]
+The facilities are located in London, Durham and Cardiff. They should help the US company sell its online services to the public sector and other bodies that handle sensitive data.
+The Ministry of Defence and an NHS trust are among those set to adopt the internet-powered products as a result.
+Amazon is set to open its own rival UK data centres soon.
+Mike Stone, chief information officer at the Ministry of Defence, said he first approached Microsoft with the idea of opening local facilities two years ago.
+At the time, he said, the MoD was using software that had not been updated in years.
+"We were still on Windows XP, for instance, and all of the applications were from 2003 or prior to that," he told the BBC.
+"I took the view that the services we were providing were unfit for purpose. The idea is to provide a different capability that fully exploits the power of the cloud and mobility.
+"We can now work on documents collaboratively and understand more about the ways we are working - we will be able to see how much time teams are spending in meetings, on email and on the phone."
+Microsoft first revealed its plan to set up UK-based data centres last November.
+They now provide a local version of its Azure services, which allow customers to store data and offload processing tasks.
+Clients are only charged for what they use and can easily alter their requirements at short notice. This can prove substantially cheaper than maintaining their own computer servers, although a hybrid approach is also possible. The risk, however, is that if something goes wrong it can cause problems for many organisations at once.
+The UK data centres also mean Microsoft is able to offer its online suite of Office 365 productivity apps without sending data overseas.
+It hopes this will reassure clients that their information is secure.
+Microsoft is, however, fighting a long-running legal battle against the US government, which believes it has the right to force domestic companies to surrender data even when it is held overseas.
+"The MoD had always considered itself as a special case with bespoke and disparate ICT [information and communications technology] solutions, but is now having to be far more commercially minded in the face of financial pressures," said Daniel Jones, an analyst at the consultancy Kable.
+"Other areas of the public sector have also held off migration to the cloud for various reasons, including fears over data sovereignty and the complexity of the task.
+"But no-one has a more complex environment than the MoD's ICT network, so that should provide a degree of reassurance to other potential customers."
+To start with, the MoD's 230,000 staff will not be allowed to store "classified" documents on Azure, but Mr Stone said this restriction might be relaxed over time.
+"Even though legally, we can keep all of our data anywhere in the European Union, when it came to defence information, it did not feel right to me that it was stored outside the UK," he added.
+"That's why I asked [Microsoft's chief executive] Satya Nadella to come."
+In addition to the MoD, other new clients include:
+"We're expecting that legal services, banking, utilities and some of those more regulated sectors as well as the public sectors will now find ways to benefit from the cloud," said Microsoft UK's general manager of marketing Nicola Hodson.
+Amazon does not offer an equivalent to Office 365, but its AWS cloud computing division remains more popular than Azure.
+AWS accounted for about 31% of the global cloud infrastructure service market between April and June, according to Synergy Research.
+In contrast, Microsoft had an 11% share.
+Amazon also announced plans to build UK data centres last year, but is yet to confirm when they will open.

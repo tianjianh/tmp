@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160428164016/http://www.bbc.co.uk/news/technology-25572661
+
+[SN]TITLE[SN]
+Snapchat hack affects 4.6 million users
+
+[SN]FIRST-SENTENCE[SN]
+The usernames and phone numbers for 4.6 million Snapchat accounts have been downloaded by hackers, who temporarily posted the data online.
+
+[SN]RESTBODY[SN]
+A website called SnapchatDB released the data but censored the last two digits of the phone numbers.
+It has since been taken offline but a cached version is still available.
+The hack comes days after an Australian firm, Gibson Security, warned of vulnerabilities in Snapchat's app which it said could be exploited by hackers.
+Gibson Security said it was not involved in the hack: "We know nothing about SnapchatDB, but it was a matter of time till something like that happened," the firm tweeted.
+The hackers behind the website that published the data said they had exploited the security flaw highlighted by Gibson Security.
+"We used a modified version of gibsonsec's exploit/method," they were quoted as saying by tech blog, Tech Crunch.
+Snapchat has grown in popularity as an app that allows people to share pictures, safe in the knowledge they delete themselves after being viewed.
+It has a feature called Find Friends, which allows users to upload their address book contacts to help find friends who are also using the service.
+In its report published on 25 December, Gibson Security warned that a vulnerability on the Snapchat app could be used to reveal the phone numbers of users.
+The firm said it had first warned Snapchat about this four months ago, adding that "nothing had been really been improved upon".
+Gibson claimed that it had been able to crunch through ten thousand phone numbers of Snapchat users "in approximately 7 minutes on a gigabit line on a virtual server".
+In response to the Gibson report, Snapchat acknowledged a potential vulnerability but said it had taken measures to protect user data.
+"Theoretically, if someone were able to upload a huge set of phone numbers, like every number in an area code, or every possible number in the US, they could create a database of the results and match usernames to phone numbers that way," it said in a blogpost last week.
+"Over the past year we've implemented various safeguards to make it more difficult to do. We recently added additional counter-measures and continue to make improvements to combat spam and abuse."
+However, the hackers behind the SnapchatDB, the site that published the phone numbers, said the measures were not strong enough.
+"Even now the exploit persists. It is still possible to scrape this data on a large scale," they claimed.
+"Their latest changes are still not too hard to circumvent."

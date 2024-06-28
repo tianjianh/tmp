@@ -1,0 +1,54 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170714010948/http://www.bbc.com/news/technology-30681002
+
+[SN]TITLE[SN]
+CES 2015: GoBe calorie counter wearable put to the test
+
+[SN]FIRST-SENTENCE[SN]
+A controversial calorie-counting wristband, which had been denounced by some medical experts, has been put to the test by the BBC.
+
+[SN]RESTBODY[SN]
+The creators of the GoBe wristband say it can automatically, non-invasively count the calories eaten by the wearer.
+After crowdfunding $1.1m (Â£707,000) to build the product, the company experienced an intense backlash - with critics saying it was a "scam".
+The BBC challenged its makers to prove it was capable of doing what they said.
+After the GoBe team sought cash for the project, medical experts warned that they thought the kit was either vapourwear that would never exist, or would fail to live up to its inventors' claims.
+And when the bracelet's Indiegogo page raised more than a million dollars - more than 10 times its target - members of the medical profession lined up to explain that even if the tech did monitor blood's glucose concentration, as suggested, that still wouldn't deliver a reliable guide to calorie intake.
+It didn't help that when the start-up involved, HealBe, published details of "independent" research into its tech, it emerged that claims of an 84%-93% accuracy rate were based on tests that had involved only five people monitored over a five-day period.
+So when George Mikaberydze - the firm's co-founder - agreed to let the BBC test GoBe, we were slightly surprised.
+Spoiler: it worked better than we expected, but our test was hardly scientific and far from conclusive.
+Food test
+On the plus side, the experiment involved eating and drinking a meal of our choosing after we rejected HealBe's offer to pick out the food that would be consumed.
+On the minus side, we did not have the opportunity to try out GoBe ourselves as we were told "it takes time to calibrate" to a specific person, and so the results were based on us stuffing Mr Mikaberydze with snack food.
+Here's what we fed him:
+The smartphone app, which connects to the GoBe wirelessly over Bluetooth, started rising within 15 minutes.
+But because it takes time for the body to digest its intake, we had to wait about two-and-a-half hours to get a final reading.
+The result was that the software estimated Mr Mikaberydze had eaten 514 calories, which wasn't far off the 555 calories suggested by the food labels. And to be fair, the number was still slowly climbing when we had to part company.
+So, how is the wristband supposed to have achieved this?
+Electrical current
+The hardware itself isn't revolutionary.
+The sensor involved uses a technique called bioimpedance, which involves passing an imperceptible electrical current through the body to measure its resistance to the effect. Best-selling fitness tracker-maker Jawbone also makes use of bioimpedance in its latest model to measure users' heart rates, and the effect has also been utilised by specialist medical equipment for years.
+What makes HealBe stand out, however, is that it suggests that it is the first to have developed an algorithm that can turn the bioimpedance reading into a calorie count.
+"When you eat food, you have proteins, carbs and fats," explains Mr Mikaberydze.
+"Carbs from the meal convert to glucose, and the glucose goes to the cells.
+"When glucose goes into the cells, water goes out - that means the water balance changes. The bioimpedance sensor used measures this water flow, in and out.
+"And [knowing this] we can build a glucose curveâ€¦ and calculate the carbs."
+He adds that since the amount of fat and protein eaten influences the shape of the glucose curve by flattening it, his software can deduce all three nutritional elements, and go on to deliver the calorie intake estimate.
+He adds that the mathematical equations involved have taken a decade to work out and put into practice.
+But some medical professionals have disputed the science involved, casting doubt over whether bioimpedance can accurately measure intracellular glucose concentrations.
+The blog TechHive memorably concluded that GoBe was the "modern fit-tech version of snake oil", and some of the project's crowdfunders have asked - and obtained - their money back.
+'Holy grail'
+But if - and it's a big if - HealBe can go on to prove its device really does give a close estimate of calorie intake, the rewards could be huge, saving tech-loving dieters the hassle of manually inputting what they've eaten into apps such as MyFitnessPal.
+"It's one of the holy grails in regards to wearables," comments Ben Wood, chief of research at the CCS Insight tech consultancy.
+"If you can crack these types of really tough measurement challenges it opens whole new avenues of opportunity in the wearables space."
+He adds that selling GoBe wristbands would be the tip of the iceberg. The real riches would be secured by licensing the algorithm involved to others - something HealBe says it is already in talks to do.
+But Mr Wood adds that there would be other hurdles to overcome.
+"Any type of wearable device that claims specific medical capabilities will be heading towards an absolute minefield," he states.
+"Making such claims risks getting the US Food and Drug Administration involved, and it sets some very tough bars from a regulatory performance perspective."
+'Something revolutionary'
+One of the so-called red flags that has caused so many people to doubt HealBe's claims is the theory that if a calorie-counting wristband were possible, one of the bigger tech firms would have already invented it.
+But Mr Mikaberydze disputes this idea.
+"Not all the ideas come from the big companies," he says.
+"Take the example of Tesla. Its [electric cars] weren't produced by BMW or Mercedes or Chevrolet.
+"Small companies are more eager to learn something new and to bring something revolutionary to the market."
+Mr Mikaberydze says 12,000 devices have been manufactured. About half will be delivered to Indiegogo funders, with the remainder going on sale later this month.
+Feedback from those customers will help determine whether the sceptics were wrong, or whether HealBe's claims are just too good to be true.

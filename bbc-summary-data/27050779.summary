@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170422234221/http://www.bbc.com/news/technology-27050779
+
+[SN]TITLE[SN]
+Galaxy S5 fingerprint scanner hacked with glue mould
+
+[SN]FIRST-SENTENCE[SN]
+The fingerprint sensor on Samsung's Galaxy S5 handset has been hacked less than a week after the device went on sale.
+
+[SN]RESTBODY[SN]
+Berlin-based Security Research Labs fooled the equipment using a mould it had previously created to spoof the sensor on Apple's iPhone 5S.
+The researchers said they were concerned that thieves could exploit the flaw in Samsung's device to trigger money transfers via PayPal.
+The payments firm played down the risk.
+"While we take the findings from Security Research Labs [SRL] very seriously, we are still confident that fingerprint authentication offers an easier and more secure way to pay on mobile devices than passwords or credit cards," it said.
+It added that even if users were hacked it would cover their losses.
+A spokesman for Samsung was unable to comment.
+SRL created its hack by lifting a real fingerprint from a smartphone screen and then carrying out a fairly elaborate process to create a mould out of glue and graphite spray. This was then swiped across the sensor that sits in the phone's home button.
+"The fingerprint mould was actually one I made for the Apple device back in September," project manager Ben Schlabs told the BBC.
+"All I had to do was take it out of the reject pile as it wasn't one of the ones that ended up working on the iPhone 5S for whatever reason.
+"It was the first one I tried and it worked immediately on the S5."
+Although the fake fingerprint proved easy to use, Mr Schlabs added that he was concerned that Samsung's software would not lock out thieves who had less luck, allowing them to make repeated attempts.
+"Samsung could have enforced a password [lock-out] after five failed swipe attempts," he said.
+"But the way it works is that if it fails five times and asks for a password, if you just turn the screen off and back on again you can have another try."
+This is not true of the iPhone 5S.
+While Apple currently limits its fingerprint scanner to unlocking the iPhone and verifying purchases in its own online store, Samsung has allowed its sensor to be used by third-party apps that add its Pass API (application program interface) to their code.
+PayPal's mobile app is the first to take advantage of this. The software can be used to send and request money and reveal past transactions.
+SRL acknowledged that the fingerprint scanner made it simpler to access, but criticised the company for not requiring a second form of authentication, such as a Pin code.
+However, PayPal said Galaxy S5 users should not be deterred from using the feature.
+"The scan unlocks a secure cryptographic key that serves as a password replacement for the phone," it said.
+"We can simply deactivate the key from a lost or stolen device, and you can create a new one.
+"PayPal also uses sophisticated fraud and risk management tools to try to prevent fraud before it happens. However, in the rare instances that it does, you are covered by our purchase protection policy."
+Tech blog Engadget agreed that users should not be too concerned.
+"The odds are low that a street thief will get past your phone's defences, or that a talented hacker will get in before you've had a chance to remotely wipe your content," it reported.
+But Mr Schlabs said that did not mean the risk of fingerprint hacks could be ignored.
+"If you think into the future, once ATMs have fingerprint scanners and once heads of state start using fingerprint authentication it's going to become a lot more attractive," he said.
+"Our method is pretty rudimentary and has been around for at least a decade and it worked on a phone that was only released last week.
+"Once people develop better or faster methods, or once there are fingerprint databases of images that get leaked, it's definitely a concern."

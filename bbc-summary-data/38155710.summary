@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170224042450/http://www.bbc.co.uk/news/technology-38155710
+
+[SN]TITLE[SN]
+National Lottery accounts feared hacked
+
+[SN]FIRST-SENTENCE[SN]
+About 26,500 National Lottery accounts are feared to have been hacked, according to its operator Camelot.
+
+[SN]RESTBODY[SN]
+The firm said it did not believe its own systems had been compromised, but rather that the players' login details had been stolen from elsewhere.
+The company said that no money had been taken from or added to the compromised accounts.
+But it added that there had been other suspicious activity on fewer than 50 of them.
+The Information Commissioner's Office said it had launched an investigation into the matter.
+"Camelot submitted a breach report to us last night which we have reviewed. We will be talking to Camelot today," said a spokeswoman.
+"The Data Protection Act requires organisations to do all they can to keep personal data secure - that includes protecting it from cyberattacks. Where we find this has not happened, we can take action.
+"Organisations should be reminded that cybersecurity is a matter for the boardroom, not just the IT department."
+Camelot said it became aware of the problem on Sunday.
+"We are currently taking all the necessary steps to fully understand what has happened, but we believe that the email address and password used on the National Lottery website may have been stolen from another website where affected players use the same details," it said in a statement.
+"We do not hold full debit card or bank account details in National Lottery players' online accounts and no money has been taken or deposited.
+"However, we do believe that this attack may have resulted in some of the personal information that the affected players hold in their online account being accessed."
+A spokeswoman added that the accounts represented a small fraction of the draw's 9.5 million registered online players.
+Camelot is contacting the owners of the accounts thought to have been compromised and instructing them to change their passwords.
+One security expert said there had been many recent attacks where logins stolen from one platform had been tested and used to breach another.
+But he still had concerns about Camelot's explanation.
+"If there's 26,500 accounts here and they are saying the credentials are correct but they didn't come from us, they still let an attacker log in 26,500 times," said Troy Hunt.
+"That alone is something that illustrates a deficiency."
+Camelot has defended its systems.
+"We do have extremely robust systems in place. However, cybercriminals are very persistent and, in this case, used multiple, different IP [internet protocol] addresses over a short period of time.
+"As soon as we detected [a] significant increase in both attempted and failed log-ins, we were able to quickly take action to block them."
+Other recent attacks targeted at the UK public include:
+The University of Surrey's Prof Alan Woodward says these rules should be observed when setting an online password:
+Don't choose one obviously associated with you
+Hackers can find out a lot about you from social media so if they are targeting you specifically and you choose, say, your pet's name you're in trouble.
+Choose words that don't appear in a dictionary
+Hackers can precalculate the encrypted forms of whole dictionaries and easily reverse engineer your password.
+Use a mixture of unusual characters
+You can use a word or phrase that you can easily remember but where characters are substituted, eg, Myd0gha2B1g3ars!
+You can make this even stronger by adding in some random characters, eg Myd0g*ha2B1g$3ars!, if you can remember them. But don't be tempted to make the phrase simpler and shorter in order to help you recall it.
+Have different passwords for different sites and systems
+If hackers compromise one system you do not want them having the key to unlock all your other accounts. As we all have so many accounts, you should consider using a password manager. This has the added advantage that it will suggest strong passwords.

@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150731201949/http://www.bbc.co.uk/news/technology-27155946
+
+[SN]TITLE[SN]
+Tech giants spend millions to stop another Heartbleed
+
+[SN]FIRST-SENTENCE[SN]
+The world's biggest technology firms will donate money to fund the support of OpenSSL, the software at the centre of the Heartbleed bug.
+
+[SN]RESTBODY[SN]
+Heartbleed was one of the worst internet flaws ever uncovered.
+The maintenance of the software, which secures around two-thirds of the world's websites, was done by a group of volunteers with very little funding.
+The new group set up by the Linux Foundation has a dozen contributors and has so far raised around $3m (Â£1.7m).
+As well as maintaining OpenSSL it will also support development of other crucial open-source software.
+Firms supporting the initiative include Google, Facebook, Microsoft, Intel, IBM, Cisco and Amazon. Each will donate $300,000 over the next three years.
+The industry has been forced to step up after Heartbleed brought chaos to the tech sector.
+Experts estimate that the Heartbleed bug will cost businesses tens of million of dollars in lost productivity as they update systems with safer versions of OpenSSL.
+"Sometimes it takes a crisis to do the right thing," Linux Foundation executive director Jim Zemlin told journalists.
+The bug exposed more than just people's passwords and credit card details. It also highlighted that the crucial piece of software is maintained by a small group of developers who receive donations averaging about $2,000 a year to support the project.
+"It is kind of weird that such crucial software is run by a group of hobbyists on a shoestring budget," said Mikko Hypponen, chief research officer with security firm F-Secure.
+"This software was invisible, behind the scenes and there are very few volunteers who have the skill and willingness to work on a project like this. There is no recognition, no money and it is very difficult."
+The details that have emerged about how the vulnerability came about speaks volumes about how little the industry has cared about the software that was securing their websites, he added.
+"The fact that the code change which caused the bug was done by an individual working at 23:00 on a New Year's Eve says a lot. The code simply wasn't reviewed enough and it went undetected for two years," he added.
+"Now there is formal and monetary support from the industry I hope we will see a change not just for OpenSSL but for other crucial open source software."

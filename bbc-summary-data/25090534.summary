@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150329052859/http://www.bbc.co.uk/news/technology-25090534
+
+[SN]TITLE[SN]
+Computer uses images to teach itself common sense
+
+[SN]FIRST-SENTENCE[SN]
+A computer program is trying to learn common sense by analysing images 24 hours a day.
+
+[SN]RESTBODY[SN]
+The aim is to see if computers can learn, in the same way a human would, what links images, to help them better understand the visual world.
+The Never Ending Image Learner (NEIL) program is being run at Carnegie Mellon University in the United States.
+The work is being funded by the US Department of Defense's Office of Naval Research and Google.
+Since July, the NEIL program has looked at three million images. As a result it has managed to identify 1,500 objects in half a million images and 1,200 scenes in hundreds of thousands of images as well as making 2,500 associations.
+The team working on the project hopes that NEIL will learn relationships between different items without being taught.
+Computer programs can already identify and label objects using computer vision, which models what humans can see using hardware and software, but the researchers hope that NEIL can bring extra analysis to the data.
+"Images are the best way to learn visual properties," said Abhinav Gupta, assistant research professor in Carnegie Mellon's Robotics Institute.
+"[They] also include a lot of common sense information about the world. People learn this by themselves and, with NEIL, we hope that computers will do so as well."
+Examples of the links that NEIL has made include the facts that cars are found on roads and that ducks can resemble geese.
+The program can also make mistakes, say the research team. It may think that the search term "pink" relates to the pop star rather than the colour because an image search would be more likely to return this result.
+To prevent errors like this, humans will still need to be part of the program's learning process, according to Abhinav Shrivastava, a PhD student working on the project.
+"People don't always know how or what to teach computers," he said. "But humans are good at telling computers when they are wrong."
+Another reason for NEIL to run is to create the world's largest visual knowledge database where objects, scenes, actions, attributes and contextual relationships can be labelled and catalogued.
+"What we have learned in the last five to 10 years of computer vision research is that the more data you have, the better computer vision becomes," Mr Gupta said.
+The program requires a vast amount of computer power to operate and is being run on two clusters of computers that include 200 processing cores.
+The team plans to let NEIL run indefinitely.

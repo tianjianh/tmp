@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170519034359/http://www.bbc.co.uk/news/technology-39928596
+
+[SN]TITLE[SN]
+Cyber-attack glossary: What are malware, patches and worms?
+
+[SN]FIRST-SENTENCE[SN]
+Ransomware called WannaCry has spread across 150 countries, earned its makers about $50,000 (Â£39,000) so far and in doing so, thrown some hospitals in England in to disarray as doctors could not access patient records. It was the story of the weekend and is still ongoing - but if the terms involved were new to you, read on.
+
+[SN]RESTBODY[SN]
+Malware
+Short for "malicious software", this is a programme written to disrupt computers or the networks between them. WannaCry falls in to this category.
+Ransomware
+A programme that scrambles a computer's files, demanding payment before they can be opened again. WannaCry asked for $300 in a virtual currency. Ransomware is not new, but WannaCry spread to more computers than previous ransomware attacks - and, because it hit computers used in hospital trusts, had a bigger impact that previous attempts.
+Virus
+A type of malware that spreads when people do things like inserting USB sticks with viruses in them, and downloading infected files. These are the reason why we are all warned not to open attachments in unexpected emails.
+Worm
+A type of virus that can spread from computer to computer by itself.
+Vulnerability
+A flaw in software that can be exploited to disrupt computers or networks
+Patch
+A software update that fixes a vulnerability. These do not exist for operating systems that are no longer supported by their makers.
+Operating system
+The important software that makes the whole computer run, from the user interface to memory, security, and applications. This might be iOS on an iPhone, Android on other smartphones, Mac OS X, Linux or Windows. Companies release new operating systems every few years; Microsoft's latest is Windows 10, which followed Windows 8.1. Windows XP, was first released in 2001 - a long time ago in technology terms - and Microsoft stopped supporting it in 2014. That means they stopped issuing security updates for vulnerabilities.
+Bitcoin
+A digital currency, in which the WannaCry makers asked for their ransom payments. It is easy to keep offline identities private when using BitCoin. The value of the currency fluctuates considerably, making it difficult to meet a ransom payment exactly.
+Kill switch
+A way to shut down the spread of a virus or worm.  A 22-year-old security specialist from England found WannaCry's kill switch accidentally while trying to track its spread. But he and others have warned that the people behind WannaCry could change it to get around the kill switch he found.

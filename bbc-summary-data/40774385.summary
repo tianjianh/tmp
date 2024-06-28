@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170731234737/http://www.bbc.com/news/technology-40774385
+
+[SN]TITLE[SN]
+Amazon Robotics Challenge 2017 won by Australian budget bot
+
+[SN]FIRST-SENTENCE[SN]
+Cartman - a budget-priced robot from Australia - has triumphed in an annual contest to create a machine that can identify, pick up and stow warehouse goods.
+
+[SN]RESTBODY[SN]
+The bot was designed from scratch to take part in 2017's Amazon Robotics Challenge and used a radically different design to past winners.
+Instead of building a robotic arm, the victors used a sliding mechanism that picked up products from above.
+The four-day event was held in Japan.
+The winning Australian Centre for Robotic Vision (ACRV) squad were engineers from Queensland University of Technology, the University of Adelaide and the Australian National University.
+They walked away with the $80,000 (Â£60,980) cash prize.
+"The parts for the robot were cheap by the standards of typical industrial robots and it could be built for under 30,000 Australian dollars [Â£18,245; $23,935] including its sensors," Prof Jonathan Roberts, robotics lab leader at Queensland University of Technology told the BBC.
+"But there were many thousands of hours of team effort that went into the design, testing and programming."
+Amazon already uses robots to move goods about its warehouses, but relies on humans to pick up and pack them.
+It began hosting the competition in 2015 as a means to "promote shared and open solutions" to automating the tasks.
+A total of 16 teams from 10 countries took part in the latest challenge in the city of Nagoya.
+There were three stages to 2017's time-limited contest:
+Amazon provided the teams with details of about half the products they would face in advance, but gave the roboticists just 30 minutes to photograph and practise with the others.
+Points were awarded for correctly placing the items, with bonuses given for any remaining time on the clock.
+But penalties were imposed for mistakes, dropping items from too great a height, and causing damage to the products and boxes.
+Cartman only placed fifth after the first two parts of the trials, but managed to leapfrog its rivals in the final stage.
+The winning team believes its "Cartesian co-ordinate robot" design was better suited to the task than the arm-like designs of others.
+The description refers to a robot that uses a frame to move in straight lines across three axes that are at right-angles to each other - ie vertically, horizontally and forward/back - in a similar fashion to the way container port cranes work.
+In this case, the mechanism was used to support a rotating gripper that used suction cups and a two-fingered claw to grasp and manipulate the products.
+"It works a lot like a 3D-printer mechanism, where the robot manipulator is moved backwards and forwards and up and down," explained Prof Jonathan Roberts.
+"This made for a more accurate and simple system."
+The result was a big improvement on the same team's sixth-place ranking in 2016, when it programmed a Baxter robot to take part.
+"We learnt from our experience last year when we used an off-the-shelf robot," commented team leader Dr Juxi Leitner.
+"[This year] I think we had the lowest cost robot at the event."

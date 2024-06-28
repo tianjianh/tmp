@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107233148/http://www.bbc.co.uk/news/science-environment-36136035
+
+[SN]TITLE[SN]
+Beagle probe 'seen in sharper view'
+
+[SN]FIRST-SENTENCE[SN]
+Supporting evidence that the Beagle-2 probe is sitting intact on the surface of Mars has come from a new imaging technique developed by UCL scientists.
+
+[SN]RESTBODY[SN]
+Their method stacks and matches multiple pictures taken from orbit to resolve more detail than can be retrieved through standard processing.
+When applied to satellite views of what is thought to be the UK-led lander, a more definitive shape emerges.
+Beagle-2 was despatched to touch down on Mars' surface in December 2003.
+When it failed to radio home, many researchers just assumed it had been destroyed in a high-velocity impact with the ground.
+But then new pictures came out last year that hinted at what might really have happened to the European Space Agency mission.
+These suggested Beagle did indeed land safely, but for some reason did not deploy its solar panels fully. This would have obstructed its radio antenna.
+Jan-Peter Muller and Yu Tao from University College London's Mullard Space Science Laboratory have now had another go at working with the images, which were acquired by the camera on Nasa's Mars Reconnaissance orbiter (MRO).
+Ordinarily, this instrument achieves a pixel width at the surface of under 30cm from an altitude of 300km.
+But their Super-Resolution Restoration (SRR) technique can push that to just 5cm per pixel. The key is being able to extract and combine information from a scene when viewed from several different angles.
+When they do this with MRO's images released last year of the Beagle landing zone, together with some additional frames recently made available - the "petal shape" of the partially unfurled probe becomes clearer still.
+"The feature that we see really looks like an artefact; it doesn't look like any rock I've ever seen on the surface of Mars," said Prof Muller. "And obviously it's not just a blob; it's got some structure to it."
+Muller and Tao are excited by the possibilities offered by SRR, a technical description of which they published recently in the journal Planetary and Space Science.
+They have applied it also to MRO scenes featuring the investigation sites of two Nasa rovers - Curiosity and Spirit. In the case of the latter, SRR processing makes the tracks of the robot vehicle really stand out.
+It is worth noting that the cameras on the rovers themselves only have resolutions of a few centimetres when viewing targets several metres away. Super-resolution satellite imagery is now promising even more powerful assistance to the ground exploration efforts.
+"[SRR] has huge potential to improve our knowledge of a planet's surface from multiple remotely sensed images," said Mr Tao, a research associate at UCL-MSSL and lead author of the recent paper.
+"In the future, we will be able to recreate rover-scale images anywhere on the surface of Mars and other planets from repeat image stacks."
+The two scientists are now talking with Esa about using the technique to find a safe landing site for the agency's 2018 ExoMars rover; they are also keen to see it used on pictures from the new orbiting camera Europe has just sent to the Red Planet called CaSSIS.
+SRR is though a very computation-heavy approach. Using it on stacks to produce an image 2,000 pixels by 1,000 pixels can take three days on the MSSL Imaging Group's 14-blade (224-core) linux cluster. This should improve with time, and one driver could well be the desire to use super-resolution restoration on Earth-observation images.
+There are other groups out there known to be developing very similar systems.
+Phil Davies from remote sensing company Elecnor Deimos UK commented that "stacking multiple images should work very well on an area where nothing changes (much), eg. the Moon or Mars (so long as there are no sandstorms)", but that its application would become more challenging in moving scenes. "Vegetation in strong winds might have enough motion to cause some image degradation," he said.
+Prof Muller concurred, adding that it was possible even to combine images at Mars taken several years apart because of the slowness of change at the surface.
+"The bottom line is that we now have a civilian technique that obviously we're applying to Mars, but it could equally be applied to the Earth, and it allows us to see five times greater detail with the same assets and without having to change their optical systems or the way they operate," he told BBC News.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

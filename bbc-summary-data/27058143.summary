@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150729203654/http://www.bbc.com/news/technology-27058143
+
+[SN]TITLE[SN]
+Heartbleed hack case sees first arrest in Canada
+
+[SN]FIRST-SENTENCE[SN]
+A 19-year-old Canadian became the first person to be arrested in relation to the Heartbleed security breach.
+
+[SN]RESTBODY[SN]
+Stephen Arthuro Solis-Reyes from London, Ontario was accused of hacking into the Canadian Revenue Agency (CRA)'s website last Friday by the Royal Canadian Mounted Police.
+The RCMP say Mr Solis-Reyes then stole 900 social insurance numbers.
+In a separate development, UK parenting site Mumsnet has provided fresh details about how it fell victim to the bug.
+The site has published a post explaining how a hacker hijacked several accounts last week - including one belonging to Mumsnet's founder Justine Roberts - after exploiting the cryptology flaw to expose the owners' credentials.
+"I hope the actions of hijacking Justine's account help draw attention to how big a deal this is," the hacker wrote on the social network.
+"I suspect a lot of people would not have taken it seriously otherwise. Be thankful that the person who got access to the server information was kind enough to let you all know (and at least try and be funny with it) instead of simply sitting on the information."
+The Heartbleed bug was made public a week ago by Google and Codenomicon, a small Finnish security firm, which independently identified the problem.
+The bug exploits a flaw in OpenSSL - a cryptographic software library used by services to keep data transmissions private.
+Canada's tax agency was one of the first major organisations to cut services as a result the security flaw.
+However, the action came too late.
+"It is believed that [Mr] Solis-Reyes was able to extract private information held by CRA by exploiting the vulnerability known as the Heartbleed bug," the RCMP said in a statement.
+The RCMP, which has been investigating the breach for four days, charged Mr Solis-Reyes with "unauthorized use of a computer" and "mischief in relation to data".
+He is expected to appear in court on 17 July 2014.
+Security experts warn that more attacks could be revealed soon, as firms and governments work to determine whether or not their systems are vulnerable.

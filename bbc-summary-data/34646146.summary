@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160202023324/http://www.bbc.co.uk/news/technology-34646146
+
+[SN]TITLE[SN]
+Schools given Dropbox guidance after Safe Harbour warning
+
+[SN]FIRST-SENTENCE[SN]
+The UK's data watchdog has told schools they do not need to abandon leading internet services despite fears about the legality of continuing to use them.
+
+[SN]RESTBODY[SN]
+The guidance follows an email sent to educators in a London borough by their IT chief, who advised them to stop using Dropbox and other cloud products.
+That warning followed a ruling by Europe's top court, which declared a system used to authorise personal data transfers to the US was invalid.
+Now, the advice is to hold fire.
+"There's no new and immediate threat to individuals' personal data that's suddenly arisen that we need to act quickly to prevent," the Information Commissioner's Office (ICO) told the BBC.
+"Organisations, including schools, are right to be keeping up to date on the law, but we're not advising people to rush to make changes at this stage."
+It has been three weeks since the European Court of Justice ruled that US firms signed up to the Safe Harbour scheme could no longer be automatically considered to provide "adequate protection" to personal data they had received from the EU.
+The judgement came in light of leaks by whistleblower Edward Snowden that suggest the NSA and other US authorities engage in mass surveillance of data held by US tech giants.
+Some companies have got around this problem by drawing up special "model clause" contracts that set out the US recipients' privacy obligations.
+However, confusion over what is and is not permitted caused Lewisham Council's information and communications technology chief to email his colleagues last week.
+"If you still use Dropbox as a quick-win cloud storage solution for your school please consider that recent changes in rulings regarding the validity of the Safe Harbour Agreement means that data stored outside the EU is now officially at risk for EU based Data Owners - ie schools in the UK!" wrote Neil Iles.
+"Please do consider the prompt migration of your data away from Dropbox or other non-EU cloud data services (watch out for iPad Apps that store data in the cloud too!) Currently your data and your ability to demonstrate compliance with the Data Protection Act are at risk by using these non-EU services."
+ICO spokesman David Murphy acknowledged this was a "complicated area of law" but said "we won't be taking hurried action whilst there's so much uncertainty around."
+The watchdog provides further advice in a blog and promises additional guidance soon.
+A spokeswoman for Lewisham Council noted that it had previously advised schools not to use Dropbox or other similar cloud-based storage services and stood by its position.
+The term refers to an agreement struck by the EU and US, that came into effect in 2000.
+It was designed to provide a "streamlined and cost-effective" way for US firms to get data from Europe without breaking its rules.
+The EU forbids personal data from being transferred to and processed in parts of the world that do not provide "adequate" privacy protections.
+So, to make it easier for US firms - including the tech giants - to function, Safe Harbour was introduced to let them self-certify that they are carrying out the required steps.
+More than 5,000 US companies made use of the arrangement to facilitate data transfers.
+However, they have now had to change their practices following the ECJ's ruling.
+The EU and US are negotiating to introduce new rules, dubbed "Safer Harbour" to address the situation.
+Read more about the topic
+A spokeswoman for the Department of Education referred concerned school IT managers to its existing guidelines about using about the use of cloud software services.
+"Data security legislation is under review by the European Commission in the light of recent developments," she said.
+"Guidance will be updated depending on the outcome of the review."
+For its part, Dropbox has also sought to reassure schools and other customers.
+"We were one of the first, and are still one of the only, major cloud service providers to achieve ISO 27018 certification - a global standard for cloud privacy and data protection," a spokesman said.
+"Along with the rest of the industry, we eagerly await guidance from the European Commission on the revised Safe Harbour framework, which will help determine the most effective long-term solutions."
+The BBC understands Apple is not aware of any schools having raised concerns about the issue with it.

@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160207094826/http://www.bbc.co.uk/news/business-16319874
+
+[SN]TITLE[SN]
+Today's email is 'not acceptable', says Mimecast CTO
+
+[SN]FIRST-SENTENCE[SN]
+Each week we ask high-profile technology decision-makers three questions.
+
+[SN]RESTBODY[SN]
+From its beginnings in 2003, Neil Murray has been responsible for building Mimecast - now the leading provider of cloud-based email management for Microsoft Exchange and Office 365 - from the ground up.
+It now serves over 4,500 customers and more than one million users worldwide, with offices in Europe, USA, South Africa and the Channel Islands.
+Neil co-founded the business, and today he continues to lead the development of all the company's technology, overseeing the construction of Mimecast's platform and spearheading their move into the mobile space.
+What's your biggest technology problem right now?
+We're an email company, but our technological problem isn't email, really. It's the production of technology.
+Traditionally, the way people have built software has been fairly linear. You design it, you build it, you ship it.
+But in the cloud space, and certainly in the email space, the evolution of the code is so rapid that our biggest problem is getting new features out in days, not weeks or months or years.
+To get to that point, we're kind of in the middle of a change to a philosophy called "continuous delivery", a technique which has been pioneered by quite a lot of the big cloud, business-to-consumer vendors, where what you do is you tend to automate everything.
+So as your developers automate their code, the test is automated and the deployment of the software is near-on immediate. You're shipping very small changes in real-time to your cloud production system as your day goes by. You're not versioning, you're not doing all that traditional stuff.
+It is fairly complex to take an organisation like ours, which has been around since 2003, and re-build it internally to do that kind of stuff. But it's a critical requirement to keep up with the pace.
+It's something that has to evolve within our business so we can cope with other, smaller problems.
+The big challenge is re-engineering the business for that rate of change.
+Special Report: The Technology of Business
+Technology and business in 2012
+Fitness technology gets social
+How Israel became a high-tech hub
+'Lightning fast' future traders
+Firms taking on the brandjackers
+Celebrating hidden heroes of tech
+Tech boosts Bangladesh job search
+What's the next big tech thing in your industry?
+I'd call it 'email evolved'.
+Some people call it Email 2.0, but I think that was overused as a term two or three years ago, to mean email that was just spam free.
+Email can't go anywhere. I often have to answer the question, for various reasons, as to why email still exists. Everybody is convinced that because kids are using Twitter and Facebook they don't need to use email anymore.
+The reality is that as soon as you have a job, and a need for asynchronous, subject-centric communications, you tend to use email because it's the only standard that's agreed upon by all businesses in the world as a collaborative medium.
+Email can evolve fairly rapidly - and it has no choice. It's on the desk of every working person. It occupies maybe four or five hours of their life depending on how much of an information worker they are.
+It's not acceptable in its current form. The evolution, I would expect, from email is that it become much more collaborative, and much more transparently viewed.
+If you think of Twitter as the far extreme of transparency, and the current traditional email as the least transparent medium and very closed down, I see email as morphing into a broader capability, transparent, project-centric sharing system.
+What's the biggest technology mistake you've ever made - either at work or in your own life?
+My wife and I have just bought this old Victorian house.
+I had complete disregard for how a modern, networked, "has to be live online every day" kind of person could function in a house that essentially filters out radio waves.
+The walls are two-foot thick - it's a lovely building - but it's not designed for the things that I need to do in it. What that used to be 100 years ago is entirely different to what it is now.
+It's quite a lesson in 'built for purpose'. I certainly have to make a significant technological investment in this place to allow it to function, or to allow it to allow me to function in my normal mode these days - which is essentially with the internet plugged into my head!
+I'm planning a long-term strategy of running some high-speed cable through the property - but I have to do all of this as a process of when it suits the rebuilds, and when it suits refurbishments and things like that.
+It can be done - it's a mistake in that it never occurred to me that this was a thing I would be spending money on.

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160104170829/http://www.bbc.co.uk/news/technology-34346803
+
+[SN]TITLE[SN]
+BT sets date for IPv6 network conversion
+
+[SN]FIRST-SENTENCE[SN]
+BT has announced that by the end of 2016 its entire network will be able to use IPv6 - the next version of the net's core addressing system.
+
+[SN]RESTBODY[SN]
+The change will eventually mean swapping the home routers of millions of customers as older devices cannot work with the new system.
+About 1.5 million BT customers already use IPv6-ready hardware.
+Rival Sky has converted about one million customers to IPv6, and many mobile operators use it widely.
+The net is steadily moving to adopt IPv6 because stocks of the older addresses have run out.
+In a presentation to an industry conference, BT said it planned to "enable" IPv6 on half of its network by April 2016 and complete the transition by the end of the same year.
+BT currently has about 7.8 million customers, and 6.3 million of those use its Homehub 4, which cannot currently work with IPv6.
+BT said it was "looking at options" for how to upgrade that hardware to use v6 addressing.
+As hardware is changed, BT intends to support both old and new addressing systems on its network to avoid disruption.
+Sky said it was running extensive trials that had, so far, converted more than one million customers and staff to IPv6. The BBC understands that the majority of Sky customers should be switched over by early 2016.
+TalkTalk and Virgin are currently running smaller scale trials.
+Adrian Kennard, who runs the A&A ISP and has been offering IPv6 for 13 years, welcomed news of BT's plans and wished it luck with the project.
+"Our experience deploying IPv6 was that we did not find any serious problems and that it all 'just works'," he said. "Hopefully, other major providers will follow soon."
+Mobile networks have been among the most aggressive adopters of IPv6, because the addressing system is widely supported on modern handsets.
+"It's easier for the mobile operators to do this due to the nature of the smartphone devices they sell, and the rate at which consumers refresh them," said Dr Tim Chown, co-chairman of the UK's IPv6 Council and a computer science lecturer at the University of Southampton.
+Already, he said, 30-50% of all the browsing that people do would be via IPv6, because widely used content networks and websites, including Google, YouTube, Facebook and Netflix, could be reached via the technology.
+Few people would be aware they were using IPv6, he said.
+Statistics gathered by Google suggest almost 9% of all the traffic hitting its network is IPv6. In the UK, about 2.6% of all traffic is IPv6.

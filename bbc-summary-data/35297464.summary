@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170217142449/http://www.bbc.co.uk:80/news/technology-35297464
+
+[SN]TITLE[SN]
+Hackers caused power cut in western Ukraine - US
+
+[SN]FIRST-SENTENCE[SN]
+A power cut in western Ukraine last month was caused by a type of hacking known as "spear-phishing", says the US Department of Homeland Security (DHS).
+
+[SN]RESTBODY[SN]
+The attack caused a blackout for 80,000 customers of western Ukraine's Prykarpattyaoblenergo utility.
+Experts have described the incident as the first known power outage caused by a cyber attack.
+Ukraine's state security service has attributed the attack to state-sponsored hackers from Russia.
+DHS said the "BlackEnergy Malware" used in the attack appears to have infected Ukraine's systems via a corrupted Microsoft Word attachment.
+The same code was detected in 2014 within systems at US facilities but there was no known successful disruption to the US grid.
+There are lots of sophisticated ways that hackers can break into systems but often the most effective ones are the simplest. Spear-phishing is a highly targeted attack aimed at specific individuals or groups within an organisation and it works because it is trading on human curiosity and vulnerability - simply asking someone to open an email.
+That email, once opened, will either contain an attachment or a link to a website - which may appear perfectly legitimate but will in fact contain malware.
+Often the hacker may have personal information about the target to make the email more believable - it may refer to the target by name for example.
+The malware allows the computer to be taken over remotely. The user may be none the wiser - often hackers provide a decoy document that will hide any malicious activity.
+Crimea, the region annexed from Ukraine by Russia, has suffered repeated power cuts since Russia seized the territory in March last year. Russia has blamed pro-Ukraine saboteurs for the outages.
+Independent analysts have linked the recent spear-phishing attack to Russia. iSight Partners, a US security firm, said the probable culprit was the so-called "Sandworm Team", a Russian hacking group it has been tracking for more than a year.
+"We have linked Sandworm Team to the incident, principally based on BlackEnergy 3, the malware that has become their calling card," John Hultquist, director of cyber espionage analysis at iSight Partners, said in a blog post.
+A report released by Washington-based SANS Inc over the weekend concluded hackers had probably caused Ukraine's six-hour outage by remotely switching breakers in a way that cut power
+The attackers are also believed to have spammed the Ukrainian utility's customer-service centre with phone calls in order to prevent real customers from highlighting the issue.

@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20120904234436/http://www.bbc.com/news/science-environment-19479365
+
+[SN]TITLE[SN]
+'Magic carpet' can detect or even predict a fall
+
+[SN]FIRST-SENTENCE[SN]
+Researchers have shown off a "magic carpet" that can detect falls and may even predict mobility problems.
+
+[SN]RESTBODY[SN]
+Beneath the carpet is a mesh of optical fibres that detect and plot movement as pressure bends them, changing the light detected at the carpet's edges.
+These deflected light patterns help electronics "learn" walking patterns and detect if they are deteriorating, for instance in the elderly.
+The carpet was demonstrated at the Photon12 conference in Durham, UK.
+The optical fibre network at the heart of the effort makes use of the same types of fibres that transmit data to homes and across oceans, in which light bounces along the fibres' length.
+To make them sensitive to the deflection caused by pressure, the researchers carved grooves in the fibres along their length so that the bouncing of the light was less efficient at the point where pressure was applied.
+Detectors at the carpet's edge convert the light into electrical signals which are then analysed by a computer. That analysis borrows heavily from technology developed at the university for use with medical scanners.
+The developers of the network, based at the University of Manchester in the UK, see its primary use in care homes or hospital wards, to raise an immediate alarm in the case of a fall.
+The fibres can be easily retro-fitted beneath existing carpet, and future applications could stretch to private homes as well.
+The researchers' aim is to address the significant number of falls experienced by the elderly; it is a leading cause of mortality among over-70s and falls cost the NHS millions each day.
+They believe their system can be used to build up a profile of movement patterns for given individuals, so that any deterioration in mobility can be monitored and possibly used as an early warning system for falls.
+"Falls are a really important problem for our ageing society," said Chris Todd, professor of of primary care and community health at the university's department of nursing.
+"More than a third of older people fall each year, and in nursing and residential homes it is much more common than that.
+"So being able to identify changes in people's walking patterns and gait in the natural environment, such as in a corridor in a nursing home, could really help us identity problems earlier on."

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170516003758/http://www.bbc.co.uk/news/uk-scotland-scotland-business-39926408
+
+[SN]TITLE[SN]
+Firms urged to update IT systems after WannaCry attack
+
+[SN]FIRST-SENTENCE[SN]
+A cyber-security body has urged Scottish companies to update their IT systems in the wake of Friday's ransomware attack.
+
+[SN]RESTBODY[SN]
+The Scottish Business Resilience Centre (SBRC) said the WannaCry attack took hold because routine software updates were ignored or put off.
+The security breach disrupted GP surgeries, dental practices and other primary care centres.
+SBRC said the attack was a "wake-up call" for businesses of all sizes.
+It has recommended a number of preventative measures it says all firms should follow.
+The centre is funded by a range of private and public partners, including the police, Scottish government, major banks and private investors.
+SBRC recommendations include:
+•  Check that all Microsoft updates have been applied. If your IT is managed by external specialists, be sure to ask these questions as soon as possible.
+•  Microsoft issued a patch to close the vulnerability that allows this virus to spread in mid-March. This update is called Microsoft Bulletin MS17-010.
+•  All machines running Windows operating systems that have not had the security patch issued in March are vulnerable.
+•  Make sure any anti-virus software that is being run is kept up-to-date and regular scans are being run on your system.
+•  If you have an IT supplier, check they are conducting regular backups of all your systems and that these are not connected to your network.
+•  Check if your network uses the SMBv1 protocol, which helps computers share files and documents across a network. This protocol is outdated and newer versions are available.
+SBRC's chief ethical hacker, Gerry Grant, said: "Thousands of computers were infected with the ransomware - and it was able to have such an impact because routine preventative measures had not been taken.
+"We can't recommend the practice of habitually updating systems enough, however disruptive or inconvenient at the time - as soon as those updates become available.
+"It can be too easy to put this off and click the 'remind me tomorrow' option. Unfortunately it can take a highly publicised attack such as this to affect behaviour.
+"We say it so often, but the prospect of a cyber-attack can be incredibly daunting for the less tech-savvy and the temptation can be to bury heads in the sand.
+"In reality, the simplest of measures such as those outlined in the Cyber Essentials scheme will put off the vast majority of criminal hackers - who tend to cast a wide net."

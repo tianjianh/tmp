@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170211024250/http://www.bbc.co.uk/news/technology-35204921
+
+[SN]TITLE[SN]
+Could hackers turn the lights out?
+
+[SN]FIRST-SENTENCE[SN]
+For a long time computer security experts have warned about the threat hackers pose to the systems that help control the power stations, water treatment plants and transport systems we rely on.
+
+[SN]RESTBODY[SN]
+Just before Christmas, that theoretical threat became all too real for more than 225,000 Ukrainians who were plunged into darkness by a sophisticated attack on one of the nation's power companies.
+The attackers struck late in the afternoon on 23 December and used the remote access they had gained to computers in the control centre of power firm Prykarpattyaoblenergo to flip circuit breakers and shut down substations.
+In total, about 30 substations were turned off, including those that served one of the control rooms for Prykarpattyaoblenergo, so staff struggling to get the lights back on were forced to find a fix in the dark.
+Even now, months after the attack, computer systems at the Ukrainian energy company are not quite fixed because the "Killdisk" malware used in the attack deleted key files.
+It would have taken significant time and effort to carry out this sophisticated attack, said Stephen Ward, a senior director at security firm iSight Partners, which has analysed the sequence of events leading up to the attack.
+The good news is that remotely shutting down power stations or similar infrastructure systems is really hard, he said.
+"To make something happen on any of these systems you have to gain information to understand their processes. Those processes are completely different from industry to industry and even facility to facility.
+"The basic software may be the same but you have to write the logic to control and create the process and that's unique to the installation itself," said Mr Ward.
+That was certainly true in Ukraine. Reports into the attack reveal that the hackers behind it spent months inveigling their way into Prykarpattyaoblenergo's computer systems so their co-ordinated strike would be as effective as possible.
+The gang behind the Ukraine attack got in by tricking key staff into opening booby-trapped attachments on email messages crafted to look like they came from friends and colleagues.
+But, said Sergey Gordeychik, deputy chief technology head at Kaspersky Lab, there are other ways to get at industrial control systems (ICS).
+Mr Gordeychik helps co-ordinate Scada Strangelove - a community of security researchers who seek out ICS systems openly exposed online. Scada (Supervisory Control and Data Acquisition) systems are used to oversee plant and machinery in industrial installations.
+"We can discover more than 80,000 different kinds of ICS systems connected to the internet directly," he told the BBC.
+That's bad, he said.
+"If we are trying to compare the standard security of the logic controllers found in ICS systems with Windows or Apple laptops, it's like Windows 95," he said. "They are like a desktop operating system 10 years ago when the level of security was very low."
+Scada Strangelove's scanning work to find these vulnerable systems has got many of them taken offline, said Mr Gordeychik. For example, he said, work that the group did on net-connected rail control systems means many of them are now inaccessible.
+Its work has also prompted some hardware makers to update the software controlling their equipment to make it more secure. Some have even gone as far as uploading it to their devices to harden them even if customers do not ask for it.
+Despite these successes, Mr Gordeychik said the group was not set up solely to police these vulnerable systems.
+"The main idea is not trying to remove systems case-by-case," he said. "The main idea is to raise awareness and to force vendors to create more secure-by-design systems."
+That might be tricky, said Ian Glover, head of the Crest organisation that certifies ethical hackers for work on corporate and government networks.
+Crest is currently carrying out research on the security of the computerised parts of the UK's infrastructure. The report is a survey of security practices at those essential plants and organisations to see if the ethical hackers who probe the digital defences will need new skills to make sure they find all potential bugs and vulnerabilities.
+What had been a surprise, said Mr Glover, was the attitude of many companies who run the nation's infrastructure.
+"That's what's been most disturbing to me," he said. "That people did not think they were going to be attacked."
+This despite the fact that many security firms that investigate data breaches frequently find evidence that criminals and state-backed hackers are lurking in the networks.
+But that danger to the systems directly connected to the net should not be overstated, a spokesman for GCHQ, the UK's intelligence and security base, said.
+"The single biggest vulnerability is connecting poorly protected corporate IT to operational technologies," he said.
+Operational technologies (OT) refers to the machinery in the field or on an industrial plant that keeps processes going or helps manage that remote installation.
+"The vast majority of attacks actually go after the corporate IT and then will act as if they were legitimate users to get the ICS or operational technologies to do something," he said.
+There were good reasons why attackers chose this route, he added.
+"It's much easier to exploit the corporate IT because there are so many tools you can download and use to do that," he told the BBC.
+A firm with good defences against the threats that are aimed at its corporate systems will also help to defeat attempts to subvert that remotely operated plant and machinery.
+GCHQ regularly advised the companies running the various parts of the UK's national infrastructure on better ways to organise their digital defences. And sometimes, he said, it helped them get ahead of potential attacks.
+"As we go about prosecuting our intelligence mission and function if we get information that appears to show a threat to the CNI we will pass it on to the relevant company," he said.
+These rare incidents showed that the threat to CNI was real and that there were people with the capability to launch cyber-attacks on the UK's national infrastructure. In addition, he said, there was no doubt that other groups had the intent to do the UK harm.
+"Should we be worried? Yes," he said. "There are people with the capability. There are people out there with the intent. But at the moment we are not in the position where we are seeing groups with both the intent and capability.
+"We are doing all we can to harden the UK should these two things, capability and intent, come together."

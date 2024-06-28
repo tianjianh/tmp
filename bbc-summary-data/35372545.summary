@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160122151358/http://www.bbc.co.uk/news/technology-35372545
+
+[SN]TITLE[SN]
+GCHQ-developed phone security 'open to surveillance'
+
+[SN]FIRST-SENTENCE[SN]
+A security researcher has said software developed by the UK intelligence agency GCHQ contains weaknesses making it possible to eavesdrop on phone calls.
+
+[SN]RESTBODY[SN]
+The security protocol is used to encrypt Voice Over Internet Protocol (Voip) calls.
+In a blog, University College London researcher Steven Murdoch described vulnerabilities in how such conversations were encrypted.
+GCHQ said it did not recognise the findings.
+Dr Murdoch did not say that the vulnerability would give direct access to conversations, but that it would make it possible to undermine the system's security.
+The network operator could listen in to calls, or authorise someone else to, and anyone who hacked the system would be able to eavesdrop, he said.
+One of Dr Murdoch's chief concerns was that the security standard has "key escrow" by design - meaning, for example, that a third party has access to data sent between two people in a conversation.
+This, he said, is an example of a backdoor.
+In this case, it could allow an intelligence agency, or the organisation which is using the standard, to intercept phone calls, Dr Murdoch said.
+"I think this comes from a conflict of interest within GCHQ in that they are there to prevent spying but they are also there to spy - so they facilitate spying," he told the BBC.
+Dr Murdoch added that he was aware of two products which use the standard, both of which are government certified.
+"They could be in use inside government," he said.
+The protocol in question is known as Mikey-Sakke (Sakai-Kasahara key encryption in multimedia internet keying).
+It works by generating encryption keys that are used to encrypt and decrypt voice conversations.
+Although it is technically possible to create these keys on two separate computers and only share part of those keys publicly, the Mikey-Sakke protocol does not do this.
+Instead, keys are distributed by a third party to the conversation participants - the process known as key escrow - meaning that they are much more vulnerable to interception.
+There are cases in which this would be desirable, commented Prof Nigel Smart, a cryptography expert at the University of Bristol.
+"It could make sense to have a form of key escrow where someone can break into communications - you could use it for traders communicating on the London stock exchange," he told the BBC.
+"You might want them to be encrypted most of the time but you might want a regulator to be able to come in and decrypt."
+However, Prof Smart points out that with Mikey-Sakke, it's not clear where or how the protocol is being used.
+It was up to GCHQ, he said, to make the scope of the protocol clear.
+"If you don't explain how you're going to use it, what systems it's going to be used in, what the scope and limit of the escrow facility is, then you're going to get bad publicity," he said.
+A spokesman for GCHQ said: "We do not recognise the claims made in this paper.
+"The Mikey-Sakke protocol enables development of secure, scalable, enterprise grade products."
+Questions continue to be raised over government policy towards encryption, generally.
+For instance, a petition to prevent the British government from banning strong encryption standards has received a response from the Home Office this week.
+"The government is not seeking to ban or limit encryption," the statement read.
+"The government recognises the important role that encryption plays in keeping people's personal data and intellectual property safe online."
+Out of a target of 100,000, 11,000 people have so far signed the petition.
+And, at the World Economic Forum in Davos, Switzerland, several tech giants have raised the issue of whether governments should be allowed to gain access to secure communications on demand.
+The Wall Street Journal reports Microsoft's chief legal officer as saying: "You could be placed in a situation where you have to decide what law to break. It isn't a comfortable place to be."

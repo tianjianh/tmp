@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170105032522/http://www.bbc.co.uk:80/news/technology-35381320
+
+[SN]TITLE[SN]
+The US house hounded by phone trackers
+
+[SN]FIRST-SENTENCE[SN]
+A couple in Atlanta say they are getting visits from people who have lost their mobile phones and been wrongly directed to their home by phone-finding apps.
+
+[SN]RESTBODY[SN]
+Christina Lee and Michael Saba said an error is bringing both Android and iPhone device owners to their door, using a variety of phone networks.
+The police also targeted their home while searching for a missing person.
+Tracker technology is not as reliable as people believe, some experts warn.
+Phone tracker app users can log on and trace their handset online if they lose it. Some handsets, like the iPhone, come with a pre-installed tracker.
+"The majority of incidents happen later at night, after dinner," Christina, who said the couple do not know why this is happening, told the BBC.
+"Twice it's been a bit alarming. One because the cops had us sit outside our house.
+"And again within the past three weeks. Three young men came by, really frantic, they were looking for someone who was missing. The minute Michael opened the door they were, 'like where is he?'"
+The couple, who have lived in the house for a year and do not know its previous owners, told the website Fusion they were worried the problem could escalate.
+"My biggest fear is that someone dangerous or violent is going to visit our house because of this," Michael Saba said in an email.
+"If or when that happens, I doubt our polite explanations are gonna go very far."
+In 2011, Wayne Dobson also started getting visitors to his home in Las Vegas seeking missing phones as well as visits from the police using similar technology to locate emergency calls made from mobile devices.
+People assume that phone trackers are super-efficient because they use GPS to locate devices, but that isn't always available - for example inside buildings - cybersecurity expert Prof Alan Woodward from Surrey University told the BBC.
+In the absence of GPS a tracker will use triangulation as a locator by identifying the three nearest phone masts, he said.
+"All triangulation does is draw a line equidistant between three cell towers and if your house is on that line you'll get visits," he said.
+"I don't have enough data to know exactly what's going on but I wouldn't be at all surprised [if it was a triangulation error]."
+If triangulation fails, the tracker will try to use the last known wi-fi signal the device found.
+There are numerous wi-fi databases that will locate the geographical source of this signal but they are not always up-to-date.
+Security consultant Ian Williams from Pentest Partners said he believes this could be the cause of the problem - that a moved or stolen wi-fi router is still registered as being in the vicinity of the couple's house.
+"I have actually seen a person's location data hop around a map where a router has been relocated due to a house move and before the databases of the routers location have had the chance to be updated," he said.

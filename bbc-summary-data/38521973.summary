@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170212032354/http://www.bbc.co.uk/news/technology-38521973
+
+[SN]TITLE[SN]
+Web databases hit in ransom attacks
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of web-based databases have been deleted by cyberthieves seeking a ransom to restore the data.
+
+[SN]RESTBODY[SN]
+Gigabytes of medical, payroll and other data held in MongoDB databases have been taken by attackers, say security researchers.
+The systems were vulnerable to attack because their administrators accidentally left them easily accessible via the internet.
+Attackers are seeking small amounts of bitcoins as payment to restore data.
+The alarm about hackers targeting the vulnerable databases was raised by Victor Gevers - an ethical hacker who currently works for the Dutch government.
+Mr Gevers said the attacks started before Christmas but had accelerated once the holiday period was over. Hackers were using automated scanning tools scouring the net for the telltale signature of unsecured MongoDB systems, he said.
+Once they identified potential victims, attackers checked the data to see if it had any value and, if it did, deleted it and replaced it with a ransom note.
+Mr Gevers said he had been racing to warn administrators of vulnerable systems to turn off net access to avoid falling victim.
+"I am being flooded with requests for help," he said, adding that the number of systems hit by attackers had now exceeded 5000. Victims include hospitals, small businesses and educational institutions.
+Currently three separate groups appear to be targeting vulnerable MongoDB systems, according to the different ransom notes left in deleted databases. Ransom fees range from 0.2 bitcoins (£155) to 0.5 bitcoins (£390).
+In some cases, said Mr Gevers, attackers were simply deleting data with no intention of restoring it when the ransom was paid. He said his advice was not to pay until a firm was sure that data had been copied.
+Security architect Kevin Beaumont, who has also been helping vulnerable firms harden their systems against attack, said MongoDB was popular because it was free and straightforward to use.
+"What would have taken a database analyst and network security engineers some time to set up a few years ago takes minutes in the age of cloud computing," he said. "It's incredibly easy to deploy."
+Mr Beaumont said MongoDB used to let anyone access it by default. That had changed in newer versions but many organisations were still running the older versions that were wide open.
+"While applying a password on sensitive data seems like common sense, the reality is hundreds of thousands of databases are going online without any form of security whatsoever," he added.  "This problem has been known for years and continues to grow."

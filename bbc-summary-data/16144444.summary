@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720144209/http://www.bbc.co.uk/news/technology-16144444
+
+[SN]TITLE[SN]
+BBC iPlayer app streams video on the 3G mobile networks
+
+[SN]FIRST-SENTENCE[SN]
+An update to the BBC's iPlayer app allows it to stream video over all of the UK's 3G mobile networks.
+
+[SN]RESTBODY[SN]
+The new feature works on Apple's iPhones and iPads.
+The Android version of the app remains restricted to wi-fi connections for the time being, but the BBC said a web version of the software would support 3G streams soon.
+The BBC said it had worked closely with network operators, but analysts fear it could put their systems under strain.
+"One potential danger is that people are going to run up unexpectedly high data bills, and the other is the strain that this is going to put on the system if a lot of people start streaming in this way," said Neil McCartney, a telecoms analyst at McCartney Media.
+"The system would default to prioritise voice calls, so it wouldn't affect voice calls, but it would mean that people would be unable to use their data services."
+A blog from the BBC's executive project manager for iPlayer on mobile, David Madden, said: "We have worked closely with the network operators to introduce 3G streaming so you can watch your favourite TV programme wherever you are or listen to the radio when you are out and about."
+BBC spokeswoman, Francesca Sostero, added: "BBC iPlayer is a free service, but mobile network operators may charge for data used over their networks.
+"Data charging and mobile network tariffs are the responsibility of the mobile network operators. However, we have included a cost warning message in the BBC iPlayer app to ensure people are aware of their tariffs."
+Network operator Vodafone said that it did not envisage any problems, noting that it had already allowed iPlayer to stream over 3G to a number of Samsung, Nokia, Sony Ericsson and Blackberry devices.
+"The Vodafone 3G network covers the vast majority of the UK population and handles over 90 million calls, 80 million texts and 45 terabytes of data on an average day," spokesman Ben Taylor told the BBC.
+"Our network has been built with smartphones in mind and we're continually investing in it to ensure that it meets the needs of smartphone customers across the country."
+A spokeswoman for Orange added: "We are confident that our customers will enjoy using the updated access to BBC content that it offers."
+However the BBC's iPlayer and other TV network's streams have previously caused friction between broadcasters and internet service providers.
+In 2008 ISP Tiscali said the BBC should contribute to the cost of broadband network upgrades necessary to deal with extra demand.
+Although the regulator Ofcom said that was a bad idea,BT introduced a serviceearlier this year under which ISPs can charge content providers a fee in return for guaranteeing them high-speed delivery of their streams.
+PCPro reported that TalkTalk - the firm which took over Tiscali - has also said it would be"perfectly normal business practice to discriminate"between content providers based on their willingness to pay a charge.
+Users of other 3G video services have previously complained of stuttering pictures and poor sound quality. The BBC said it had implemented HTTP live streaming with adaptive bitrate technologies to get around this problem.
+"This enables us to detect the strength of your wi-fi or 3G connection and serve the appropriate video quality," wrote Mr Madden.
+"If you have low internet signal strength then the video stream will adapt down to suit your connection speed; if you move onto a stronger signal then the video stream will automatically improve in quality. The idea is to give you the best possible experience wherever you are."
+Mr Madden also confirmed the app was now compatible with Apple's Airplay technology, allowing users to stream content to their televisions via the US firm's Apple TV box - a feature long demanded by users.

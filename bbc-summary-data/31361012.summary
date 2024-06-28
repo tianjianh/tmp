@@ -1,0 +1,77 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160303195319/http://www.bbc.co.uk/news/technology-31361012
+
+[SN]TITLE[SN]
+How to get a date using data this Valentine's Day
+
+[SN]FIRST-SENTENCE[SN]
+Roses are red,
+
+[SN]RESTBODY[SN]
+Violets are blue,
+I wrote this algorithm
+Just to find you.
+If you're not being wined and dined this Valentine's Day here's some encouraging food for thought - mathematician Chris McKinlay from Los Angeles may not be a hopeless romantic but he programmed his way to true love using data freely available on dating website OKCupid.
+Mr McKinlay decided to put the data into dating during a lull in his PhD research.
+"I was frustrated with what I was supposed to be working on so I picked up OKCupid as a side project," he said.
+"I just wanted to see if I could do it. I thought, if dates came out of it, that would be great, but it was proof of concept."
+Being somebody's "proof of concept" doesn't exactly sound like the stuff of fairy tales but his method was so effective that, after three weeks of what he describes as "heavy part-time work", Mr McKinlay was averaging 70 unsolicited introductory emails a week through the site from potential girlfriends.
+Three months and 90 dates later, Mr McKinlay met Christine Tien Wang, now his fiancee, and his "side project" was over.
+So how did he do it?
+Users of OKCupid have to answer multiple choice questions as part of building their online dating profile. The questions vary but include lifestyle, religion and political subject areas.
+Chris McKinlay reasoned that by trawling all the answers he would find that the respondents would fall into clusters - those who were liberal and enjoyed shopping, or liked horror movies and tattoos, for example.
+"I reasoned their answers would bunch up around belief systems," he explained.
+"If they were going to clump up there were going to be answers that were more important [to me]."
+He chose a locally-based target group of women on the site and created code, in the form of bots, to trawl the questions they had answered - giving him a dataset of some six million answers.
+He is unapologetic about such personal data gathering.
+"I collected a bunch of data that was publicly available online," he said.
+"I didn't break into OKCupid's servers. I did use it for my personal gain, that's true. Big companies do it all the time."
+Data analysis sorted the profiles into seven distinct clusters.
+"I think humans in general aren't all over the map when it comes to questions about lifestyle, politics, religion - there tends to be common threads," Mr McKinlay said.
+"What was surprising was how well grouped these different sets of people were."
+He selected two clusters that appealed most to him and set up two dating profiles specifically written to get their attention.
+The responses soon flooded in.
+Chris McKinlay began dating in earnest. Evening dates and lunches became quick coffee dates as his diary filled up - and he soon began observing surprising patterns within the dates themselves.
+"A lot of the people who were on these dates with me had answered several hundred multiple choice questions with a high degree of statistical similarity that would bleed into the dates in weird ways," he said.
+"At one point eight out of nine people in a row ordered the same odd coffee drink - a flat white - which at the time was not on the menu in a lot of coffee places in LA and certainly wasn't in the questions or profiles.
+"The [women] had the same colour iPhone case, similar dress, the tendency to ask the same questions in a similar order.
+"I got really good at these dates because in a sense they were all the same date."
+It was also a little heartbreaking, he admitted.
+"To put myself in one of those people's shoes - they saw me online and I was at or near the top match they'd ever had on the website, in some cases after years of being on it, so there was a strong incentive to meet me and really bring their A game.
+"Me, on the other hand, I already had seven or eight dates lined up after that one, I knew what they were going to say, and I knew how to maximise their sexiness, or mystique, or whatever I wanted to on the date.
+"I started looking for the outliers - someone who was a little bit different. About three times in the experiment I met someone really different, I kind of fell [in love] a bit."
+Then one day, Christine Tien Wang got in touch.
+"Christine went online and searched for something and found me at the top of the list and wrote to me," Chris recalled.
+"So from her perspective she did all the work. All I did was just make myself more visible."
+He told her about his experiment on their first date.
+"She thought it was cool - a little dark and cynical but interesting," he said.
+She's "a bit fatigued" with it now though, he added, and doesn't want to be interviewed about it.
+A triumphant Mr McKinlay has since helped a few friends find partners using the same method.
+There has been a lot of research into the role of smell in identifying a potential partner.
+Daniel Davis, author of The Compatibility Gene and professor of immunology at Manchester University, believes that what we might actually be trying to sniff out is our potential mate's immune system.
+"An experiment was done where men were asked to wear T-shirts for two days without washing or entering a smelly room," he said.
+"Women were then asked to rank the smell of those T-shirts as to how sexy they thought they smelt - the results of how they ranked were compared with the versions of immune system genes that the men and women had.
+"It turned out the smell of T-shirts that women found most sexually attractive were from men who had different versions of particular immune system genes to themselves," he explained.
+The experiment itself proved controversial, not least because it was impossible to see whether it influenced the subjects' behaviour in any way.
+"If you ask people generally what would be the difference between people - you might think about genes that affect hair colour or eye colour or skin colour but those are very narrow ranges in diversity - by far the biggest difference from one person to the next is in immune system genes," he said.
+"It's highly possible that some aspects of mate selection and reproduction are linked in with how our species has evolved to fight off disease."
+Then one day Mr McKinlay said OKCupid changed its algorithms and closed his side door.
+Founder Christian Rudder however said there were no hard feelings.
+"What he did was turn the tables on us, but I'm fine with that," he told the BBC.
+"He gamed our system, but it's hard to do, it's so rare.
+"Maybe one in every 200,000 people could or would want to do what he did.
+"I think it's cool."
+Fellow mathematician Matt Parker suggests using a theory called optimal stopping point if you haven't got the time for some seriously intensive dating.
+"The number of people you should date depends on the number of people you are prepared to date," he explained.
+"So let's say you are prepared to date 100 people, at which point you give up and settle for the last person.
+"You calculate the square root of that number of people - so for 100 people that's 10 - you date that number of people and they are your survey period... you reject them all."
+So far, so brutal.
+"You tell them it's nothing personal, they're just your sampling candidates," is Mr Parker's advice.
+"And then at the end of that, having remembered the best person you met in that sampling people you continue dating until you meet someone who is as good or better than that."
+But what if your chosen one has by that point found somebody less, well, picky?
+It is a flaw in the plan, Mr Parker conceded.
+"The general rule of thumb is to not settle down too quickly, Mathematically that will give you a better potential life partner further down the road," he said.
+"But as always people tend to follow their heart, not their calculations."
+Not everybody is convinced that data and dating go hand in hand.
+"I think if you're talking data as in what do you want for a partner or what are you offering yourself, it's a very good starting point," says relationship expert Susan Quilliam.
+"But if you're talking algorithms and using them to find the love of your life there's a problem which is, when you meet face to face all the data in the world doesn't tell you whether there's chemistry or not."

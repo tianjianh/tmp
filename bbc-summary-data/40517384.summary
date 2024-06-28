@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170803022301/http://www.bbc.com/news/technology-40517384
+
+[SN]TITLE[SN]
+Amazon Echo turned into covert microphone
+
+[SN]FIRST-SENTENCE[SN]
+Amazon's Echo smart speaker can be hacked to send the audio stream of everything it hears to an attacker, says a researcher.
+
+[SN]RESTBODY[SN]
+Mark Barnes said the attack on some versions of the Echo let him do almost anything he wanted to it.
+Mr Barnes managed to enter the device's software innards via connections found on its base.
+He said taking over the device was "trivial" once an attacker had access to an Echo.
+Amazon's Echo uses artificial intelligence (AI) to respond to voice commands from users to carry out many different functions, including answering queries, playing songs and ordering goods from a retailer.
+The hack started by peeling off the rubber base of the Echo to expose a grid of electrical contacts, wrote the researcher from MWR Info Security in a blog.
+Connecting to one of the contacts let Mr Barnes watch the Echo's boot-up procedure and work out how it was configured. Armed with this knowledge Mr Barnes wrote software that, once loaded on a small memory card and connected to one contact pad, gave him control over the device.
+Using this he examined how it handled audio and then created attack code which forwarded everything it heard to a remote server.
+That deep access meant he had complete control over the code the device ran and what it did with customer data, he said.
+Amazon did not comment directly on Mr Barnes' findings but said in a statement: "Customer trust is very important to us.
+"To help ensure the latest safeguards are in place, as a general rule, we recommend customers purchase Amazon devices from Amazon or a trusted retailer and that they keep their software up-to-date."
+The security researcher acknowledged that the requirement to get physical access to the device to carry out the attack was a "major limitation".
+However, he added, it was possible that Echo owners would take their devices with them on holidays or business trips - situations that could expose them to attack. Second-hand devices may also be compromised in some way.
+The attack was carried out on the versions of the Echo that were released in 2015 and 2016. More recent versions of the Echo are not susceptible to the same attack.
+Mr Barnes recommended that hardware makers start assessing novel gadgets on their ability to resist physical attacks "as early as possible".
+"Product recalls and modifications can be expensive in post-production, so physical security should be considered throughout the development life cycle," he said.

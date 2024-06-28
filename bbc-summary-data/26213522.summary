@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720003659/http://www.bbc.co.uk/news/science-environment-26213522
+
+[SN]TITLE[SN]
+Computers select personal medicine
+
+[SN]FIRST-SENTENCE[SN]
+UK-US scientists have given one glimpse of the future of personalised medicine.
+
+[SN]RESTBODY[SN]
+Using supercomputers, they simulated the shape of a key protein involved in HIV infection in an individual patient and then ranked the drug molecules most likely to block the activity.
+The research was reported at the annual meeting of the American Association for the Advancement of Science (AAAS).
+In the future, it is expected that patient-specific drug selection will become routine.
+Researchers now recognise that pharmaceutical products do not have the same effects in all people. Subtle genetic differences between individuals will lead to a range of outcomes.
+Prof Peter Coveney and colleagues from University College London and Rutgers University have demonstrated how you might tackle this problem using the latest genetic sequencing techniques and big computation.
+They took as their target the HIV protease molecule, which is critical in helping to build the viral particle, or virion, in a cell that will eventually break out to infect the next cell.
+The protease has a slightly different shape in each individual, in particular in the protein's active zone where it slices the components that will form the next virion.
+This is a consequence of the very specific genetic sequence of the virus in that person, but unless that shape is known, there is uncertainty as to which particular drug will bind to the protease and stop it in its tracks.
+The UCL team showed how one could take the specific viral sequence, infer the shape and then work out the most appropriate drug.
+"We show that it's possible to take a genomic sequence from a patient; use that to build the accurate, patient-specific, three-dimensional structure of the patient's protein; and then match that protein to the best drug available from a set.  In other words, to rank those drugs - to be able to say to a doctor 'this drug is the one that's going to bind most efficiently to that site. The other ones, less so'."
+There are currently nine US Federal Drug Administration-approved HIV-protease inhibitors on the market. The UCL-Rutgers project ranked seven of them in its proof of principle experiment.
+Although the idea sounds simple, working out how each drug molecule would fit into the patient's shape-specific protease protein required enormous computing capability.
+"We're having to run upwards of 50 simulations of these models, each one of which needs a hundred cores on a computer.  So that's a machine with 5,000 cores, and then you run the calculations for about 12 to 18 hours," explained the director of the Centre for Computational Science at UCL.
+"You get a huge amount of output data, and then do post-processing and analysis to get the ranking.
+"A doctor need not know about any of this complexity; all they'd be interested in would be the list of best-to-worst drugs for that patient."
+Although the required computing power might make this approach look somewhat impractical today, Prof Coveney's point is that the relentless improvement in processor capability means these types of simulations will become much more reasonable in the future.
+"Today's supercomputer is on your desktop in 10 years, right?"
+What it is more, in principle, it is possible to turn the calculations around in two to three days, which is very relevant to the timescales required by doctors to make treatment decisions for their patients.
+As well as reporting this work at the AAAS meeting, Prof Coveney's UCL-Rutgers team has also written up the research in the Journal of Chemical Theory and Computation.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

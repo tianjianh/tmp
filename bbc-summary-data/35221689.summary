@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170808173705/http://www.bbc.co.uk/news/technology-35221689
+
+[SN]TITLE[SN]
+Net reaches new addressing scheme milestone
+
+[SN]FIRST-SENTENCE[SN]
+Efforts to convert net users to a new addressing scheme have hit a key milestone.
+
+[SN]RESTBODY[SN]
+The novel scheme is needed to help the net support more users and many more smart devices and gadgets.
+Now more than 10% of net users are visiting websites using the new system, statistics suggest.
+Called IPv6, the protocol replaces an the older version whose pool of addresses is almost depleted.
+The figures were gathered by search giant Google, which monitors how people reach its services.
+The adoption of IPv6 around the world is patchy, as some nations have deployed it widely while others have ignored it.
+Belgium tops the table of most enthusiastic IPv6 adopters, as 44.3% of people in that country can use it to get at Google and other IPv6 sites. Adoption in the US is 25.6% and the UK 2.95%.
+The net has grown largely on the back of Internet Protocol version 4 (IPv4), which can support a total of four billion addresses.
+But the massive growth of the net has meant almost all of these older identifiers have now been used up.
+Everything connected to the net needs an address to ensure that data reaches the right destination.
+The basic syntax of Internet Protocol version 6 was first agreed 20 years ago, but only in December 2015 did use of it hit 10%, according to Google's figures.
+Adrian Kennard, head of ISP Andrews and Arnold, said now that IPv4 had run out, many people were taking IPv6 a lot more seriously.
+"Major sites such as Facebook and Google have adopted IPv6, and pretty much any web site could be using IPv6 now," he told the BBC.
+"This means that people that have IPv6 on their devices, as well as IPv4, can now use IPv6 in preference."
+Mobile networks are among the biggest users of IPv6, because most modern smartphones are equipped for it.
+The vast majority of people online still connect via IPv4, and some ISPs use technology in their networks to translate between the two.
+Some are pushing on with projects to convert their networks to IPv6 - in the UK, BT has said its entire network will be able to use IPv6 by the end of 2016.
+Running both IPv4 and IPv6 had its problems, said Mr Kennard, though few noticed it as the basic tasks of visiting websites were rarely affected by the internal technology.
+"However, sharing IPv4 addresses does stifle innovation and development of new applications and protocols," he said.
+"Eventually IPv4 will be some obscure legacy thing, still lingering on a bit," he added. "Sadly, we are probably many years away from that."

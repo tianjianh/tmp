@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160315073902/http://www.bbc.co.uk/news/technology-25152328
+
+[SN]TITLE[SN]
+Warning issued over Windows XP bug
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has issued a warning about a bug in older version of Windows that could let attackers take over a computer.
+
+[SN]RESTBODY[SN]
+The vulnerability in Windows XP and Server 2003 is being actively exploited by cyber-thieves, it said.
+It has taken the unusual step of issuing a temporary workaround that closes the loophole.
+However, it acknowledged that applying this fix could break some Windows functions that people regularly use.
+Security firm FireEye has been credited with finding the bug that lets an attacker piggyback on a known flaw in some older versions of Adobe Reader. Via the Adobe bug, the FireEye researchers found evidence that attackers were able to "escalate" the access they were granted to the system to eventually allow them to install their own code.
+Microsoft said it was aware of "limited, targeted" attacks using the combined bug to attack PCs.
+It issued advice to customers saying they should turn off some services to stop the attack working. It warned that turning off the vulnerable service could shut down some widely used networking functions including the ability to access a machine over the net or use a PC to work remotely over a virtual private network (VPN).
+A comprehensive fix for the loophole is now being worked on by Microsoft and it said it hoped to include this in a future security update.
+Although Windows XP has been superseded by versions 7 and 8 of Microsoft's flagship operating system, the older software is still widely used. Market research figures suggests about one-third of PCs still run XP.
+People who have upgraded to the latest version of Adobe Reader will not be vulnerable to the combined attack, said FireEye.

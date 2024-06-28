@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170810221348/http://www.bbc.co.uk/news/technology-40850171
+
+[SN]TITLE[SN]
+Emojis help software spot emotion and sarcasm
+
+[SN]FIRST-SENTENCE[SN]
+Emoji icons have helped scientists train computers to understand sarcasm.
+
+[SN]RESTBODY[SN]
+Researchers used 1.2 billion tweets containing at least one of the most popular 64 emojis to develop DeepMoji.
+The algorithm learned first to predict which emoji was likely to be used and then to recognise sarcasm, allowing it to spot hate speech faster than humans.
+It could also be used to assess how people really feel about different brands or to improve human interaction with smart programs such as chatbots.
+"Because we can't use intonation in our voice or body language to contextualise what we are saying, emojis are the way we do it online," Prof Iyad Rahwan told MIT's Technology Review magazine.
+Prof Iyad Rahwan and graduate student Bjarke Felbo have created a website inviting people to refine DeepMoji's education by submitting and annotating their own messages.
+The pair also plan to release the algorithm's code so it can be used by other researchers.
+"Using emojis as labels for training neural networks is a great idea," said Prof Kerstin Dautenhahn who studies human-machine interaction at the University of Hertfordshire.
+"Applying it to tweets seems also a smart choice, since communication via tweets is much more impoverished than actual face-to-face conversation," she said, "so chances are better for the algorithms to work."
+Prof Dautenhahn raised doubts about the wide range of human activity that was now being monitored and analysed to try to guess what people think and feel.
+"Are we happy with more and more detailed profiles of us being created?" she asked.

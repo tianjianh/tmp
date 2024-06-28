@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170329170102/http://www.bbc.co.uk/news/technology-36488814
+
+[SN]TITLE[SN]
+Millions of stolen Twitter logins put on sale
+
+[SN]FIRST-SENTENCE[SN]
+More than 32 million Twitter login names and passwords are reportedly being offered for sale online.
+
+[SN]RESTBODY[SN]
+A hacker using the name Tessa88 is asking for 10 bitcoins (Â£4,000) from anyone that wants to copy the list.
+It is not yet clear whether the list is genuine or how it has been compiled. Some reports suggest it brings together data stolen from users by malware.
+In a statement, Twitter said it was "confident" that the data did not emerge from a breach of its network.
+Information about the list emerged in a blog entry on the website of a company called Leaked Source, which has built a database of login data that has been stolen or leaked.
+It said the dataset shared with it by Tessa88 contained 32,888,300 records - each one of which listed an email address, username and password.
+"We have very strong evidence that Twitter was not hacked, rather the consumer was," said the company in its blog.
+This has been taken to mean that the list has been compiled using data stolen by a virus that returned it to whoever ran the campaign to infect people.
+Analysis of information supplied with the dataset suggested it had been gathered this way, said Leaked Source.
+Other information, such as a breakdown of where most victims live, provided further evidence that it had not come from Twitter, it added.
+Leaked Source said it had taken steps to verify a small number of the email accounts and passwords in the list were genuine. ZDNet said two staff members found on the list verified that the password listed next to their name was accurate but one other staffer said their details were incorrect.
+A breakdown of email addresses in the list revealed that Russian accounts feature prominently. Russian email addresses make up more than 7.4 million of the total number of login credentials in the list.
+In a tweet sent soon after it blogged about the data going on sale, Leaked Source said it had been contacted by Twitter's security staff who would now "forcibly" protect users from the data in the list.
+Separately, Twitter's security boss Michael Coates confirmed it was working with Leaked Source on using credential data in the list to help users.
+He added: "We have investigated reports of Twitter usernames/passwords on the dark web, and we're confident that our systems have not been breached."
+In another statement, Twitter said it had been "working to help keep accounts protected by checking our data against what's been shared from recent other password leaks".
+Security expert Troy Hunt, who runs a website that lets people check if their login names and accounts are in data breaches shared online, expressed some scepticism about the leak.
+"Just because we've seen some serious breaches recently doesn't mean we should assume new ones are legit," he said.
+He advised people to change their Twitter password if it was weak or if people had used the same one for other online services.
+The sale of the Twitter data comes soon after huge amounts of login data from MySpace and Tumblr were widely shared. Earlier in May, millions of records about LinkedIn credentials were offered for sale online.

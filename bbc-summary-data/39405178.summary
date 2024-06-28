@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170327233420/http://www.bbc.com/news/technology-39405178
+
+[SN]TITLE[SN]
+WhatsApp's privacy protections questioned after terror attack
+
+[SN]FIRST-SENTENCE[SN]
+Chat apps that promise to prevent your messages being accessed by strangers are under scrutiny again following last week's terror attack in London.
+
+[SN]RESTBODY[SN]
+On Sunday, the home secretary said the intelligence services must be able to access relevant information.
+Her comments followed the discovery that Khalid Masood appeared to have used WhatsApp minutes before carrying out his killings.
+There are doubts about whether that action was related to the atrocity.
+BBC home affairs correspondent Danny Shaw has highlighted that the police had declared that they believed Masood had acted alone on the day, and would not have done so unless they had accessed and read messages stored on his phone.
+Even so, the home secretary has summoned WhatsApp's owner, Facebook, and other technology companies to a meeting on Thursday to discuss ways to ensure that security officers get the data they need in the future.
+Several chat apps have adopted a technique called end-to-end encryption.
+This digitally scrambles their messages' contents when it leaves a sender's device, and then reassembles it on the recipient's computer using a shared key.
+The technology company running the service is not made privy to the key, so is unable to make sense of the conversation even though it passes through its computer servers.
+Some apps, including WhatsApp, Apple's iMessage, Signal and Threema, use end-to-end encryption by default.
+Others, such as Telegram, Line and Google's Allo, offer it as an option.
+If end-to-end encryption is active, the technology company running the app is limited in what useful information it can remotely disclose.
+But if a phone, tablet or PC is not passcode-protected - or if the authorities find a way to bypass the code - the physical device itself will provide access.
+Not necessarily.
+When someone sends or reads a message, they generate what's known as "metadata" - information about their interaction that is distinct from the chat's contents.
+This can include:
+WhatsApp has shared such details with law enforcement officers in the past and has said it has been co-operating with authorities over last week's incident.
+In addition, if Apple users subscribe to the company's iCloud Backup service, the firm may be able to recover messages copied to its servers for safe-keeping and it has co-operated with investigators in the past.
+It is not exactly clear.
+The Home Secretary, Amber Rudd, told the BBC that chat apps must not "provide a secret place" for terrorists to communicate, and that when a warrant had been issued, officers should be able to "get into situations like encrypted WhatsApp".
+On Sky News, she later added that she supported end-to-end encryption as a cybersecurity measure, but said it was "absurd to have a situation where you can have terrorists talking to each other on a formal platform... and it can't be accessed".
+How this would work in practice is uncertain.
+WhatsApp, for example, does not store messages on its servers after they have been delivered.
+So, even if there was a way to retrospectively unencrypt the chats, it is unclear how this would work without significant changes to its systems.
+At one point, there had been speculation that the Investigatory Powers Act - which came into effect last year - might ban chat app's use of end-to-end encryption outright.
+Instead, it stated that technology companies could be compelled to "provide a technical capability" to remove "electronic protection" within their products - which has been interpreted by some to mean app-makers might be compelled to secretly create backdoors or other security weaknesses to let messages be unscrambled.
+Files leaked by rogue US National Security Agency (NSA) contractor Edward Snowden and Wikileaks suggest that even the most closely guarded hacking secrets can be revealed.
+And even if the tech companies did not share the technical details of the backdoors with the authorities - instead limiting themselves to passing on unscrambled chats - the very fact vulnerabilities existed means someone else might sniff them out.
+As a consequence, public trust in their software might be undermined.
+"The encryption debate always rages after a terror incident, regardless of how effective backdoors would have been," said security consultant Troy Hunt.
+"Even if, say, the UK was to ban encryption or mandate weaknesses be built into WhatsApp and iMessage, those with nefarious intent would simply obtain encryption products from other sources.
+"These responses are kneejerk reactions by those who have little understanding of the efficacy and implications of what they're actually proposing."
+The TechUK lobby group said other hacking powers and a move to make internet providers keep a record of their customers' internet habits - which were also outlined in the Investigatory Powers Act - meant counter-terrorism officers already had strong powers to tackle threats.
+"From storing data on the cloud to online banking to identity verification, end-to-end encryption is essential for preventing data being accessed illegally in ways that can harm consumers, business and our national security," said its deputy chief executive, Antony Walker.

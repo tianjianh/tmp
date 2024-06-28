@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151109061728/http://www.bbc.co.uk/news/technology-34744126
+
+[SN]TITLE[SN]
+Swiss email firm pays web attack ransom
+
+[SN]FIRST-SENTENCE[SN]
+A secure-email firm, based in Switzerland, has paid a ransom of more than £3,600 after web attacks crippled its website.
+
+[SN]RESTBODY[SN]
+The hi-tech criminals behind the web attacks said the payment would stop the deluge of data hitting the site.
+But despite paying up, the web attacks continued, leaving Protonmail struggling to operate.
+It has now launched a fund-raising drive to raise cash to tackle any future attacks.
+In a blogpost, Protonmail said it received an email on 3 November that contained a threat to attack its website unless it paid a ransom of 15 bitcoins (£3,640).
+Protonmail did not respond to the message and, soon afterwards, was hit by what is known as a distributed denial of service (DDoS) attack. This tries to knock a server offline by bombarding it with more data than it can handle.
+Protonmail is a free, web-based, encrypted email service that needs its site up and running to serve customers.
+The first attack knocked out Protonmail for about 15 minutes and then stopped. A second attack the next day was much bigger and overwhelmed efforts by the email firm and its ISP to stop it.
+"This co-ordinated assault on key infrastructure eventually managed to bring down both the datacenter and the ISP, which impacted hundreds of other companies, not just Protonmail," it said on the blog.
+In a bid to halt the attack, Protonmail said it "grudgingly" paid the 15 bitcoin ransom.
+However, it said, this did not stop the attacks which continued to cause problems for many other firms.
+Eventually, Protonmail's ISP took action to remove the company's site from the net to stem the flow of data.
+Post-attack analysis suggests Protonmail was targeted in two phases, the company said. The first aided the ransom demand but the second was "not afraid of causing massive collateral damage in order to get at us".
+Switzerland's national Computer Emergency Response Team (Cert), which helped Protonmail cope, said the attack was carried out by a cybercrime group known as the Armada Collective. This group has also targeted many other Swiss web companies over the last few weeks, the team said.
+It said anyone who received ransom email should not pay up. Instead, they should talk to their ISPs about the best way to defend themselves against attacks.
+Protonmail said that despite its work to harden itself against attack, it was still vulnerable to DDoS data deluges. It said it planned to sign up with a commercial service that can defend against the attacks but this would be likely to cost it more than $100,000 (£66,000) a year. It has started a fund-raising drive to gather the cash to pay this fee.
+"We are fighting not just for privacy, but for the future of the internet," it said.

@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170519113845/http://www.bbc.co.uk/news/business-37505760
+
+[SN]TITLE[SN]
+Could you be sending your firm's cash to fraudsters?
+
+[SN]FIRST-SENTENCE[SN]
+What would you do if you received an email from your boss like this?
+
+[SN]RESTBODY[SN]
+"Hi, are you busy? I need you to process a wire transfer for me urgently. Let me know when you are free so I can send the beneficiary's details. Thanks."
+Many of us would jump to it, eager to please.
+But this message has all the hallmarks of CEO fraud, one of the most common forms of business email fraud targeting thousands of companies around the world every day.
+Last year, Barbie manufacturer Mattel sent more than $3m (£2.3m) to a fraudulent account in China, after a finance executive was fooled by a message supposedly sent by new chief executive Christopher Sinclair.
+Mattel eventually got its money back from China - where the company has significant business interests - but most companies usually have to take the hit after falling victim.
+Earlier this year, for example, Austrian aerospace parts maker FACC fired its president and chief financial officer after losing a thumping €42m (£36m) in a business email fraud.
+Some smaller companies targeted have gone bust as a result.
+"Criminals have realised that hitting businesses rather than individuals can mean much bigger wins," says Orla Cox, director of security response at cyber security specialist Symantec.
+The US Federal Bureau of Investigation (FBI) says CEO fraud has shot up by 270% since January 2015 and has cost businesses around the world at least $3bn (£2.3bn) over the past three years.
+Simply tricking companies into sending invoice payments to the wrong people costs UK companies about £9bn a year, according to research from invoicing company Tungsten Network.
+And procurement fraud - charging for stuff that was never delivered; taking a bribe for awarding a contract to a particular supplier; or encouraging suppliers to charge over the odds then creaming off the difference - accounts for 88% of total UK fraud losses.
+"Procurement fraud is becoming a big problem, with at least 20% of corporate spend categorised as 'unmanaged'," says Philip Letts, chief executive of enterprise services platform, Blur Group.
+'Unmanaged' means there is insufficient monitoring of the tendering process and whether the terms of the contract have been fulfilled, for example. Quite often smaller jobs are given to suppliers without any written contract at all and paid for cash-in-hand.
+"This puts businesses at high risk of procurement fraud," says Mr Letts.
+Lots of such payments add up to a big amount of cash potentially lost down the back of the corporate sofa.
+Blur's platform helps companies find vetted service providers and manage the entire contract from pitch to payment, theoretically making invoice fraud easier to spot and harder to perpetrate.
+Most business email fraud is relatively lo-tech, relying on psychological manipulation and people's willingness to get the job done.
+But Jim Wadsworth, managing director at Accura, the data analysis arm of payments giant VocaLink, believes his company's hi-tech solution could prove the best way to combat it.
+Called Accura Invoice Payment Profiling, it is an anti-fraud analytics system that uses VocaLink's massive store of payments data to identify and flag fraudulent payments before the money is even transferred.
+"We are working with one of the country's largest banks to prevent these frauds by scanning transactions and contacting the bank directly when we see something suspicious," Mr Wadsworth says.
+In effect, the system looks for unusual characteristics in the invoice, such as a destination bank account number that has never been used before, atypical payment amounts, or false purchase order numbers.
+"Every time a business pays an invoice a trail of information is left behind," he says. "By using this data, and overlaying it with cutting-edge data science techniques, Accura is now able to identify and flag suspected incidents of these types of fraud before the money leaves the account."
+The system, which went live a few months ago, has already prevented a number of invoice redirection frauds, says Mr Wadsworth. And he hopes that many more crimes will be prevented as the system evolves.
+"We recently saved a public sector organisation £100,000 by foiling an attempt at invoice redirection fraud," he says.
+"As CEO fraud has very similar characteristics to invoice redirection fraud, we should be able to use the system to help companies avoid being taken in by this scam, too."
+But are there ways of intercepting bogus emails in the first place?
+"The emails used in this kind of fraud can slip through spam filtering systems because they are not sent to multiple users, and are written to appear innocuous," says Orla Cox.
+"However, Symantec's cloud-based email security technology looks for key words such as 'transfer' or 'payment' and also flags up messages from sender domains that are very similar to the target company's.
+"If an email seems suspicious, the system will then block it and inform the company to check whether it is genuine or not."
+She believes that a combination of email security software and transaction analytics could be the best way for businesses to fight this kind of fraud.
+But staff also need to be trained to look out for tell-tale signs in emails, such as domain names that differ very slightly from their company's, she believes.
+"A fraudster might, for example, switch the 'm' and the 'n' in Symantec when setting up a fake domain," she says.
+Businesses can also protect against email fraud by ensuring staff question any messages requesting actions that seem unusual or aren't following normal procedures.
+"Employees should be encouraged to doublecheck everything they do," says Steve Proffitt, deputy head of Action Fraud, the UK's reporting centre for fraud and cyber crime.
+Follow Technology of Business editor Matthew Wall on Twitter
+Click here for more Technology of Business features

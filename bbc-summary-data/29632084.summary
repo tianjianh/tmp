@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160413150535/http://www.bbc.co.uk/news/technology-29632084
+
+[SN]TITLE[SN]
+Google readies Android Lollipop release
+
+[SN]FIRST-SENTENCE[SN]
+Google is to begin rolling out version 5.0 of its Android operating system, codenamed Lollipop, on Friday.
+
+[SN]RESTBODY[SN]
+The company describes the update as a "quantum leap forward", thanks to its revamped design and new features.
+Android already has an 84.7% share of global smartphone shipments, according to research company IDC.
+But engineering chief, Hiroshi Lockheimer, told the BBC that among his team's goals was making Android more appealing to the business sector.
+"We've made a concerted effort around focusing on the enterprise-use case," he said.
+"If you think about it most people only carry one device.
+"The one device that they carry [should] work for various scenarios in their life -obviously for personal use, but also if they want to use it for corporate purposes.
+"We wanted to make sure that Lollipop is designed in such way that corporations are happy to endorse it."
+One example of this, he said, was the ability for a user to have both a personal and work "personality" on a single device - and the ability to switch "seamlessly" between them.
+The two personalities would let apps access different sets of stored data, allowing the user's employer to monitor the contents of one partition but not the other.
+Blackberry 10 and Samsung's Knox add-on for Android had previously pioneered this idea.
+Mr Lockheimer added that making encryption of stored data the default setting would increase security.
+And a new facility allowing Android to be put in "do not disturb" mode for a pre-determined period of time should minimise the risk of missing important calls or notifications after a meeting was over because the user forgot to switch off the setting.
+"Given the decrease in market share of Blackberry, there is a big opportunity to gain enterprise customers," said Jack Kent, from the IHS consultancy.
+"Apple has also been making a big play for that with the iPhone and iPad.
+"Samsung had previously taken the lead with Android with its Knox security product, but it makes sense for Google to try to take the lead itself with what it's doing with Android Lollipop."
+For most users, the stand-out change in Android Lollipop will be its new look.
+Google calls its new paradigm "material design", and it places fresh emphasis on graphical animations and colour changes in response to the device owner's actions.
+"The animations and ripples and things like that are eye candy, but at the same time there's a purpose to them. They give feedback to the customer that you've tapped here, and the software got it, and is doing something about it," said Mr Lockheimer.
+"And when one thing moves from one side of the screen to the other it gives you a sense of place and that you're moving forwards in the screens, or up or down.
+"These are very interesting visual cues to help the user understand what is happening in the software."
+The card-based interface, introduced in the anticipatory search app Google Now, now plays a greater role.
+Notifications adopt a card-like appearance on the lock screen, and the design is also used to deliver Google Search results and to switch from one app to another when multitasking.
+Another change with notifications is that device owners can customise which types should rise to the top of the list presented to the user or conversely be prevented from appearing on the lock screen, to help device owners prevent information overload.
+Furthermore, new notifications now appear at the top of a device's screen rather than covering its centre to avoid the interruption of other activities such as playing a video game.
+Android Lollipop also introduces a new feature called "smart lock".
+This allows users to set a location - such as their home, car or office desk - or Bluetooth device - such as a smart watch or work keyboard - as a trigger to disable the need to type in a password
+Behind the scenes, Android Lollipop uses a different process to execute and compile code than before.
+The switch, from Dalvik runtime to Art runtime, should mean that apps work slightly quicker and use less battery power if they are optimised for the new code.
+It also means Android becomes capable of taking advantage of 64-bit processors, which have the potential of supporting more RAM memory than before.
+Mr Lockheimer added that users should notice fewer glitches as a result of the move.
+"There's this notion of what we call garbage collection - the system is managing the memory for you and once in a while it has to collect unused memory and free it up for applications," he explained.
+"In the past, with Dalvik, garbage collection could actually take longer than it should have - I'm talking milliseconds, but in terms of a CPU [central processing unit] that's a long time.
+"What that would result in were temporary glitches, like an animation jumping and not being quite as fluid as it needed to be.
+"In Art we've optimised the runtime to make garbage collection very quick and the glitches much less common than before."
+Google will release the software development kit and system images for Nexus 5 phones and Nexus 7 tablets on Friday via the Android developers site- allowing app creators to test their software.
+On 3 November, Android Lollipop will become available to the public when the Nexus 9 and Nexus Player go on sale.
+Other manufacturers and networks will have to test the software before they release it alongside updates of their own software for their machines.

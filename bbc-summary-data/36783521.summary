@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170318101539/http://www.bbc.co.uk/news/technology-36783521
+
+[SN]TITLE[SN]
+Why Google DeepMind wants your medical records
+
+[SN]FIRST-SENTENCE[SN]
+Google's DeepMind has moved on from playing Go to more serious matters - attempting to solve some of the world's biggest health problems.
+
+[SN]RESTBODY[SN]
+Projects include a tie-up with London Moorfields eye hospital, which will see it using one million eye scans to train its artificial intelligence system to diagnose potential sight issues, and development of an app to help doctors spot kidney disease.
+Google's entry on to the healthcare scene has been welcomed by some, notably doctors who are desperate to apply some cutting-edge technology to antiquated NHS systems.
+But less so by privacy groups and some patients, who have been surprised and concerned that their data - in some cases not anonymised - can be shared with the tech giant's AI division.
+So what does Google want with our health data and should we be worried?
+In May it was revealed that Google's DeepMind, had been given access to the healthcare data of up to 1.6 million patients from three hospitals run by London's Royal Free Trust in order to develop an app, called Streams, that would notify doctors should someone be at risk of developing acute kidney injury (AKI).
+The deal had been announced in February but at the time got little press attention.
+The biggest question mark was over why so much data was being shared, especially as only a tiny percentage of people would actually benefit from the app.
+Some were also bemused when it became apparent that the deal with Google's AI firm would not actually involve any artificial intelligence.
+The reality, explained Mustafa Suleyman, DeepMind co-founder, is that AI is simply not yet ready for direct patient care.
+"Finding a fit between an algorithm and training data is difficult. People expect the algorithm to do too much," he said.
+But, he added, DeepMind wanted to do the project because it wanted to try to make a difference in the NHS, particularly when it came to one of the most fundamental issues it faces - sharing and storing data.
+"The system is crying out for more innovation and hopefully that is something we can pioneer," he said.
+And, he noted, it was the hospital that sought out DeepMind rather than the other way round. Dr Chris Lang, a kidney doctor, approached the firm to see if a collaboration was possible.
+"We went for coffee and ended up chatting for four hours."
+Although it has got far more publicity than any others, in fact this deal is a pretty standard one in the NHS.
+It emerged that the organisation has similar deals with 1,500 different third parties.
+The NHS claims that it would not be practical to ask every patient to consent to every one of these arrangements.
+In the tie-up with Moorfields, the data was anonymised and the rules here are that data can be shared for "ethically approved projects".
+Patients can opt out of any data-sharing system by emailing their NHS Trust's data protection officer.
+In the case of the Royal Free, the BBC understands that 148 people have withdrawn their consent, a tiny fraction of the patients involved.
+Mr Suleyman stressed that none of the data would be shared with other parts of Google.
+For DeepMind, yes but Google has been looking at healthcare for much longer.
+From Calico, Alphabet's research and development company whose mission is to "tackle ageing", to Verily which is currently developing a smart contact lens that can help diabetics monitor glucose levels, the search giant is investing heavily in healthcare.
+According to Mr Suleyman, "making the world a better place" has always been part of DeepMind's somewhat lofty ambition to "solve intelligence".
+Two years ago he decided that it was a good time to "make good the second part of that mission" and set about looking for ways where the company could make a difference.
+"We looked at nano-materials, synthetic biology, renewable energy, transport trying to figure out how tech could make a difference and I realised that healthcare - it we could get it right - then the margin for beneficial impact was enormous."
+The firm seemed genuinely surprised when the announcement created some negative headlines and  often reminded journalists that the point of the project was to help save lives.
+On reflection, Mr Suleyman realises that there was bound to be a backlash.
+"I can completely understand why there was surprise about what we were doing. We have learned a lot and there is a lot we can do to improve - we take that feedback," he said.
+DeepMind had already been in the process of setting up a panel of independent reviewers, nine technical and clinical experts who have the right to scrutinise what the firm is doing and interview members of the team.
+"We recognise there is still more that we can do," said Mr Suleyman and so the firm has decided to host a patient engagement forum.
+It will be held on 20 September and will be streamed on YouTube with a Twitter Q&A. It plans to host four such meetings every year.
+Although Google has always loved experimenting with projects that benefit humankind, it is ultimately in the business of making money and its healthcare work is no exception.
+It is currently in discussion with the NHS about how to do that and will remain doing so for "several years", said Mr Suleyman.
+"Right now it is about building the tools and systems that are useful and once users are engaged then we can figure out how to monetise them," he said.
+The firm has some radical ideas about how it can shake up the commercial relationships between the NHS and third parties.
+"The vast majority of payments made to suppliers in healthcare systems are not often as connected to outcomes as we would like.
+"Ultimately we want to get paid when we deliver concrete clinical benefits. We want to get paid to change the system and improve patient outcomes."

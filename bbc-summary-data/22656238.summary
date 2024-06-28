@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20130528014006/http://www.bbc.com/news/science-environment-22656238
+
+[SN]TITLE[SN]
+Light-beam 'twins' take data farther
+
+[SN]FIRST-SENTENCE[SN]
+An idea similar to that of noise-cancelling headphones has proved useful in increasing the data-carrying properties of light.
+
+[SN]RESTBODY[SN]
+Researchers reporting in Nature Photonics suggest putting not one beam of light down a fibre, but a pair, each a kind of mirror image of the other.
+When recombined on the receiving end, the noise that the signals gather in the fibre cancels out.
+These paired beams can travel four times farther than a single one.
+The team used the technique to send a signal of 400Gb/s - four times faster than the best commercially available speeds - down 12,800km of optical fibre, farther than even the longest trans-oceanic fibre link.
+What limits the distance a given light signal can go is how much power is in the beam. But the higher the power, the more the light actually interacts with the material of the fibre, rather than merely passing through it.
+That adds "noise" to the beam that limits the fidelity with which data can be transmitted.
+What is needed is a way to undo this noise, and one idea is known as phase conjugation.
+Light waves, just as sound waves and waves on the sea, consist of a pattern of peaks and troughs that can be manipulated to represent data. The "phase conjugate" of a beam is, in a sense, simply one in which every peak becomes a trough and vice versa.
+This is effectively the same thing that noise-cancelling headphones do: generating the inverse of incoming sound so that the two cancel out.
+Ideas exist to make use of phase conjugation to "undo" the noise that fibre links add, but they involve adding devices midway along the links' length - sometimes, in the middle of an ocean floor.
+"Sometimes you may send data from London to New York, sometimes you may send it from London to Paris. The links are changing and you cannot keep sending people to the middle of the link," said lead author on the new research Xiang Liu of Bell Laboratories in New Jersey, US.
+What Dr Liu and colleagues instead suggest is creating a pair of phase-conjugate beams, each carrying the same data.
+And as Dr Liu explained to BBC News, the noise that each gathers is equally a mirror image of that on the other.
+"At the receiver, if you superimpose the two waves, then all the distortions will magically cancel each other out, so you obtain the original signal back," he said.
+"This concept, looking back, is quite easy to understand, but surprisingly, nobody did this before."
+If the noise on the beams can be undone, the power can be ramped up - making data go literally further.
+But since fidelity can be maintained, there can be less of the repetition of information in a given beam that is used for error correction. So the phase conjugation method is also a way to get higher data speeds.
+"Nowadays everybody is consuming more and more bandwidth - demanding more and more communication," Dr Liu said.
+"We need to solve some of the  fundamental problems to sustain the capacity growth."

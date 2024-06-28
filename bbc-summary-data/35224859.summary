@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170513170127/http://www.bbc.co.uk/news/technology-35224859
+
+[SN]TITLE[SN]
+Easy-to-use ransomware code discovered
+
+[SN]FIRST-SENTENCE[SN]
+Cyber-thieves have turned to web programming languages to create a cheap ransomware service.
+
+[SN]RESTBODY[SN]
+On infected machines, ransomware encrypts data and frees it only when victims pay for it to be unscrambled.
+Many gangs making ransomware keep the code for themselves, but Ransom32 is freely downloadable from one dark web site.
+News site BleepingComputer said Windows users had been targeted by the malware over the Christmas period.
+Ransom32 was designed for those that lacked the technological skill to create their own brands of malware, said Bleeping computer editor Lawrence Abrams.
+The malicious program and its administration system are written in HTML, CSS and Javascript - languages more usually used to create mainstream websites. It is believed to be the first virus written with these languages.
+The malware can be downloaded from the dark web by anyone who supplies a Bitcoin wallet number,
+The malware's developers take a 25% cut of any ransom collected and forward the rest on to the Bitcoin wallet supplied.
+Victims who unwittingly download the malware can be locked out of their computers and asked to pay a ransom in bitcoins to get back in.
+The malware looks for and scrambles a huge variety of files including images, movies, documents and data archives.
+Those who do not pay up could have their hard drives wiped.
+Security expert Graham Cluley told the BBC: "By turning their ransomware into a sellable service, the criminals behind Ransom32 are providing an opportunity for other hackers to easily launch attacks that will encrypt users' documents, including personal photographs, movies and more."
+"They demand payment via anonymous Bitcoin to ensure the safe return of the otherwise unrecoverable data."
+Those who use Ransom32 control it via a basic administration panel, that allows them to configure the malware to their liking.
+The bug's developers even offer them advice on fraud strategies, in one instance suggesting: "Don't be too greedy or people will not pay."
+In a blog post, Fabian Wosar of security company Emsisoft said users' best line of defence was "a solid" strategy for backing up files.
+That way, should the worst happen, they can recover data without having to pay the ransom.
+Mr Cluley added: "Presently, the attack appears to have been distributed via email, so once again users are advised to exercise great caution over what they run on their computers - especially if it arrives via unsolicited email."

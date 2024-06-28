@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170109184128/http://www.bbc.co.uk/news/uk-england-tyne-38181149
+
+[SN]TITLE[SN]
+'Frighteningly easy' for criminals to get Visa card details, study claims
+
+[SN]FIRST-SENTENCE[SN]
+It is "frighteningly easy" for criminals to get security details for a Visa debit or credit cards, according to research from Newcastle University.
+
+[SN]RESTBODY[SN]
+Fraudsters are able to work out expiry dates and security code numbers by making multiple invalid attempts on different websites, the team claims.
+It is thought a similar method was used in the recent Tesco Bank fraud hack.
+Visa said the research did not take into account other layers of security such as its Verified by Visa system.
+According to the research, which has been published in the journal IEEE Security & Privacy, fraudsters use a so-called Distributed Guessing Attack to get around security features put in place to stop online fraud.
+Mohammed Ali, a PhD student at the university's school of computing science and lead author, said: "The current online payment system does not detect multiple invalid payment requests from different websites.
+"This allows unlimited guesses on each card data field, using up to the allowed number of attempts - typically 10 or 20 guesses - on each website.
+"Also, different websites ask for different variations in the card data fields to validate an online purchase. This means it's quite easy to build up the information and piece it together like a jigsaw.
+"The unlimited guesses, when combined with the variations in the payment data fields make it frighteningly easy for attackers to generate all the card details one field at a time."
+The team said MasterCard's security network detected similar attacks after less than 10 attempts.
+A spokesman for Visa said: "The research does not take into account the multiple layers of fraud prevention that exist within the payments system, each of which must be met in order to make a transaction possible in the real world.
+"Visa is committed to keeping fraud at low levels and works closely with card issuers and acquirers to make it very difficult to obtain and use cardholder data illegally."
+It said it also had its own Verified by Visa system which offered improved security for online transactions.

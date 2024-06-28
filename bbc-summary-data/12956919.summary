@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160413013630/http://www.bbc.co.uk/news/technology-12956919
+
+[SN]TITLE[SN]
+Clean-up begins after massive website attack
+
+[SN]FIRST-SENTENCE[SN]
+The Lizamoon website attack seems to have ensnared relatively few victims.
+
+[SN]RESTBODY[SN]
+The massive attack managed to inject the name of several rogue domains into hundreds of thousands of websites.
+The link led to a page that carried out a fake virus scan and then recommended fake security software to clean up what it supposedly found.
+But despite the huge success by the attackers, swift action by security firms looks to have limited the number of victims.
+The Lizamoon attack was first detected by security firm Websense on 29 March and initially the rogue domains were only showing up on about 28,000 websites.
+However, as Websense began tracking Lizamoon the sheer scale of the attack became apparent. By late on 3 April, Google was reporting that more than four million webpages were showing links to the domains involved in the attack.
+The way Google counts webpages makes it hard to estimate exactly how many websites were hit but security firms said the number ran into the "hundreds of thousands".
+The attack got its name because the first rogue domain appearing on compromised sites was lizamoon.com. A further 27 domains were also used as redirection points.
+The numbers of victims who followed the link, suffered the bogus scan and then bought the fake security software or "scareware" was also hard to estimate.
+The many domains used by Lizamoon's creators to peddle their scareware were shut down very soon after they were created thanks to the efforts of security researchers.
+Some of the sites being used were notorious for harbouring scareware and other malicious programs and some security programs have been blocking them for weeks. This also may have helped to stop people ending up on the dangerous domains.
+Rik Ferguson, senior security adviser at Trend Micro, said it had only seen a "small" number of victims.
+As one of the firms that blocked the domains used in the attack before it was ramped up, it could monitor how many customers actually visiting them.
+He said Trend Micro blocked just over 2,000 attempts to visit the domains.
+"The sites that were compromised by the SQL injection attack were comparatively low profile sites and thus the attack did not gain significant momentum," he said.
+Graham Cluley, senior security analyst at Sophos, said home PC users were probably the most likely victims of the attack.
+"Attacks like this one do underline the poor security that exists on many websites on the internet," he said, "including sites belonging to well-known organisations and brands."
+"It shouldn't be so easy for hackers to inject their malicious codes on to legitimate websites that receive lots of traffic, and too many firms are making it too easy to pass infections on to their customers," he added.
+What is currently resisting analysis is the exact route the attackers have taken to get their domains showing up on websites. Initial suggestions that versions of Microsoft's Windows server products were the common link have not been borne out by events.
+Efforts are now underway to produce a quick fix for sites hit so they can update and remove the risk of falling victim to copycat attacks.
+The only trait that compromised sites seem to share was that they were small to mid-tier websites, a list of those hit included astronomy groups, social clubs, hospitals, sports teams, funeral homes and many others.

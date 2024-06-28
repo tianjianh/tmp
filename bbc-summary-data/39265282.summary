@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170320175159/http://www.bbc.co.uk/news/technology-39265282
+
+[SN]TITLE[SN]
+McDonald's India delivery app 'leaks user data'
+
+[SN]FIRST-SENTENCE[SN]
+McDonald's delivery app in India leaked personal information about 2.2 million users, a security firm has found.
+
+[SN]RESTBODY[SN]
+A poorly configured server gave anyone access to the names, emails, home addresses and phone numbers of users, said Fallible.
+Sending a simple request to the server produced lots of information about users, it said.
+McDonald's India said it had fixed the app and urged users to install the updated version.
+The McDelivery app is operated by Westlife Development which oversees McDonald's restaurants in south and west India.
+In a statement sent to the Times of India, McDonald's India said the app did not store any "sensitive financial data" such as credit card numbers, passwords or bank account details.
+"The website and app have always been safe to use and we update security measures on a regular basis," it told the newspaper.
+Fallible said it had checked after the app was updated and found that it was still leaking information, but gave no details about the extent of this leak.
+It added that it had told McDonald's about the more recent problem it discovered and was awaiting a second response.
+One app user is believed to have already started legal action over the leaky server, reports The Hindu.
+Security firm Fallible said that the lack of strong data protection laws in India and the absence of any meaningful penalty for leaking data meant many companies did little to protect user data.
+It claimed to have uncovered "more than 50" instances of data leaks at Indian firms.
+"We are pleasantly surprised when we find Indian companies without a personal or payment data leak vulnerability," it said.

@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151202151050/http://www.bbc.co.uk/news/technology-34972760
+
+[SN]TITLE[SN]
+Security of UK net firms under scrutiny
+
+[SN]FIRST-SENTENCE[SN]
+The security of the UK's biggest internet service providers needs "major improvement", according to one expert.
+
+[SN]RESTBODY[SN]
+Security consultant Paul Moore examined the publicly available information of the UK's six biggest ISPs.
+He said he found plenty of bugs that could be exploited by hackers.
+But he said most ISPs had been in contact with him and had worked to tighten security once told of the issues.
+The audit of TalkTalk, Sky, BT, Plusnet, EE and Virgin Media was kicked off in the wake of the TalkTalk hack, which saw the personal details of 157,000 of its customers exposed.
+More than 15,600 bank account number and sort codes were stolen.
+Similar problems to those encountered by TalkTalk could have been experienced by any of the major ISPs, Mr Moore believes.
+"There have been a couple of incidents where I had to contact ISPs to report things that were serious," he told the BBC.
+The audit found a variety of problems, including passwords stored in plain text, exposed code that would allow hackers to inject their own code on to ISPs' websites and, potentially load malware on to them, and issues with encryption certificates that meant Mr Moore could apply for them from the certificate authority and pose as the webmaster for a set of ISP-owned websites.
+Mr Moore said he was impressed by most of the ISPs's responses when he raised the issues with them.
+"Ordinarily they would not be so open and honest with me but, after what happened at TalkTalk, they have been stepping in quickly," said Mr Moore.
+"On one occasion I notified BT and PlusNet about a bug at 14:00 and they kept people back until 22:00 to fix it."
+But, he added, TalkTalk was yet to contact him.
+TalkTalk did supply a statement to the BBC saying it had "integrated Paul Moore's comments into an ongoing programme of work".
+"We constantly run vulnerability checks using industry-standard third party tools. The vulnerability exploited by the hackers was not picked up by this testing, and if it had been, we would clearly have acted on that information straightaway to secure our system," it added.
+Sky told the BBC: "We take our customers' security very seriously. We constantly review our systems and we have robust, independently assessed protocols in place to make sure customer information is as secure as possible."
+Prof Alan Woodward, a security expert at Surrey University, said he was shocked by the findings.
+"TalkTalk still has problems and others have not dissimilar ones," he said.
+"I find it very surprising that after the TalkTalk hack, they [the six ISPs] still appear not to be attending to the basics.
+He added: "ISPs are the single biggest handlers of our personal data and I would expect them to get this right."

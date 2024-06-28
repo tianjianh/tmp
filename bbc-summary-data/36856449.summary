@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160722130641/http://www.bbc.co.uk/news/technology-36856449
+
+[SN]TITLE[SN]
+Mozilla to block Flash in Firefox browser
+
+[SN]FIRST-SENTENCE[SN]
+Mozilla is planning to end full support for Adobe's Flash software in its Firefox browser from next month.
+
+[SN]RESTBODY[SN]
+In August, it will block the Flash-powered parts of webpages that were "not essential to the user experience".
+The browser developer said its action would mean webpages loaded more quickly and made crashes less likely.
+In 2017, it said it planned to introduce a system that would mean users must click to activate Flash no matter where it was used on a webpage.
+In a blogpost, Firefox developer Benjamin Smedberg said its first step would tackle the Flash-based parts of a webpage that users did not see. This includes files used to help with tracking and following which websites users visit, to aid advertising.
+Many of these hidden functions can now be done using HTML - the language of the web - said Mr Smedberg.
+This list of blocked files would gradually be expanded to those Flash files used by advertisers to see if their ads were being watched, he said.
+Tackling these hidden and ad-related files should cut crashes and page "hangs" by up to 10%, he added.
+Statistics gathered by Mozilla showed a steep fall in the number of times webpages crashed when Google and Facebook stopped using Flash for video and replaced it with HTML-based code.
+He said the change would also make the Firefox browser more secure and could mean longer battery life on some portable devices.
+In 2017, users will have to click to activate Flash for any webpage content. Mr Smedberg urged sites that rely on it to show video or games to adopt HTML-based alternatives as soon as possible.
+Mozilla's decision follows similar action by Google, Microsoft and Apple to phase out support for Flash.

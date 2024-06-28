@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170209012223/http://www.bbc.co.uk/news/technology-36903274
+
+[SN]TITLE[SN]
+Osram Lightify light bulbs 'vulnerable to hack'
+
+[SN]FIRST-SENTENCE[SN]
+Security researchers have discovered nine vulnerabilities in a range of internet-connected light bulbs made by Osram.
+
+[SN]RESTBODY[SN]
+The flaws in the Lightify products could give attackers access to a home wi-fi network, and potentially operate the lights without permission.
+Osram said a "majority" of the problems would be fixed in a software update in August, but four remained unpatched.
+One security expert said Osram had made an "elementary" mistake.
+Osram's Lightify range features internet-connected light bulbs that can be controlled using a smartphone app.
+Researcher Deral Heiland from Rapid7 discovered nine vulnerabilities in the Home and Pro range and reported them to the manufacturer.
+One problem was that the Osram smartphone app stored an unencrypted copy of the user's wi-fi password.
+That could give an attacker access to a user's home wi-fi network and the devices connected to it, if the password was extracted from the app.
+"In this day and age, you would regard that as an unacceptable security flaw," said Professor Angela Sasse, a cybersecurity expert at University College London.
+"It's a well known thing that you don't store passwords like that - it's really elementary."
+Another flaw could let an attacker compromise the light bulbs and switch them on or off without permission.
+"This is not just about being able to manipulate the light bulbs," said Prof Sasse.
+"The vulnerabilities here could give somebody access to control the network itself and that's a very serious issue."
+Osram said in a statement: "Since being notified about the vulnerabilities identified by Rapid7, Osram has taken actions to analyse, validate and implement a risk-based remediation strategy.
+"The majority of vulnerabilities will be patched in the next version update, currently planned for release in August."
+The firm said the remaining unpatched problems involved the ZigBee hub - a device that sits between the light bulbs and a home wi-fi router to relay commands to the lamps.
+"Osram is in ongoing coordination with the ZigBee Alliance in relation to known and newly discovered vulnerabilities," the firm told the BBC.
+A number of companies including Amazon, Apple, Blackberry and Google are developing platforms to support internet-connected devices in the home.
+Prof Sasse said consumers would need to feel confident about the security of smart devices before adopting them.
+"What we've seen with many companies that are hardware specialists, is that their quality control may not be on top of the software side of things," she told the BBC.
+"They may be able to test that the software does what it's supposed to do - but they don't always test the things it is not supposed to do.
+"I think it highlights something that consumers should be concerned about.
+"For devices embedded in the home, there should be basic security checks."

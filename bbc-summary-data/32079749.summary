@@ -1,0 +1,61 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150410001452/http://www.bbc.co.uk/news/business-32079749
+
+[SN]TITLE[SN]
+Scotched eggs: Is this the death of the Easter egg?
+
+[SN]FIRST-SENTENCE[SN]
+This Easter, spare a thought for the inventor of the Easter egg.
+
+[SN]RESTBODY[SN]
+Not the chocolate type, but that bit of code, often amusing, inserted secretly by a developer in to a bit of software.
+The 1997 Microsoft Word hid a pinball game. Excel 97 concealed a flight simulator.
+Or go outside Earls Court tube station on Google Street View, find the police box, and tap the up arrow. You'll find yourself inside the Tardis.
+Warren Robinett created the first bit of code to be called an Easter egg.
+His 1979 Adventure for the Atari 2600 was the first action-adventure video game.
+And he wanted to include his name, Atari games then being anonymous.
+"They had the power to keep my name off the box, but I had the power to put my name on the screen," he says.
+"What I did was to make a very hard to find secret room, and what the secret was in the secret room was my signature."
+He says it was discovered independently by a relatively small number of children.  Then once the word spread round, more joined the Easter egg hunt.
+He called hidden surprises in games "like waking up on Easter morning, looking for surprises around the flowers," says the Adventure programmer.
+Atari executive Steve Wright decided he liked the idea.
+Mr Robinett by then had left the company.
+After a year of backpacking in Europe, he came back to California and met other Atari programmers for beer and pizza.
+When he shared the story, "I looked around the table and there was a gleam in every eye," he says.
+Game designer Rob Fulop was there, and inserted an Easter egg into his 1982 game Demon Attack.
+And from that point, the fledgling genre of video games took off.
+"I hope it's not my crowning achievement of my life to invent the Easter egg," says Mr Robinett.
+Early versions of the Apple Macintosh, such as the 1987 Macintosh SE, included photographs and names of the designers squirreled away as Easter eggs.
+But Steve Jobs forbade them when he returned to Apple in 1997.
+He said engineers were wasting too much time on them, they made the disk footprint heavier - and including the names of programmers made it easier for competing companies to poach them.
+Microsoft had them aplenty in its early days, too, but stopped including Easter eggs in 2002.
+Microsoft's principal software design engineer Larry Osterman wrote on his blog in 2005 that "nowadays, adding an Easter egg to a Microsoft OS is immediate grounds for termination, so it's highly unlikely you'll ever see another."
+Are Easter eggs a relic from a golden age of programming amateurism, a poignant remnant a loss of innocence, in computing's shift from hackerish quirkiness to corporate blandness?
+"Are they going away? Indeed they are," says Dr Diomidis Spinellis, a Greek computer science academic and author of The Elements of Computing Style.
+"As programming becomes more corporate, more official, one cannot appear to have code that is not officially sanctioned," he says.
+Easter eggs have not undergone the same levels of scrutiny of the rest of the code, he says, and there may be vulnerabilities attached to them.
+"They still happen, but they're less likely to be little bits of code, more likely to be hidden in documentation or code comments," adds Brendan Quinn, a software architect in London.
+"Actual executable stuff hidden in code is something that people are trying to eliminate. With varied success around the industry."
+The argument goes if a manufacturer can't stop developers from sneaking in benign undocumented features in, how can you be sure they've not inserted a backdoor, too.
+Companies like Microsoft now routinely employ automatic code checkers, to flag bits of code which don't confirm to specifications.
+Outside corporate coding, hacker culture also is changing.
+With the emergence of open source software, hobbyist programmers have gravitated to more professional programming techniques, with code reviews and large-scale quality assurance protocols.
+Dr Spinellis adds that nowadays, companies hire programmers by looking at code they have written on websites like the open source software site GitHub.
+"This is a good thing for software, but a problem for things like Easter eggs," he says.
+But a few veteran programmers say rumours of the death of Easter eggs may be greatly exaggerated.
+"I don't think Easter eggs will ever go away, because programming will always be a creative activity, not just bookkeeping" says Jamie Zawinski, a software engineer who worked on early versions of Mozilla and Netscape Navigator.
+"Corporations can take a harder or looser stance against them, but that's not going to make a difference," he says.
+"Maybe you'll end up having to swear a co-worker or two to secrecy to get your Easter egg to pass code review", he says, "but it's still going to happen."
+Another new Easter egg trend consists of hiding eggs within web pages. GitHub has a collection of 180 of these, Dr Spinellis says.
+Many of them are activated using the Konami Code, a cheat code devised in 1986 by Japanese programmer Kazuhisa Hashimoto, which in many games gives a player extra powers.
+And the Easter Egg Archive, a website which documents Easter eggs, finds recent examples in software as serious as the drafting package AutoCAD, placed there with the probable knowledge of management, says Dr Douglas Jones, computer security expert at the University of Iowa.
+Not to mention large corporations sometimes find Easter eggs handy in fending off copyright infringement.
+Chipmakers like Intel and Hewlett Packard have long histories of including artwork on their chips, and even developing ways to make the drawings part of the functional logic. The Chip Collection at the Smithsonian Institution documents many of these.
+"If you are Intel," says Dr Jones, "including an Easter egg in your chip's design will allow you to detect that someone didn't design their own chip, they just copied yours."
+So harmless bits of fun, or security risk - which is it?
+Easter eggs are now less frequently surreptitiously entered at the coding desk. More often, management is aware and has had them tested.
+For Google, they are even part of their marketing.
+Try typing "do a barrel roll" in the search engine, or googling "Google in 1998", or for the answer to life, the universe, and everything.
+For that matter, in Firefox search for about:robots. (You will be informed robots have shiny posteriors "which should not be bitten", helpfully.)
+And Steven Spielberg signed on this month to direct Ernest Cline's Ready Player One, a novel which is both based on Easter eggs, and includes a potted history of them.
+So this Easter, we can look forward to many Easter egg hunts to come that needn't involve going out into April showers.

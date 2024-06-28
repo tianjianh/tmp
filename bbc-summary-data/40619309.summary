@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170718055348/http://www.bbc.co.uk/news/uk-40619309
+
+[SN]TITLE[SN]
+'It was always going to happen': Inside the cyber-attack on parliament
+
+[SN]FIRST-SENTENCE[SN]
+On 23 June the British parliament came under a sustained cyber attack. In a matter of hours hackers made around 200,000 attempts to get into online user accounts. It was Rob Greig who got the call: "You need to get yourself over there right now." And so battle began.
+
+[SN]RESTBODY[SN]
+The attack - which led to officials disabling remote access to thousands of email accounts of MPs, peers and their staff - was first spotted by parliament's security operations centre.
+This was where Mr Greig, as director of the parliamentary digital service, was summoned to that Friday morning.
+There had been some suspicious activity his team had looked at.
+That was not particularly unusual. The previous evening, the team had increased security on a number of accounts.
+But this, in turn, triggered the events that unfolded that Friday morning. The hackers realised that the defenders had spotted their work and were on to them.
+And so they stepped up a gear.
+"They hit us with everything they could," Mr Greig says. "We saw around 200,000 attempts to get into our users' accounts."
+There was an automated "brute force" element of the attack which targeted weak passwords.
+But the attackers also knew enough about parliamentary security policies to try to avoid being spotted, by spacing out their attempts.
+By 13:30, Mr Greig had informed the 9,000 users of the parliamentary system that an incident was under way.
+His team fought to keep the attackers out of the system by blocking access to particular services - but then the attackers adapted.
+"Their attack vector changed and they came for a different service," says Mr Greig.
+"So someone was sat there watching. It wasn't just [an automated] script running. Someone was reacting."
+The tussle between attackers and defenders lasted for about 24 hours as members of the team cancelled weekend and holiday plans and in one case, even left a wedding, to help manage the response.
+On Saturday, it became clear that some data had been compromised and stolen. Because of that, the decision was taken to lock all accounts so they could not be accessed remotely outside of parliament.
+It was at this point that news of the attack became public as parliamentarians revealed they could no longer access their emails.
+End of Twitter post  by @LordRennard
+"Our number one priority was to maintain the democratic activity that takes place in those two chambers - and all the systems, services and databases that run around that - that's what our decision making was based on and that's what we achieved," Mr Greig explains.
+He said subsequent investigations revealed that fewer than 50 email accounts belonging to fewer than 30 users were compromised (a figure smaller than originally reported but which remains subject to change).
+The National Crime Agency and National Cyber Security Centre are both investigating, and so there is caution about saying too much.
+"What I would say is that it doesn't look like to me to be an amateur attack," says Mr Greig.
+"My direction of travel in terms of where we are going from this, it looks more like a state activity than anything else."
+End of Twitter post  by @HenrySmithUK
+Mr Greig was two years into a three-year cyber security programme to upgrade parliamentary cyber security.
+Multifactor authentication - which protects email accounts by requiring more than just a password to log on - had already been rolled out to new members and staff at the general election.
+That was quickly extended to all users, accelerating existing plans.
+There are a number of challenges specific to protecting parliament - including the presence of more than 650 offices in every constituency as well as 9,000 users.
+Parliament also guards its independence from government. The so-called Wilson doctrine limits the ability of intelligence agencies to monitor the communications of parliamentarians.
+This is designed to stop them being spied on, but makes it trickier to carry out the defensive monitoring of electronic communication that occurs at government departments.
+Mr Greig says it did not hinder responding to the June incident, but acknowledges there are issues in how it operates in the current world of modern cyber attacks.
+"There is a question mark over the relevance of the Wilson doctrine and how effective it is as a policy," he says.
+Parliaments and the political process have been targeted in a number of countries in recent months and Mr Greig knows this may not be the last time he gets a phone call summoning him to the Security Operations Centre.
+"It was always going to happen," Mr Greig says, the screens on the wall filled with evidence of all the activity on the network.
+"And I'm sure something will happen again."

@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160101193257/http://www.bbc.co.uk/news/business-30131446
+
+[SN]TITLE[SN]
+Why 2014 was a good year for retail robbers
+
+[SN]FIRST-SENTENCE[SN]
+Cyber thieves have had a good year. Especially those seeking to steal from shops and stores.
+
+[SN]RESTBODY[SN]
+Millions of payment card details have been liberated by gangs that targeted the payment systems at tills.
+The attacks started in December 2013 with US retailer Target. Throughout 2014 other stores, including Home Depot, Staples, Sears, Neiman Marcus, Nordstrom to name but a few, all fell victim to the till-tapping gangs.
+As well as liberating tens of millions of credit card numbers, the attacks cost some senior executives their jobs and left those that were hit with a bill that often ran into the tens of millions of dollars to clean up. Home Depot said the bill for clearing up after its breach would hit $43m (Â£28m).
+There were so many attacks that the FBI issued a three-page confidential warning to American retailers telling them to watch out for malicious programs aimed at them.
+The key word in that last sentence is "American". Almost all the big thefts of customer data were from large US stores.
+"There's a fundamental flaw in the US credit card system in that they do not use chip and pin," said Seth Berman, managing director of the London office of risk management firm Stroz Friedburg.
+"The US is doing everyone a favour by acting as a honeypot for criminals, and in addition the country has more credit cards per head than anywhere else," he said.
+The popularity of attacking retailers was revealed by security firm Lancope which spotted 10 separate families of malware that targets retailers. The malicious programs come in different shades of sophistication. Some keep an eye on the underlying processes that a cash till is cycling through as it totals up your bill and only grabs data when it knows the payment info is being processed.
+Some programs, said Lancope, have been so successful that they are now offered as services with tech support available for those hi-tech criminals just getting started in the cyber theft game.
+Analysis of the breaches at the US retailers shows the thieves targeted the systems that pass card data around the internal computer networks of large stores. In some cases, the malware used to pilfer card numbers, names and other details scraped the memory of card-reading devices on tills to capture the information before it is processed and any encryption was applied.
+Richard Goodall from retail IT specialist PCMS said relatively few US stores have adopted card processing standards, known as PCI DSS, that are designed to ensure organisations do a good job of securing payment information and make "in-flight" data capture harder to carry out.
+"PCI DSS defines where the data is held and how it moves through the system," he said, adding that it tells card handlers to separate key data fields to make it harder for thieves to piece together who used which card when, and what they bought.
+By contrast, European firms have been enthusiastic adopters of PCI DSS and this, alongside work to upgrade systems for chip and pin, had helped make them less of a target, he said.
+But if older tech proved a weak point for US retailers, then newer tech might help them do a better job of securing tills and pay points in stores.
+The newer tech is called Near Field Communication (NFC) and lets people pay just by touching a card or a smartphone to a reading device.
+Howard Berg, a spokesman for European payments technology firm Gemalto, said NFC was designed to speed up payments and help to cut down the need to carry cash to make those low value purchases. At the moment. in Europe, NFC transactions are limited to a Â£20 maximum - far higher than the average amount people spend when using cash.
+"When you do a contactless NFC transaction you are not going to get the details you need for fraud," said Mr Berg. "You do not get the card holder name or the CVV code."
+Many people used a NFC-enabled card to carry out those the pay-by-touching transactions, he said, but this would likely change as more and more smartphones were released and bought that have an NFC chip onboard.
+Many of these chips were not yet activated, said Mr Berg, but the latent population of NFC-capable phones was growing steadily. In addition, he said, payment card firms and others were now moving to use NFC systems so consumers can use their phone to pay.
+Using NFC by phone and combining it with any form of tokenisation to generate a one-time "token" rather than exposing the real card number adds another layer of obscurity that thieves have to hack through, he said.
+"It's not handing over the card number," said Mr Berg, "it's a unique one-off token that changes for each transaction."
+Anyone grabbing that token would only get information about a single purchase, said Mr Berg, and would not be able to re-use it to buy other stuff.
+He cautioned against thinking that NFC was going to eliminate fraud but said it did put tighter limits on how a thief might go about doing it.
+"We don't think we will see breaches happen at the point of sale because there's not that much information travelling at that point," he said.
+Perhaps the only upside to the rash of security breaches at large US retailers is that it has made them intimately familiar with the best, and worst, way to tell customers that their data has gone astray. US laws demand that they give the public notice of breaches soon after they are spotted.
+That unpleasant experience of going public is one that European firms are going to become much more acquainted with thanks to an imminent European data directive.
+Samantha Livesey, a partner at law firm Pinsent Masons who specialises in technology law, said the directive brings in tough rules on what firms must do once they discover data has gone astray.
+"They have to report it within 72 hours of discovery to the relevant body if the breach results in loss of physical material or moral damage," she said.
+In addition, said Ms Livesey, it lets regulators bestow fines up to a value of 5% of worldwide revenue on companies that lose data.
+She said companies should now start looking at the journey data takes through their organisation to see if they can spot any weak points where it might go astray or there could be unauthorised access to it.
+Many were also looking to take out insurance that would help them pay for and recover from a breach.
+"It's a really tricky area to insure because its hard to know how to value data, what will be the legal fees and how to put a cost on the consequences of a breach," she said.
+"It's definitely drawing attention to data compliance and security," she said.

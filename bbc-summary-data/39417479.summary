@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170604021248/http://www.bbc.co.uk/news/technology-39417479
+
+[SN]TITLE[SN]
+Exposed files on Microsoft's document-sharing site
+
+[SN]FIRST-SENTENCE[SN]
+Confidential documents, passwords and health data have been inadvertently shared by firms using Microsoft's Office 365 service, say researchers.
+
+[SN]RESTBODY[SN]
+The sensitive information was found via a publicly available search engine that is part of Office 365.
+Security researchers said many firms mistakenly thought documents would only be shared with colleagues not globally.
+Microsoft said it would "take steps" to change the service and remove the sensitive data.
+Security researcher Kevin Beaumont discovered the sensitive information after using the search engine on Docs.com - a website that is part of the Office 365 online software service.
+Many firms use Microsoft's well-known suite of office productivity programs by subscribing to Office 365 which also gives them access to online services including Skype as well as a document-sharing and storage system.
+In a series of tweets, Mr Beaumont revealed some of the sensitive information he had found via the Docs.com search engine.
+"People clearly don't understand how the service works. It defaults to publicly accessible, which is the problem," he wrote.
+Other security researchers followed up his discovery and unearthed confidential business papers including lists of passwords and access codes as well as social security and National Insurance numbers.
+Many users complained to Microsoft via social media about documents being exposed publicly. The software giant initially reacted by removing the search box from the main Docs.com page.
+However, security experts following developments found that this did not remove all the exposed documents from view.
+"Files were still cached in Google's search results, as well as Microsoft's own search engine, Bing," wrote Zack Whittaker from tech news site ZDNet.
+Microsoft later took steps to block incoming searches from Google to stop information being found.
+However, on 27 March, the search box returned to the homepage of Docs.com.
+In a statement shared with several news organisations, Microsoft said: "As part of our commitment to protect customers, we're taking steps to help those who may have inadvertently published documents with sensitive information."
+It added: "Customers can review and update their settings by logging into their account at www.docs.com."

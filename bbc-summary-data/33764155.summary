@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150804205133/http://www.bbc.co.uk/news/technology-33764155
+
+[SN]TITLE[SN]
+Hackers target internet address bug to disrupt sites
+
+[SN]FIRST-SENTENCE[SN]
+Hackers are exploiting a serious flaw in the internet's architecture, according to a security firm.
+
+[SN]RESTBODY[SN]
+The bug targets systems which convert domain names into IP addresses.
+Exploiting it could threaten the smooth running of internet services as it allows hackers to launch denial-of-service attacks on websites, potentially forcing them offline.
+Regular internet users are unlikely to be severely affected, however.
+Bind is the name of a variety of Domain Name System (DNS) software used on the majority of internet servers.
+The recently identified bug allows attackers to crash the software, therefore taking the DNS service offline and preventing URLs, for example, from working.
+A patch for the flaw is already available, but many systems are yet to be updated.
+The Internet Systems Consortium (ISC), which develops Bind, said in a tweet that the vulnerability was "particularly critical" and "easily exploited".
+Daniel Cid, a networking expert at Sucuri has published a blog post on the vulnerability in which he explained that real exploits taking advantage of the flaw have already happened.
+He told the BBC: "A few of our clients, in different industries, had their DNS servers crashed because of it.
+"Based on our experience, server software, like Bind, Apache, OpenSSL and others, do not get patched as often as they should."
+Cybersecurity expert Brian Honan commented that a spike in exploits of the flaw was expected over the next few days.
+However, he added that websites would often still be accessible via other routes and cached addresses on DNS servers around the world, even when certain key DNS servers have been made to crash.
+"It's not a doomsday scenario, it's a question of making sure the DNS structure can continue to work while patches are rolled out," he said.
+The impact on general internet users is likely to be minimal, according to Mr Cid.
+"Average internet users won't feel much pain, besides a few sites and email servers down," he said.

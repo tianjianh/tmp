@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170512221813/http://www.bbc.com/news/technology-39901382
+
+[SN]TITLE[SN]
+Massive ransomware infection hits computers in 99 countries
+
+[SN]FIRST-SENTENCE[SN]
+A massive cyber-attack using tools believed to have been developed by the US National Security Agency has struck organisations around the world.
+
+[SN]RESTBODY[SN]
+Computers in thousands of locations have been locked by a programme that demands $300 (Â£230) in Bitcoin.
+In April hackers known as The Shadow Brokers claimed to have stolen the tools and released them online.
+Microsoft released a patch for the vulnerability in March, but many systems may not have been updated.
+There have been reports of infections in 99 countries, including the UK, US, China, Russia, Spain, Italy and Taiwan.
+Cyber-security firm Avast said it had seen 75,000 cases of the ransomware - known as WannaCry and variants of that name - around the world.
+"This is huge," said Jakub Kroustek at Avast.
+Many researchers say the incidents appear to be linked, but say it may not be a coordinated attack on specific targets.
+Meanwhile wallets for the digital cryptocurrency Bitcoin that were seemingly associated with the ransomware were reported to have started filling up with cash.
+The UK's National Health Service (NHS) has been hit and screenshots of the WannaCry program were shared by NHS staff.
+Hospitals and doctors' surgeries were forced to turn away patients and cancel appointments One NHS worker told the BBC that patients would "almost certainly suffer and die" as a result.
+Some reports said Russia had seen more infections than any other single country. Russia's interior ministry said it had "localised the virus" following an "attack on personal computers using Windows operating system".
+People tweeted photos of affected computers including a local railway ticket machine in Germany and a university computer lab in Italy.
+A number of Spanish firms - including telecoms giant Telefonica, power firm Iberdrola and utility provider Gas Natural - suffered from the outbreak. There were reports that staff at the firms were told to turn off their computers.
+Portugal Telecom, delivery company FedEx, a Swedish local authority and Megafon, the second largest mobile phone network in Russia, also said they had been affected.
+Some experts say the attack may be have been built to exploit a weakness in Microsoft systems that was identified by the NSA and given the name EternalBlue.
+The NSA tools were then stolen by a group of hackers known as The Shadow Brokers, who then attempted to sell the encrypted cache in an online auction.
+However they subsequently made the tools freely available, releasing a password for the encryption on 8 April.
+The hackers said they had published the password as a "protest" about US President Donald Trump.
+At the time, some cyber-security experts said some of the malware was real, but old.
+A patch for the vulnerability was released by Microsoft in March, but many systems may not have had the update installed.
+Microsoft said on Friday its engineers had added detection and protection against WannaCrypt. The company was providing assistance to customers, it added.
+Some security researchers have pointed out that the infections seem to be deployed via a worm - a program that spreads by itself between computers.
+Unlike many other malicious programs, this one has the ability to move around a network by itself. Most others rely on humans to spread by tricking them into clicking on an attachment harbouring the attack code.
+By contrast, once WannaCry is inside an organisation it will hunt down vulnerable machines and infect them too. This perhaps explains why its impact is so public - because large numbers of machines at each victim organisation are being compromised.

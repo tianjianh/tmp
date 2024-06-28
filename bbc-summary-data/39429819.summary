@@ -1,0 +1,55 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170331235605/http://www.bbc.co.uk/news/business-39429819
+
+[SN]TITLE[SN]
+Three words to set alarm bells off for every firm
+
+[SN]FIRST-SENTENCE[SN]
+The email from the boss looked kosher. He said a new supplier needed paying urgently - £50,000 to secure an important contract.
+
+[SN]RESTBODY[SN]
+He wanted it done as soon as possible because he was on holiday and didn't want to worry anymore about work.
+This rang true to the finance director because his boss had already posted a photo of his Greek island getaway on Instagram. His email address looked genuine too.
+But, of course, it wasn't the boss.
+It was a fraudster who'd done his research and was skilled at psychological manipulation.
+The small manufacturing firm - that wishes to remain anonymous - ended up losing £150,000 to the fraudster in the mistaken belief that he was a legitimate supplier.
+When the boss found out the bad news, he fired the finance director.
+This is an all-too-common story, involving business email compromise (BEC) or CEO fraud, as it's known to law enforcement.
+Three words to look out for in email subject headers that should set alarm bells ringing are "urgent", "payment" and "request".
+It is a relatively lo-tech fraud but phenomenally successful - around 22,000 firms and organisations around the world have lost more than $3bn (£2.4bn) to it over the last three years, the FBI says.
+In March, the US Department of Justice arrested a 48-year-old Lithuanian man, Evaldas Rimasauskas, for allegedly stealing more than $100m (£80m) from two internet companies in an email fraud between 2013 and 2015.
+"Email fraud is the number one attack for our clients," says Edward Cowen, chief executive of Remora, a cybersecurity consultancy.
+"We're talking £100,000 losses typically, but we've had losses in the millions. One guy nearly got away with 7m euros (£6m)."
+Cybersecurity firm Proofpoint reports that its 5,000 clients saw a 45% rise in BEC fraud in the last three months of 2016.
+Two-thirds of these attacks used the simple trick of spoofing the email address to make it look like the message came from someone senior within the organisation.
+But often, if you reply to such emails, the "To" address will show a completely different domain name, or a company name that looks very similar but has an extra letter added or two letters flipped around.
+As our brains are very good at making sense out of words with jumbled up letters, we often don't notice these "mistakes".
+"People are still the weakest link when it comes to cybersecurity," says Rob Holmes, Proofpoint's vice-president of products.
+"It's a remarkably unsophisticated type of fraud from a tech perspective, but the bad guys do extensive research into the top executives to make their emails look as plausible as possible."
+The usual tactic with BEC fraud is for the fraudster to pose as an authoritarian boss barking orders to subordinates in the accounts department.
+"More junior people are more likely to do what they're told without question," says Mr Holmes.
+"So if your boss is quite authoritarian you are more prone to this type of attack."
+Another tactic is to establish a rapport with another member of staff who assumes the emails are coming from a senior executive.
+Once the fraudster has lulled the target into a false sense of security, he asks for payroll data or other useful information.
+It's easy to spoof the "From" field in an email address and to edit the name label of a sender. So instead of seeing the email address in full, recipients just see the person's name.
+The fraudsters may also include made-up exchanges between senior executives in the email, perhaps discussing the deal or contract that the payment refers to.
+And if hackers have gained access to the chief executive's travel schedule they can make an email sound even more plausible.
+"Make the payment now because after that I'll be in the air for 12 hours and unreachable," a typical email might say.
+Knowing that the boss is away also stops staff being able to verify the payment request in person.
+Fraudsters have also been known to follow up the email with a telephone call from someone pretending to be a lawyer or accountant "verifying" the transaction.
+All these techniques add credibility to the lie.
+"These are very smart people - sometimes hackers will take six months getting all the data they need to make the emails believable," says Mr Cowen.
+And the fact that these attacks typically involve just a single email means that they bypass security systems designed to pick up several emails coming from different IP [internet protocol] addresses.
+So what should businesses be doing to protect themselves?
+Cybersecurity firms like Proofpoint say their systems can spot emails pretending to originate from within your company. And verification programs like DMARC [Domain-based Message Authentication, Reporting and Conformance] also help weed out impostors.
+But there are simpler ways to combat BEC fraud, argues Remora's Mr Cowen.
+"About 70% of our frauds could be prevented with a single phone call. It's really that simple," he says.
+In other words, don't just rely on one email from the "boss"- verify the request in person or over the phone.
+Tom Kemp, boss of security company Centrify, says: "I've told the people here that I will never ever send an email asking for a wire transfer or for personally identifiable information to be sent to me.
+"If need be, pick up the phone and actually call me."
+Firms could also beef up their policies governing who should be authorised to make payments and how many people should approve them, says Michael DeCesare, chief executive of cybersecurity company ForeScout.
+"In our company it needs approval from five people before a wire transfer can be made," he told the BBC.
+And Amar Singh, chief executive of the Cyber Management Alliance, an organisation that trains managers on how to plan for and respond to cyber-attacks, calls for "pragmatic paranoia".
+"Always be more suspicious when it's anything to do with financial transactions," he advises.
+Follow Matthew on Twitter and Facebook
+Click here for more Technology of Business features

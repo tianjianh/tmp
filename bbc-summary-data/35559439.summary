@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160227085313/http://www.bbc.co.uk/news/technology-35559439
+
+[SN]TITLE[SN]
+Women write better code, study suggests
+
+[SN]FIRST-SENTENCE[SN]
+Computer code written by women has a higher approval rating than that written by men - but only if their gender is not identifiable, new research suggests.
+
+[SN]RESTBODY[SN]
+The US researchers analysed nearly 1.4 million users of the open source program-sharing service Github.
+They found that pull requests - or suggested code changes - made on the service by women were more likely to be accepted than those by men.
+The paper is awaiting peer review.
+This means the results have yet to be critically appraised by other experts.
+The researchers, from the computer science departments at Cal Poly, San Luis Obispo, and North Carolina State University, looked at around four million people who logged on to Github on a single day - 1 April 2015.
+Github is an enormous developer community which does not request gender information from its 12 million users.
+However the team was able to identify whether roughly 1.4m were male or female - either because it was clear from the users' profiles or because their email addresses could be matched with the Google + social network.
+The researchers accepted that this was a privacy risk but said they did not intend to publish the raw data.
+The team found that 78.6% of pull requests made by women were accepted compared with 74.6% of those by men.
+The researchers considered various factors, such as whether women were more likely to be responding to known issues, whether their contributions were shorter in length and so easier to appraise, and which programming language they were using, but they could not find a correlation.
+However among users who were not well known within the community, those whose profiles made clear that they were women had a much lower acceptance rate than those whose gender was not obvious.
+"For outsiders, we see evidence for gender bias: women's acceptance rates are 71.8% when they use gender neutral profiles, but drop to 62.5% when their gender is identifiable . There is a similar drop for men, but the effect is not as strong," the paper noted.
+"Women have a higher acceptance rate of pull requests overall, but when they're outsiders and their gender is identifiable, they have a lower acceptance rate than men.
+"Our results suggest that although women on Github may be more competent overall, bias against them exists nonetheless," the researchers concluded.
+Despite various high profile initiatives, tech firms continue to face challenges in terms of the diversity of their staff, in terms of both gender and ethnicity, particularly in more technical careers.
+Just 16% of Facebook's tech staff and 18% of Google's are women according to figures released in 2015.
+However the researchers' findings are still encouraging, computer scientist Dr Sue Black OBE told the BBC.
+"I think we are going to see a resurgence of interest from women in not only coding but all sorts of tech-related careers over the next few years," she said.
+"Knowing that women are great at coding gives strength to the case that it's better for everyone to have more women working in tech.
+"It was a woman - Ada Lovelace - who came up with the idea of software in the first place, we owe it to her to make sure that we encourage and support women into the software industry," Dr Black added.

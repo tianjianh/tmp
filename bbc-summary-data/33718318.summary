@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160926010440/http://www.bbc.co.uk/news/technology-33718318
+
+[SN]TITLE[SN]
+FireChat launches new offline private messaging option
+
+[SN]FIRST-SENTENCE[SN]
+Social messaging app FireChat has launched a new feature which allows people to communicate privately, even without an internet connection.
+
+[SN]RESTBODY[SN]
+The app links phones via their Bluetooth and WiFi signals, but can use internet connections when available.
+FireChat has become popular with users congregating in large crowds, such as at music festivals and protests, where mobile signals may be overloaded.
+Previously, conversations via the app were chatroom-based and public.
+The move to enable end-to-end encryption makes FireChat the first widely-used social mesh network which claims to offer private communications.
+However, no technical details about the encryption technology itself have yet been released.
+News of the development has been greeted with some positivity by privacy campaigners.
+"Firechat's announcement that it will seek to provide end-to-end encrypted messaging is a positive step for privacy," said Richard Tynan, a technologist at Privacy International.
+"However, it remains to be seen whether the quality of these implementations actually lives up to the claims.
+"For many at risk individuals, the security of their communications can be a matter of life and death.
+"It is vital, therefore, that claims about security can be verified and tested independently," he told the BBC.
+Christophe Daligault, CEO of OpenGarden, the company behind the app, explained that messages may be transmitted between FireChat users who themselves form a communications network.
+"Let's say you and I are sending private messages this way and there are a number of people in-between us who have the app," he told the BBC.
+"They won't know what is going through their phones."
+The chain these users form can extend across entire cities, such as Hong Kong.
+Daligault says just 5% of the population there is currently using the app and could form a city-wide network if they all upgrade to the latest version.
+Messages will be travel from sender to recipient by whatever means is available - through the offline mesh network or over the web.
+If no connections at all are present, the app will store outgoing messages until they can be sent.
+FireChat currently has six million users and Daligault says that individuals who form the connection points in the network can be as far as 200 feet apart and still send and receive data without web access.

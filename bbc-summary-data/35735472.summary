@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160405060931/http://www.bbc.co.uk/news/uk-wales-north-west-wales-35735472
+
+[SN]TITLE[SN]
+How does your brain pick one word from 50,000 in 0.6 seconds?
+
+[SN]FIRST-SENTENCE[SN]
+The average English-speaker has about 50,000 words in their mind. But how do they find the right one in 600 milliseconds?
+
+[SN]RESTBODY[SN]
+A Bangor University expert believes the constant battle for prominence between words like "cat" and "dog" could help to explain.
+Dr Gary Oppenheim, of the university's Language Production Lab, is working to reveal the "algorithms and architectures" behind vocabulary.
+So he has built a computer system which aims to mimic human word production and "learns as it speaks".
+"Humans talk a lot and we're actually amazingly good at it," Dr Oppenheim said.
+"Often, we're producing two or three words per second and speaking about 15,000 words in a given day, which is pretty amazing.
+"So my question is how do we do this? Why are we so amazingly successful?"
+Dr Oppenheim, originally from Detroit, Michigan, argues the mind retrieves words by activating their "semantic features" - the elements that make up their meaning.
+Some words share a number of features - for instance, the words "dog" and "cat" are both furry, quadrupeds, with a tail that are domesticated.
+They are, however, distinguished by the fact one barks and the other meows.
+He argues such words, linked by their shared semantic features, are constantly reorganised and refined based on their usefulness in the recent past.
+"By adapting to the things that have been difficult in the recent past, you can actually predict and overcome those challenges you might experience in the near future.
+"So each time you use a word, you actually modify your vocabulary to make that word a little more accessible," he added.
+But this means all of the other "competing words" with similar features are then pushed to the background "just a little bit".
+"You're continually modifying your vocabulary, reorganising things, reoptimising things, tuning things in a way that I think we had not quite realised," said Dr Oppenheim.
+This appears to have held true in tests he has carried out with 170 participants in Bangor and hundreds more elsewhere.
+These involved people naming the words for 500 simple line drawings which have been "normed" - tested to ensure they are commonly recognised representations of those terms.
+Participants are tested to see how fast they can say the most appropriate word.
+So far, for example, the average response time for correctly naming the picture of a dog is about 700 milliseconds.
+Provisional results suggest that, as predicted, those tested took an increasing amount of time - albeit only fractions of a second - to accurately name proceeding mammals when they arose, sprinkled among hundreds of other images.
+"The idea is that each time you use the word 'dog', you're strengthening the connections to the word 'dog', making it a little more accessible and weakening the connections to 'cat', making it a little less likely to be retrieved from the same cues.
+"But the next time you actually use the word 'cat', 'cat' will be stealing back some of that semantic space.
+"This kind of push and pull, constant competition between 'cat' and 'dog' means that, overall, you're actually able to retrieve both dog and cat usually when you need to. There might be a little bit of lag in your experience but they engage in a dynamic equilibrium."
+So that explains, potentially, how the brain arrives, hopefully, at the perfect word.
+But what is the sequence of mental steps when a person recognises an image they want to name?
+First, they visually process the image, then retrieve some semantic representations of it before mapping them on to an individual word, according to Dr Oppenheim.
+Next, they retrieve the sound targets for that word and create and carry out a motor plan that will disrupt their breathing and allow them to create a vibration in their mouth others will understand as that word.
+And why is any of this useful to know?
+"Language is a cornerstone of our lives. But because of its complexity, when things go wrong, it's often difficult to understand what exactly has gone wrong," Dr Oppenheim said.
+"For instance, a lot of people following strokes will have language impairments."
+"What really helps is to be able to build a model of that process in typical language users and then...you can actually play with the model, try to break it in certain ways or tweak it and see, when you change it little bit, what comes out of that."
+Incredibly, a computational model Dr Oppenheim has designed to mimic the human process suffered almost precisely the same time lag when it named successive, closely-related word drawings, spaced among hundreds of others.
+Does that mean it is close to singularly replicating how people actually pinpoint the right word in the blink of an eye?
+Dr Oppenheim, who appears almost a personification of his work - scrupulous, slow and considered when choosing his words - often takes a moment before answering such questions.
+In response, he quotes one of his PHD advisors, Gary Dell, of the University of Illinois: "Models aren't your lovers; they're your friends. You can have lots of friends."
+Video images by Michael Burgess
+Video production by Philip John

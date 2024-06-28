@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161024091728/http://www.bbc.co.uk/news/technology-37728010
+
+[SN]TITLE[SN]
+Warnings over Dirty Cow Linux bug
+
+[SN]FIRST-SENTENCE[SN]
+Users of the Linux operating system are being urged to update it to remove a "serious" bug that hackers could use to hijack systems.
+
+[SN]RESTBODY[SN]
+Known as the Dirty Cow bug, the vulnerability has been present in many versions of Linux for almost a decade.
+The warnings come as malicious hackers start exploiting it to take over vulnerable computers.
+The vulnerability gets its name from the Linux sub-system, called Copy-On-Write or COW, in which it appears.
+Updated versions of Linux that no longer suffer the bug are now being widely distributed. Millions of computers, including a majority of web servers, run Linux or one of its variants.
+"The nature of the vulnerability lends itself to extremely reliable exploitation," Dan Rosenberg, a security researcher at Azimuth Security, told tech news site Ars Technica. He added that it was the "most serious" bug of its type ever found in Linux.
+The vulnerability allows attackers to steadily increase the amount of control they can exert over a target system.
+Security expert Graham Cluley said the bug was of a type that did not normally prompt action because they were less likely to be exploited. However, he said, Dirty Cow should be taken seriously because there was some evidence that it was being actively abused.
+Attack code that capitalised on the weakly protected sub-system was captured by developer Phil Oester as it was used in an attempt to take over a server he runs.
+Mr Oester told the V3 tech news site that the vulnerability was easy to use and was "almost certain" to be more widely used by cyberthieves.

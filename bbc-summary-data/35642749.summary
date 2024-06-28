@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170326040319/http://www.bbc.co.uk/news/technology-35642749
+
+[SN]TITLE[SN]
+Nissan Leaf electric cars hack vulnerability disclosed
+
+[SN]FIRST-SENTENCE[SN]
+Some of Nissan's Leaf cars can be easily hacked, allowing their heating and air-conditioning systems to be hijacked, according to a prominent security researcher.
+
+[SN]RESTBODY[SN]
+Troy Hunt reported that a flaw with the electric vehicle's companion app also meant data about drivers' recent journeys could be spied on.
+Mr Hunt said he gave the firm a month to fix the issue before he decided to make it public.
+Nissan said there was no safety threat.
+The problem remains unresolved but Mr Hunt said car owners could protect themselves by disabling their Nissan CarWings account. Those who have never signed up are not at risk.
+Mr Hunt acknowledged that the issue was not life-threatening, but said hackers could still exploit the app's vulnerability to cause mischief by running down people's batteries.
+"The right thing to do at the moment would be for Nissan to turn it off altogether," Mr Hunt told the BBC.
+"They are going to have to let customers know. And to be honest, a fix would not be hard to do.
+"It's not that they have done authorisation [on the app] badly, they just haven't done it at all, which is bizarre."
+A spokeswoman for Nissan said it was tackling the problem.
+"Nissan is aware of a data issue relating to the NissanConnect EV app that impacts the climate control and state of charge functions," she said.
+"It has no effect whatsoever on the vehicle's operation or safety.
+"Our global technology and product teams are currently working on a permanent and robust solution.
+"We are committed to resolving the issue as a matter of priority, ensuring that we deliver the best possible experience for our customers through the app now and in the future."
+Mr Hunt said the root of the problem was that the firm's NissanConnect app needed only a car's vehicle identification number (Vin) to take control.
+The code is usually stencilled into a car's windscreen, making it relatively easy to copy.
+The initial characters of a Vin refer to the brand, make of car, and country of manufacture/location of the firm's headquarters.
+So, Mr Hunt said, it would only be the final numbers that varied between different Nissan Leafs based in the same region.
+"Normally it's only the last five digits that differ," he explained.
+"There's nothing to stop someone from scripting a process that goes through every 100,000 possible cars and tries and turn the air conditioning on in every one.
+"They would then get a response that would confirm which vehicles exist."
+Attackers would not even need to use the app, he added, since the commands could be sent via a web browser.
+To confirm the problem, Australia-based Mr Hunt used the Vin number of a Nissan Leaf-owning acquaintance based in the UK.
+"I was sat in the vehicle with everything powered off and didn't have my key on me," recalled Scott Helme, who is also a cybersecurity adviser.
+"So, the vehicle was as it would be if it was completely unattended.
+"As I was talking to Troy on Skype, he pasted the web address into his browser and then maybe 10 seconds later I heard an internal beep in the car.
+"The heated seat then turned on, the heated steering wheel turned on. And I could hear the fans spin up and the air-conditioning unit turn on."
+Further tests indicated that the hack did not work if the vehicle was in motion.
+But it was possible to see the owner's registered username, which might help reveal their identity.
+Furthermore, times and distances of recent journeys were disclosed, but not location data.
+As soon as Mr Helme unregistered his app, Mr Hunt could no longer contact his car.
+"It's not as bad as it could be," Mr Helme told the BBC.
+"But if I was to monitor your movements over the course of the week and learn when you go to and from work, shortly after you got to your office I could run the heating for the remainder of the day.
+"That would potentially leave you with very little power - certainly not enough to get back home."
+Further analysis indicated that the app does not talk directly to the cars, but instead sent its commands via Nissan's computer servers.
+As a result, Mr Hunt said, it would be easy for Nissan to suspend the service.
+The researcher also discovered that some Canadian owners of the Leaf had discovered and shared knowledge of the flaw on an online forum and had posted a web address that could be used to spoof the app.
+"I decided we were past the point of not letting the cat out of the bag," he said, justifying his decision to blog about the discovery before Nissan had issued a fix.
+"Unfortunately what we are seeing is just another case of security being important after a problem is discovered," he added.

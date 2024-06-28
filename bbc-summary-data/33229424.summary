@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150622220924/http://www.bbc.com/news/technology-33229424
+
+[SN]TITLE[SN]
+Hackers steal data using gadget inside pitta bread
+
+[SN]FIRST-SENTENCE[SN]
+Secret encryption keys can be stolen using a cheap gadget so small it could be concealed inside some pitta bread.
+
+[SN]RESTBODY[SN]
+Israeli security researchers have demonstrated how to capture radio emissions given off by laptops that inadvertently leak data about the keys.
+Before now, grabbing the radio signals was thought to require expensive, bulky equipment.
+But the four-strong team managed it with cheap components small enough to conceal inside a piece of pocket bread.
+The attack, developed by Daniel Genkin and colleagues from Tel Aviv University, monitors the radio signals given off by laptops when their central processing unit is crunching data.
+The team discovered that many different operations in a computer, such as playing a game or decrypting a file, had a characteristic pattern of radio activity.
+The differing power demands a CPU made as it worked gave rise to these telltale signals, said the group in a paper detailing their work.
+By monitoring these signals when the computer was decrypting a specific email message sent to it by an attacker, it became possible to work out the key being used to secure data, they said.
+After demonstrating that the attack worked in the lab, the group created a mobile version they dubbed the Portable Instrument for Trace Acquisition (Pita), which they managed to conceal inside a piece of pocket bread.
+The attack had been demonstrated to work from a distance of about 50cm (1ft 8in), said the researchers.
+Using their technique, the researchers were able to grab keys used in several widely used encryption programs and algorithms to protect data.
+Such attacks were well established, Steve Armstrong, managing director of Logically Secure, told tech news site The Register.
+"If they can do it at 10m (32ft) in a different room, I would be impressed. If the device needs to be within 20cm, I am not," he said.
+The team plan to present their work at a technical conference on cryptographic hardware in September.

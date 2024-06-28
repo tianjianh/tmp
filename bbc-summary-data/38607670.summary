@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114224604/http://www.bbc.com/news/technology-38607670
+
+[SN]TITLE[SN]
+Phone-cracking firm Cellebrite hacked
+
+[SN]FIRST-SENTENCE[SN]
+Information about the customers of Cellebrite, an Israeli firm that markets hacking tools, has been stolen in a cyber-attack.
+
+[SN]RESTBODY[SN]
+The breach was first reported by tech site Motherboard, which said it was sent 900 gigabytes of data by a hacker.
+Cellebrite confirmed some information had been taken but said it was not aware of any "increased risk" to clients.
+The firm added that it was now notifying affected customers.
+Motherboard said the data - which was not distributed online - included "what appears to be evidence files from seized mobile phones, and logs from Cellebrite devices".
+However, Cellebrite did not respond to this in its statement.
+When contacted by the BBC, a spokesman said its investigation was ongoing and it had no further information to add.
+The firm did say that it recently detected "unauthorised access" on an external web server - activity it described as "illegal" - and that it had launched an investigation into the incident.
+It added that the data taken related to an older user account system.
+Last year, Cellebrite was linked to the FBI's attempt to hack an iPhone used by San Bernardino killer Syed Rizwan Farook. The firm has neither confirmed nor denied involvement.
+"The information accessed includes basic contact information of users registered for alerts or notifications on Cellebrite products and hashed passwords for users who have not yet migrated to the new system," the company said.
+Cellebrite advised users of the my.Cellebrite system to change their passwords.
+"The sort of people who use Cellebrite products don't necessarily want others to know that they're using it," said Prof Alan Woodward, a cybersecurity expert at the University of Surrey.
+"Law enforcement agencies and perhaps security services will be using it."
+In 2015, hackers stole data from Italian surveillance company Hacking Team and released it on to the web.
+The dump included information on countries that had bought Hacking Team products.
+"It's a direct analogy I would say," Prof Woodward told the BBC. "The embarrassment factor is going to be the same."
+Separately, 58 hacking tools for Windows PCs were released on to the web by a group calling itself "Shadow Brokers".
+The group announced the release in a farewell message, having attempted to auction the malware online last year. At the time, Shadow Brokers claimed it had been stolen from the NSA.
+Besides the newly released files, Shadow Brokers said a full cache of exploits had been left online at a price of 750 bitcoins (Â£500,000).
+Many of the exploits were not "zero days" - attack methods that have not yet been uncovered - but ones that had already been detected by cybersecurity firm Kaspersky, according to one analyst.
+"Nobody was willing to pay them," said Prof Woodward. "They sort of stomped off in a huff, basically."
+Prof Woodward added that while some of the exploits looked "sophisticated" there was no proof that any of the data had been taken from the NSA.

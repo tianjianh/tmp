@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150623191739/http://www.bbc.com/news/technology-28891937
+
+[SN]TITLE[SN]
+What are wi-fi connections revealing about you?
+
+[SN]FIRST-SENTENCE[SN]
+When walking through the centre of a busy city it is easy to feel anonymous.
+
+[SN]RESTBODY[SN]
+Set against the cacophony of sharing and declaring that happens online, it can be precious to feel that, just for a moment, you are lost in a crowd.
+Unidentifiable.
+It is, of course, an illusion. You are never alone, especially if you are carrying a smartphone that has ever been used to connect to a wireless network. Which is pretty much all of them.
+All of those devices maintain a list of the wi-fi networks they have joined. The way wi-fi works demands that they always seek to rejoin those networks. As a result, smartphones and tablets regularly broadcast the SSIDs (service set identifiers), or names, of those networks.
+It's a feature designed to ensure that when you are near a network you regularly use, you get connected quickly.
+However, with the right equipment, that very feature could leave you exposed to some sneaky surveillance.
+The right equipment is a laptop on which Kali Linux - a version of the free operating system that includes a raft of security tools - is loaded. One of those tools can sniff the airwaves for lists of SSIDs.
+I tried it for myself. Sipping a latte in a coffee bar that lay in the shadow of the Bank of England, I watched as my laptop gathered a list of all the wi-fi networks the people around me had joined.
+When anyone walked past the window, the list grew, as a new device being carried in a pocket or purse declared where it had been.
+I saw the names of wi-fi networks in homes, airports and hotels. Ones that people had changed to include their surname. I saw office networks, other coffee shops, bars, station platforms and football stadiums.
+"So what?" you might say. Just because a phone is shedding this data does not make it dangerous.
+But combine those lists with websites that log and list wi-fi networks and you potentially have a way to track where people have been without letting them know.
+Those websites are easy to find and they handily map all the networks that volunteers have logged.
+I entered a few of the names I found during my surveillance trip and it pointed me to quite a few homes in and around London - doubtless where the people that passed by actually lived.
+And now I knew that they were not home.
+To test just what could be done with this low level data if it fell into the wrong hands, the BBC asked security firm Pen Test Partners to carry out a "war walk", to scoop lists of wi-fi networks.
+In the old days of hacking, "war dialling" involved making a phone dial consecutive numbers, and seeking those that answer with a data tone.
+These days, "war walking" involved slipping a tablet in a backpack and strolling up and down a road.
+The road we chose was Whitehall, in Westminster, London.
+Chris Pickering and Ken Munro from Pen Test Partners walked up and down the street several times. Once they took a cab because it was raining. The idea was to gather data at different times, then look through it for the few wi-fi IDs that always turn up.
+Those static lists should indicate people working inside the government buildings.
+Each trip up and down the road netted about 1,000 hits, said Mr Munro. Sometimes more, sometimes fewer. Filtering out the noise, the tourists, left 58 hits that were consistent between the three passes.
+Some of the wi-fi locations those 58 had used were "interesting" said Mr Munro, especially those by hits logged from inside the Ministry of Defence.
+"Some government military staff don't know how to turn wi-fi sharing off or that they can be tracked by it," he said.
+Passive wi-fi gathering has been done on a bigger scale by James Lyne, head of research at security firm Sophos. Mr Lyne has spent hours cycling around London and San Francisco, gathering the wi-fi data and then analysing it to see, broadly, what can be learned.
+"There will be a lot of interesting stories in that data," said Mr Lyne, given that it logs who went where and which wi-fi network they used when they were there. It could give clues to impending mergers and acquisitions, the early stages of business deals or even romantic assignations.
+It is not just security researchers who are interested in the data being shed by your smartphone.
+Shopping malls and individual stores are starting to use the data to track people as they move around. Some of the early uses of such tactics, such as when litter bins in London were scooping up the info, have caused concern.
+The Future of Privacy Forum (FPF), which represents web giants such as Google, Facebook and Yahoo as well as retailers, banks and more traditional firms such as General Motors and Lockheed Martin, has drawn up guidelines for its backers that govern what data they can gather and what can be done with it.
+Shops are keen to use the data as a way to fight back against online retailers, said FPF executive director Jules Polonetsky.
+By using it to get to know customers, it should be possible to make shopping much more enjoyable, he said. Just as Amazon recommends items based on what you bought last time, so stores could do the same. They could tailor the experience to "delight" customers, Mr Polonetsky added.
+The FPF is working with some stores to make their use much more transparent. In some cases this might go as far as having a display in store revealing the tracking system, who is on it, and where they are.
+That transparency should start to dispel some of the fears growing up around the passive tracking, said Mr Polonetsky.
+"We can't have people nervous when they go into stores," he said.
+"This should be about the stores doing something for you, not to you".

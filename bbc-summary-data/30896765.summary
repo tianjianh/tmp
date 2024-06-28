@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160126154001/http://www.bbc.co.uk/news/technology-30896765
+
+[SN]TITLE[SN]
+Xbox, Sony hackers hit by hack attack
+
+[SN]FIRST-SENTENCE[SN]
+Hacking group Lizard Squad has been hit by an embarrassing attack that exposed the entire database of people who signed up to use its services.
+
+[SN]RESTBODY[SN]
+The group claimed to have knocked the Xbox and PlayStation gaming networks offline over Christmas.
+Soon after, it set up a website that let anyone who paid use its software to deluge other sites with data.
+The attack that exposed the customer list is one of several aimed at the group and its tools.
+Investigative journalist Brian Krebs broke the news that the database behind the Lizard Stresser tool had been compromised. The Stresser let those who paid use it to overwhelm websites or kick people offline by bombarding the sites they were using with data.
+Mr Krebs did not name who got at the data but said he had acquired a dump of the entire roster of 14,241 people who signed up.
+Anyone visiting the Stresser site was warned about the attack by text on the main page's login box which urged people to change the password they created when they registered.
+In a blogpost, Mr Krebs said the Lizard Squad had not taken many precautions to protect the login and contact information surrendered by users.
+"All registered usernames and passwords were stored in plain text," said Mr Krebs, adding that only a few hundred of those who signed up had paid to use it.
+Tech news site Ars Technica also got hold of the database dump which was briefly posted on the Mega file-sharing system. It said most of those who used it were gamers keen to stop rivals playing a particular game. Minecraft servers were a favourite target of the Stresser users, it said.
+Ars Technica said the dump of the database could spell problems for anyone who had used it because the IP addresses of many of them were poorly obscured and could, with a little work, be recovered.
+The plundering of the database comes soon after other computer experts took apart the tools that Lizard Squad has been using. One exposed the source code of a program used to attack people on IRC chat networks,
+In addition, soon after the Stresser site was created, computer science student Eric Zhang managed to enumerate the names of all the people who had signed up using a very simple script.
+"That took just 10 minutes to do," he said.
+He said he was not surprised that the entire database was plundered because when he looked at the site, public access to the server behind it had not been closed off.
+"If you look at the site it's clearly run by someone who does not have much formal experience in software engineering," he said.
+"Most of what they are doing is not really impressive," he said. "Anyone can do it. All it takes is time."
+Mr Krebs said Lizard Squad was being targeted by security professionals irked by their sudden notoriety.
+He said: "There seems to be a general sense in the security research community that these guys are in way over their heads, and that if we can't bring to justice a bunch of teenagers in Western nations who are rubbing it in everyone's faces, then that's a sad state of affairs."
+However, he added, the time it took to carry out investigations and find members of the group had helped it survive. Recent arrests of Lizard Squad members seemed only to have scooped up some of its hangers-on but had let some of the core members remain at large.

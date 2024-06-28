@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150819215854/http://www.bbc.com/news/technology-33989384
+
+[SN]TITLE[SN]
+Google loses data as lightning strikes
+
+[SN]FIRST-SENTENCE[SN]
+Google says data has been wiped from discs at one of its data centres in Belgium - after it was struck by lightning four times.
+
+[SN]RESTBODY[SN]
+Some people have permanently lost access to their files as a result.
+A number of disks damaged following the lightning strikes did, however, later became accessible.
+Generally, data centres require more lightning protection than most other buildings.
+While four successive strikes might sound highly unlikely, lightning does not need to repeatedly strike a building in exactly the same spot to cause additional damage.
+Justin Gale, project manager for the lightning protection service Orion, said lightning could strike power or telecommunications cables connected to a building at a distance and still cause disruptions.
+"The cabling alone can be struck anything up to a kilometre away, bring [the shock] back to the data centre and fuse everything that's in it," he said.
+The Google Computer Engine (GCE) service allows Google's clients to store data and run virtual computers in the cloud. It's not known which clients were affected, or what type of data was lost.
+In an online statement, Google said that data on just 0.000001% of disk space was permanently affected.
+"Although automatic auxiliary systems restored power quickly, and the storage systems are designed with battery backup, some recently written data was located on storage systems which were more susceptible to power failure from extended or repeated battery drain," it said.
+The company added it would continue to upgrade hardware and improve its response procedures to make future losses less likely.
+A spokesman for data centre consultants Future-Tech, commented that while data centres were designed to withstand lightning strikes via a network of conductive lightning rods, it was not impossible for strikes to get through.
+"Everything in the data centre is connected one way or another," said James Wilman, engineering sales director. "If you get four large strikes it wouldn't surprise me that it has affected the facility."
+Although the chances of data being wiped by lightning strikes are incredibly low, users do have the option of being able to back things up locally as a safety measure.

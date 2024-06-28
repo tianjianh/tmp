@@ -1,0 +1,55 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108063439/http://www.bbc.co.uk/news/business-29566764
+
+[SN]TITLE[SN]
+Is your connected car spying on you?
+
+[SN]FIRST-SENTENCE[SN]
+Modern cars are morphing into mobile data centres - connected, clever and packed full of sensors.
+
+[SN]RESTBODY[SN]
+But are they also becoming spies in our drives?
+As they record almost every aspect of our journeys and driving behaviour, interacting with our smartphone apps and sat-nav systems, who will own all the data they generate, how will it be used, and will our privacy inevitably be compromised?
+Telematics "black boxes" from insurance companies and related smartphone apps can already measure how aggressively we accelerate and the G-forces we generate hurtling too fast round corners.
+This monitoring technology is even becoming sophisticated enough to recognise different drivers based on their signature driving styles.
+According to the British Insurance Brokers' Association (Biba), about 300,000 cars are fitted with these dashboard nannies. While that number may seem tiny compared to the 23 million cars on UK roads, there are many in the industry who think such technology will become standard in the next five to 10 years.
+Helping us drive more sedately and so reduce our insurance premiums is one thing, but such data can also reveal exactly where we've been and even how many people were in the car with us at the time.
+"It's a totally private topic who you have in your car and where you've taken them," says Rainer Mehl, head of automotive for NTT Data. "I'm not sure customers want this known in all cases."
+Don Butler, Ford's executive director of connected vehicle and services, agrees. "We only share mileage information with an insurance company partner at this point, not driver behaviour," he says. "We'd tread very carefully in this area."
+There is also the danger that external software, such as third-party sat-nav systems, could become spies in our cabins.
+Can big data really revolutionise our world? We explore how the explosion of information and analysis will impact our lives and our privacy.
+Power of big data
+In 2011, Dutch sat-nav specialist TomTom got into trouble for selling aggregated speed and location data to governments, ostensibly to help them improve safety and road-building planning.
+But when the Dutch police used the data to work out where best to install speed cameras, TomTom's fee-paying customers were less than impressed.
+At the time, chief executive Harold Goddijn promised his company would prevent the data being used in that way again.
+But as GPS-equipped smartphones threaten the traditional sat-nav business, pressure is mounting to make more money from selling our data - anonymised or otherwise.
+Bryan Mistele, chief executive of Inrix, which collects traffic data from 185 million cars worldwide, admits that privacy is a big issue.
+"There are real concerns that personalised data is being sold to governments," he says.
+"All the data we collect is anonymous and we only sell anonymised data. The contracts we have with the car manufacturers require us to protect the privacy of car users, so there's no personalised data."
+Google subsidiary, Waze, the crowdsourcing traffic data app, announced last month that it will share its anonymised data with government agencies in return for information on public projects, construction plans and forthcoming road closures.
+But it, too, insists that it will not identify individuals or their locations.
+Our driver profiles - all the data recorded by our cars' embedded monitoring software, telling us how economically or otherwise we've been driving - currently remain with the car.
+But Biba argues that it should be available to consumers as it could be as useful as our no claims discounts in reducing motor insurance premiums.
+"We believe the consumer should own this data," says Biba spokesman Andy Thornley. "But it's currently a grey area under the Data Protection Act.
+"A subject access request could help get your hands on it but some lawyers might argue that the company recording the data owns it, not you."
+Peter Virk, Jaguar Land Rover's head of connected technologies and apps, confirmed to the BBC that this type of driver profile data is not yet portable from their cars.
+Manufacturers are certainly aware how sensitive these issues are at the dawn of the connected car era.
+"Privacy is the number one priority for big data and the connected car," says Rainer Mehl from NTT Data. "The industry is starting to treat this issue seriously.
+"Manufacturers need to show that car usage data is unpersonalised when it's gathered. If the customer is happy to share personalised data - for insurance purposes, say - then that's OK, but it needs to be clear what the situation is."
+Showing off Jaguar Land Rover's connected car ecosystem - called InControl Apps - at the Nimbus Ninety Ignite technology summit, Peter Virk insists that customer data is never compromised.
+The smartphone connects to the car's system via USB cable and its apps are projected on to the car's digital display, he explains.
+"This means that the end user owns all the data - it's opt in, not opt out," he says. "We don't store any of the data and we're very transparent about this."
+Similarly, Ford's Don Butler, says: "We view ourselves as stewards of that data on the consumer's behalf - it's their data and they are entrusting us with it.
+"We always make sure we have informed consent before we share location data."
+The question for drivers is whether the benefits of all this data and connectivity outweigh the potential problems over ownership and privacy.
+And the connected car certainly does promise plenty of safety and convenience benefits.
+For example, Inrix is piloting a system that could make use of the increasing number of onboard sensors cars are being fitted with these days.
+"We can take headlight, windshield wiper and traction control data and work out if it's foggy and slippy outside," says Bryan Mistele. "We can then warn other drivers about the conditions."
+Inrix works with more than 60 government agencies "helping them manage their road networks better", he says. "The more data they have the better they can use dynamic traffic light modelling, dynamic congestion charging or dynamic lanes."
+Even Ford's Don Butler, while ruling out his company selling aggregated data, says: "If there are broader societal benefits from sharing aggregated, anonymised data then we would consider that.
+"For example, if a vehicle can broadcast its presence when approaching a junction, why wouldn't we share that data with other vehicles? It makes sense."
+Looking further ahead, Marcello Tamietti, head of Accenture's connected vehicle business, predicts that the car will become a mobile node in a huge computer-controlled transport network.
+"You will take your car from your home in the morning, it will have your agenda downloaded and work out where and when you need to go. It will set off autonomously leaving you free to work and teleconference, while road tolls will be paid automatically," he says.
+"Its software will be upgraded automatically, and prognostics will predict when a service is necessary and book an appointment for you that fits in with your diary."
+But even technology optimist Mr Tamietti concedes that all this will only work "if the customer has the right not to release all this data if they don't want to".
+Autonomous vehicles shouldn't mean we give up all our autonomy.

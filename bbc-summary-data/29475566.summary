@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151014004928/http://www.bbc.co.uk/news/technology-29475566
+
+[SN]TITLE[SN]
+Attack code for 'unpatchable' USB flaw released
+
+[SN]FIRST-SENTENCE[SN]
+Computer code that can turn almost any device that connects via USB into a cyber-attack platform has been shared online.
+
+[SN]RESTBODY[SN]
+Computer security researchers wrote the code following the discovery of the USB flaw earlier this year.
+The pair made the code public in an attempt to force electronics firms to improve defences against attack by USB.
+One of the experts who found the flaw said the release was a "stark reminder" of its seriousness.
+Details of the BadUSB flaw were released at the Black Hat computer security conference in August by Karsten Nohl and Jakob Lell.
+Their work revealed how to exploit flaws in the software that helps devices connect to computers via USB. The biggest problem they discovered lurks in the onboard software, known as firmware, found on these devices.
+Among other things the firmware tells a computer what kind of a device is being plugged into a USB socket but the two cybersecurity researchers found a way to subvert this and install attack code. At Black Hat, the BBC saw demonstrations using a smartphone and a USB stick that could steal data when plugged into target machines.
+Mr Nohl said he and his colleague did not release code in order to give firms making USB-controlling firmware time to work out how to combat the problem.
+Now researchers Adam Caudill and Brandon Wilson have done their own work on the USB flaw and produced code that can be used to exploit it. The pair unveiled their work at the DerbyCon hacker conference last week and have made their attack software freely available via code-sharing site Github.
+"We're releasing everything we've done here, nothing is being held back," said Mr Wilson in a presentation at DerbyCon.
+"We believe that this information should not be limited to a select few as others have treated it," he added. "It needs to be available to the public."
+Mr Wilson said cybercrime groups definitely had the resources to replicate the work of Mr Nohl and Mr Lell to produce their own attack code so releasing a version to the security community was a way to redress that imbalance.
+Responding to the release of the attack tools Mr Nohl told the BBC that such "full disclosure" can motivate companies to act and make products more secure.
+"In the case of BadUSB, however, the problem is structural," he said. "The standard itself is what enables the attack and no single vendor is in a position to change that."
+"It is unclear who would feel pressured to improve their products by the recent release," he added. "The release is a stark reminder to defenders, though, that BadUSB is  - and always has been - in reach of attackers."

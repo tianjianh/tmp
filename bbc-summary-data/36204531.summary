@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160504220102/http://www.bbc.co.uk/news/technology-36204531
+
+[SN]TITLE[SN]
+Webmail firms probe login 'leak'
+
+[SN]FIRST-SENTENCE[SN]
+Several popular webmail providers are investigating a report that millions of their users' login details are being shared online by a hacker.
+
+[SN]RESTBODY[SN]
+Google Gmail, Yahoo Mail, Microsoft Hotmail and Mail.ru are among the services said to have been affected.
+The security firm that flagged the issue said that it believed many of the usernames and passwords involved had not been leaked before.
+However, it is not clear whether users' accounts have actually been breached.
+Hold Security said it had obtained a total of 272 million unique pairs of email addresses and unencrypted passwords from the hacker, 42.5 million of which the company had not seen in earlier leaks.
+It said the cybercriminal had initially asked for 50 roubles (75 cents; 52 pence) in exchange for the list, but eventually gave a copy away without charge after Hold's staff posted favourable comments about him in a forum.
+Even if many of the credentials are out of date or inaccurate they could still be abused, the company warned.
+"There are hacker sites that advertise 'brute forcing' popular services and store fronts by taking a large amount of credentials and running them one-by-one against the site," Alex Holden, the firm's chief information security officer, told the BBC.
+"What makes this discovery more significant is the hacker's willingness to share these credentials virtually for free, increasing the number of... malicious people who might have this information."
+According to Hold's analysis:
+However, Mail.ru - Russia's most used webmail service - said its initial investigation suggested the problem might not be as bad as the figures indicated.
+"A large number of usernames are repeated with different passwords," a spokeswoman said.
+"We are now checking whether any combinations of username/password match [active accounts] - and as soon as we have enough information we will warn the users who might have been affected.
+"The first check of a sample of data showed that it does not consist of any real live combinations of usernames and passwords."
+Microsoft said it had measures in place to identify compromised accounts.
+"[We would require] additional information to verify the account owner and help them regain sole access," said a spokesman.
+Google said: "We are still investigating, so we don't have a comment at this time."
+And Yahoo added: "We've seen the reports and our team is reaching out to Hold Security to obtain the list of accounts now. We'll update going forward."
+Hold Security has a track record for bringing significant cyber-breaches to light, including past hacks of Adobe and the US retailer Target.
+Independent security consultant Alan Woodward said people should remain alert to the dangers of phishing emails.
+Even if the vast majority of the passwords did not work, he explained, cybercriminals could still use the list of email addresses to bulk-send scams.
+"Assuming the email addresses are valid, they still give criminals the ability to mount certain types of attack," he said.
+However he added there was "no need to panic" or for people to change their passwords at this point.

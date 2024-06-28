@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170315190015/http://www.bbc.com/news/technology-32753703
+
+[SN]TITLE[SN]
+US airline to reward bug-finding hackers
+
+[SN]FIRST-SENTENCE[SN]
+US airline United has launched a reward programme for security experts who find bugs in the software on its websites.
+
+[SN]RESTBODY[SN]
+Programmers can earn up to one million air miles for finding the most serious vulnerabilities.
+The bug bounty programme does not cover software used in the jets in United's fleet of aircraft.
+The reward programme comes soon after the US government warned about the security of software used on in-flight systems.
+While many technology firms, such as Google, Microsoft, Facebook, reward programmers who find security bugs in their code, United is the first airline to set up and run such a system.
+In a blog post announcing the programme, United said it was interested in hearing from researchers who had found issues that affect the "confidentiality, integrity and/or availability of customer or company information".
+Rewards would be given for finding a wide variety of bugs. These include vulnerabilities in its mobile apps or bugs that let attackers bypass security controls or run their own code on the airline's websites to steal data.
+It warned entrants against trying their attacks against its "live" systems and said any submission that used attack data would be disqualified and might result in legal action.
+Anyone wishing to take part must already be a member of the airlines MileagePlus programme through which travellers accrue rewards for flying with the company.
+"This is a really smart move by United Airlines," said Jason Steer, chief security strategist from FireEye. "Crowdsource testing for security weaknesses can be hugely valuable to organisations."
+Mr Steer added that rewarding people with air miles was a "novel" way to motivate ethical hackers to join in.
+Last month, the US Government Accountability Office warned that aircraft avionics could be put at risk by growing use of in-flight internet connections. Bugs in firewalls used on software that supported in-flight entertainment could give attackers a way to get at control systems, it warned.

@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170721014107/http://www.bbc.co.uk/news/technology-40654194
+
+[SN]TITLE[SN]
+Bitcoin swings as civil war looms
+
+[SN]FIRST-SENTENCE[SN]
+The value of the virtual currency Bitcoin has always been volatile.
+
+[SN]RESTBODY[SN]
+Even so, there has been particular turbulence in recent days as fears of a "civil war" among its adherents first grew and then subsided, although they have not gone away altogether.
+On Sunday, the value of one bitcoin dropped to about $1,863 (Â£1,430) before bouncing back to $2,402 on Wednesday, according to data from the news site CoinDesk - still some way off a June high of $3,019.
+Bitcoin risks becoming a victim of its success.
+The popularity of the financial technology has caused transactions to be processed slower, with some users complaining of having to wait three days or more for confirmation of trades when the backlog was at its worst, in May.
+Moreover, fees have also risen, hitting a high of $5 per transaction at the start of June.
+That makes it too costly to justify its use for some purchases, such as buying a pint of lager in a Bitcoin-accepting pub.
+There are ways around the problem, but the cryptocurrency's community has been split over which solution to adopt.
+The risk is that Bitcoin could effectively split in two, with one type becoming incompatible with another, ultimately undermining confidence in the project altogether.
+The issue is that Bitcoin's underlying technology has an in-built constraint: the ledger of past transactions, known as the blockchain, can have only 1MB of data added to it every 10 minutes.
+To understand why, it's helpful to first understand how Bitcoin works.
+To authenticate Bitcoin transactions, a procedure called "mining" takes place, which involves volunteers' computers racing to solve difficult mathematical problems.
+For each problem solved, one block of bitcoins is processed. As a reward, the successful miners are given newly generated bitcoins.
+An updated copy of the blockchain database is then copied to all the computers involved in the validation process, which are referred to as "nodes".
+Bitcoin originally did not have the 1MB/10min blockchain limit, but the feature was added to help defend the technology against denial of service (DoS) attacks, which might overwhelm the blockchain by flooding it with tiny transactions.
+Mining, by the way, has become a big business in its own right, with some companies investing in huge "farms" of computers dedicated to the activity. Several of the biggest are based in China.
+Many of the miners have, in fact, favoured the so-called Bitcoin Unlimited solution.
+They said that allowing them to increase the 1MB block size would speed up transactions and reduce transactions fees.
+But this could also make mining more expensive, and impractical for small "mom and pop" operations, leaving it under the control of a handful of large corporations.
+That is because more processing power would be needed to verify transactions.
+Furthermore, additional data bandwidth and storage space would be needed to transmit and store the blockchain, since it would become much bigger.
+Critics also say the move would make Bitcoin more vulnerable to hackers.
+Moreover, some people are concerned that giving the miners power to vary the block size might undermine the principle of Bitcoin being decentralised, with no equivalent to a central bank running the show.
+Some software developers have favoured reorganising the format of Bitcoin transactions to make the blockchain more efficient.
+Specifically, they propose relocating " transaction signatures" - which unlock bitcoins so they can be spent - from within the blockchain to a separate file transmitted alongside it.
+Doing so should make it possible to process transactions at double the current rate.
+And as an added benefit, "node" computers could save on storage space by opting not to keep records of the oldest signatures.
+This scheme is known as Segregated Witness, or Segwit.
+However, critics say it would deliver only a temporary respite while adding an extra level of complexity.
+It appears so.
+A middle-ground solution - called Segwit2x - aims to start sending signature data separately from the blockchain later this week and then to double the block size limit to 2MB in three months' time.
+An initiative called Bitcoin Improvement Proposal 91 (BIP 91) states that if 80% of the mining effort adopts the new blockchain software involved and uses it consistently between 21 July and 31 July, then the wider community should accept this as the solution.
+The good news for those who like the idea is that close to 90% of miners appear to back the effort, according to Coin Dance, a Bitcoin-related statistics site.
+Other plans exist to try again after August if the target is missed.
+But a risk remains that if use of Segwit2x software never reaches the required threshold or that hardcore opponents refuse to buckle, then it could result in two different versions of the blockchain, and in effect two types of Bitcoin.
+Such as schism could help rival cryptocurrencies, such as Ethereum, prosper and ultimately doom Bitcoin altogether.
+One expert, however, said he believed that was an unlikely outcome.
+"The vast majority of people in the Bitcoin community are opposed to splitting Bitcoin into two competing cryptocurrencies," said Dr Garrick Hileman, research fellow at the Cambridge Centre for Alternative Finance.
+"Such a move would weaken Bitcoin's network effect advantage and sow confusion.
+"It is much more likely that people who are dissatisfied with Bitcoin's direction will simply move on to something else, which is what we've seen in the past."

@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223214509/http://www.bbc.co.uk:80/news/technology-37510502
+
+[SN]TITLE[SN]
+Router hacker suspect arrested at Luton Airport
+
+[SN]FIRST-SENTENCE[SN]
+A British man suspected of being behind an attack on Deutsche Telekom routers has been arrested at Luton Airport.
+
+[SN]RESTBODY[SN]
+The November attack hijacked about 900,000 routers and briefly stopped their owners getting online.
+The UK's National Crime Agency said it arrested the man under a European Arrest Warrant on behalf of Germany's federal criminal police force (BKA).
+The BKA said it wanted to extradite the 29-year-old to Germany to face charges of computer sabotage.
+"He is accused of being the mastermind behind the attack," Cologne public prosecutor Dr Daniel Vollmert told the Press Association.
+In a statement (in German), the BKA said the attack last year was "particularly serious" and was carried out in a bid to enroll the home routers in a botnet - a network of hijacked machines.
+Once hijacked, the routers would be used to mount what is known as "distributed denial of service" attacks. These attempt to knock sites and servers offline by sending them more data than they can handle.
+Federal police are involved, said the statement, because the attack was classed as a threat to Germany's national communication infrastructure.
+The attack is believed to have been based on a malicious program called Mirai - this crawls the net seeking out devices that are vulnerable to attack because owners have not changed their default settings.
+Mirai-based attacks were also carried out on routers belonging to TalkTalk and the UK's Post Office.

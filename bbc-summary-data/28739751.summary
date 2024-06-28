@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720232945/http://www.bbc.co.uk/news/technology-28739751
+
+[SN]TITLE[SN]
+Microsoft shows off video stabilisation tools
+
+[SN]FIRST-SENTENCE[SN]
+Help is at hand for anyone who has shot a shaky video while cycling, climbing, kayaking or engaging in any other high-speed sport.
+
+[SN]RESTBODY[SN]
+Microsoft researchers have found a way to stabilise films and speed them up to make them more watchable.
+To fix the images, the software analyses footage and creates new frames to smooth out camera jumps.
+The team is currently working on ways to turn the research into a Windows application.
+First-person videos shot on wearable cameras such as the GoPro were becoming more popular, said the researchers, but could be "dead boring" to watch at normal speed and almost unwatchable when sped up, because of the exaggerated camera-shake that caused.
+While image-stabilisation software was already available, such programs typically did a poor job of coping with sped-up footage of any significant length, said the computer scientists in a webpage documenting their work.
+To solve the problem, the "hyperlapse" software, developed by Johannes Kopf, Michael Cohen and Richard Szeliski, subjects footage to a three-stage process.
+The first analyses a video to spot significant features in each scene and create a very approximate reconstruction of the part of the world the camera travelled through.
+The second stage involves working out the smoothest path the camera could take through this virtual reconstruction.
+The third part of the process renders a film in which the camera travels this smoother path.
+At this stage, extra frames are generated and added to remove jumps in the original footage and to fill in around the smooth path of the camera.

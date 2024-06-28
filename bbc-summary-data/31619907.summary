@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160306104321/http://www.bbc.co.uk/news/technology-31619907
+
+[SN]TITLE[SN]
+Sim card firm links GCHQ and NSA to hack attacks
+
+[SN]FIRST-SENTENCE[SN]
+The Dutch Sim card maker at the centre of NSA-GCHQ hacking claims has said it believes that the US and UK cyberspy agencies did indeed launch attacks on its computer systems.
+
+[SN]RESTBODY[SN]
+However, Gemalto denied that billions of mobile device encryption keys could have been stolen as a result.
+The Intercept alleged last week that spies had obtained the "potential to secretly monitor" voice and data transmissions after hacking the firm.
+Gemalto operates in 85 countries.
+Its clients include AT&T, T-Mobile, Verizon and Sprint among more than 400 wireless network providers across the world.
+GCHQ and the NSA have not commented directly on the allegations.
+In a statement, Gemalto said it had carried out a "thorough investigation" following the claims, which were based on documents leaked by whistleblower Edward Snowden.
+"The investigation into the intrusion methods described in the document and the sophisticated attacks that Gemalto detected in 2010 and 2011 give us reasonable grounds to believe that an operation by NSA and GCHQ probably happened," the company said.
+It highlighted two "particularly sophisticated intrusions" that it suggested the agencies were responsible for.
+It said the first had involved a breach of one of its French offices, where hackers had attempted to spy on messages sent both internally between Gemalto employees and externally to others.
+The second, it said, had involved fake emails being sent to one of its customers that appeared to come from a Gemalto address. These featured an attachment that triggered a malware download.
+"At the time we were unable to identify the perpetrators but we now think that they could be related to the NSA and GCHQ operation," the statement added.
+"These intrusions only affected the outer parts of our networks - our office networks - which are in contact with the outside world.
+"The Sim encryption keys and other customer data in general, are not stored on these networks.
+"It is important to understand that our network architecture is designed like a cross between an onion and an orange; it has multiple layers and segments which help to cluster and isolate data."
+The company added that no breaches had been found in parts of its system used to manage other products including the encryption security it provides for banking cards, ID cards and electronic passports.
+The statement appears to contradict claims made in leaked materials published by the Intercept.
+The news site published a presentation slide, allegedly sourced from GCHQ, which stated that agents had "successfully implanted" code in several of Gemalto's machines, compromising its "entire network".
+Other documents - said to be from a wiki tool - appeared to confirm that GCHQ agents were monitoring data transmissions by Gemalto employees as part of efforts to create a database of Sim card encryption keys.
+That the intelligence agencies might seek to gain access to the data held by communications companies comes as no surprise - and we know that often data is handed over after the agencies make legal approaches to the firms.
+But now Gemalto has confirmed that its office network may have been hacked by GCHQ and the US's NSA.
+The company goes on to express severe doubts over whether the agencies got hold of any encryption keys - and to point out than in any case any calls on 3G or 4G networks would not have been vulnerable to interception.
+One telecoms expert told the BBC that hacking Sim cards would not have been a useful approach for the agencies because they would then have to deploy monitoring equipment at any mast an individual phone owner might use.
+But the admission from Gemalto that it did come under what could have been an illegal attack will do nothing to improve the already tense relations between technology companies and the law enforcement and intelligence agencies.
+Each Sim card has an individual encryption key, installed by the chip manufacturer, that secures communications between the handset in which it inserted and mobile phone masts.
+This means that if anyone were to snoop on conversations or text messages, they would receive garbled, unintelligible data.
+That is, of course, unless those carrying out the surveillance get hold of the encryption key. With that information, they can even decrypt previously intercepted communications.
+However, this tactic works only for phone conversations and text messages.
+Communications through mobile applications such as Whatsapp, iMessage and many email services have separate encryption systems.

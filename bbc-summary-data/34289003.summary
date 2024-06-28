@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170623115107/http://www.bbc.com/news/technology-34289003
+
+[SN]TITLE[SN]
+Poker players targeted by card-watching malware
+
+[SN]FIRST-SENTENCE[SN]
+Online poker players are being targeted by a computer virus that spies on their virtual cards.
+
+[SN]RESTBODY[SN]
+The software shares the cards with the virus's creators who then join the same game and try to fleece the victim.
+The sneaky malware has been found lurking in software designed to help poker fans play better, said the security firm that found it.
+The software also targets other useful information on a victim's computer such as login names and passwords.
+The malware targets players of the Pokerstars and Full Tilt Poker sites, said Robert Lipovsky, a security researcher at Eset, in a blogpost.
+When it infects a machine, the software monitors the PC's activity and springs to life when a victim has logged in to either one of the two poker sites. It then starts taking screenshots of their activity and the cards they are dealt. Screenshots are then sent to the attacker.
+The images show the hand the player has been dealt as well as their player ID. This, said Eset, allows the attacker to search the sites for that player and join their game. Using information about a victim's hand gives the attacker a significant advantage.
+"We are unsure whether the perpetrator plays the games manually or in some automated way," wrote Mr Lipovsky.
+Eset found the Windows malware lurking in some well-known file-sharing applications, PC utilities as well as several widely used poker calculators and player databases.
+Eset said the spyware had been active for several months and most victims were in Eastern Europe, particularly Russia and the Ukraine.

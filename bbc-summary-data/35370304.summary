@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170625201600/http://www.bbc.com/news/business-35370304
+
+[SN]TITLE[SN]
+How blockchain tech could change the way we do business
+
+[SN]FIRST-SENTENCE[SN]
+Blockchain - the technology underpinning digital currency Bitcoin - has been in the news lately.
+
+[SN]RESTBODY[SN]
+Banks think it could be the future of financial transactions, while diamond miners hope it will help end the trade in conflict diamonds.
+And this week the UK's chief scientific adviser encouraged the British government to adopt the technology.
+But what exactly is it and why is it causing such a stir? Technology of Business (tries) to explain.
+No. Blockchain is a method of recording data - a digital ledger of transactions, agreements, contracts - anything that needs to be independently recorded and verified as having happened.
+The big difference is that this ledger isn't stored in one place, it's distributed across several, hundreds or even thousands of computers around the world.
+And everyone in the network can have access to an up-to-date version of the ledger, so it's very transparent.
+Digital records are lumped together into "blocks" then bound together cryptographically and chronologically into a "chain" using complex mathematical algorithms.
+This encryption process, known as "hashing" is carried out by lots of different computers. If they all agree on the answer, each block receives a unique digital signature.
+"You don't store details of the transaction, just the fact that it happened and the hash of the transaction," explains Adrian Nish, head of threat intelligence at BAE Systems.
+Once updated, the ledger cannot be altered or tampered with, only added to, and it is updated for everyone in the network at the same time.
+Well, the distributed nature of a blockchain database means that it's harder for hackers to attack it - they would have to get access to every copy of the database simultaneously to be successful.
+It also keeps data secure and private because the hash cannot be converted back into the original data - it's a one-way process.
+So if the original document or transaction were subsequently altered, it would produce a different digital signature, alerting the network to the mismatch.
+In theory then, the blockchain method makes fraud and error less likely and easier to spot.
+The idea has been around for a couple of decades, but came to prominence in 2008 with the invention of Bitcoin, the digital currency.
+Bitcoins are created by computers solving complex mathematical puzzles and this requires lots of computing power and electricity. Blockchain is the technology underpinning it.
+But there isn't just one program - lots of companies, from Ethereum to Microsoft, are developing their own blockchain services. Some are open to all ("unpermissioned", in the jargon), others restrict access to a select group ("permissioned").
+"Banks do very similar things to each other, even though they compete," says Simon Taylor, vice-president of blockchain research and development at Barclays.
+"They basically keep our money safe and a big computer keeps track of who has what. But getting these computers to talk to each other is remarkably complex and expensive - the tech is getting a little old," he says.
+If banks started sharing data using a tailor-made version of blockchain it could remove the need for middlemen, a lot of manual processing, and speed up transactions, says Mr Taylor, thereby reducing costs.
+Having access to an open, transparent ledger of bank transactions would also be useful for regulators, he adds. And it could help governments tackle tax fraud.
+Tech company R3 CEV has persuaded more than 40 banks around the world, including Barclays, UBS and Wells Fargo, to join a consortium exploring distributed ledger technology.
+Just this week, R3 announced that 11 global financial institutions had taken part in an experiment involving the exchange of tokens across a global private network without the need for a central third party verifying the transactions.
+"It's very early days for this technology but the potential is phenomenal," Mr Taylor concludes.
+If banks and other financial institutions are able to speed up transactions and take costs out of the system, it should mean cheaper, more efficient services for us. For example, sending money abroad could become almost instantaneous.
+Last year, investment bank Goldman Sachs and Chinese investment firm IDG Capital Partners invested $50m (Â£35m) in Circle Internet Financial, a start-up aiming to exploit blockchain technology to improve consumer money transfers.
+Circle, co-founded by entrepreneur Jeremy Allaire, has created a digital wallet for bitcoins, but users can decide whether they send or receive money in dollars as well. The idea is to make cross-border payments as easy as sending a text or email.
+Ah, yes. It's not all about banking. Tech company Everledger is using blockchain to develop a system of warranties that enable mining companies to verify that their rough-cut diamonds are not being used by militias to fund conflicts, and that they comply with the Kimberley Process - a government and community-backed certification scheme for diamonds.
+The ownership history and value of each diamond is available to anyone who wants it, and you can be confident that the information has not been tampered with or corrupted.
+In six months of operation, Everledger has added nearly 850,000 diamonds to its blockchain database so far.
+Estonian tech firm Guardtime has been at the forefront of the country's digital transformation, using its version of blockchain - Keyless Signature Infrastructure - to help the government manage and protect its citizens' data across about 1,000 online services.
+"We're about massive scale data management," Matt Johnson, the firms's chief technology officer, tells the BBC.
+"We've applied these capabilities to cybersecurity, providing real-time tamper detection to protect critical infrastructure," he says. "We're also helping global telecoms companies, like Ericsson, protect and monitor the integrity of their core networks."
+In the era of big data and the internet of things, being able to assign a digital signature to each bit of data is also useful, Mr Johnson suggests.
+And verifying and recording each stage in the development of a software program or product will help improve quality and reliability, he maintains.
+We might not understand blockchain too well just yet, but it seems like its influence could be profound.
+Follow Matthew on Twitter

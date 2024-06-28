@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170326040319/http://www.bbc.co.uk/news/technology-35660641
+
+[SN]TITLE[SN]
+Nissan disables Leaf app after car hack risk revealed online
+
+[SN]FIRST-SENTENCE[SN]
+Nissan has suspended the functions of an app that could have been used to hack its Leaf electric cars.
+
+[SN]RESTBODY[SN]
+The action follows the revelation that a flaw with the software meant that an attacker could run down the battery of a target's car and see data about its recent journeys.
+The firm had been informed of the problem a month ago but only acted after details of the issue were flagged online.
+Nissan denies there was a safety issue.
+However, it has disclosed that its eNV200 electric vans were also vulnerable.
+The security researcher who had alerted the Japanese automaker to the problem a month ago believes the company should have taken the step earlier.
+Troy Hunt said he only blogged about the risk after seeing that other people had discovered and discussed it in online forums. Even so, he said he welcomed the latest development.
+"Disabling the service was the right thing to do given it appears it's not something they can properly secure in an expeditious fashion," he told the BBC.
+"Hopefully this will give them time to build a more robust solution that ensures vehicle features and driving history are only accessible via the authorised owner of the car."
+Mr Hunt discovered that anyone can control the heating and air conditioning systems of a stranger's Leaf by sending it commands via a web browser because the car's companion app was not configured to verify the owner's identity.
+Instead, it only required a vehicle identification number (Vin).
+Vin numbers are stencilled into the windscreens of cars and Mr Hunt noted that it would be relatively easy to script a process that would hunt the net for vulnerable vehicles.
+In addition, the hack allowed an attacker to see details about journey times and distances, but not location details.
+Mr Hunt suggested this would be enough to deduce when someone had driven far from their home and run their battery down to leave them stranded.
+Since the hack would not work when cars were moving and did not affect their steering controls, he acknowledged that it would not threaten people's lives.
+But after first telling Nissan about the problem on 23 January, he said he felt the company should have suspended the app at an earlier point.
+As a result he published details of the hack on Wednesday alongside information about how car owners could protect themselves.
+A day later, Nissan disabled the service.
+"The NissanConnect EV app - formerly called CarWings - is currently unavailable," the firm said in a statement.
+"This follows information from an independent IT consultant and a subsequent internal Nissan investigation that found the dedicated server for the app had an issue that enabled the temperature control and other telematics functions to be accessible via a non-secure route.
+"No other critical driving elements of the Nissan Leaf or eNV200 are affected, and our 200,000-plus LEAF and eNV200 drivers across the world can continue to use their cars safely and with total confidence.
+"We apologise for the disappointment caused to our Nissan Leaf and eNV200 customers who have enjoyed the benefits of our mobile apps. However, the quality and seamless operation of our products is paramount.
+"We're looking forward to launching updated versions of our apps very soon."
+Read and watch more cybersecurity stories in our special index

@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151009121138/http://www.bbc.co.uk/news/technology-23862105
+
+[SN]TITLE[SN]
+New York Times and Twitter struggle after Syrian hack
+
+[SN]FIRST-SENTENCE[SN]
+The websites of the New York Times and Twitter are still suffering problems related to a damaging hack carried out on Tuesday.
+
+[SN]RESTBODY[SN]
+The newspaper and social network were hit after their domain name details were maliciously edited by hackers.
+The Syrian Electronic Army (SEA), a group supporting Syrian president Bashar al-Assad, says it carried out the attack.
+It is the most severe attack so far carried out by the group.
+In recent months, the hackers have targeted major media companies including the Financial Times, Washington Post, CNN and BBC.
+But in this latest attack, the SEA was able to cause more sustained damage with a technique which also saw news and comment site the Huffington Post hit.
+The attacked domains were managed by hosting company Melbourne IT,  which has said it is looking at "additional layers of security" for protecting domain details.
+The attack focused on editing DNS - Domain Name System - information.
+The DNS is used to direct web traffic to a specific server containing the website a user wants to visit.
+In simple terms, it means we can browse the web using easy-to-remember addresses like bbc.com, rather than by IP addresses - a string of numbers separated by dots.
+The SEA was able to gain access to Melbourne IT's system, where Twitter and the New York Times registered their respective domains.
+It meant that the hackers could change DNS details so that instead of, for example, "nytimes.com" taking you to the Times' servers, the domain was instead pointed to a website hosted by the SEA.
+In Twitter's case, the SEA targeted twimg.com - a separate domain that the social network used to store image data, as well as styling code.
+While Twitter itself remained active, the disruption to twimg.com meant many pages displayed incorrectly.
+In a statement, Twitter said that no user data had been affected.
+The SEA used its Twitter account to publicise the attacks on both sites, posting images of its work.
+"Hi @Twitter," the group said in one tweet, "look at your domain, its owned by #SEA :)"
+Melbourne IT blamed the breach on a reseller - a third party that sells domains through the company's system.
+Melbourne IT said the reseller's log-in credentials had been obtained, and that with them the SEA could enter through the "front door" and carry out the attack.
+"If you've got a valid user name and password," chief executive Theo Hnarakis told ABC (Australia), "the assumption from our systems is that you are the authorised owner and user of that domain name."
+In a further statement, the company said: "We are currently reviewing our logs to see if we can obtain information on the identity of the party that has used the reseller credentials, and we will share this information with the reseller and any relevant law enforcement bodies."
+The company advised those wanting to make sure their domains were fully protected to use "additional registry lock features" that they offered.
+During its downtime, the New York Times has been publishing new articles on its Facebook page as well as a mirror site.
+Meanwhile, Mark Frons, the company's chief information officer, cautioned staff to "be careful when sending email communications until this situation is resolved".
+Ken Westin, a security researcher for Tripwire, an online security company, told the BBC: "Media attacks seem to be escalating and moving away from annoying, simple denial-of-service attacks and toward full domain compromise which, if successful, puts millions of NYT website users at risk."
+In January, the New York Times said hackers had accessed its website and stolen the passwords of 53 employees after it published a report on the wealth of then Chinese Premier Wen Jiabao's family.
+As it did after that NYT disruption, competitor Wall Street Journal took down its paywall on Tuesday and offered its content free to all visitors.
+Michael Fey, chief technology officer at cybersecurity firm McAfee, said that as long as media organisations played a crucial role in reporting news and influencing debate, they would continue to be targets of cyber-attacks.
+"Regardless of technology or tactics deployed, we should expect to see more of these attacks,'' he said.
+Follow Dave Lee on Twitter @DaveLeeBBC

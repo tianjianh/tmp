@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170131000307/http://www.bbc.co.uk/news/technology-38637006
+
+[SN]TITLE[SN]
+Hungry penguins help keep car code safe
+
+[SN]FIRST-SENTENCE[SN]
+Hungry penguins have inspired a novel way of making sure computer code in smart cars does not crash.
+
+[SN]RESTBODY[SN]
+Tools based on the way the birds co-operatively hunt for fish are being developed to test different ways of organising in-car software.
+The tools look for safe ways to organise code in the same way that penguins seek food sources in the open ocean.
+Experts said such testing systems would be vital as cars get more connected.
+Engineers have often turned to nature for good solutions to tricky problems, said Prof Yiannis Papadopoulos, a computer scientist at the University of Hull who, together with Dr Youcef Gheraibia from Algeria, developed the penguin-inspired testing system.
+The way ants pass messages among nest-mates has helped telecoms firms keep telephone networks running, and many robots get around using methods of locomotion based on the ways animals move.
+Penguins were another candidate, said Prof Papadopoulos, because millions of years of evolution has helped them develop very efficient hunting strategies.
+This was useful behaviour to copy, he said, because it showed that penguins had solved a tricky optimisation problem - how to ensure as many penguins as possible get enough to eat.
+"Penguins are social birds and we know they live in colonies that are often very large and can include hundreds of thousands of birds. This raises the question of how can they sustain this kind of big society given that together they need a vast amount of food.
+"There must be something special about their hunting strategy," he said, adding that an inefficient strategy would mean many birds starved.
+Prof Papadopoulos said many problems in software engineering could be framed as a search among all hypothetical solutions for the one that produces the best results. Evolution, through penguins and many other creatures, has already searched through and discarded a lot of bad solutions.
+Studies of hunting penguins have hinted at how they organised themselves.
+"They forage in groups and have been observed to synchronise their dives to get fish," said Prof Papadopoulos. "They also have the ability to communicate using vocalisations and possibly convey information about food resources."
+The communal, co-ordinated action helps the penguins get the most out of a hunting expedition. Groups of birds are regularly reconfigured to match the shoals of fish and squid they find. It helps the colony as a whole optimise the amount of energy they have to expend to catch food.
+"This solution has generic elements which can be abstracted and be used to solve other problems," he said, "such as determining the integrity of software components needed to reach the high safety requirements of a modern car."
+Integrity in this sense means ensuring the software does what is intended, handles data well, and does not introduce errors or crash.
+By mimicking penguin behaviour in a testing system which seeks the safest ways to arrange code instead of shoals of fish, it becomes possible to slowly zero in on the best way for that software to be structured.
+The Hull researchers working with Dr Gheraibia turned to search tools based on the collaborative foraging behaviour of penguins.
+The foraging-based system helped to quickly search through the many possible ways software can be specified to home in on the most optimal solutions in terms of safety and cost.
+Currently, complex software was put together and tested manually, with only experience and engineering judgement to guide it, said Prof Papadopoulos. While this could produce decent results it could consider only a small fraction of all possible good solutions.
+The penguin-based system could crank through more solutions and do a better job of assessing which was best, he said.
+Mike Ahmadi, global director of critical systems security at Synopsys, which helps vehicle-makers secure code, said modern car manufacturing methods made optimisation necessary.
+"When you look at a car today, it's essentially something that's put together from a vast and extended supply chain," he said.
+Building a car was about getting sub-systems made by different manufacturers to work together well, rather than being something made wholly in one place.
+That was a tricky task given how much code was present in modern cars, he added.
+"There's about a million lines of code in the average car today and there's far more in connected cars."
+Carmakers were under pressure, said Mr Ahmadi, to adapt cars quickly so they could interface with smartphones and act as mobile entertainment hubs, as well as make them more autonomous.
+"From a performance point of view carmakers have gone as far as they can," he said. "What they have discovered is that the way to offer features now is through software."
+Security would become a priority as cars got smarter and started taking in and using data from other cars, traffic lights and online sources, said Nick Cook from software firm Intercede, which is working with carmakers on safe in-car software.
+"If somebody wants to interfere with a car today then generally they have to go to the car itself," he said. "But as soon as it's connected they can be anywhere in the world.
+"Your threat landscape is quite significantly different and the opportunity for a hack is much higher."

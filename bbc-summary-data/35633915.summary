@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160223042233/http://www.bbc.com:80/news/technology-35633915
+
+[SN]TITLE[SN]
+MWC 2016: Facebook uses AI to map people's homes
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has announced it will make highly detailed maps of places where it believes people are living available to the public later this year.
+
+[SN]RESTBODY[SN]
+The social network has been using artificial intelligence software to scan satellite imagery and identify human-built structures.
+It hopes to use the information to determine where internet-beaming drones would best be deployed.
+But it suggests others could also make use of the maps.
+"We believe this data has many more impactful applications, such as socio-economic research and risk assessment for natural disasters," Facebook said in a blog.
+One expert raised concerns.
+"I am torn in my reaction between excitement at the technical innovation and concern about the public policy issues," said  Emily Taylor, an associate fellow at the Chatham House think tank.
+"This takes knowing your customers to stalker-like levels."
+But the British Red Cross charity said the initiative could potentially help it locate vulnerable communities.
+Facebook first detailed its work on the mapping project last year, in a briefing about its Aquila drones.
+At the time, the social network's engineering chief, Jay Parikh, said the technology could spot structures as small as a tent.
+He said the population maps it produced were many times more detailed than those of an alternative scheme co-ordinated by Columbia University, the Gridded Population of the World (GPW) project, which seeks to collate existing data.
+"You look at the Middle East, and all of a sudden there are big splotches," he said of the GPW's maps.
+"Your intuition says that's probably not how people are distributed in terms of living.
+"We can be much more precise and exact [with our] fine grain level of information."
+In its update - released to coincide with the Mobile World Congress tech show - Facebook said it had analysed 14.6 billion satellite images covering 20 countries. This had resulted in 350TB of data.
+"Our final data set has a spatial resolution of 5m [16.4ft] and thereby improves over previous countrywide data sets by multiple orders of magnitude," it said.
+It added, however, the task had not been without problems.
+"While recognising structures in aerial imagery is a popular task in computer vision, scaling it to a global level came with additional difficulty.
+"Aside from processing billions of images, finding buildings with high fidelity in rural areas is really a needle-in-a-haystack problem.
+"Typically, more than 99% of the landmass we analyse does not contain any human-made structure, and it therefore poses a challenge for the machine learning algorithms to learn from such an unbalanced data set."
+Facebook intends to use the maps to inform its Internet.org initiative, which aims to connect more people to the internet.
+The company is currently developing drones that would extend internet signals beyond cities via lasers beamed between the aircraft.
+Although it will be several years before Facebook hopes to have the technology ready, the maps could allow it to work out where the drones would have the most impact.
+In the meantime, others hope the data could prove useful for their own efforts.
+The Red Cross already has a map initiative of its own, the Missing Maps Project, developed in conjunction with the Humanitarian OpenStreetMap Team and Medecins Sans Frontieres.
+It said the extra information could help the organisations respond more effectively to people in need.
+"There are many areas globally that still remain off the digital map," said British Red Cross maps expert Andrew Braye.
+"These areas are also home to vulnerable communities at risk from natural disasters or conflict.
+"Organisations that share open data are enabling the humanitarian sector to respond more rapidly.
+"The information is then available to emergency responders and assists with decision-making."
+Follow all the BBC's MWC coverage via the Mobile World Congress 2016  tag in our news app.
+You can also keep track of our technology correspondent Rory Cellan-Jones and the rest of the team covering the Barcelona event, via a dedicated Twitter list.

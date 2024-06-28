@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170113145445/http://www.bbc.com/news/technology-36702758
+
+[SN]TITLE[SN]
+Sucking robot arm wins Amazon Picking Challenge
+
+[SN]FIRST-SENTENCE[SN]
+A robotic arm that combines a suction cup, a "two-fingered" gripper and a 3D depth-sensing camera has won Amazon's latest warehouse bot competition.
+
+[SN]RESTBODY[SN]
+Team Delft's machine triumphed over its rivals at both of the two tasks.
+One involved selecting products from a container, picking them up and putting them on a shelf. The other was doing the actions in reverse.
+Amazon already uses robots to move goods about its buildings but relies on humans to stock its shelves.
+"Our vision is humans and robots working shoulder to shoulder," said Tye Brady, chief technologist at Amazon Robotics.
+"It was inspiring to see 16 top teams with so many different approaches to the same problem, and we also saw the advancements robotic technology has made since last year."
+The Dutch winners were awarded $50,000 (Â£37,695).
+They beat two teams from Japan and five from the US - countries better known for their robotics research - at the contest in Leipzig, Germany.
+Forty different items, representing some of the retailer's bestselling products, were used in the Amazon Picking Challenge.
+They represented a mix of different shapes, including soft clothing, a boxed DVD, a bottle of water and a toothbrush.
+In the "stow" task, 12 different items were put in a red plastic box. The robots had to pick them out - in any order - and put each one at a predetermined place on a shelf.
+In the "pick" task, a dozen specific items had to be lifted off shelves containing a mix of goods and packed in the boxes. In some cases, other products had been deliberately placed in the way of the targets. This proved the tougher of the two jobs.
+In both cases, the teams were only given a computer file describing the range of objects involved and instructions for which should be moved, five minutes before they had to start. Once the task began, the robots had to act autonomously.
+Points were deducted for:
+"Because of the variation in items, you couldn't have a single picking strategy," Team Delft's Kanter van Deurzen explained to the BBC.
+"Usually in industry, you would have a suction cup or a mechanical gripper designed for one type of item or part.
+"Here, we had to handle dozens varying from simple boxes to a T-shirt and a dumbbell - each required a different approach.
+"To do all of this with a single arm, to have to recognise how the objects were oriented and to avoid collisions with other objects on the shelves was a really big challenge."
+In the stow task, the Dutch team came close to a perfect score.
+Its only mistake was that when its arm's suction cup lifted a small pack of glue, it also picked up a bottle-cleaning brush, which then dropped to the ground.
+It made more errors in the pick task, and initially tied on points with Japan's Team PFN.
+But Delft was given the advantage because it took 30 seconds less time to make its first pick.
+The rapid development of robots and the artificial intelligence software that powers them has raised concerns.
+About one in three existing jobs in the UK could be done by machines within two decades, according to a study by Oxford University and Deloitte.
+Amazon's $775m (Â£584m) acquisition of Kiva Robotics in 2012 already means the US company has been able to limit the number of employees it needs to move its portable shelves about.
+Elsewhere, Germany's Magazino has developed bots that can pick standard rectangular objects off warehouse shelves.
+And Google owns a start-up whose automated arms can unload boxes off lorries and sort them on to conveyor belts.
+Despite such progress, Mr Van Deurzen said warehouse operators would still need to employ at least some humans for the foreseeable future.
+"It's really difficult to design a system that can create any type of object in any type of situation," he said.
+"But a lot more is already possible than most warehouse owners are aware of.
+"Maybe we can't do everything, but if we aim for 50% that would still be a really big step. [Human] workers would still be needed for the other objects."

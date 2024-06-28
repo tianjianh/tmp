@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170217035836/http://www.bbc.co.uk/news/business-36854292
+
+[SN]TITLE[SN]
+Where in the world is my data and how secure is it?
+
+[SN]FIRST-SENTENCE[SN]
+When Max Schrems, an Austrian privacy activist, requested to see his personal data that Facebook stored on its servers, he was mailed a CD-ROM containing a 1,222-page document.
+
+[SN]RESTBODY[SN]
+That file, which would stretch nearly a quarter of a mile if printed and laid end-to-end, offered a glimpse into Facebook's appetite for the private details of its 1.65 billion users.
+The information included phone numbers and email addresses of Mr Schrems' friends and family; a history of all the devices he used to log in to the service; all the events he had been invited to; everyone he had "friended" (and subsequently de-friended); and an archive of his private messages.
+It even included transcripts of messages he'd deleted.
+But Mr Schrems, who says he only used Facebook occasionally over a three-year period, believes a sizeable chunk of information was withheld from him.
+He received data records for about 50 categories, but believes there are more than 100, he tells the BBC.
+"They withheld my facial recognition data, which is a technology that can identify me through my pictures. They don't disclose tracking information either, which is the even creepier stuff they do - things like whether you've read a webpage about a sports car and how long you read it for."
+Facebook can even track non-members' internet usage through the use of cookies place on their machines, as a recent legal decision in Belgium confirmed.
+Mr Schrems' experience vividly illustrates the challenges we face in a digital age full of messaging apps, social networks, tailored search engines, email clients, and banking apps, all collecting personal data about us and storing it, somewhere, in the cloud.
+But where is all this data exactly, how is it being used, and how secure is it?
+More than half of the world's rentable cloud storage is controlled by four major corporations. Amazon is by far the biggest, with about a third of the market share and more than 35 data centres throughout the world.
+The next three biggest providers are Microsoft, IBM and Google, and each of them adopts a similar global pattern of server farms.
+Several of these major public cloud providers habitually duplicate user data across their networks. It means that information uploaded to the cloud in, say, the UK or the US, is likely to be transferred at some point to servers in major cities around the world, from Sydney to Shanghai.
+The problem with this, says Prof Dan Svantesson, an internet law specialist at Bond University, Australia, is that "there is always a risk that the country your data goes to doesn't have the same level of protection [as your own].
+"If your data ends up in another country, it can be unclear who has access to it, be it network providers or law enforcement," he says.
+Benjamin Caudill, a cybersecurity consultant at Rhino Security Labs in Seattle, also has concerns about how this data is distributed.
+"No-one really quite knows how the sausage is made," says Mr Caudill, whose work includes testing firms' defences though "ethical hacking".
+"It's very difficult to understand where your data is stored. A lot of times the companies themselves aren't sure where all the data could reside."
+He says a client of his, who was using Microsoft's Azure cloud service, fell victim to a hack - all data and back-ups were deleted.
+But after some digging, it emerged that a portion of the lost data had been stored elsewhere on Azure's servers. While that was a relief to Mr Caudill's client, the apparent random nature of data placement across Microsoft's servers didn't fill him with confidence.
+"No-one really knows how secure the cloud services are from the major providers," says Mr Caudill, who suspects that "both Amazon and Azure have had major security compromises at some point."
+For their part, all the big public cloud providers say security is a priority.
+At Google's server facility in South Carolina, for example, guards patrol the doors and employ biometric iris scanners at the entrances to the inner sanctum. Underfloor laser beams detect intruders.
+But none would say they've never had security breaches.
+A Microsoft spokesperson told the BBC: "Microsoft has a customer commitment to help safeguard customer data and empower them to make decisions about that data. We recommend customers visit the Microsoft Trust Center to learn more about how their data is managed and kept secure."
+Amazon emphasises that customers "retain ownership and control of their content. They choose which location to store their data and it doesn't move unless the customer decides to move it."
+This ability to choose which region your data is stored in is proving increasingly popular with firms, particularly in the European Union where the new stringent General Data Protection Regulation is due to come into force in 2018.
+But we consumers often don't have this luxury.
+"The data of your Gmail account is absolutely on more than one server. It's absolutely in more than one country," says Prof Svantesson.
+But why should we care?
+The more of our data that's out there scattered throughout the world, the more vulnerable it is to hackers, argues Mr Caudill - a supposition borne out by the fact that identity fraud is on the rise.
+As people continue to upload their digital information online, into a marsh of territorial legal complexities and undisclosed national security protocols, Prof Svantesson offers some practical advice - which many people still do not follow.
+"I would suggest never putting anything sensitive on the cloud, such as credit card information, or personal images that you don't want others to see.
+"Some things you should just leave to yourself," he advises.
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

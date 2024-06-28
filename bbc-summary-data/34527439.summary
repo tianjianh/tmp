@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170411215845/http://www.bbc.co.uk/news/technology-34527439
+
+[SN]TITLE[SN]
+Online attackers steal £20m from UK bank accounts
+
+[SN]FIRST-SENTENCE[SN]
+The UK's National Crime Agency is hunting cyber-attackers who stole more than £20m from British bank accounts.
+
+[SN]RESTBODY[SN]
+Malware called Dridex harvested victims' online banking details so the attackers could siphon off funds.
+The NCA said it was working with the FBI and other authorities to limit the malware's usefulness to criminals and one man had already been arrested.
+One expert told the BBC the attackers had been particularly cunning to avoid being detected.
+"This is very sneaky software that relied on people not being vigilant with their online banking," said Prof Alan Woodward, a cybersecurity expert who advises Europol.
+"If you imagine thieves making lots of little transactions, rather than one big one, it is more likely to go unnoticed."
+The Dridex Trojan infected computers through a malicious Microsoft Office document, typically disguised as an invoice and emailed to victims.
+The malware relied on tricking people into installing it on their machines, rather than exploiting a security hole in the operating system.
+It would then eavesdrop on people entering their bank account details and send the information back to the attackers.
+"Banks have software running constantly in the background looking for suspicious transactions, but criminals are adopting patterns that are not flagged up," said Prof Woodward.
+"With thousands of computers infected, they only need to take a small amount from each bank account and suddenly they've got millions."
+The NCA said it was trying to "sinkhole" the Trojan - working with internet service providers to divert the software's attempts to "phone home" with stolen bank account details.
+The US Department of Justice said on Tuesday that a Moldovan man, Andrey Ghinkul, had been arrested in Cyprus in August and the United States was seeking his extradition.
+The FBI encouraged people to use anti-virus software to help protect their computers.
+"All the usual advice applies," said Prof Woodward. "Don't open unexpected email attachments, even if they appear to be from the bank.
+"And check your bank statement for suspicious transactions. Query anything you don't understand, even if it's a small amount, as criminals may be taking a small amount from millions of other people."

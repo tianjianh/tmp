@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170724200121/http://www.bbc.co.uk/news/technology-33324715
+
+[SN]TITLE[SN]
+Cybercriminals exploit bug in Adobe Flash software
+
+[SN]FIRST-SENTENCE[SN]
+An exploit that takes advantage of a flaw in Adobe's Flash Player is being used by cybercriminals.
+
+[SN]RESTBODY[SN]
+The problem was only patched by an update from Adobe last week, meaning many users are still believed to be at risk.
+Two exploit kits, which allow criminals to compromise computers in a variety of ways, can now target the bug.
+This was spotted by a French security researcher known as Kafeine.
+Kafeine said that more people are likely to be vulnerable to the exploit since it targets a relatively recent version of the browser-based Flash Player software, 18.0.0.160. The latest version is 18.0.0.194.
+Before being flagged by Adobe, the vulnerability was considered a zero-day - meaning it had not previously been disclosed and there was no known fix. Kafeine added that a handful of similar bugs have been discovered in Flash Player since January.
+The two kits in question, Angler and Magnitude are relatively popular, according to security analyst Rik Ferguson at Trend Micro.
+Many are worried that in this case the exploit could be used to deploy ransomware, which restricts access to a victim's computer until a ransom fee is paid.
+"Angler is a very... widespread toolkit," said Mr Ferguson. "It's really just a framework that is being used to deliver whatever the exploiter wants to deliver... Besides ransomware, it could just as easily be used to deliver banking malware, DDoS bots, spam bots, whatever."
+Mr Ferguson added that according to their records, a large proportion of Trend Micro customers still appeared to be using versions of Flash Player vulnerable to the attack.
+David Emm, a security expert at Kaspersky, commented that certain security programmes would be able to protect users against exploits like these, but that updating vulnerable software was recommended.
+"As always, the best policy here is to make sure your application and the operating system you use have all the updates installed," he said.
+Adobe has urged users to download the latest Flash Player update.

@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160825154448/http://www.bbc.com/news/technology-37176926
+
+[SN]TITLE[SN]
+Microsoft Excel blamed for gene study errors
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft's Excel has been blamed for errors in academic papers on genomics.
+
+[SN]RESTBODY[SN]
+Researchers trying to raise awareness of the issue claim that the spreadsheet software automatically converts the names of certain genes into dates.
+Gene symbols like SEPT2 (Septin 2) were found to be altered to "September 2".
+However, Microsoft, which released the first version of Excel in 1985, said the gene renaming errors can be overcome if users make alterations in the application settings.
+"Excel is able to display data and text in many different ways. Default settings are intended to work in most day-to-day scenarios," a spokeswoman for the corporation told the BBC.
+"Excel offers a wide range of options, which customers with specific needs can use to change the way their data is represented."
+The study also claimed that the Excel conversion problem was present in other spreadsheet software, such as Apache OpenOffice Calc.
+The systemic error was not, however, present in Google Sheets.
+The researchers claimed the problem is present in "approximately one-fifth of papers" that collated data in Excel documents.
+The trio, writing for the Melbourne-based academic institute Baker IDI, scanned 3,597 published scientific papers to conduct their study.
+They found 704 of those papers contained gene name errors created by Excel.
+Ewan Birney, director of the European Bioinformatics Institute, does not blame Excel and told the BBC: "What frustrates me is researchers are relying on Excel spreadsheets for clinical trials."
+The Excel gene renaming issue has been known among the scientific community for more than a decade, Birney added.
+He recommended that the program should only be considered for "lightweight scientific analysis".
+One of the paper's three researchers, Assam El-Osta, said the errors were found specifically on the supplemental data sheets of academic studies.
+He told the BBC that supplemental pages contained "important supporting data, rich with information," and added that resolving these errors was "time-consuming".
+Excel's automatic renaming of certain genes was first cited by the scientific community back in 2004, the Baker IDI study claims. Since then the problem has "increased at an annual rate of 15%" over the past five years.

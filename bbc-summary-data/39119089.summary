@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170302014247/http://www.bbc.co.uk/news/world-us-canada-39119089
+
+[SN]TITLE[SN]
+Amazon data centre fault knocks websites offline temporarily
+
+[SN]FIRST-SENTENCE[SN]
+Several high-profile websites and services were knocked offline by a failure at one of Amazon's major US data centres.
+
+[SN]RESTBODY[SN]
+Amazon Web Services (AWS) allows firms to rent cloud servers in order to host data on the internet without needing to invest in their own infrastructure.
+On Tuesday, sites such as Quora, a Q&A forum, and Trello, which helps people monitor productivity, went down.
+After several hours, Amazon said it had rectified the problem.
+It did not make public the reason behind the disruption.
+As well as sites that went down, other services, such as workplace collaboration tool Slack, also lost some key functionality.
+Specifically, it was AWS's S3 - which stands for Simple Storage Service - that was affected.
+To varying degrees it serves around 150,000 sites and services around the world, mostly in the US.
+AWS is used by some of the web's most recognisable and powerful names including Netflix, Spotify and Airbnb. While none of those services went offline on Tuesday, users did report performance issues and slowdown.
+US government services such as the Securities and Exchange Commission (SEC) were also affected.
+Downtime is a critical issue for any cloud service. Amazon competes with Google, Microsoft and others for what is an increasingly lucrative line of business for the web giants.

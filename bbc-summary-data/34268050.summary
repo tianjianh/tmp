@@ -1,0 +1,18 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150916132840/http://www.bbc.com/news/technology-34268050
+
+[SN]TITLE[SN]
+Lock screen flaw found in Android
+
+[SN]FIRST-SENTENCE[SN]
+A security flaw in Android that lets people bypass the lock screen on a mobile device has been discovered by researchers at the University of Texas.
+
+[SN]RESTBODY[SN]
+They found that trying to unlock the phone or tablet with an abnormally long password caused the lock screen to crash in certain conditions.
+The flaw was limited to Android Lollipop, the most recent version of the mobile operating system.
+Google issued a patch for its Nexus devices on Wednesday.
+About 21% of Android users run affected versions of the operating system.
+After crashing the lock screen, the researchers were able to access the phone's data and apps.
+The vulnerability could not be exploited if people had chosen a lock pattern or Pin code instead of a password.
+While Google is rolling out its fix for Nexus, other phone manufacturers are responsible for distributing the software to their own handsets.
+On releasing the patch, Google said it had not yet detected anybody exploiting the flaw.

@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151126233518/http://www.bbc.com/news/technology-34922029
+
+[SN]TITLE[SN]
+Facebook quizzes: What happens to your data?
+
+[SN]FIRST-SENTENCE[SN]
+Recently I, along with at least 17 million others, visited an app via Facebook which offered to provide me with a word cloud of my most used words on the social network.
+
+[SN]RESTBODY[SN]
+When I clicked on the link, it asked for permission to access a bunch of my Facebook data and my hand hesitated over the mouse.
+I'd been here before with quizzes to find out which dog I most resembled or which country best reflected my personality and decided that it was not worth swapping huge amounts of my data for an inane quiz.
+But, for whatever reason, I decided on this occasion I was prepared to make that sacrifice - after all, without access to such data, how could the app discover the words I used most?
+A few days later, freelance journalist Paul Bischoff wrote a piece for Comparitech entitled "That most used words Facebook quiz is a privacy nightmare" which made me sit up and reconsider my decision as it outlined the huge amounts of data that Vonvon, the South Korean company behind the quiz, hoovered up.
+That personal data included name, profile picture, age, sex, birthday, entire friend list, everything you have posted on your timeline, all of your photos, home town, education history and everything you have ever liked.
+Interactive content firm Vonvon produces lots of quizzes and, although the "most used words" one was hugely popular, it still did not make it into its top five - which have each reached an audience of more than 50 million. The most shared of its quizzes - a game which trawls through your Facebook profile to find your soulmate - has been shared more than 120 million times.
+The firm is by no means the only provider of such games - there are hundreds available via Facebook and they are proving one of the most shared bits of content on the social network.
+In order to take part, users generally have to agree to allow the firm access to their Facebook data. Often the quiz won't work without these permissions.
+Vonvon's chief executive Jonghwa Kim told the BBC that the firm uses Facebook data solely to make the quiz as good as it can be.
+"We only use your information to generate your results, and we never store it for other purposes," he told the BBC.
+He also said that none of the personal information is sold on to third parties, despite this being something that it is allowed to do as part of the terms and conditions.
+The terms and conditions do give Vonvon pretty free range with your data - it can, for example store information on "its servers in many countries around the world".
+Mr Kim understands that privacy is a top consideration and the firm has recently changed its Most Used Words quiz to request only public information, friends lists and timeline data.
+"We do realise that some of our users are worried about their privacy protection. To accommodate these concerns proactively, we adjusted our scope of data request to the minimum requirement to produce each separate content," Mr Kim told the BBC.
+So now users who take the Most Used Words quiz will have the opportunity to edit the data they provide to Vonvon - so it just uses their timeline data and not friends lists.
+Privacy group Electronic Frontier Foundation agrees that Vonvon seems to be taking a responsible attitude to user data.
+Technologist Jeremy Gillula told Time Magazine it was acting in the most "privacy protective way" it could given the limitations of the way Facebook allows apps to work with its software.
+But he added: "At the same time, people may not realise that they don't have to do it that way, and it's entirely possible that they could have done it another way - a less conscientious developer could have done it differently."
+Mr Bischoff remains sceptical about the motivation for the vast number of Facebook quiz apps in circulation.
+"It is hard to believe that these apps are collecting data just to make better quizzes," he told the BBC. "Especially when their privacy policies go into so much detail about how they may use personally identifiable data."
+He also thinks that Facebook "is not doing enough to raise awareness".
+So, for example, few people probably realise that, every time they install one of these apps, they continue running in the background unless users actively delete them via their privacy settings.
+That could potentially mean that the apps are collecting Facebook data long after users have forgotten the quiz they agreed to take part in.
+Users can also edit the amount of their information shared if their friends take part in such quizzes.
+Facebook told the BBC: "Protecting the privacy of people and their information on Facebook is one of our highest priorities. So we take the quality of apps on Facebook very seriously.
+"All apps on Facebook must adhere to our platform policy, which has strict limits on how developers can use the information that people share with them. It is against our policies for developers to use any information shared with them without prior consent. When we find or are made aware of apps which breach our rules, we remove them immediately. "
+It did not however tell the BBC how many it has removed, saying this was not information it "shared publicly".
+The fact that millions have taken part in such quizzes illustrates that it is not just me who has a slightly hypocritical approach to sharing data.
+"People's attitudes to privacy are inconsistent. We pay for curtains to shield our homes but we also go on Facebook and Google, mostly without changing our online privacy settings (I certainly don't)," said Dr Stuart Armstrong, a researcher at the Oxford Martin School, Oxford University.
+"And then we accept certain uses of our data by these tech giants, but get outraged at others, without a clear distinction. Our inconsistency on the subject keeps us vulnerable, making it impossible to craft acceptable, loophole-free legislation or user agreements," he added.
+Security expert Lisa Vaas has some simple advice for people considering playing such quizzes.
+"As much fun as it is to see what cat you're most suited to or which Disney Princess is your soulmate; if you have to hand over the keys to your privacy to find out, repeat after me: it's not worth it," she wrote in the Naked Security blog.

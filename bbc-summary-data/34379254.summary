@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150929115343/http://www.bbc.co.uk/news/technology-34379254
+
+[SN]TITLE[SN]
+Chinese smartphones mount massive web attack
+
+[SN]FIRST-SENTENCE[SN]
+More than 650,000 Chinese smartphones have been unwittingly enrolled in a massive attack that overwhelmed a web server.
+
+[SN]RESTBODY[SN]
+The huge attack saw the target site hit with about 4.5 billion separate requests for data in one day.
+The tidal wave of data was traced to a pool of booby-trapped adverts that had been seeded with malicious code.
+The adverts seem to have been shown in apps popular in China, said Cloudflare, which uncovered the data deluge.
+Analysis found that it relied on the widely used Javascript language as it tried to knock the site offline.
+"It seems probable that users were served advertisements containing the malicious Javascript," wrote Cloudflare security analyst Marek Majkowski in a blogpost.
+What was not entirely clear, said Mr Majkowski, was how so many Chinese phone owners were tricked into visiting the pages hosting the booby-trapped adverts.
+He speculated that the attack had worked because its creators had joined one of the networks that piped adverts to people as they browsed the web.
+Many of these ad networks run live auctions with the available slots going to the firm that bids the highest. By bidding high, the cybercriminals seem to have won the right to get their adverts in front of lots of people, he said.
+"Attacks like this form a new trend," said Mr Majkowski. "They present a great danger in the internet - defending against this type of flood is not easy for small website operators."
+The target site received more web traffic in a day than the BBC's news website gets in a month. Cloudflare did not name the company that ran the server that was hit.

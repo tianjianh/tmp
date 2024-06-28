@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170325111754/http://www.bbc.co.uk/news/technology-36672002
+
+[SN]TITLE[SN]
+Symantec security software had 'critical' flaws
+
+[SN]FIRST-SENTENCE[SN]
+Computer security company Symantec has patched eight security holes discovered in its own security software.
+
+[SN]RESTBODY[SN]
+Researchers at Google's Project Zero informed Symantec of "multiple critical vulnerabilities", which they said were "as bad as it gets".
+The vulnerabilities were present in Symantec and Norton-branded security software such as Norton Antivirus.
+Symantec said: "Fixes are currently in place, and updates are now available for customers to install."
+The vulnerabilities were fixed before Project Zero - which aims to discover security holes in software before they can be exploited by criminals - made the details public.
+Researcher Tavis Ormandy said in a blogpost: "They don't require any user interaction, they affect the default configuration, and the software runs at the highest privilege levels possible."
+"Symantec dropped the ball here."
+Symantec said in a blogpost that it had not seen any evidence that anybody had tried to exploit the security flaws.
+"Staying ahead of the threats from attackers requires vigilance and industry-wide information sharing," wrote Adam Bromwich, vice-president of security technology and response at Symantec.
+"We remain committed to ensuring our products address today's most sophisticated threats, and we thank the security community for their assistance."

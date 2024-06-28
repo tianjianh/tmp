@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150518215620/http://www.bbc.co.uk/news/technology-32780513
+
+[SN]TITLE[SN]
+FBI flight hacker claims queried by security experts
+
+[SN]FIRST-SENTENCE[SN]
+An FBI search warrant states that a cybersecurity professional told an agent he was able to control an aeroplane engine from his seat after hacking the on-board computer system.
+
+[SN]RESTBODY[SN]
+The document claims Chris Roberts said he was able to make the plane "climb" and "move sideways" from his seat.
+He was escorted from an aircraft by the FBI after an internal US flight last month.
+Mr Roberts has tweeted that the FBI "incorrectly compressed" his research.
+And he maintains that he carried out his work in the public interest.
+"There's a whole five years of stuff that the affidavit incorrectly compressed into 1 paragraph... lots to untangle," he wrote.
+"Over last five years my only interest has been to improve aircraft security... given the current situation I've been advised against saying much," he wrote in a separate tweet.
+Mr Roberts, founder of One World Labs, is an expert in airline system security issues and is not detained by the authorities at time of writing.
+He had previously been banned from a United Airlines flight after joking on Twitter that he could deploy the oxygen masks during the journey.
+He is now being represented by the Electronic Frontier Foundation (EFF).
+The BBC has contacted Mr Roberts, the EFF and the FBI for comment.
+The FBI document also says he had "exploited" the in-flight entertainment systems on various aircraft "15 - 20 times" between 2011 and 2014.
+Mr Roberts gained physical access to it by connecting his laptop via the Seat Electronic Box located underneath passenger seats, the FBI states.
+In an interview with Wired magazine last month Mr Roberts suggested he only "sniffed the data traffic" on those occasions.
+"We were within the fuel balancing system and the thrust control system. We watched the packets and data going across the network to see where it was going," he said.
+Other experts in the cybersecurity community say it is not clear whether he really did hack an actual aircraft.
+The FBI document also says Chris Roberts told them he used Vbox, a virtual environment, "to build his own version of the airplane network", pointed out security expert Graham Cluley on his blog.
+"If that were true, Roberts might have accessed the plane's systems and data without permission, but perhaps never sent the real live system any commands to mess with the aircraft's journey," he wrote.
+Prof Alan Woodward from Surrey University told the BBC he found it "difficult to believe" a passenger could access and manipulate flight control systems from a plug socket on an aircraft seat.
+"Flight systems are typically kept physically separate, as are any safety critical systems," he said.
+"I can imagine only that someone has misunderstood something in the conversation between the researcher and the FBI, someone is exaggerating to make a point, or, it is actually possible and the aircraft manufacturers have some urgent work to do."

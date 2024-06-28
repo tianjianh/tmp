@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150628014719/http://www.bbc.co.uk/news/technology-33269868
+
+[SN]TITLE[SN]
+Samsung accused of disabling Microsoft security updates
+
+[SN]FIRST-SENTENCE[SN]
+Samsung has been accused of disabling Microsoft's software in preference for its own, leaving computers insecure.
+
+[SN]RESTBODY[SN]
+Microsoft technical expert Patrick Barker said he had found Samsung software downloading and running a file called Disable_Windowsupdate.exe, while helping a user with a computer problem.
+He said "a few Samsung-manufactured computer systems" were affected.
+Samsung said it was just giving customers the choice about running Windows software.
+"It is not true that we are blocking a Windows 8.1 operating system update on our computers," Samsung said in a statement.
+"As part of our commitment to consumer satisfaction, we are providing our users with the option to choose if and when they want to update the Windows software on their products."
+According to Samsung, the SW update allows users "to download the newest drives, updates and software for your Windows PC".
+But the response baffled Mr Barker.
+"I never implied it specifically blocked a Windows 8.1 OS system update, just that their SW Update software is preventing Windows Update from automatically installing updates, and forcing the user to have it set to 'let me choose whether to download and install,'" he wrote in his blog.
+"It's disabling Windows Update from working as the user intends it to," he added.
+Mr Barker said if the Windows Update was turned on manually, it was disabled by the Samsung update when the machine was rebooted.
+The software did not come pre-installed on computers but downloaded in the background, he said.
+"It doesn't appear to uninstall properly," he added.
+Parts of the software remained, including the folder that contained the command to disable Windows Update, he wrote in his blog.
+Microsoft said: "Windows Update remains a critical component of our security commitment to our customers."
+"We do not recommend disabling or modifying Windows Update in any way as this could expose a customer to increased security risks.
+"We are in contact with Samsung to address this issue."
+Security consultant Graham Cluley said that turning off Windows Update was a  "risky move" for any company.
+"As there are many instances of malware trying to deliberately disable Windows Update in order to get on with their dirty work, I personally wouldn't feel entirely comfortable if Samsung was going around doing the job for them," he wrote in his blog.
+The news did not go down well on Twitter either, with some comparing what Samsung was doing with an earlier Lenovo case.
+In February, the Chinese computer maker was forced to remove hidden adware from its laptops and PCs.
+The adware - dubbed Superfish - was potentially compromising security, experts said.

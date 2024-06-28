@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170619015344/http://www.bbc.co.uk/news/science-environment-40029180
+
+[SN]TITLE[SN]
+Schiaparelli: Crashed lander was ill-prepared for Mars
+
+[SN]FIRST-SENTENCE[SN]
+The crashed European spacecraft Schiaparelli was ill-prepared for its attempt at landing on the surface of Mars.
+
+[SN]RESTBODY[SN]
+That's the conclusion of an inquiry into the failure on 16 October 2016.
+The report outlines failings during the development process and makes several recommendations ahead of a rover mission to Mars set for launch in 2020.
+That mission will require more testing, improvements to software and more outside oversight of design choices.
+The Schiaparelli module was intended to test the European Space Agency's (Esa) capability for atmospheric entry, descent and - finally - landing on the surface of Mars.
+The report confirms some details already released in the preliminary findings. For example, during the descent - and after the parachute had been deployed - a component called the inertial measurement unit (IMU) sensed rotational accelerations in the probe that were larger than expected.
+This led to the IMU data becoming "saturated". When this information was integrated by the onboard guidance, navigation and control (GNC) software, the probe erroneously updated where it thought it was in the descent.
+The mistaken measurement was propagated forward, and at one point the GNC software calculated a negative altitude for the probe - it thought that Schiaparelli was several metres below the surface of Mars, even though it was still falling.
+The descent thrusters turned off and the test module was destroyed as it slammed into the ground in Mars' Meridiani Plain at a velocity of about 150 m/s. But the authors believe the craft could still have landed safely after the wrong handling of the IMU data if other checks and balances had been in place.
+The report rules out a fault with the IMU itself and suggests a number of other root causes leading to the failure. These include:
+In order to ensure that lessons are learned before a joint Esa-Russian Space Agency (Roscosmos) rover is sent to land on Mars, the inquiry panel made several recommendations.
+The report authors catalogue a series of necessary upgrades to onboard software, as well as suggesting improvements to the modelling of parachute dynamics.
+They also recommended a more stringent approach - including better quality control - during the procurement of equipment from suppliers.
+Crucially, the inquiry also recommends greater outside oversight of the design process for the upcoming rover mission by partner organisations with specific competencies.
+These suggested partners include Nasa's Jet Propulsion Laboratory (JPL) - which has already overseen the successful landing of several robotic missions on Mars.
+Follow Paul on Twitter.

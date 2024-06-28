@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170819000106/http://www.bbc.co.uk/news/technology-40685821
+
+[SN]TITLE[SN]
+How hackers are targeting the shipping industry
+
+[SN]FIRST-SENTENCE[SN]
+When staff at CyberKeel investigated email activity at a medium-sized shipping firm, they made a shocking discovery.
+
+[SN]RESTBODY[SN]
+"Someone had hacked into the systems of the company and planted a small virus," explains co-founder Lars Jensen. "They would then monitor all emails to and from people in the finance department."
+Whenever one of the firm's fuel suppliers would send an email asking for payment, the virus simply changed the text of the message before it was read, adding a different bank account number.
+"Several million dollars," says Mr Jensen, were transferred to the hackers before the company cottoned on.
+After the NotPetya cyber-attack in June, major firms including shipping giant Maersk were badly affected.
+In fact, Maersk revealed this week that the incident could cost it as much as $300 million (Â£155 million) in profits.
+But Mr Jensen has long believed that that the shipping industry needs to protect itself better against hackers - the fraud case dealt with by CyberKeel was just another example.
+The firm was launched more than three years ago after Mr Jensen teamed up with business partner Morten Schenk, a former lieutenant in the Danish military who Jensen describes as "one of those guys who could hack almost anything".
+They wanted to offer penetration testing - investigative tests of security - to shipping companies. The initial response they got, however, was far from rosy.
+"I got pretty consistent feedback from people I spoke to and that was, 'Don't waste your time, we're pretty safe, there's no need'," he recalls.
+Today, that sentiment is becoming rarer.
+The consequences of suffering from the NotPetya cyber-attack for Maersk included the shutting down of some port terminals managed by its subsidiary APM.
+The industry is now painfully aware that physical shipping operations are vulnerable to digital disruption.
+Breaking into a shipping firm's computer systems can allow attackers to access sensitive information. One of the most serious cases that has been made public concerns a global shipping conglomerate that was hacked by pirates.
+They wanted to find out which vessels were transporting the particular cargo they planned to seize.
+A report on the case by the cyber-security team at telecoms company Verizon describes the precision of the operation.
+"They'd board a vessel, locate by barcode specific sought-after crates containing valuables, steal the contents of that crate - and that crate only - and then depart the vessel without further incident," it states.
+But ships themselves, increasingly computerised, are vulnerable too. And for many, that's the greatest worry.
+Malware, including NotPetya and many other strains, is often designed to spread from computer to computer on a network. That means that connected devices on board ships are also potentially vulnerable.
+"We know a cargo container, for example, where the switchboard shut down after ransomware found its way on the vessel," says Patrick Rossi at consultancy DNV GL.
+He explains that the switchboard manages power supply to the propeller and other machinery on board. The ship in question, moored at a port in Asia, was rendered inoperable for some time, adds Mr Rossi.
+Crucial navigation systems such as the Electronic Chart Display (Ecdis) have also been hit. One such incident is recalled by Brendan Saunders, maritime technical lead at cyber-security firm NCC Group.
+This also concerned a ship at an Asian port, but this time it was a large tanker weighing 80,000 tonnes.
+One of the crew had brought a USB stick on board with some paperwork that needed to be printed. That was how the malware got into the ship's computers in the first instance. But it was when a second crew member went to update the ship's charts before sailing, also via USB, that the navigation systems were infected.
+Departure was consequently delayed and an investigation launched.
+"Ecdis systems pretty much never have anti-virus," says Mr Saunders, pointing out the vulnerability. "I don't think I've ever encountered a merchant ship Ecdis unit that had anti-virus on it."
+These incidents are hugely disruptive to maritime businesses, but truly catastrophic scenarios might involve a hacker attempting to sabotage or even destroy a ship itself, through targeted manipulation of its systems.
+Could that happen? Could, for example, a determined and well-resourced attacker alter a vessel's systems to provoke a collision?
+"It's perfectly feasible," says Mr Saunders. "We've demonstrated proof-of-concept that that could happen."
+And the experts are finding new ways into ships' systems remotely. One independent cyber-security researcher, who goes by the pseudonym of x0rz, recently used an app called Ship Tracker to find open satellite communication systems, VSat, on board vessels.
+In x0rz's case, the VSat on an actual ship in South American waters had default credentials - the username "admin" and password "1234" - and so was easy to access.
+It would be possible, x0rz believes, to change the software on the VSat to manipulate it.
+A targeted attack could even alter the co-ordinates broadcast by the system, potentially allowing someone to spoof the position of the ship - although shipping industry experts have pointed out in the past that a spoofed location would likely be quickly spotted by maritime observers.
+The manufacturer behind the VSat unit in question has blamed the customer in this case for not updating the default security credentials. The unit has since been secured.
+It's obvious that the shipping industry, like many others, has a lot of work to do on such issues. But awareness is growing.
+The Baltic and International Maritime Council (BIMCO) and the International Maritime Organisation (IMO) have both recently launched guidelines designed to help ship owners protect themselves from hackers.
+Patrick Rossi points out that crew with a poor understanding of the risks they take with USB sticks or personal devices should be made aware of how malware can spread between computers.
+This is all the more important because the personnel on board vessels can change frequently, as members go on leave or are reassigned.
+But there are more than 51,000 commercial ships in the world. Together, they carry the vast majority - 90% - of the world's trade. Maersk has already experienced significant disruption thanks to a piece of particularly virulent malware.
+The question many will be asking in the wake of this and other cases now being made public is: What might happen next?

@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170316005446/http://www.bbc.co.uk/news/technology-39278637
+
+[SN]TITLE[SN]
+Millions of US employee records 'leaked'
+
+[SN]FIRST-SENTENCE[SN]
+Details of more than 33 million US employees - including military staff - have been released online, according to a security researcher.
+
+[SN]RESTBODY[SN]
+The database is reported to contain information on 100,000 US Department of Defense employees, among others.
+Troy Hunt, who published news of the leak, said the information had "enormous" potential for scammers.
+Business services firm Dun & Bradstreet confirmed to tech news site ZDNet that it owns the data.
+Information on government departments and private sector employees is commonly collated by business services that sell the data to other companies, such as marketing firms.
+In this case, the records - including names, job titles and contact details - were originally compiled by NetProspex, which was acquired by Dun & Bradstreet in 2015.
+Organisations with employees mentioned in the data include the US Postal Service, telecoms giant AT&T and the retailer Walmart.
+Mr Hunt pointed out that people might try to use the names and email addresses in the database to scam or retrieve sensitive information from recipients - a practice known as spear phishing.
+"The value for very targeted spear phishing is enormous because you can carefully craft messages that refer to specific individuals of influence and their roles within the organisation," he wrote on his blog.
+Dun & Bradstreet told ZDNet: "Based on our analysis, it was not accessed or exposed through a Dun & Bradstreet system."
+The leak is the latest in a long string of personal data caches dumped online.
+In January, personal information of health workers in the US Army was found online by another security professional.

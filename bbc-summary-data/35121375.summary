@@ -1,0 +1,67 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160104190443/http://www.bbc.com/news/technology-35121375
+
+[SN]TITLE[SN]
+How to have yourself a merry cyber-safe Christmas
+
+[SN]FIRST-SENTENCE[SN]
+In 2000, Scott Culp wrote a terrific essay on computer security.
+
+[SN]RESTBODY[SN]
+It was entitled the 10 Immutable Laws Of Security.
+Fifteen years is a long time in cybersecurity, so it seemed like a good time to revisit these "laws" and put them in the a context you might encounter this Christmas - a time when there's often a spike in attacks.
+Observing them could prevent a festive season you'd rather forget.
+Most hacks begin this way - you receive an email, or SMS, you visit a link and are given a convincing reason why you have to install something.
+Or, you receive an email with a document attached, open it and it installs the malware for you.
+Think twice, click once.
+If something is unexpected don't trust it: delete it.
+Be careful where you buy that Christmas present from or you may get more than you bargained.
+Even reputable manufacturers have been found to install elements into an operating system that cause major security headaches.
+If at all possible, buy devices that give you the necessary data - original keys and software - to reinstall the operating system.
+A fresh install is the only way you can be certain of what you're getting.
+It's a pain but it's worth it.
+Most people are completely unaware of how vulnerable their machines are to uploading malicious software simply by allowing someone to plug in a USB stick.
+Even if your computer is powered off, a hacker might be able to boot off a USB stick and install malware or add hidden elements.
+Unless you want to superglue shut all of the physical connections on your device - not recommended - just do not give anyone "alone time" with you precious machine.
+And, if at all possible, encrypt your hard drive so it is more secure when powered off.
+With over a billion active websites in the world, hackers don't just target individuals' machines.
+They can upload code in unexpected ways.
+We have seen major brands breached as they didn't prevent hackers injecting code into web forms. We have seen malware being passed onto visitors via embedded adverts.
+Website developers typically don't think like hackers. They design their sites to be helpful and friendly.
+You need professional cynics who will advise on how hackers can abuse such features.
+Nothing destroys a brand faster than a website that visitors think cannot be trusted.
+Passwords are a terrible way of securing systems, but sadly they are here for a while longer.
+You need to practice good password hygiene: use complex passwords, don't share passwords - between people or systems - and don't write them on white boards or post-it notes, especially if a film crew is in the office.
+Most people know how to deal with passwords but we're all lazy and take shortcuts.
+Don't learn the hard way that this is not a good idea.
+The "insider threat" is a growing problem.
+Remember that if you give someone privileges on your systems, you are giving them the keys to the crown jewels.
+Plus don't assume that simply because someone works in technology that they are not subject to human frailties.
+They can be scammed out of logon credentials just the same as mere mortals, and unless your systems are configured to prevent it, those credentials could enable a hacker to walk away with data.
+Make sure valuable data needs more than a simple username and password for access.
+Some major data breaches have happened this way.
+Encryption can be a great tool to prevent criminals getting at data if a machine is stolen.
+But, as computers increase in power, decryption becomes simpler unless you have a key that is long enough.
+Look for encryption that is known to be strong - for example the Advanced Encryption Standard (AES) - and has keys that are considered "long".
+Also, most encrypted devices have some means of recovering data if, as we all do, we forget our passwords, or something similar.
+If you've ever encrypted a disk you'll probably find you were asked to make a recovery key using a USB stick or even to print out some long sequence of letters and numbers.
+If you store this recovery information with the protected device it's hardly worth the effort of encrypting it in the first place.
+Lock your recovery keys away somewhere safe and don't carry it with you.
+Malicious software is being adapted at an increasing rate.
+Hundreds of thousands of new variants appear each year in addition to completely new strains.
+The set of malware that your virus checker knew about when you first installed it is out of date very quickly.
+Hackers do still try to use older versions of malware but they know many of us fail to keep our systems up to date, so they tweak the malware in the hope that the virus checker will miss it.
+Update your virus checker as regularly as you possibly can, and do the same for your operating system.
+If you tend to turn on your machine infrequently then do your updates before you start checking those emails or visiting your banks website.
+Not everyone who wishes to browse the web anonymously is doing so for illegal reasons.
+But be aware that many technologies out there that can provide anonymity need to be used correctly otherwise you can be tracked.
+And remember that being tracked is becoming the norm online.
+If you're not a paying customer you are probably the product, as marketers track you to more accurately target you.
+Try using a browser that has "private mode "or "do not track".  It doesn't always work but it may lessen the degree to which you are monitored.
+Don't assume that just because your machine is using the latest versions of everything, and you have the full array of security software installed, that you are fireproof.
+The weakest link in any security chain is us: humans. We fall for scams, we do silly things and we suffer from security fatigue very quickly.
+Worst of all we assume it won't happen to us - until it does.
+Phones, tablets or wearables are all essentially small computers, and the laws written back in 2000 apply to these devices as much as they ever did to the computers of 15 years ago. In fact, there is a real danger that we are forgetting the lessons of the last 15 years as hackers hope to catch us off guard.
+These rules have proven to be fundamental in nature, so keep them in mind no matter what form your "smart" technology takes.
+And if in doubt ask someone who knows.
+That way you can avoid the hackers having a Merry Christmas.

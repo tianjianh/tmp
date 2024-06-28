@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222204705/http://www.bbc.co.uk/news/technology-14841018
+
+[SN]TITLE[SN]
+Supercomputer predicts revolution
+
+[SN]FIRST-SENTENCE[SN]
+Feeding a supercomputer with news stories could help predict major world events, according to US research.
+
+[SN]RESTBODY[SN]
+A study, based on millions of articles, charted deteriorating national sentiment ahead of the recent revolutions in Libya and Egypt.
+While the analysis was carried out retrospectively, scientists say the same processes could be used to anticipate upcoming conflict.
+The system also picked up early clues about Osama Bin Laden's location.
+Kalev Leetaru, from the University of Illinois' Institute for Computing in the Humanities, Arts and Social Science, presented his findings in the journal First Monday.
+The study's information was taken from a range of sources including the US government-run Open Source Centre and BBC Monitoring, both of which monitor local media output around the world.
+News outlets which published online versions were also analysed, as was the New York Times' archive, going back to 1945.
+In total, Mr Leetaru gathered more than 100 million articles.
+Reports were analysed for two main types of information: mood - whether the article represented good news or bad news, and location - where events were happening and the location of other participants in the story.
+Mood detection, or "automated sentiment mining" searched for words such as "terrible", "horrific" or "nice".
+Location, or "geocoding" took mentions of specific places, such as "Cairo" and converted them in to coordinates that could be plotted on a map.
+Analysis of story elements was used to create an interconnected web of 100 trillion relationships.
+Data was fed into an SGI Altix supercomputer, known as Nautilus, based at the University of Tennessee.
+The machine's 1024 Intel Nehalem cores have a total processing power of 8.2 teraflops (trillion floating point operations per second).
+Based on specific queries, Nautilus generated graphs for different countries which experienced the "Arab Spring".
+In each case, the aggregated results of thousands of news stories showed a notable dip in sentiment ahead of time  - both inside the country, and as reported from outside.
+For Egypt, the tone of media coverage in the month before President Hosni Mubarak's resignation had fallen to a low only seen twice before in the preceding 30 years.
+Previous dips coincided with the 1991 US aerial bombardment of Iraqi troops in Kuwait and the 2003 US invasion of Iraq.
+Mr Leetaru said that his system appeared to generate better intelligence than the US government was working with at the time.
+"The mere fact that the US President stood in support of Mubarak suggests very strongly that that even the highest level analysis suggested that Mubarak was going to stay there," he told BBC News.
+"That is likely because you have these area experts who have been studying Egypt for 30 years, and in 30 years nothing has happened to Mubarak.
+The Egypt graph, said Mr Leetaru, suggested that something unprecedented was happening this time.
+"If you look at this tonal curve it would tell you the world is darkening so fast and so strongly against him that it doesn't seem possible he could survive."
+Similar drops were seen ahead of the revolution in Libya and the Balkans conflicts of the 1990s.
+Saudi Arabia, which has thus far resisted a popular uprising, had experienced fluctuations, but not to the same extent as some other states where leaders were eventually overthrown.
+In his report, Mr Leetaru suggests that analysis of global media reports about Osama Bin Laden would have yielded important clues about his location.
+While many believed the al-Qaeda leader to be hiding in Afghanistan, geographic information extracted from media reports consistently identified him with Northern Pakistan.
+Only one report mentioned the town of Abbottabad prior to Bin Laden's discovery by US forces in April 2011.
+However, the geo-analysis narrowed him down to within 200km, said Mr Leetaru.
+The computer event analysis model appears to give forewarning of major events, based on deteriorating sentiment.
+However, in the case of this study, its analysis is applied to things that have already happened.
+According to Kalev Leetaru, such a system could easily be adapted to work in real time, giving an element of foresight.
+"That's the next stage," said Mr Leetaru, who is already working on developing the technology.
+"It looks like a stock ticker in many regards and you know what direction it has been heading the last few minutes and you want to know where it is heading in the next few.
+"It is very similar to what economic forecasting algorithms do."
+Mr Leetaru said he also hoped to improve the resolution of analysis, especially in relation to geographic location.
+"The next iteration is going to city level and beyond and looking at individual groups and how they interact.
+"I liken it to weather forecasting. It's never perfect, but we do better than random guessing."

@@ -1,0 +1,17 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170206105531/http://www.bbc.co.uk/news/technology-37821862
+
+[SN]TITLE[SN]
+Teen hacker 'accidentally' causes 911 attack
+
+[SN]FIRST-SENTENCE[SN]
+An 18-year-old has been charged with three counts of computer tampering after "accidentally" swamping Arizona's emergency services with thousands of bogus 911 telephone calls.
+
+[SN]RESTBODY[SN]
+Meetkumar Hiteshbhai Desai told police he had tried to share on Twitter a link to JavaScript code that exposed iOS bugs making phones freeze or restart.
+He had hoped Apple would pay him a bug bounty for information about the flaws, but had mistakenly linked to an earlier version of his app that had made users' phones keep on dialling 911.
+In a statement, Maricopa County sheriff's office said the link had been clicked almost 2,000 times, threatening emergency services across Arizona.
+Because the 911 service is classed as critical infrastructure, interfering with its operation is treated, in Arizona, with the same severity as human trafficking or second-degree murder.
+Talking to police after his arrest, Mr Desai said the bug he had been planning to exploit had been sent to him by an online friend. Using it, he intended exploiting it to make a benign but annoying app that people would find "funny".
+Writing on the Ars Technica news site, Dan Goodin said the incident contained a valuable lesson for anyone getting started in security research.
+"Hacking devices or networks without the explicit permission and cooperation of their owners is dangerous and can result in significant legal penalties," he said.

@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151128115448/http://www.bbc.co.uk/news/technology-30143283
+
+[SN]TITLE[SN]
+'Sophisticated' Android malware hits phones
+
+[SN]FIRST-SENTENCE[SN]
+Hundreds of thousands of Android phones have been infected with malware that uses handsets to send spam and buy event tickets in bulk.
+
+[SN]RESTBODY[SN]
+Mobile security firm Lookout said the virus, called NotCompatible, was the most sophisticated it had seen.
+The cyberthieves behind it had recently rewritten its core code to make it harder to defeat, it said.
+Mobile malware aimed at smartphones is steadily getting more complex, said security company Wandera.
+Jeremy Linden, a security analyst at Lookout, said: "The group behind NotCompatible are operating on a different plane to the typical mobile malware maker."
+Usually, he said, mobile malware campaigns lasted only a couple of weeks but the NotCompatible creators had been operating for more than two years.
+The bug first appeared in 2012 and was now on its third iteration, he said, adding that the latest version had been rewritten recently and was now as sophisticated as the malware aimed at desktop computers.
+"They are successful enough to make it worth ripping out the back end of the malware to make it be much more stable and resistant to efforts to take it down," he said.
+This latest version employed end-to-end encryption, peer-to-peer networking technologies and stealthy operating procedures to help it avoid being spotted and removed, he said.
+Phones infected with NotCompatible were enrolled into a network that is now being rented out to any crime group that needs a ready source of Android users.
+Mr Linden said compromised phones had been used in a variety of scams including sending spam, attacking Wordpress blogs and buying tickets for popular events in bulk that would then be resold at a significant profit.
+"This is the most technically sophisticated threat we are facing and it's the most worrying to us," said Mr Linden.
+NotCompatible is being spread via spam and websites seeded with booby-trapped downloads, he said and urged Android users to be wary of any app that required a security update to be installed before it was run.
+Mobile malware was growing in popularity among cybercrime groups because smartphones were now so central to modern life, said Eldar Tuvey from mobile security monitoring firm Wandera
+"We're definitely seeing the bad guys focus their attention on mobiles," he said. "That's because more time is now spent on apps on phones than desktops."
+While Android had long been a target of malware makers, the appearance of the Wirelurker and Masque malware families that both targeted Apple gadgets showed the growing confidence of cybercriminals, he said.
+They were keen to get a foothold on a phone so they could harvest useful data that they could sell or use to make phishing emails look more plausible, or to lever open accounts for social networks or other web-based services.
+With 70% of people reusing passwords across many different sites and services, it was no surprise that criminals regularly got access to these accounts, he said.
+Many were aided by "leaky" apps that passed around log-in names, email addresses and other credentials in unencrypted text, said Mr Tuvey.
+"The trend is only moving in one direction," he said. "The criminals are sharing information between themselves and they are learning about how to improve the efficiency of their attacks."

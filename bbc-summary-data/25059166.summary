@@ -1,0 +1,55 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150402143037/http://www.bbc.co.uk/news/business-25059166
+
+[SN]TITLE[SN]
+How tracking technology can better fill hospital beds
+
+[SN]FIRST-SENTENCE[SN]
+It's a shocking occurrence every time: a patient, desperately in need of a hospital bed, dies on a trolley before an empty bed can be found.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+How do game companies share massive files?
+Why IT failures are unlikely to go away
+How big data is changing insurance
+Hello, is that really you?
+The adverts that talk back
+In an era of smartphones and even smarter technologies, hospitals - even those in the US and the UK - can seem like relics of an earlier time.
+Paper charts vie with antiquated professions like bed watchers - people whose job is to simply walk around and check that a bed is empty.
+And then there's the basic task of actually tracking patients.
+Some hospitals "just don't know where patients are", says Dr Nathan Proudlove, a senior lecturer in Operational Research at Manchester Business School, citing the case of a patient found dead in the stairwell of a California hospital
+"It's a really chaotic and unsafe system."
+That's why new tracking technologies and better data processing algorithms are looking to change all this: to both better track patients and to better match those patients with hospital beds.
+In the process, these programmes look to bring antiquated hospital operations finally, firmly, into the 21st Century.
+Mount Sinai hospital in New York's Upper East Side is one of the busiest hospitals in the US.
+With over 1,000 beds, it serves more than 59,000 in-patients a year - and would ideally serve more, if it could.
+But, as with most things in Manhattan, the hospital has run up against the issue of space.
+"They can't grow taller, they can't grow wider, so how do they get more patients through? The only way for them to continue to serve more patients is to become more efficient," says Jeff Terry from General Electric.
+Mr Terry is part of a GE Healthcare team that worked with Mount Sinai on a pilot programme called AutoBed, which sought to solve this problem by better managing Mount Sinai's beds.
+"In a typical hospital room - if you put a male in bed, you need to put a male in a second bed, and it eventually becomes a game of Tetris," says Dave Toledano, who co-wrote GE's paper on bed matching.
+And it's a game of Tetris that runs up against human limitations. A nurse might be able to match one patient to one bed relatively well. But in a place like Mount Sinai, where occupancy is upwards of 90%, figuring out how to match every patient to the appropriate bed while maximising overall hospital capacity is a task beyond any human brain.
+That's where "industrial big data" comes in: AutoBed is an algorithm that uses the admitting nurse's "triage" recommendation (in the form of the electronic medical records, which includes data on gender) and the real time data of which hospital beds are available (using real-time location awareness devices like radio-frequency identification tags, infrared, and computer vision) to figure out the best possible match.
+Say you show up at the hospital with appendicitis.
+The admitting nurse would enter your information into an electronic medical record form - not manufactured by GE, but perhaps by NaviCare. This would include information about your gender and your "triage" - how urgent your case is.
+A bed request is then triggered. AgileTrac, another GE technology that uses data from CenTrak's sensors - things like radio frequency tags and wi-fi - looks around and figures out which beds are available.
+Then, AutoBed comes in.
+It's a complicated algorithm that looks at all current pending bed requests, all available beds, and other information - like how far a doctor might need to walk to see a patient - to find the best fit.
+It takes around five to eight seconds to come up with a list of possible matches, which work for 90% of patients. The nurse then selects the best match and off you go. Goodbye, appendix.
+It can process 80 bed requests, monitor up to 1,200 beds, and account for 15 different "attributes", such as a patient's need to be placed in a room near a nursing stand.
+After a six-week trial, in which three separate algorithms were piloted, the programme was found to decrease wait times by one hour for more than 50% of incoming emergency room patients.
+"Typically, before it used to take seven phone calls to place a patient - now it takes one," says Mr Toledano.
+In a place like Mount Sinai, that means the hospital could admit thousands more patients a year - and potentially save millions of dollars.
+However, not all medical professionals are convinced that better data processing technology will solve the problem of bed matching and patient monitoring entirely.
+"Programmes that promote transparency can be beneficial. But they still don't solve a lot of the human inefficiency problems that cause delays," says Dr Jesse Pines, the director of the Office of Clinical Practice Innovation at George Washington University's medical school.
+Those inefficiencies include regulations surrounding patient privacy, and in the US, the complicated bureaucratic web of private health insurance.
+Furthermore, Dr Pines cautions that the technology might be expensive - not just to purchase, but to pay to train staff and to maintain upgrades over the long term.
+"In the future, it's not just about the technology but it's having the right person manage it," he says.
+Although the Mount Sinai pilot programme officially concluded in the spring, GE says it plans to introduce AutoBed as a commercial product in 2014.
+Already, GE faces competition from NaviCare and others looking to better process hospital data.
+The idea is to use industrial big data algorithms to help with issues beyond beds.
+In London, GE is working with hospital trusts to better plan ahead for this winter using a similar algorithm to AutoBed, looking at how increasing the hours of early pregnancy units could increase capacity and save money.
+Dr Proudlove says that NHS hospitals could also benefit from tracking technologies like healthcare manufacturer CenTrak's radio frequency identification (RFID) tags. They use radio frequencies to measure distances. Using a infrared monitor, hospitals can then track the location of staff and patients, and to monitor equipment - like beds.
+"The RFID tags are something we've been talking about in the health service for ages," says Dr Proudlove.
+"It's using real time locations so you know where the patients are and it's harder to lose them."
+The hope is that in the future, these types of technologies can also help hospitals predict issues - like bed logjams or staffing shortages - a few days in advance.
+"You roll the clock forward 10 years, and the idea is every hospital is using simulation and prediction - which is common in many industries but not common in healthcare," says Mr Terry.

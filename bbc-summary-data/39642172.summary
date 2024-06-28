@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170421022133/http://www.bbc.co.uk/news/technology-39642172
+
+[SN]TITLE[SN]
+Holiday Inn hotels hit by card payment system hack
+
+[SN]FIRST-SENTENCE[SN]
+The owner of the Holiday Inn and Crowne Plaza hotel brands has disclosed that payment card-stealing malware has struck about 1,200 of its franchisees' properties.
+
+[SN]RESTBODY[SN]
+UK-based Intercontinental Hotels Group (IHG) said all but one of the locations affected were in the US, with the other being in Puerto Rico.
+Guests have been warned they could have had money stolen as a consequence.
+One expert said there might be further hotels affected.
+Buckinghamshire-based IHG had previously reported in February that a dozen US hotels that it managed itself had been affected by the same attack.
+"Individuals should closely monitor their payment card account statements," a spokeswoman told the BBC following the latest discovery.
+"If there are unauthorised charges, individuals should immediately notify their bank.
+"Payment card network rules generally state that cardholders are not responsible for such charges."
+Other affected brands include Hotel Indigo and Candlewood Suites.
+IHG said an investigation had detected signs the malware had been active at front-desk payment locations at the hotels between 29 September and 29 December 2016.
+However, it only has confirmation that the threat was definitely eradicated last month.
+The attack hijacked information taken from the payment cards' magnetic strips as it was being routed through the hotels' computer servers, said the hotel group.
+This could include the card number, expiration date and verification code.
+IHG does not believe other guest information was stolen.
+It has published a tool for visitors to check if hotels they stayed at are among those affected.
+The firm notes that other franchisees that had adopted an encryption-based security measure would not have been affected.
+But one cybersecurity expert said that the list might not be comprehensive.
+"IHG has been offering its franchised properties a free examination by an outside computer forensic team," wrote Brian Krebs.
+"But not all property owners have been anxious to take the company up on that offer.
+"As a consequence, there may be more breached hotel locations yet to be added to the state look-up tool."
+Other hotel chains to have been struck by payment system hacks in recent years include Hyatt, Mandarin Oriental and Trump Hotels.
+The US has been slower to switch to a chip-and-pin system than many other countries, which makes it more difficult to carry out such attacks.

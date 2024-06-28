@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170404201916/http://www.bbc.com/news/technology-39494785
+
+[SN]TITLE[SN]
+Apple Mac Pro design was a bad bet, admits firm
+
+[SN]FIRST-SENTENCE[SN]
+Apple has acknowledged that the design of its standalone desktop computer, the Mac Pro, restricted its ability to update the model.
+
+[SN]RESTBODY[SN]
+The firm has announced a limited refresh of the machine, the first time it has upgraded its innards since 2013.
+But it said it would not be able to release a "new model" until an unspecified point after 2017.
+The tech firm had faced criticism that it was not addressing the needs of its professional users.
+It released a new line-up of MacBook-Pro-branded laptops in October, but was attacked for not including more powerful graphics cards in them and for removing several of the ports found in earlier models.
+One expert said the latest announcement would reassure graphic designers, video editors, scientists and other power users that Apple was not abandoning them to focus on iPads and iPhones, which outsell the Macs.
+Apple's engineering chiefs told a small group of journalists - which did not include the BBC - that the company had been constrained as a consequence of how it had expected graphics chip technology to develop.
+The firm had believed it would become more common to use multiple graphics processing units (GPUs) to carry out complex tasks. The Mac Pro was designed to use two in parallel.
+Instead, component-makers have focused on designing parts that maximise the output of a single GPU and give out more heat as a result.
+This caused problems for the trash-can-like design of the machine. It did away with the multiple heat sinks and fans found in earlier Mac Pros, and instead used a single triangular piece of aluminium to conduct heat away from its processors, helping it to run more quietly as a result.
+"The way the system is architected, it just doesn't lend itself to significant reconfiguration for somebody who might want a different combination of GPUs," Techcrunch quoted Apple's hardware chief John Ternus as saying.
+"We realised we had to take a step back and completely re-architect what we're doing and build something that enables us to do these quick, regular updates and keep it current and keep it state of the art, and also allow a little more in terms of adaptability to the different needs of the different pro customers."
+The firm's software engineering chief Craig Federighi added: "I think we designed ourselves into a bit of a thermal corner... being able to put larger single GPUs required a different system architecture and more thermal capacity than that system was designed to accommodate."
+The refreshed models add more powerful CPU (central processing units) and dual-GPUs than before. But otherwise little has changed, including a lack of USB-C or Thunderbolt 3 ports common to Apple's other high-end systems, which offer data speed benefits.
+"I think it was simply untenable for Apple to continue to remain silent on the Mac Pro front," commented the tech blogger John Gruber, who was also invited to the meeting.
+"No matter how disappointing you consider today's speed bump updates to the line-up, they're certainly better than no updates at all.
+"[But] if they had released these speed bumps without any comment about the future of the Mac Pro, people would have reasonably concluded that Apple had lost its... mind."
+This is the second time in a week that Apple has been in the news because of GPUs.
+On Tuesday, Imagination Technologies - the British designer of GPUs for its smartphones and tablets - revealed that Apple planned to go it alone and design its GPUs in-house.
+In basic terms, a CPU calculates single sets of instructions more quickly (or two sets of instructions simultaneously if a dual-core chip is involved), while GPUs specialise in carrying out many calculations at the same time.
+This makes GPUs better suited for "parallelisable" tasks - jobs that can be broken down into several parts and run simultaneously because the outcome of any one calculation does not determine the input of another.
+As the name suggests, powering graphics is one example, but others include speech recognition and pattern matching.
+Apple released the last version of its top-end desktop computer way back on 19 December 2013, but opted not to update it at its latest event.
+The "trash can" was targeted at video editors, 3D graphics artists, engineers and other professionals who wanted a powerful workstation.
+But three years is a very long time to go without a refresh, and a lot has happened in both tech and beyond in the interim.
+To give an idea of how long it's been, all the events below have occurred since the computer went on sale:

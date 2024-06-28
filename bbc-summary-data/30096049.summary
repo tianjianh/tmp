@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150904001527/http://www.bbc.co.uk/news/technology-30096049
+
+[SN]TITLE[SN]
+Chinese authorities arrest three over iOS malware
+
+[SN]FIRST-SENTENCE[SN]
+Three people have been arrested in China on suspicion of spreading malware that targeted Apple's operating system, Chinese officials have announced.
+
+[SN]RESTBODY[SN]
+The Beijing Bureau of public security announced the arrest of suspects charged with spreading the WireLurker malware.
+The bug was one of the first pieces of malware to penetrate iPhone's strict software controls.
+It mainly infected devices in China.
+The suspects - named only as Chen, Lee and Wang - were arrested in the Beijing area,  according to the statement posted on Chinese social network Sina Weibo.
+The Chinese authorities also shut down the site that had been spreading the malware.
+The malware was installed via software downloaded to Mac desktops from the Maiyadi app store.
+It was then able to attack iOS devices connected to an infected Mac via a USB cable.
+If a handset was jailbroken - a process used by some to remove Apple's restrictions - WireLurker backed up the device's apps to the Mac, where it repackaged them with malware, and then installed the infected versions back on to the iOS machine.
+But, according to security experts, the malware was also able to infect non-jailbroken iOS devices.
+It did so by taking advantage of a technique created by Apple to allow businesses to install special software on their staff's handsets and tablets.
+This process has since been changed by Apple.
+By the time WireLurker had been discovered, infected Mac apps had already been downloaded more than 300,000 times.
+Apple took steps to block the infected apps and reminded users not to install software from third-party app stores.
+A Windows version of the malware was also found.

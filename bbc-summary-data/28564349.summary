@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150923195044/http://www.bbc.co.uk/news/technology-28564349
+
+[SN]TITLE[SN]
+Robot 'learns to keep going with broken leg'
+
+[SN]FIRST-SENTENCE[SN]
+Engineers have taken a step towards having machines that can operate when damaged by developing a robot that can teach itself to walk, even with a broken leg.
+
+[SN]RESTBODY[SN]
+Using "intelligent trial and error", their six-legged robot learned how to walk again in less than 2 minutes.
+"This new technique will enable more robust, effective, autonomous robots," the engineers behind the robot said.
+They said the aim was to mimic the behaviour of injured animals.
+The trial-and-error methodology could have ramifications for robots used in the workplace and for military purposes. A robot that can keep attacking - no matter how damaged - brings to mind the relentless android from the Terminator films.
+According to one expert, adaptive robotics is the cutting edge of the field. Most robots currently sit in factories and perform very specific functions. Scientists want to get robots to understand new and changing situations.
+"The real challenge we are pursuing in robotics is robots that can adapt to uncertain and unstructured environments," Dr Fumiya Iida, of the Machine Intelligence Laboratory at the University of Cambridge, told the BBC.
+The scientists - Antoine Cully and and Jean-Baptiste Mouret of the Sorbonne in Paris and Jeff Clune of the University of Wyoming - published a research paper on their robot on Arxiv, a platform to release early versions of academic research that is overseen by Cornell University's library.
+"When animals lose a limb, they learn to hobble remarkably quickly," Arxiv said in a blog post on the research. "And yet when robots damage a leg, they become completely incapacitated."
+The scientists' robot has solved this by trying to mimic animals - by discovering which leg is broken and then then using trial and error to figure out the best way to continue walking.
+"Locomotion is a major challenge," Dr Iida said. "It's an issue of energy efficiency. Robots are unusually very inefficient compared to animals."
+Other companies are also trying to mimic animals, such as Boston Dynamics, which is now owned by Google. It makes a variety of robots, including the internet sensation Big Dog, which can attain locomotion on a variety of different and difficult terrains.
+Big Dog was funded by the US Defense Advanced Research Projects Agency (Darpa) and Boston Dynamics contracts for the US military - which is an area where the trial-and-error algorithms could be applied, especially to machines injured in warfare.
+But Dr Iida said that military use was only one aspect of better adaptive robots.
+"There are lots of applications beyond the military," he said. "You can think of robots in extreme environments, so not only in warfare, but in space such as robots on the Moon and Mars, and in nuclear power plants. Think of Fukushima, for example, where humans can't go."
+While these engineers are focused on self-learning robots, others are developing robots and materials that can "heal themselves" when they are damaged.
+BAE Systems said recently that in the future, it could build drones that contained a lightweight fluid that would allow jets to heal themselves from damage sustained in flight, as well as on-board 3D printers that can make new parts, while a  new plastic that can fix itself has been developed by engineers at the University of Illinois.

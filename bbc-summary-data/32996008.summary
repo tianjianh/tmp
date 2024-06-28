@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150610212154/http://www.bbc.co.uk/news/technology-32996008
+
+[SN]TITLE[SN]
+Russian hacker drives hard bargain with Troldash scam
+
+[SN]FIRST-SENTENCE[SN]
+A security software firm has warned about a new strain of "ransomware" - while finding that even Russian hackers can be haggled down.
+
+[SN]RESTBODY[SN]
+Ransomware is software which locks you out of your files until a fee is paid to the criminals behind the attack.
+Checkpoint researcher Natalia Kolesova detailed information about Troldash, a newly-discovered strain.
+Once it infects a machine, Troldash provides an email address with which to contact the attackers.
+"While the most ransom-trojan attackers try to hide themselves and avoid any direct contact," Ms Kolesova explained, "Troldesh's creators provide their victims with an e-mail address. The attackers use this email correspondence to demand a ransom and dictate a payment method."
+Troldash was distributed via a spam email - and once downloaded, immediately set to work encrypting files before placing a text file of ransom instructions on the target's computer.
+Posing as a victim named Olga, the researcher contacted the scam artist, and received a reply with instructions to pay 250 euros to get the files back.
+Suspecting the reply was automated, Ms Kolesova pressed for a more human response, asking more details about how to transfer the money, and pleading with the hacker to not make them pay.
+Responding in Russian, the scammer offered to accept 12,000 roubles, a discount of around 15%. After Ms Kolesova pleaded further, the email response read: "The best I can do is bargain."
+Eventually the unknown man or woman was talked into accepting 7,000 roubles - 50% less than the first demand.
+"Perhaps if I had continued bargaining, I could have gotten an even bigger discount," Ms Kolesova concluded.
+Ransomware is a particularly vicious problem for many victims around the world. One strain, Cryptolocker, was said to have infected more than 250,000 computers worldwide.
+Another variant locked users out of their favourite games unless they paid a fee.
+The company did not pay the ransom - and recommended that up-to-date security software designed to protect against ransomware and other attacks was a better approach.
+Follow Dave Lee on Twitter @DaveLeeBBC

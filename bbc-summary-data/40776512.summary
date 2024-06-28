@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170801010644/http://www.bbc.co.uk/news/40776512
+
+[SN]TITLE[SN]
+Kids' discount site 'exposed client data'
+
+[SN]FIRST-SENTENCE[SN]
+A father who found a security flaw on a family discounts website says he was blocked on Twitter when he contacted the firm about the problem.
+
+[SN]RESTBODY[SN]
+Alex Haines found an apparent method to view the personal data of other users - including email addresses and phone numbers - during the sign-up process for Kids Pass.
+Kids Pass offers its 1.4 million members discounts at attractions such as theme parks.
+It said the issue had now been fixed.
+The UK's data watchdog has said it is looking into the matter.
+"I was down in Devon holidaying for the weekend with my family but because of bad weather we needed something to do so we signed up to Kids Pass," explained Mr Haines.
+While doing so, he noticed that a simple tweak of the web address appeared to recall data belonging to another customer within the validation form.
+He believes the data would have come from another customer who had not yet completed the account activation process.
+Mr Haines - who runs an IT business but who is not himself a security expert - then contacted cyber-security researcher Troy Hunt.
+Mr Hunt told him not to try to access any more data, but to let Kids Pass know what he had found.
+However, Mr Haines was then blocked by the Kids Pass Twitter account and he did not receive a response.
+Upon trying to contact them himself, Mr Hunt was also blocked.
+"We'd just pointed out that there was an issue we needed to talk about," said Mr Haines. "I was surprised, shocked."
+A spokeswoman for Kids Pass explained that the pair had been blocked by the firm's out of hours social media monitoring team, but were unblocked about 10 hours later.
+She also said Kids Pass did not believe any customer data had been compromised, and confirmed that the issue had since been "addressed and resolved" by the Kids Pass IT team.
+"As a result of this we have decided to introduce a vulnerability policy similar to the ones operated by Tesla, Facebook etc," she added.
+"This is so we can benefit from the expertise of security researchers, whose feedback we value greatly."
+A spokeswoman for the Information Commissioner's Office (ICO) told the BBC that all organisations had a duty to keep people's personal details safe.
+"We will be looking into the details of concerns raised about the Kids Pass website," she said.

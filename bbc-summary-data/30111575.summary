@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170215130440/http://www.bbc.co.uk/news/technology-30111575
+
+[SN]TITLE[SN]
+Microsoft Azure faults knock websites offline
+
+[SN]FIRST-SENTENCE[SN]
+Faults with Microsoft's cloud computing platform have knocked many third-party sites offline, as well as disrupting the US firm's own products.
+
+[SN]RESTBODY[SN]
+Microsoft Azure's status page says problems began at 00:52 GMT across the globe. Its European operations are taking the longest to fix.
+Access to Microsoft's Office 365 online suite of apps and its Xbox Live gaming facility are among services affected.
+The faults could set back the company's efforts to sell Azure.
+Microsoft is attempting to make gains on the market leader, Amazon Web Services, as well as IBM,  Google and others offering rival products.
+Their pitch is that it is more efficient for companies to rent computing power from a large tech firm than owning and managing their own computer servers or going to a smaller provider.
+"Microsoft is investigating an issue affecting access to some Microsoft services," said Adrienne Hall, general manager at the company.
+"We are working to restore full access to these services as quickly as possible."
+At the time of writing, Microsoft's own site indicated that some customers were still experiencing problems with access to storage, the operation of their websites and access to analytics tools.
+Azure's biggest customers include Easyjet, Toyota, Tesco, eBay, Boeing and Apple.
+However, those forced offline by the current problem appear to be smaller businesses, such as SocialSafe, a Surrey-based firm that allows users to keep track of their social media activity.
+"It's hugely disruptive. There's obviously an adverse impact when your whole website goes down - that's where people expect to download and access our service," SocialSafe's founder Julian Ranger told the BBC.
+"We switched to Azure because the previous provider did occasionally have outages and obviously you want your site and the supporting software, which is hosted on servers behind it, to always be operating.
+"The point about Azure was that they guarantee that your site will always be up because there are multiple places, effectively, where your software can run. If there's one problem, it should happily switch to run elsewhere.
+"And that's just not happening today - we're completely out."
+Viva Zorggroep, a Dutch healthcare organisation with 4,000 employees, said it had also been affected as a consequence of adopting Microsoft's online apps.
+"At this time, our supporting departments such as finance, HR, education, IT et cetera are working with Office 365," said Dave Thijssen, an IT manager at the company.
+"This morning these servers were unresponsive, which means users were not able to log in to Office 365.
+"As a result they had no access to email, calendars, or - most importantly - their documents and Office Online applications.
+"We also had trouble reporting the outage to our users as most of digital communication - email, Lync, intranet/Sharepoint - was out.
+"I know these issues are taken very seriously by Microsoft but this is yet another blow to our SLA [service-level agreement] and it's very bad for PR.
+"People in our organisation are signalling that the cloud may not be mature enough to migrate an enterprise to."
+The problems began hours after Microsoft had screened an Azure advert in the UK during the Scotland v England football match shown on ITV.
+"It's really unfortunate timing for Microsoft that this has happened at a time it is pushing and marketing Azure so obviously," said Chris Green, principal technology analyst at the Davies Murphy Group.
+"But it is not the only cloud provider that has suffered this sort of outage.
+"Most of the other high-profile people, including the likes of Amazon, have had substantial outages that have taken down everything from public-sector services to major corporate operations.
+"A lot of these cloud services are still in their infancy, and glitches like this are going to happen."

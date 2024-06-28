@@ -1,0 +1,53 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170628230233/http://www.bbc.com/news/technology-40428967
+
+[SN]TITLE[SN]
+Tax software blamed for cyber-attack spread
+
+[SN]FIRST-SENTENCE[SN]
+A global cyber-attack that affected companies around the world may have started via corrupted updates on a piece of accountancy software.
+
+[SN]RESTBODY[SN]
+Fingers are increasingly pointing to a piece of Ukrainian tax-filing software, MEDoc, as the source of the infection, although the company denies it.
+Malware generally infiltrates networks via email attachments that users click on in error.
+Microsoft described the method as "a recent dangerous trend".
+The cyber-attack has caused disruption around the world and infected companies in 64 countries, including banks in Ukraine, Russian oil giant Rosneft, British advertising company WPP and US law firm DLA Piper.
+Shipping giant Maersk said it was unable to process new orders and was expecting delays to consignments, while one of Europe's largest port operators in Rotterdam said that it had to use manual processes, and Dutch global parcel service TNT said it was operating with restrictions.
+A Cadbury's factory on the island state of Tasmania ground to a halt when computer systems went down, according to Australian Manufacturing and Workers Union state secretary John Short.
+Ukraine was hit hardest, suggesting the attack might be politically motivated.
+According to anti-virus vendor ESET, 80% of all infections were in Ukraine, with Germany second hardest hit with about 9%.
+A growing number of security experts, including the British malware expert Marcus Hutchins - credited with ending the WannaCry ransomware outbreak - claim to have logs that reveal MEDoc as the source.
+In email correspondence with the BBC, Mr Hutchins said: "It looks like the software's automatic update system was compromised and used to download and run malware rather than updates for the software."
+It was not yet clear how it had been compromised, he added.
+MEDoc has denied the claims, in a Facebook post - but in a blog post analysing how the infection had taken hold on Windows machines, Microsoft also points the finger at the accounting software.
+"Active infections of the ransomware initially started from the legitimate MEDoc update process," it writes.
+Alan Woodward, a computer scientist from the University of Surrey, said: The ironic thing about this situation (if it proves to be the case) is that we always advise users to keep their software up to date, ideally using automated updates.
+"However, it assumes hackers can't take over the update process and misuse it.
+"This process is normally a very tightly controlled process, so this is unusual.
+"I can imagine many vendors are now triple-checking to make sure they don't end up being an attack vector."
+He said that it showed "hackers will probe every possible channel" to find a route into systems.
+"As users there isn't a lot we can do as we are in the hands of the software vendors."
+As to how the infection spread beyond Ukraine, he added: "I wouldn't mind betting that a lot of these multinationals such as Maersk and Merck had this software installed."
+Mikko Hypponen, a security expert at F-Secure, has studied the recruitment pages of many of the companies affected and found that some did indeed use the MeDoc software.
+"If you do business in Ukraine, the software appears to be de facto," he said.
+There were other anomalies in the attack that pointed to it having been targeted, said Prof Woodward.
+"The software was sophisticated, but the attackers only provided one single email address and that was closed down very quickly so it is difficult not to conclude that this wasn't about money but targeted at Ukraine or those doing business with it," he said.
+A Kremlin spokesman said that the malware attack had caused no serious damage in Russia.
+"Protection systems have been quite effective both at state and corporate levels," said presidential spokesman Dmitry Peskov.
+He added that the origin of the attack remained unclear.
+Most security experts agree that the virus, thought to be a new variant of the Petya ransomware, was spread using a Windows vulnerability known as Eternal Blue, discovered by the National Security Agency and leaked online.
+Mr Hypponen told the BBC that it was "completely clear" that hackers in both WannaCry and Petya outbreaks had used the NSA exploit.
+The fact that it had now been leaked and was being used by criminal or political hackers was "a nightmare scenario" for the intelligence agency, he said.
+"It chose to use the exploit, not tell Microsoft about it and weaponise it, and now it has been leaked, made public and used in an attack," he said.
+The NSA has not publicly acknowledged that its tools have been used in any hacking attacks, but it has not denied it either.
+Typically ransomware spreads via email, with the aim of fooling recipients into clicking on malware-laden files that cause a PC's data to become scrambled before making a blackmail demand.
+But other ransomware, including Wannacry, has also spread via "worms" - self-replicating programs that spread from computer to computer hunting for vulnerabilities they can exploit.
+The current attack is thought to have worm-like properties.
+Several experts believe that one way it breaches companies' cyber-defences is by hijacking an automatic software updating tool used to upgrade an tax accountancy program.
+Once it has breached an organisation, it uses a variety of means to spread internally to other computers on the same network.
+One of these is via the so-called EternalBlue hack - an exploit thought to have been developed by US cyberspies, which takes advantage of a weakness in a protocol used to let computers and other equipment talk to each other, known as the Server Message Block (SMB).
+Another is to steal IT staffs' credentials and then make use of two administrative tools: PsExec, a program that allows software installations and other tasks to be carried out remotely; and WMIC (Windows Management Instrumentation Command-line) a program that allows PCs to be controlled by typing in commands rather than via a graphical-interface.
+Once a PC is infected, the malware targets a part of its operating system called the Master Table File (MFT).
+It is essential for the system to know where to find files on the computer.
+The advantage of doing this rather than trying to encrypt everything on the PC is the task can be achieved much more quickly.
+Then between 10 to 60 minutes later, the malware forces a reboot of the computer, which then informs the user it is locked and requires a payment for them to get a decryption key.

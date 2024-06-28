@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170316121718/http://www.bbc.com/news/technology-29950946
+
+[SN]TITLE[SN]
+Huge raid to shut down 400-plus dark net sites
+
+[SN]FIRST-SENTENCE[SN]
+Silk Road 2.0 and 400 other sites believed to be selling illegal items including drugs and weapons have been shut down.
+
+[SN]RESTBODY[SN]
+The sites operated on the Tor network - a system that gives access to otherwise hard-to-reach parts of the net.
+The joint operation between 16 European countries and the US saw 17 arrests, including Blake Benthall who is said to be behind Silk Road 2.0.
+Experts believe the shutdown represents a breakthrough for fighting cybercrime.
+Six Britons were also arrested, including a 20-year-old man from Liverpool, a 19-year-old man from New Waltham, a 30 year-old-man from Cleethorpes and a man and woman, both aged 58, from Aberdovey, Wales.
+All were interviewed and bailed according to the National Crime Agency.
+As well as providing anonymous access to legitimate sites, Tor also lets people hide their visits to thousands of illegal marketplaces, trading in drugs, child abuse images as well as sites for extremist groups.
+It was the operation last year to take down the drugs marketplace Silk Road which was the first major success in the battle against criminal use of the dark net.
+Now this much bigger operation involving global cooperation amongst law enforcement agencies sees that battle taken to a new level, with Silk Road 2.0 amongst 400 sites closed.
+It's important to remember that the dark net isn't all about illegal activity. Indeed its best known tool the anonymising browser Tor was created by a US intelligence agency to help its operations and to assist people living under repressive regimes.
+Last year, many predicted that shutting one online drugs bazaar - and arresting its alleged owner Ross William Ulbricht - would not make a lot of difference, with plenty more rushing to fill the gap.
+Now this much bigger operation may signal that the authorities have developed new techniques to track down the origins of these networks and those behind them.
+Still, the number of arrests may be telling - 400 sites closed, but just 17 arrests. That would suggest there is a lot of work still to be done.
+Silk Road 2.0 - which launched in October last year - is one of the most notorious and deals in the buying and selling of illegal drugs.
+It was resurrected after the original Silk Road site was shut down and its alleged owner arrested.
+The operation also saw the seizure of Bitcoins worth approximately $1m (Â£632,000).
+"Today we have demonstrated that, together, we are able to efficiently remove vital criminal infrastructures that are supporting serious organised crime," said Troels Oerting, head of Europol's European cybercrime centre.
+"And we are not 'just' removing these services from the open internet; this time we have also hit services on the dark net using Tor where, for a long time, criminals have considered themselves beyond reach," he added.
+The BBC understands that the raid represented both a technological breakthrough - with police using new techniques to track down the physical location of dark net servers - as well as seeing an unprecedented level of international co-operation among law enforcement agencies.
+The so-called deep web - the anonymous part of the internet - is estimated to be anything up to 500 times the size of the surface web.
+Within that experts refer to the dark net - the part of the network which Tor operates on. There are approximately three million Tor users but the number of sites may be smaller.
+Prof Alan Woodward a security consultant from the University of Surrey who also advises Europol, said that the shutdown represents a new era in the fight against cybercrime.
+"Tor has long been considered beyond the reach of law enforcement. This action proves that it is neither invisible nor untouchable," he said.
+But, he added, it did not mean copycat sites would not spring up, or that the police had thrown light on the dark net.
+Tor is a special way to access the internet that requires software, known as the Tor Browser bundle, to use it.
+The name is an acronym for The Onion Router - just as there are many layers to the vegetable, there are many layers of encryption on the network.
+It was originally designed by the US Naval Research Laboratory, and continues to receive funding from the US State Department.
+It attempts to hide a person's location and identity by sending data across the internet via a very circuitous route involving several "nodes" - which, in this context, means using volunteers' PCs and computer servers as connection points.
+Encryption applied at each hop along this route makes it very hard to connect a person to any particular activity.
+To the website that ultimately receives the request, it appears as if the data traffic comes from the last computer in the chain - known as an "exit relay" - rather than the person responsible.
+As well as allowing users to visit normal websites anonymously, it can also be used to as part of a process to host hidden sites, which use the .onion suffix.
+Tor's users include the military, law enforcement officers and journalists - who use it as a way of communicating with whistle-blowers - as well as members of the public who wish to keep their browser activity secret.
+But it has also been associated with illegal activity, allowing people to visit sites offering illegal drugs for sale and access to child abuse images, which do not show up in normal search engine results and would not be available to those who did not know where to look.

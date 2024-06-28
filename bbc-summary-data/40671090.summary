@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170727000202/http://www.bbc.co.uk/news/technology-40671090
+
+[SN]TITLE[SN]
+Hiding out among the net's criminal class
+
+[SN]FIRST-SENTENCE[SN]
+Security researcher Liam O'Murchu lives a double life. And sometimes a triple life. Now and then he divides himself even more thinly.
+
+[SN]RESTBODY[SN]
+Living multiple lives is part of his job with security firm Symantec, which also involves being a covert part of the forums, chat boards and discussion rooms that comprise the net's underground economy.
+It is there that deals are done that lead to companies being hacked, websites knocked offline and booby-trapped emails spammed out to millions. Exploit kits are bought and sold, allowing less proficient attackers to pay their better-skilled brethren for access to tools that make it simple to hunt out and infect vulnerable victims,
+"You can see what tools are being released, what people are interested in, how they are making their money and maybe politically how they are motivated," he said.
+The monitoring encompasses all levels of cyber-crime - from sites that cater for beginners and unskilled "script kiddies" to the higher-level groups where the pro criminals gather.
+It's in these that Mr O'Murchu and his colleagues exchange banter with other members to gather information that can help when a big attack is under way or a novel threat hits lots of the PCs that Symantec is helping to protect.
+For instance, he said, if 500,000 machines are enrolled overnight into a botnet - a network of hijacked PCs that can be used to spread spam or conduct other types of computer crime - he will dig into the incident and find out how they were caught out.
+"If we discovered that it was distributed via spam, via web exploit packs and compromised websites, we might discover that those compromised websites were actually sold in the underground," he explained.
+"Then we'll go and find out who is selling them, how you pay for them and how you sign up."
+The result might mean Symantec stops the malware spreading or develops defences that can guide customers to protect themselves.
+Mr O'Murchu has seen many changes ripple through the underground in the years he has been immersed in it - many of them in response to action by law enforcement that took down sites or led to arrests.
+A big change occurred last year, after Russian police arrested 50 people thought to be behind several large malware campaigns. It turned out, he said, that they also ran and sold an "exploit kit" that gave subscribers access to a large and growing library of software vulnerabilities that could be used to gain access to a lot of different companies.
+"We believe that the businessman behind that group had been buying exploits to put into the packs," he said.
+The wave of arrests "spooked" the businessman backer, who promptly disappeared and took his wallet with him.
+"That took a lot of the money out of the community, so now we don't see so many exploit packs being used," he said.
+The packs still available sell to the professional criminals who pay up to $10,000 (Â£7,700) a month to get a steady stream of software bugs they can exploit for their own ends - be it to inveigle their way into a target organisation or to make malware even more effective.
+"We obtain access to the most secretive communities - the closed discussion groups that you will not be able to find through Google.
+"When you get access you create one or more personas and assign criteria to them. You could be a hacker, a forger or a DDoS attacker. To build these personas takes time.
+"We see when criminals get access to a company but not enough to gain valuable data and then go to the community and say: "I have got this far but need help to go further."
+"In a lot of cases we can get info for the victim to find out how the perpetrator got access and patch it before they get at the data.
+"The legality can be a problem for anyone that's not experienced. We know how to manipulate the mindset of the criminals to avoid this. It's a lengthy process.
+"Where the criminals make mistakes is when they are inexperienced, when they first enter the realm of cyber-crime and have little idea of operational security.
+"Sometimes they use the same user name that's connected with their Skype account, Facebook account or Russian VK pages.
+"We have an extensive list of profiles where we outline the most valuable details about the most prolific actors. In some cases we can confirm who is behind a particular alias."
+Andrei Barysevich is director of advanced collection, Recorded Future
+Backers with cash who bankroll development work by criminal hackers are increasingly common, said Mr O'Murchu.
+"You essentially get start-up companies operating in these forums," he said. "You have a financer come in and he would back some project and you would have 10-to-15 people working on that."
+"He would use that as a revenue generator," he added. "They put people on the project and resell that on the underground at a profit. It's just a matter of whether they can mark it up enough."
+Arrests of hackers and raids on well-known forums have driven a growing sense of paranoia among the inhabitants of the criminal underground, said Mr O'Murchu.
+"The people in these forums understand that they are being watched and that what they talk about, if they talk about anything specific, will be tied back to them," he said.
+"The people who are doing this at the top level understand the stakes," he said. "And they understand that the police can come busting through their door at any time, so they are really very, very careful about who they let in and who they talk to."
+Some of that paranoia is justified, he said, because security researchers and law enforcement officers watching the forums are just waiting for the bad guys to make a mistake.
+Mr O'Murchu said one error, even if it was made years ago, could undo even the most careful hacker.
+One gang was caught out after Symantec had been watching them for 18 months, he said. During that time Mr O'Murchu and colleagues had mapped where they connected from and the net addresses they used.
+He said zeroing in on them was hard because they used only encrypted links or staging posts, known as proxies.
+"Eventually, after hundreds of thousands of connections, we found maybe five where they had not used encryption or a proxy," he said.
+It was a small slip, but enough to reveal where they lived.
+"From that we identified who they were and we provided that to law enforcement," he said. Soon after, the gang was raided and broken up.
+"Everyone makes mistakes."
+This week BBC News is taking a close look at all aspects of cyber-security. The coverage is timed to coincide with the two biggest shows in the security calendar - Black Hat and Def Con.
+We will have further features and videos on Wednesday, and then coverage from the two Las Vegas-based events over the following days.
+Follow all our coverage via this link

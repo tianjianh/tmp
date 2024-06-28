@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170126092431/http://www.bbc.co.uk:80/news/technology-35639545
+
+[SN]TITLE[SN]
+Child tracker firm in 'hack' row
+
+[SN]FIRST-SENTENCE[SN]
+Child tracker firm uKnowKids has accused a security researcher of hacking its database after he told them it was publicly accessible online.
+
+[SN]RESTBODY[SN]
+Researcher Chris Vickery claimed he found millions of text messages and images plus 1,700 "detailed child profiles" belonging to uKnowKids customers on search engine Shodan.
+But when he alerted the firm it replied that his access was "unauthorised".
+Mr Vickery says no password protection was in place.
+The BBC has been in contact with both Chris Vickery and uKnowKids chief executive Steve Woda.
+"It could have easily have been avoided - the fact they left it open is incredible. I don't know why you would leave all that data open to the entire world," Mr Vickery told the BBC.
+"They put up a database with no password required to access it."
+The company said its private database had been breached and added that it had patched the "vulnerability" within 90 minutes of Mr Vickery's notification.
+It added that while his actions were "helpful", it had yet to "fully identify" his credentials as a "white hat" - researchers who identify vulnerabilities and report them rather than use them to hack.
+"Twelve minutes after the final breach... and after taking screenshots of our intellectual property, business data, and customer data, Mr Vickery notified uKnow of his breach of our private systems," Steve Woda wrote in a blog post.
+"What we do know right now is that the alleged data breach affected about 0.5% of the kids that uKnowKids has helped parents protect online and on the mobile phone."
+Screenshots of the data seen by the BBC included a family picture of a woman in a car with three small children, lists of usernames and email addresses and folders with names like "childicloudimages" and "childfacebookaccounts".
+"The database also included uKnow's proprietary natural language processing engine technology and data including our proprietary algorithms that power uKnow's technology," Mr Woda added.
+"With respect to customer data, no financial information or unencrypted password credentials were vulnerable."
+The company also said it had asked Mr Vickery to delete all of the data he downloaded including the screenshots, and has now hired two security firms to help it secure its service.
+According to a blog post by Chris Vickery, Steve Woda expressed concerns via email that his actions could put the firm out of business.
+The services offered by uKnow include tracking children's social media accounts and text message activity and sending alerts to parents.
+Its prices range from $10 (Â£7) per month to $100 per year or $180 for a lifetime subscription.
+Mr Vickery said he has found "dozens" of similar security weaknesses belonging to other companies and the firm's response in this case was unusual.
+"When I found one of the databases of [software firm] MacKeeper, they turned around and said, 'OK, we want to hire you to give us tips about data breaches,'" he said.
+"That was an awesome response."
+Chris Vickery's blog post appeared on the MacKeeper website.
+Mr Woda said: "uKnowKids was originally created after one of our family children was victimised by an online predator, and so protecting kids is very, very personal to us.
+"You have my personal commitment that our uKnow team will continue to do everything we can to help you keep your kids safe from bad guys and bullies online and on the mobile phone."

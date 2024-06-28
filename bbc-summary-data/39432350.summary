@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170330001311/http://www.bbc.co.uk/news/technology-39432350
+
+[SN]TITLE[SN]
+iPhone users fooled by fake ransomware
+
+[SN]FIRST-SENTENCE[SN]
+Apple has issued an iPhone software update after reports of fake ransomware attacks where money was demanded in order to unlock the handset's browser.
+
+[SN]RESTBODY[SN]
+A pop-up screen accused the phone owner of accessing illegal pornography or pirating music and could not be removed.
+However the ransomware was fake - and clearing the browser cache was actually enough to restore full access.
+It ran on JavaScript, a code commonly employed by many websites.
+The attackers demanded Â£100 in the form of an iTunes gift card with the code sent via text message to a designated mobile number, said security firm Lookout in a blog about the malware.
+"...the attack doesn't actually encrypt any data and hold it ransom," wrote its security researchers.
+"Its purpose is to scare the victim into paying to unlock the browser before he realizes he doesn't have to pay the ransom to recover data or access the browser."
+The patch closed the loophole but Professor Alan Woodward, cybersecurity expert at Surrey University said some iPhone users have put off the update because it also includes other changes to the running of the device.
+"Some people have held off thinking it sounds fairly major, but obviously if they do that they won't get the protection," he said.
+"There is this feeling that iOS [Apple's operating system] and Apple devices in general are less vulnerable.
+"This shines a light on the fact that nothing is invulnerable. JavaSript is cross-platform and it's a matter of how you manage it."

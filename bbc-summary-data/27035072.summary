@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150418012906/http://www.bbc.com/news/technology-27035072
+
+[SN]TITLE[SN]
+Heartbleed fallout may 'slow' browsing speeds
+
+[SN]FIRST-SENTENCE[SN]
+The struggle to fix problems caused by the Heartbleed bug may slow browsing speeds, warns analysis firm Netcraft.
+
+[SN]RESTBODY[SN]
+The sheer number of sites refreshing key credentials may trigger delays, reported the Washington Post.
+The updates could force browsers to keep downloading and checking long lists of safe sites which would slow attempts to reach those destinations.
+The updates will help stop attackers posing as well-known sites using stolen security credentials.
+About 500,000 websites were thought to be vulnerable to the Heartbleed bug which, if exploited, would let attackers slowly steal data from web servers.
+Many sites, including Google, Facebook, DropBox and OKCupid, have now patched the version of the security software they ran, called OpenSSL, that was vulnerable to Heartbleed.
+However, said Paul Mutton, a security analyst at Netcraft, sites also had to take action to change a separate security measure if they wanted to be sure that visitors' data did not go astray.
+This separate measure is known as a security certificate and is a guarantee of a site's identity.
+Heartbleed raised questions about the worth of the guarantee security certificates offered, said Mr Mutton. Using the Heartbleed bug attackers could seize secret keys used in conjunction with security certificates as an identity check.
+"It would be safest to assume that all of the 500,000 certificates have been compromised," he told the BBC. "Most Certificate Authorities are offering to reissue and revoke for free, so there is no excuse not to take action."
+However, he said, the revoking and reissuing of hundreds of thousands of certificates could have a knock-on effect on web browsing speeds.
+When a user visits a site, their browsing program typically checks to see if the security certificate for that site has been revoked, said Mr Mutton. Under normal circumstances, this rarely causes a delay as relatively few certificates are revoked every day.
+Now, said Mr Mutton, the numbers of revocations were growing, thanks to Heartbleed, with thousands more every day being revoked and reissued.
+Robin Alden, chief technology officer at certificate authority Comodo, told PC World that its renewal rates had gone up by a factor between 15 and 30 since news about Heartbleed broke.
+It said it was providing tools to customers to help them check if sites were vulnerable to the Heartbleed bug.
+"Certificate revocation has always been a bottleneck since SSL was invented," said Dr Mark Manulis, a senior lecturer at the University of Surrey's computing department who specialises in cryptography.
+If Heartbleed led to large scale revocations that could cause problems, said Dr Manulis, as not all browsers downloaded lists and there were potentially hundreds of certification authorities to contact,
+"Each browser would have to contact each of those authorities and download the lists because those lists are not shared," he said.
+Mr Mutton from Netcraft said an added complication was being introduced by firms that issued new certificates but had not revoked the older potentially vulnerable ones.
+"This is dangerous," he said. "If the old certificates had been compromised, they could still be spoofed and used for man-in-the-middle attacks even if the affected sites are now using new certificates."
+Dr Dan Page, a lecturer in cryptography from the University of Bristol, said updating certificates and issuing new ones can take time.
+"It takes time for the revocations to filter through the system," he said.
+"Previously there have been breaches but not across everyone," added Dr Page. "That's definitely different here and is much more worrying."
+Also struggling to cope with its workload is the organisation behind the OpenSSL software in which the Heartbleed was found.
+In an open letter Steve Marquess, president of the OpenSSL Software Foundation, issued a plea for more donations and funding to recruit more people to help maintain the widely used software.
+"While OpenSSL does 'belong to the people' it is neither realistic nor appropriate to expect that a few hundred, or even a few thousand, individuals provide all the financial support," he wrote in a blogpost.
+"The ones who should be contributing real resources are the commercial companies and governments who use OpenSSL extensively and take it for granted," he added.
+Annual donations typically amounted to about $2,000 (Â£1,195), he said, though this had briefly spiked following publicity about Heartbleed.
+More money would help the Foundation hire enough staff to cope with all the requests it gets for help and to maintain the core code.
+"There should be at least a half dozen full time OpenSSL team members, not just one, able to concentrate on the care and feeding of OpenSSL without having to hustle commercial work," he said.
+"If you're a corporate or government decision-maker in a position to do something about it, give it some thought," he said.

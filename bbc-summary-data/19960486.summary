@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310165806/http://www.bbc.co.uk/news/technology-19960486
+
+[SN]TITLE[SN]
+Millions of blogs knocked offline by legal row
+
+[SN]FIRST-SENTENCE[SN]
+A row over a web article posted five years ago has led to 1.5 million educational blogs going offline.
+
+[SN]RESTBODY[SN]
+The Edublogs site went dark for about an hour after its hosting company, ServerBeach, pulled the plug.
+The hosting firm was responding to a copyright claim from publisher Pearson, which said one blog had been illegally sharing information it owned.
+ServerBeach said it had had to act because two requests to remove the content had been ignored.
+The offending article was first published in November 2007 and made available a copy of a questionnaire, known as the Beck Hopelessness Scale, to a group of students. The copyright for the questionnaire is owned by Pearson, which asked ServerBeach to remove the content in late September.
+ServerBeach contacted the administrators for Edublogs, who investigated and marked the blog entry so its publishing system would no longer display it to the public.
+Unfortunately, in early October automated systems at ServerBeach spotted a copy of the disputed blog entry stored in the working memory of software Edublogs uses to make sure web pages are displayed quickly.
+The copy of the blog entry was in this memory store - only visible internally - because of the way Edublogs readies web pages for display. When Edublogs did not respond within 24 hours to emails alerting it to the allegedly infringing content, ServerBeach shut down the entire site.
+In comments given to tech news site Ars Technica, ServerBeach defended its actions saying it had had to shut Edublogs because, as a hosting firm, it had no way to exert control over individual blogs.
+In a blogpost posted after the row was over, Edublogs founder James Farmer took ServerBeach to task over its actions, saying he was "stunned" at how quickly it had reacted. Rather than shutting down the site, he said, it could have done "something simple, like, calling any of the three numbers for us they have on file".

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170717014246/http://www.bbc.com/news/technology-40606493
+
+[SN]TITLE[SN]
+Australian PM seeks access to encrypted messages
+
+[SN]FIRST-SENTENCE[SN]
+The Australian government says it wants new laws to force tech firms such as Apple and Facebook to provide access to encrypted messages.
+
+[SN]RESTBODY[SN]
+Some apps such as WhatsApp use end-to-end encryption, making messages unreadable if intercepted.
+Australia's Prime Minister Malcolm Turnbull has warned that encrypted messaging apps could be used by criminals and terrorists.
+But security experts say strong encryption protects citizens' privacy.
+Many countries, including Australia, have laws in place that can force messaging services to hand over a suspect's communications to police with an appropriate warrant.
+However, messaging companies cannot hand over messages that have been end-to-end encrypted because they do not receive a legible copy.
+This encryption means ordinary citizens' messages cannot be intercepted by criminals or spies as they travel across the internet.
+But some people worry that terrorists and criminals can communicate secretly this way.
+"I think most people agree that there is a problem," said Prof Alan Woodward, a computer scientist at Surrey University.
+"The trouble is trying to force companies to decrypt via legislation is the very reason end-to-end encryption was introduced - particularly by US-based firms post-Snowden - to give their global customer base confidence that no government could get them to do what the Australians now propose."
+Mr Turnbull said encryption meant online messages were "effectively dark to the reach of the law", which he said was "not acceptable".
+He said companies had to "assist the rule of law" and provide law enforcement with access to encrypted messages.
+"For this to work, the companies will have to change their technical architecture or somehow weaken the encryption," said Prof Woodward. "Either is a bad idea."
+Some politicians have called for apps to build a "back door" into their systems, to allow law enforcement access to unencrypted messages. But such a system could also be exploited by criminals, defeating the purpose of encryption.
+Mr Turnbull said he was not seeking a "back door" and wanted communications handed over in "the usual way that applies in the offline world".
+Prof Woodward said modern encryption methods had not been cracked.
+But Mr Turnbull said Australian law would prevail over the laws of mathematics.
+He told journalists: "The laws of mathematics are very commendable, but the only law that applies in Australia is the law of Australia."

@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719105738/http://www.bbc.co.uk/news/technology-17111041
+
+[SN]TITLE[SN]
+Pinterest moves to address copyright fears with opt-out
+
+[SN]FIRST-SENTENCE[SN]
+Social networking service Pinterest has responded to concerns over copyrighted material by allowing websites to opt-out of being featured on the site.
+
+[SN]RESTBODY[SN]
+The site, which bills itself as a "virtual pinboard", allows users to post pictures and other content onto a personalised profile.
+However, some have raised concerns that the format encourages unauthorised sharing.
+Concerned sites can now block their content by adding a line of web code.
+Any Pinterest user attempting to share images or other material from a site with the "nopin" instruction will be told: "This site doesn't allow pinning to Pinterest. Please contact the owner with any questions. Thanks for visiting!"
+In a blog post, co-founder Ben Silbermann said Pinterest cared about "respecting the rights of copyright holders".
+He added: "We understand and respect that sometimes site owners do not want any of their material pinned. For these folks, we provide a snippet of code that can be added to any website."
+In addition to the code, copyright holders can - like most sites featuring user uploaded content - request that material be taken downvia an online form.
+Pinterest has grown rapidly, with reports from ratings firm Comscore suggesting the site had 7.5 million unique visitors in December, rising to 11.7 million in January.
+However, concerns over copyright violations have caused some users to back away from using the service.
+Webmasters who want to prevent their material from being posted on Pinterest can use the following code:
+<meta name="pinterest" content="nopin" />
+Niri Shan, a media law expert from Taylor Wessing, said he believed the move to enhance measures for rights holders would probably work in Pinterest's favour, should rights holders begin make legal claims.
+"I think they [the courts] would look favourably," he said.
+"Overall the court will have to look at the public interest. Blocking sites has implications for free speech - it's not something the court will do every day of the week."
+Mr Shan added that Pinterest's key approach would be to prove that while copyrighted material might be uploaded to the site, it was not the service's primary function - an accusation made about other sites, such as MegaUpload and Newzbin, in recent court cases.

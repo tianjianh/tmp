@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170529145423/http://www.bbc.com/news/business-40082631
+
+[SN]TITLE[SN]
+What went wrong at BA?
+
+[SN]FIRST-SENTENCE[SN]
+As British Airways (BA) finally starts to recover from a disastrous IT failure, an inquest is under way into what went wrong and why it has taken so long to fix it.
+
+[SN]RESTBODY[SN]
+I've been contacted by someone who spent 30 years in corporate IT with some interesting theories.
+The man - who doesn't want to be named - says airlines probably invest more in IT than any other organisations apart from banks, so this kind of thing just should not happen.
+But he has three questions.
+BA blames a power cut but in the words of my expert, it shouldn't have caused "even a flicker of the lights" in the data-centre. The UPS - the uninterruptible power supply - should have kicked in immediately.
+The only issue should have been making sure the back-up generator was kept fed with fuel.
+Even if the power could not be restored, the airline's Disaster Recovery Plan should have whirred into action.  But that will have depended in part on veteran staff with knowledge of the complex patchwork of systems built up over the years. Many of those people may have left when much of the IT operation was outsourced to India.
+And there may have been a situation where one team was frantically trying to restore the original system while elsewhere another team was attempting to fire up the back-up - with managers unsure which of the two workstreams to prioritise.
+One theory of my IT veteran is that when the power came back on, the systems were unusable because the data was unsynchronised. In other words the airline was suddenly faced with a mass of conflicting records of passengers, aircraft and baggage movements - all the complex logistics of modern air travel.
+He says: "This would have meant that BA would need to restore to a known synchronised back-up point (potentially days old), which brings in the previous argument about the hands-on skills required to achieve this."
+In summary, complex IT systems do fail from time to time, but smart organisations have the people and processes in place to recover quickly.
+BA has said little so far about what went wrong. However, it will now be under pressure from investors, staff and passengers to provide some answers.

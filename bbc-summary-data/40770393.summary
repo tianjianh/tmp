@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170731153254/http://www.bbc.co.uk/news/technology-40770393
+
+[SN]TITLE[SN]
+It is easy to expose users' secret web habits, say researchers
+
+[SN]FIRST-SENTENCE[SN]
+Two German researchers say they have exposed the porn-browsing habits of a judge, a cyber-crime investigation and the drug preferences of a politician.
+
+[SN]RESTBODY[SN]
+The pair obtained huge amounts of information about the browsing habits of three million German citizens from companies that gather "clickstreams".
+These are detailed records of everywhere that people go online.
+The researchers argue such data - which some firms scoop up and use to target ads - should be protected.
+The data is supposed to be anonymised, but analysis showed it could easily be tied to individuals.
+People's browsing history is often used to tailor marketing campaigns.
+The results of the research by Svea Eckert and Andreas Dewes were revealed at the Def Con hacking conference in Las Vegas this weekend.
+The pair found that 95% of the data they obtained came from 10 popular browser extensions.
+"What these companies are doing is illegal in Europe but they do not care," said Ms Eckert, adding that the research had kicked off a debate in Germany about how to curb the data gathering habits of the firms.
+Before the data is used to customise the range of adverts which people see, any information that could be used to identify exactly who generated the clicks is supposed to be removed.
+However, said Mr Dewes, it was "trivial" - meaning easy - to tie the information directly to people and reveal exactly where they went online, the terms they searched for and the things they bought.
+Cyber-hacks season:
+The data analysed by the pair connected a list of sites and links visited to a customer identifier. However, he said, by drawing on public information that people share about their browsing habits, it became possible to connect that entry on a list to an individual.
+"With only a few domains you can quickly drill down into the data to just a few users," he said.
+The public information included links people shared via Twitter, YouTube videos they reported watching, news articles they passed on via social media or when they posted online photos of items they bought or places they visited.
+In many cases, he said, it was even easier to de-anonymise because the clickstreams contained links to people's personal social media admin pages which directly revealed their identity.
+"The public information available about users is growing so it's getting easier to find the information to do the de-anonymisation," he said. "It's very, very difficult to de-anonymise it even if you have the intention to do so."
+The information revealed an intimate portrait of the browsing habits of people, said Ms Eckert.
+"This could be so creepy to abuse," she said "You could have an address book and just look up people by their names and see everything they did."
+In many cases the browsing habits did not expose anything illegal but might prove difficult for public figures to explain or justify, she said. In some cases it could leave them open to blackmail.
+"After the research project we deleted the data because we did not want to have it close to our hands any more," she said. "We were scared that we would be hacked."
+When asked about UK plans to make ISPs gather clickstreams on every Briton for security purposes, Ms Eckert urged the government to restrict for how long the information could be kept.
+"If you are strong on data protection then you should not be allowed to do it," she said, "But for security purposes then perhaps you can hold on to it for a while."
+Limiting how long it could be held would lessen the damage if the clickstreams were leaked or hacked, she said.
+"You have to be very careful," she said "It's so, so dangerous."

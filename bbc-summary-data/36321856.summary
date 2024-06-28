@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160518215640/http://www.bbc.com/news/science-environment-36321856
+
+[SN]TITLE[SN]
+What AI can learn from Tube passengers
+
+[SN]FIRST-SENTENCE[SN]
+A new study by UK neuroscientists probes how the human brain navigates underground train networks.
+
+[SN]RESTBODY[SN]
+They find that we split the task into a hierarchy of different jobs, with different elements apparently handled in different parts of the brain.
+Particular parts of the cortex, for example, show greater activity if extra line changes are required; other regions simply become more excited as the overall goal inches closer.
+The work appears in the journal Neuron.
+It arises from a collaboration between Oxford University, University College London and Google's artificial intelligence firm DeepMind.
+AI researchers are keen to learn from the brain's ability to plan a complex task by grouping together various actions and outcomes.
+This type of strategy is much more efficient than rattling through all the possible ramifications of each individual step - such as a simple computer program might do.
+First author Jan Balaguer, a PhD student at Oxford and also part of the DeepMind team, said in a press release: "We want to see how the human brain implements things like hierarchical structures in order to design more clever algorithms."
+Mr Balaguer and colleagues at the Google research outfit were not available to be interviewed on Wednesday.
+To study the brain during this type of structured planning, the team set up a game that involved getting from A to B on an imaginary subway network. Just like the London Underground and similar systems, the network was represented by intersecting coloured lines with "stations" dotted along them.
+Such a situation is a prime example of precisely the sort of planning the team wanted to study: different series of "states" (stations) follow one another in order, within specific "contexts" (lines) which the subject can choose between.
+In daily life, we use this sort of grouped-together reasoning to plan and accomplish all manner of things - from cooking a meal to travelling home - but the imaginary subway map offered a very simple instance which could be carried out and observed inside a brain scanner.
+Sure enough, when people played the game, they took longer to think about their journeys if they had to "change trains" multiple times, but not if the overall number of "stations" was high.
+And there were corresponding patterns of brain activity, suggesting that some brain areas were indeed evaluating the situation "line by line" - and even showed a characteristic flutter of activity when someone switched between those lines.
+Those regions included the top-middle (dorsomedial) part of the prefrontal cortex, already known to be part of deliberate cognitive functions like planning, and the premotor cortex, which is involved in guiding movements.
+Meanwhile, other areas including the hippocampus - already known to reflect our distance from a goal while we navigate - showed activity that built up as the end of the journey approached.
+"We show, in a more straightforward and direct manner than previous studies, that there are hierarchical representations reflected in the brain," Mr Balaguer said.
+Google DeepMind has made headlines several times in recent months, attracting attention over a data-sharing agreement with an NHS trust and achieving an AI milestone by beating the world champion at the board game Go.
+Because of the fiendish number of possible moves a player can make, this latter challenge is precisely the sort of task that could be assisted by streamlined, hierarchical processing.
+Follow Jonathan on Twitter

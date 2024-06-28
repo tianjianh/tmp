@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170220040902/http://www.bbc.co.uk:80/news/technology-33847308
+
+[SN]TITLE[SN]
+Child abuse tool gets UK government data access
+
+[SN]FIRST-SENTENCE[SN]
+For the first time, the UK government is sharing its own database of child abuse images with net charity the Internet Watch Foundation (IWF).
+
+[SN]RESTBODY[SN]
+Each image has been given a unique "hash" number, which makes it traceable without being viewed.
+It means the charity's partners, which include Facebook, Google and Twitter, will be able to remove images faster.
+The Child Abuse Image Database (Caid), was launched by the prime minister in December 2014.
+The images on Caid, collated by the Home Office, include those found on computers seized by police that may not have been uploaded online.
+"Some of those images will have never yet been in circulation on the internet because perhaps the offender has taken them him/herself or someone has shared them peer-to-peer," IWF spokeswoman Emma Hardy told the BBC.
+"For the victim - if they are aware images were taken but haven't made it onto the net, if their image is on this list we can now prevent it being uploaded in the first place."
+The Caid list is part of a greater database being created by the IWF. It will also include images reported by the public and found by the charity's own analysts.
+It is a list of hash numbers, not the images themselves, and will be made available to all of the charity's members.
+The hash is a number generated algorithmically and, once assigned to an image based on its original source name, cannot be changed.
+Hash lists were initially created as a tool for searching databases in the 1950s when computers worked very slowly, said internet security expert Professor Alan Woodward from Surrey University.
+Hashing is also used to store passwords.
+The hashing process involves using an algorithm to convert a plaintext password into an unrecognisable string of characters. Utilising the tool means a service does not need to keep a record of the password in its original form.
+"The way [searches for illegal images] are done by law enforcement, you have people sitting there looking at 2,000 images a day, sometimes 2,000 an hour. People can only do this for so long because it's so disturbing," Prof Woodward said.
+"This way, if the hash is on the prohibited list you know it's what you want but you don't actually see it."
+Web giants Google and Microsoft have been using hash lists for some time in the fight against online illegal images.
+Last month Microsoft released a free tool that lets website owners spot when images of child abuse are being shared by users.
+PhotoDNA creates a unique signature for each image, similar to a fingerprint, to help match pictures. This is done by converting the picture into black-and-white, resizing it and breaking it into a grid.
+Each grid cell is then analysed to create a histogram describing how the colours change in intensity within it, and the information obtained becomes its "DNA".
+The technique means that if a copy of a flagged photo appears in one of Microsoft's user accounts, the firm can be alerted to the fact without its staff having to look at the picture involved.
+Because the amount of data involved in the "DNA" is small, Microsoft can process and compare images relatively quickly.
+"The danger is that 90% of the web is not indexed by [the tech giants]," said Prof Woodward.
+"Most people think of the web as what Google or Bing tell them it is - but most of it is not searched by Google. The so-called 'deep web' is not indexed or searchable, and the 'dark web' is hidden."
+He added that while a hash number assigned to an image cannot be removed, modifying the image can alter the algorithm which created it.
+"There is an arms race with this," he said.
+"Criminals are very clever. They will work out how to get round being on the list by modifying the image - depending on the algorithm they are using it could radically change the hash."

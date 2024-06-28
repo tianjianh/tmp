@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170120020324/http://www.bbc.co.uk/news/technology-38063142
+
+[SN]TITLE[SN]
+Malware is making ATMs 'spit cash'
+
+[SN]FIRST-SENTENCE[SN]
+A Russian cybersecurity firm has issued a warning about a spate of remotely coordinated attacks on cash machines.
+
+[SN]RESTBODY[SN]
+Hacks of banks' centralised systems had made groups of machines issue cash simultaneously, a process known as "touchless jackpotting", said Group IB.
+The machines had not been physically tampered with, it said, but "money mules" had waited to grab the cash.
+Affected countries are said to include Armenia, Estonia, the Netherlands, Poland, Russia, Spain and the UK.
+But the company declined to name any specific banks.
+Dmitriy Volkov from Group IB told the BBC a successful attack could net its perpetrators up to $400,000 (Â£320,000) at a time.
+"We have seen such attacks in Russia since 2013," he said.
+"The threat is critical. Attackers get access to an internal bank's network and critical information systems. That allows them to rob the bank."
+Two cash machine manufacturers, Diebold Nixdorf and NCR Corp, told Reuters they were aware of the threat.
+"They are taking this to the next level in being able to attack a large number of machines at once," said senior director Nicholas Billett, from Diebold Nixdorf.
+"They know they will be caught fairly quickly, so they stage it in such a way that they can get cash from as many ATMs as they can before they get shut down."
+A recent report by Europol warned of the rise of cash-machine-related malware, although it said "skimming" - using hardware to steal card information at the machine itself - was still more common.
+"The new method is being done by somehow gaining access to the banks' central systems and infecting whole communities of ATMs simultaneously, hence multiplying the amount of money that can be stolen in a short time," said Surrey University's cybersecurity expert Prof Alan Woodward.
+Because criminals were collecting the cash in person, it made the crime more difficult to trace, he added.
+"The classic way of solving online financial crime is to 'follow the money' - but when you can no longer do this, it is very hard to find out who is behind it, even though the evidence suggests it is a very limited number of groups that have started perpetrating this type of crime."

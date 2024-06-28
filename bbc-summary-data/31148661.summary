@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170320030451/http://www.bbc.com/news/technology-31148661
+
+[SN]TITLE[SN]
+Ubuntu smartphone offers alternative to apps
+
+[SN]FIRST-SENTENCE[SN]
+An Ubuntu-powered smartphone is coming to the market a year and a half after a previous attempt to launch a model via crowdfunding failed.
+
+[SN]RESTBODY[SN]
+The Aquaris E4.5 Ubuntu edition relies on a card-like user interface that is not focused on apps.
+Unlike the original proposal, the handset does not become a desktop PC when plugged into a monitor.
+It is initially being targeted at "early adopters", who developers hope will become advocates for the platform.
+The British company Canonical, which developed the Linux-based operating system, said it hoped to emulate the success of Chinese companies including Xiaomi with its launch strategy.
+This will include holding a number of "flash sales" in Europe beginning next week, in which the device will be sold for short periods of time - giving the developers an opportunity to gauge demand and respond to feedback before committing to a bigger production run.
+"It's a proven model - we're making sure that the product lands in the right hands," Cristian Parrino, vice-president of mobile at Canonical, told the BBC.
+"We are way away from sticking this in a retail shop in the High Street. [But] it's where we want to get to."
+Millions of PCs used by schools, governments and businesses already run the desktop version of Ubuntu.
+"The Ubuntu fan base will clamour to buy the phone just because they will be curious to see what it is, how it works and how they can develop for it - they'll want to be one of the few that have it," said Chris Green, from Davies Murphy Group Europe.
+"But for the broader, more mainstream, early adopter market, I think demand will be constricted because people are more app-focused."
+The Ubuntu handset can run apps written in either the HTML5 web programming language or its own native QML code.
+However, its operating system effectively hides them away. Instead of the traditional smartphone user interface - featuring grids of apps - it uses themed cards that group together different facilities.
+Canonical calls these Scopes, and they are reminiscent of the swipe-based card system used by the Google Now personal assistant.
+The phone's home screen is the Today Scope. It presents a selection of widgets based on the user's most frequent interactions on the phone.
+These can include the local weather forecast, the headlines of the day from third-party news services, Twitter trends and a list of the owner's most commonly contacted friends.
+By swiping to the right, the owner can make a call or access some of the other default Scopes, including:
+Users can create and configure their own Scopes, and individual services can also be set to have Scope cards of their own.
+Mr Parrino suggested that the benefit to the user was an "unfragmented" experience, while developers would gain by being able to make their products available via Scopes at a fraction of the cost of creating full apps.
+"If you come out with a new [OS] that's based on apps and icons then you're just a 'me too' platform," he said.
+"You'll only be as relevant to developers as the number of users you can bring to them, because you're adding the burden of supporting a new platform. And for users you'll only be as good as the apps that you have.
+"We've had to switch that model around and deliver an experience that is valuable in its own right - clearly the more services that plug into it the better it becomes, but it's not fully dependent on them from day one, and for an early adopter audience it's a great product."
+Certain services will, however, be missing at launch, including Whatsapp, Skype and several of Instagram's core features.
+Canonical makes money by charging organisations for support services.
+The phones themselves are being made and sold by a Spanish company, BQ, which already has an Android variant of the hardware.
+They include an eight-megapixel rear camera, a 5MP front one and one gigabyte of RAM memory. They will cost about 170 euros ($195; Â£127).
+"It's a good-looking device and a very slick interface at a realistic price," commented Mr Green.
+"Scopes are an interesting stopgap between a full third-party app environment and a fixed feature phone.
+"However, they are just that - a stopgap. They will interest very early adopters and the Ubuntu faithful in the short term. However, it won't take long before people start wanting a full add-on app experience akin to the other existing platforms on the market today."

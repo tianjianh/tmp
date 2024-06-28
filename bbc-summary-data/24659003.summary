@@ -1,0 +1,56 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170818171417/http://www.bbc.co.uk/news/science-environment-24659003
+
+[SN]TITLE[SN]
+Dinosaur titans: Sauropods' secrets revealed
+
+[SN]FIRST-SENTENCE[SN]
+In an era of giants, sauropods dwarfed everything.
+
+[SN]RESTBODY[SN]
+These dinoasurs, including the diplodocus, were the biggest to walk the Earth. T. rex would have nipped at the knees of the largest sauropod - Argentinosaurus huinculensis.
+University of Manchester researchers have now made a digital Argentinosaurus robot to work out how this 80-tonne monster would have moved its vast bulk.
+The study is published in an issue of PLoS One on "sauropod gigantism".
+The immense size of sauropods - the long-necked, tree-trunk-legged storybook giants of the Jurassic period - presents a quandary for biologists because they push animal bones and muscles to their limit.
+This is why researchers have set out to answer some of the big questions about these very big animals, including: How did their muscles and bones support and move their bodies? How did their digestive system process sufficient food? And how high could they have reached with their immensely long necks (much longer, proportionally, than a giraffe's)?
+"The biggest elephants weigh around six or seven tonnes," said Dr Bill Sellers, of the University of Manchester, who led the digital robot study.
+"So Argentinosaurus was at least 10 times bigger than the biggest elephant.
+"As you get bigger your weight goes up by the cube of your height, but the force your muscles can generate only goes up by the square, so your strength-to-weight ratio gets much worse."
+As with many dinosaurs, the reconstructions of this giant are based on a relatively limited fossilised jigsaw. For Argentinosaurus, only its legs and part of its spine have been unearthed.
+So controversy has raged over whether it was possible for an animal to be so huge and heavy and still able to walk on land.
+"Whenever anyone finds a dinosaur, they want it to be the biggest, meanest dinosaur ever, so there might be a temptation to make a reconstruction a bit bigger than it was," Dr Sellers told BBC News.
+"We wanted to test whether it was a reasonable reconstruction for an animal."
+To make the digital dinosaur, Dr Sellers and his colleagues scanned a reconstructed skeleton housed at the Carmen Funes municipal museum in Argentina.
+They were able to map muscles and tendons on to the skeleton using the anatomy of modern animals, including reptiles and birds, as a guide.
+Then came the difficult part - their digital dinosaur had to learn to walk. This, Dr Sellers said, required a technique called "machine learning".
+BBC Nature - Dinosaurs
+"The animal needs to learn how to move the best way it can using the muscles and skeleton we've given it," he said.
+This took a huge amount of computer processing power, as the simulated dinosaur robot took the information programmed into its virtual muscles and worked out how to use them to walk.
+The resulting steady march of this digital dinosaur revealed that, to keep its body steady, the movement at its joints had to be very restricted.
+"This animal is so big that it's right at the limit of what you could cope with as an animal that lives on land," said Dr Sellers.
+"So things like getting up off the ground would have been extraordinarily difficult if not impossible."
+Something else these beasts would not have been capable of, according to Prof Kent Stevens, of the University of Oregon, would be adopting the storybook pose of holding their heads aloft.
+He says that while "soaring necks is congruous with childhood expectations, the bones tell a different story".
+For his study, Prof Stevens also created virtual dinosaurs - digitally reconstructing the skeleton of Apatosaurus (better known in the past as brontosaurus).
+Dr Stevens said: " [If we] put sauropod neck vertebrae back together with the proper separations, and they form a very straight line."
+He says the bones simply do not have the curves seen in giraffes' or some birds' necks. A natural J-curve in a giraffe's vertebrae direct its neck upwards at a steep angle. A vertebral S-curve gives a swan its shapely neck.
+But while Prof Stevens' less soaring reconstructions of these dinosaurs might puncture childhood myths, his digital dinosaurs were still capable of impressive feats, thanks to their huge size.
+As his animations reveal, by sweeping its outstretched neck, Apatosaurus would have explored, and devoured food, over a huge space.
+"While none were very flexible, sauropods could sweep out broad areas - in some cases 10 or so metres above the ground," Prof Stevens said.
+All this sweeping and devouring provided a digestive challenge for these huge herbivores.
+And Dr Marcus Clauss, of the Clinic for Zoo Animals at the University of Zurich in Switzerland, set out to find out how their digestive systems coped.
+Just as Dr Sellers found that normal bones and muscles could carry 80 tonnes of bulk, it seems there was also nothing unusual about the sauropod gut.
+"A normal gut can work for any size of body," said Dr Clauss. "A mouse can get enough energy for its size, and an elephant can. The main thing is that [the elephant] eats much more."
+One key factor that seems to have allowed sauropods to become so gigantic is that they would swallow their food without chewing. As this unchewed food would spend so much time passing through extremely long intestines, it would have ample time to break down.
+"If you spend so much time chewing, you're limited in the amount of food you can take in," Dr Clauss said.
+"So one of the conditions for an animal to become that large is that it must not chew."
+The secret to just how massive these creatures were could be contained in their ancient fossilised trackways.
+Dr Tom Schanz, of Ruhr University in Germany, has lent his engineering skills to the study of dinosaurs by developing a technique to estimate sauropod weight from a single footprint.
+He is an engineer who studies the properties of soil to work out exactly how buildings will settle and move on their foundations.
+Dr Schanz's new method incorporates this expertise. His laser scanning of preserved footprints could produce the most accurate measurements yet of what the dinosaurs weighed.
+To prove this, Dr Schanz's team took an elephant for a walk.
+The researchers studied every "dynamic component" of the walk - measuring the speed at which the elephant planted its feet, and how its weight was distributed in each step.
+"[Then we used the] laser scanning technique on the elephant footprints and back-calculated the weight," Dr Schanz said.
+The team was able to calculate the elephant's weight to within 10%. And since sauropods and elephants have such similar anatomy, the scientist says the same technique could be used to estimate the weight of the extinct dinosaurs.
+Building up an accurate picture of how these animals worked is revealing some of the most basic aspects of biology, including how bones and muscles work, and what the very limits are of their ability to function.
+"That's very important," Dr Sellers says, "because these things go wrong very commonly, and the better we understand them, the better our chances are of fixing them."

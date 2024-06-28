@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161114223454/http://www.bbc.com/news/technology-37974266
+
+[SN]TITLE[SN]
+Up to 400 million accounts in Adult Friend Finder breach
+
+[SN]FIRST-SENTENCE[SN]
+Up to 400 million logins on the "sex and swingers" hook-up site Adult Friend Finder have been leaked, according to an unverified report.
+
+[SN]RESTBODY[SN]
+The site's operator has begun an investigation. It said it had already fixed a vulnerability but would not confirm there had been a breach.
+The leak is said to cover 20 years of sign-ins, including deleted accounts.
+AFF's parent company owns explicit webcam sites, whose logins are also believed to have been stolen.
+"Over the past several weeks, Friend Finder has received a number of reports regarding potential security vulnerabilities from a variety of sources," Friend Finder Networks' vice president Diana Ballou told ZDNet.
+"Immediately upon learning this information, we took several steps to review the situation and bring in the right external partners to support our investigation."
+The site was previously hacked in May 2015, when 3.5 million user records were exposed.
+Leaked Source, which reported the latest breach, said it was the biggest data leak it had ever seen.
+Including Friend Finder Networks' other explicit sites, the entire breach is said to include information about 412 million accounts.
+Leaked Source provides a free service that tells visitors if their email addresses have been compromised, but charges them to find out what associated data has been leaked.
+The firm said "after much internal deliberation" it would not make the Friend Finder Network logins searchable "for the time being".
+To verify its claim, Leaked Source gave ZDNet security editor Zack Whittaker 10,000 AFF logins and 5,000 from the network's other sites.
+He tracked down some of the email address owners and said about a dozen had said the details were real.
+"A number of those confirmed their details when we read them their own data, but understandably, others weren't as willing to help," he said.
+"One person I spoke to said he wasn't worried because he used only fake data. Another said he 'wasn't surprised' by the breach.
+"Many simply hung up the phone and wouldn't talk."
+Security researcher Troy Hunt was also given a similar sized sample, but said it was still "early days" to confirm the scale of the breach as it only represented "a snippet" of what was said to have been stolen.
+"I am intrigued - I can imagine it may be feasible but [412 million] is a really high number," he said.
+It is second in size only to Yahoo, which revealed in September 2016 that data about some 500 million users had been stolen by "state sponsored" hackers.
+"There have been so many leaks recently that these people have probably already had their data shared," said Mr Hunt.
+But he added that the nature of AFF's explicit images and messages could still cause problems.
+"We will find worried people who have used their work email address to create accounts."
+Leaked Source said the most popular email services used to register with the hook-up site were Hotmail, Yahoo and Gmail.
+But it said there were also 5,650 government addresses - ending .gov - and 78,301 attributed to the US military - ending .mil.
+"It's a sad state of affairs when we berate people for giving their personal data to someone in confidence not expecting it to be leaked," said Mr Hunt.
+He added that in some cases accounts would have been created by other people using someone else's address without their consent.
+"I think it's a small percentage - but it can happen.
+"I call it the Ashley Madison defence."

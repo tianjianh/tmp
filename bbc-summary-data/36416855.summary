@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160602081912/http://www.bbc.co.uk/news/technology-36416855
+
+[SN]TITLE[SN]
+MySpace and Tumblr hit by 'mega breach'
+
+[SN]FIRST-SENTENCE[SN]
+Hundreds of millions of hacked account details from social networks MySpace and Tumblr have been advertised for sale online.
+
+[SN]RESTBODY[SN]
+In both cases, the logins appear to have been stolen several years ago but only recently came to light.
+The incident comes the same month it emerged that a four-year-old database containing more than 167 million LinkedIn IDs had been traded online.
+One expert said it was "intriguing" all had emerged in such a short period.
+Security researcher Troy Hunt also said millions of IDs from adult dating site Fling - which had been breached in 2011 - had been offered on a hacking forum at the start of the month.
+"There's been some catalyst that has brought these breaches to light and to see them all fit this mould and appear in such a short period of time, I can't help but wonder if they're perhaps related," he blogged.
+"Even if these events don't all correlate to the same source and we're merely looking at coincidental timing of releases, how many more are there in the 'mega' category that are simply sitting there in the clutches of various unknown parties?"
+Of the two most recent leaks, MySpace is potentially more serious.
+The touted list contains details for 360.2 million accounts, including email addresses and up to two linked passwords.
+The passwords were stored in a modified form that was meant to protect them, but the technique used was relatively weak and it seems the vast majority have been cracked.
+News site Motherboard has been in contact with one of the sites selling access to the list. It said of the five accounts it tested, all yielded the real passwords, suggesting the leak was real.
+"We have invalidated all user passwords for the affected accounts created prior to June 11, 2013 on the old MySpace platform," the social network said in a statement.
+"MySpace is also using automated tools to attempt to identify and block any suspicious activity that might occur on MySpace accounts.
+"We have also reported the incident to law enforcement authorities and are cooperating to investigate and pursue this criminal act."
+Despite the age of logins and decline in use of the social network, expert Mr Hunt said some users should still be concerned.
+"It all comes back to whether they've been following good password practices or not," he told the BBC.
+"If they've reused passwords across multiple services - and remember, these breaches date back several years so they need to recall their practices back then - then they may well have other accounts at risk too."
+The Tumblr IDs come from a breach flagged by the Yahoo-owned blogging site on 12 May.
+At the time it referred to the leak as a "set of Tumblr user email addresses with salted and hashed passwords from early 2013".
+Mr Hunt's analysis indicates that more than 65 million accounts were affected, making it one of the largest data dumps of its kind.
+The reference to "salted" means that the firm added random characters to the passwords before converting them into a string of digits and recording them to a database.
+This makes it much harder to expose them.
+Motherboard reported that a hacker, nicknamed Peace, had said the Tumblr dump amounted to "just a list of emails", and so was advertising it at a lower price than the MySpace and LinkedIn logins also offered for sale.
+However, the addresses could still be useful to scammers as a basis for a phishing attack.
+Mr Hunt's Have I Been Pwned site already provides a free way to check whether people's Tumblr, Fling or LinkedIn IDs are among those contained in the data dump.
+The security researcher said he was also in the process of "finalising the load" to make it possible to search for affected MySpace accounts as well.

@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160824184708/http://www.bbc.co.uk/news/technology-37172022
+
+[SN]TITLE[SN]
+Instagram scam preys on bank followers
+
+[SN]FIRST-SENTENCE[SN]
+A new report suggests thousands of Instagram users are falling for a scam that targets followers of financial institutions on the image-sharing platform.
+
+[SN]RESTBODY[SN]
+So I began following Bank of America’s official account to see what would happen. Sure enough, the first message arrived in moments.
+“Hey are you interested ib [sic] making some extra cash."
+To you and I, this message - which, let’s be honest, lacks any real salesmanship - seems highly dubious.
+But be it because of gullibility, recklessness, or, most likely, desperation, others have been lured in.
+ZeroFox, a security company specialising in social media, says it has found more than two million public Instagram posts that push this kind of scam, known as money-flipping.
+The term refers to a con in which criminals convince their victims to hand over access to funds with the promise that they will multiply their value via a trick they know, in return for a share of the profits. They then abscond with the sum, leaving their target out of pocket.
+The firm estimates that for every such account Instagram closes, three more appear in its place.
+Messages like the one I received begin a to-and-fro chain of messages, which can cost the banks dear - they often end up compensating affected customers and swallowing the cost of the fraud.
+Such is the level of concern, ZeroFox told the BBC that one of its clients, a major US bank, had put in place a six-person team to deal with money-flipping on Instagram after reportedly losing more than $1m to the crime.
+In one variation, designed to reassure the victim, the scammers say it doesn’t matter if the account is empty or even in negative credit. In these cases, the criminal uses the bank details to cash a fraudulent cheque and then deposits the cash before the bank spots the ruse.
+Great lengths are gone to in order to look and sound genuine. As well as profiles full of images of flashy watches and piles of cash, scammers concoct elaborate back stories. After I followed the Chase Bank's account, one told me: “I’m a claim manager for Chase Bank but I have access to other banks.
+“What I do is find people who has an active bank account and the account can be negative 0 and what happen is after that I’ll look into the computer and fine some extra cash that someone hasn’t claimed and I’ll transfer it into your account.”
+For his trouble, all he asked was that of the $15,000 (£11,350) I’d make, he’d like to take $3,000. In another message, I was assured it was “110% legit”.
+ZeroFox recommends institutions use machine learning technology to weed out the problem. That’s not a surprising conclusion given that it is in the business of selling precisely that technology, and is using the report to advertise its services.
+But even with that caveat in mind, the findings make interesting reading, not least because of the claim that the Facebook-owned service has a particular problem.
+"It’s really easy to private message someone on Instagram," explains John Seymour, a data scientist at ZeroFox.
+"Someone can initiate a direct message without having followed the original person."
+Of the two million posts it analysed, 80% were more than 45 days old, suggesting few were being reported or detected.
+Hashtags connected to 37 different financial institutions were being targeted by 1,386 unique accounts created by criminals.
+Instagram, which did not see the report ahead of its publication, says scams are “pretty low volume” on the network. But it added that it would look at the report’s claims and recommendations.
+"Generally speaking, it's easy for security firms do a one-off analysis and build a model to catch a specific kind of abuse,” Facebook's security spokeswoman Melanie Ensign explains.
+"The challenge is doing it in a robust way so that it still works after bad actors change their approach a few times - and it's almost impossible for external parties to prove their approach is this robust."
+The scammers typically operate many accounts.
+Some are used to approach potential victims, others to boost the illusion that their scam works.
+"We saw these accounts engaging with each other and promoting and saying 'This is legit!' - and then trying to build up the credibility of specific scam posts,” explains Evan Blair, ZeroFox’s co-founder.
+The firm says many of the accounts involved make references to the US military - an intentional, predatory tactic.
+"Scammers are taking advantage of that predisposition to be willing to entertain offers that seem too good to be true,” Mr Blair said, referring to the types of offers and services companies give exclusively to military families.
+"They say, ‘Yeah, this makes sense,’ because they’re used to that."
+One account I saw shows a woman posing in a military uniform.
+In a direct message, “she" told me she was a “US army official", adding: "I help people who need it.”
+After telling her I was reporter writing about scams, she replied: “I believe you sweety."
+It’s unlikely that I was having a conversation with an attractive model/soldier named Gina. But I was clearly talking to someone - the interactions were too human, too varied, to be some kind of automated bot or script.
+As ever with cybercrime, it’s extremely difficult to pin down the source. But there are some clues.
+ZeroFox attempted to turn the tables on scammers by getting them to click on links that would log their internet addresses.
+“We were able to flip the switch and social engineer them right back,” says Philip Tully, a ZeroFox researcher.
+"We saw different IP addresses coming out of Chicago, some out of Detroit and some out of California."
+However, IP addresses can be masked in order to evade detection - meaning the real locations of the scammers is difficult to prove.
+ZeroFox says it has not passed its research to Instagram or law enforcement agencies. But it is providing it to its financial institution clients to follow up if they choose.
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

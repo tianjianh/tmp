@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170301004446/http://www.bbc.com/news/technology-35472884
+
+[SN]TITLE[SN]
+Security flaws found in smart tech
+
+[SN]FIRST-SENTENCE[SN]
+New research has highlighted security issues on four separate smart gadgets.
+
+[SN]RESTBODY[SN]
+A smart doorbell, a connected camera, a child's toy and a locator to help monitor children were all found to be vulnerable to straightforward attacks.
+The default passwords and bad security practices could have leaked data to attackers, said the research teams.
+However, all four firms have acted on the warnings, tightened up code and closed loopholes.
+"The problem with the Internet of Things these days is that everyone is becoming an IT shop whether they like it or not and whether they realise it or not," said Tod Beardsley, security research manager at Rapid7, who uncovered problems with two of the devices.
+While IoT device makers were writing code more confidently, few took the extra design steps to make sure the programming they put into smart devices was secure, the researchers found.
+Mr Beardsley checked the security in two devices from separate firms:
+The way the bear communicated with the web was poorly configured, he found, so attackers could have interrogated it to find out more about its young owner, their family and home network.
+Similar problems were found with the HereO watch that could have let an attacker add themselves to a group of watches used by a family or other group.
+HereO's chief technology officer said his team fixed the flaw within four hours of being alerted to it.
+"We not only appreciate Rapid7's feedback, but also welcome and embrace the valuable support of the global IoT [internet of things] community in our relentless efforts to maintain a bar-none, zero-tolerance environment for the safety and security of our users," said Eli Shemesh.
+"As HereO at the time had yet to commercialise its GPS watches, at no point was any child at risk of any malicious activity."
+Separately, researchers at Context IS uncovered security issues with a Motorola Focus outdoor camera.
+If exploited, the lapses could allow a camera to be taken over and remotely controlled by an attacker and used as an entrance to infiltrate a network to which it was connected.
+Security experts at Pentest Partners also found problems with Ring - a smart doorbell fitted with a video camera that uses an app to beam video of callers to a phone.
+But by removing the cover of the gadget and pressing its set-up key it becomes possible to recover the key to the wi-fi network to which it is joined, found the security testing firm.
+All the security failings found by the researchers were reported to the respective firms and all have now been patched or fixed.
+Ken Munro from Pentest Partners said Era Home Security was "quick to respond" to the report of the bug.
+Tod Beardsley from Rapid7 said getting the security bugs fixed in the two devices he studied was a "good and surprising outcome".
+"I was expecting the usual emotional response of, 'How dare you hack our stuff?' and 'What's your motivation?'" he told the BBC.
+"But both firms were very mature about it."
+He added that there were no reports of IoT devices being targeted by attackers as yet but security firms were keen to get product designers thinking about ways to secure their creations as soon as possible.
+Industry initiatives such as BuildItSecure.ly have been created that attempt to educate gadget makers about secure coding.
+"We are seeing the deployment of internet of things devices accelerate," he said, "but we can still get ahead of the curve and prevent some future disasters."

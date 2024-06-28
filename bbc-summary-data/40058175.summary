@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170530010329/http://www.bbc.com/news/technology-40058175
+
+[SN]TITLE[SN]
+Subtitling systems contain 'widespread' security threat
+
+[SN]FIRST-SENTENCE[SN]
+Film fans could be vulnerable to attack by hackers who hide malicious code inside files that provide subtitles, a security firm has warned.
+
+[SN]RESTBODY[SN]
+Checkpoint Software found loopholes in the way four popular media players handle subtitles.
+Poor checking of subtitle files, the different formats they use and problems with the websites that store the files all introduced weaknesses, it said.
+Checkpoint said it had reported the bugs it found to media player makers.
+The researchers found the bugs by analysing how the VLC, Kodi, Popcorn Time and Strem.io media players handle subtitle files. All four programs have been downloaded hundreds of millions of times, suggesting a large number of people are vulnerable, they said.
+Attackers who exploited the vulnerabilities found in the subtitling ecosystem would more than likely be able to completely take over a PC, tablet or smart TV, said Checkpoint. Attackers could steal information, carry out denial of service attacks or install ransomware.
+In a blog detailing the findings, the security firm said it was one of the "most widespread, easily accessed and zero-resistance vulnerability [sic] reported in recent years".
+Typically, media players are programmed to automatically look online for files that can provide subtitles.
+The players expect subtitle files to contain text only, so most do not look to see if anything malicious has been inserted instead, said the security firm.
+In addition, the recommendation systems of the subtitle file stores could be manipulated, allowing attackers to ensure booby-trapped versions would be picked ahead of legitimate files, Checkpoint said.
+The security problems are exacerbated by the large number of formats - more than 25 in total - used to prepare subtitle files. The media players tested by Checkpoint used many different methods of reading data from these formats, leaving them open to many different sorts of vulnerabilities.
+"While the weakness doesn't appear to have been exploited in real-world attacks, that such a glaring problem exists under everyone's noses is wearying," wrote John Dunn, a security researcher at Sophos.
+Mr Dunn advised people to update their media player software as quickly as possible.
+"The next time you play a movie on any device, make sure cyber-criminals aren't playing you," he said.
+All four makers of the media players Checkpoint analysed have produced updated versions that do a better job of policing subtitle files.
+However, the safer versions are not being provided automatically, suggesting many media players will remain vulnerable for some time to come.

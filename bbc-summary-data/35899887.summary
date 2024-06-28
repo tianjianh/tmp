@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170213050905/http://www.bbc.co.uk/news/technology-35899887
+
+[SN]TITLE[SN]
+Amazon's Raspberry Pi guide lets coders use Alexa
+
+[SN]FIRST-SENTENCE[SN]
+Amazon has published an online guide explaining how to access its virtual assistant Alexa via a Raspberry Pi.
+
+[SN]RESTBODY[SN]
+The technique presents a lower-cost alternative to buying one of its Echo devices - which are not yet available outside of the US - and an incentive to gain computer skills.
+The walkthrough includes access to the necessary app data and certificates in order to link the budget computer up to the tech giant's servers.
+Coding experts welcomed the initiative.
+The Raspberry Pi pocket-sized computer was designed by a British charity to encourage children and others to learn how to write computer programs. More than eight million units have been sold or given away.
+Amazon says that users require at least the second-generation model, released in February 2015, as well as:
+Most Raspberry Pi owners would already own most if not all of these add-ons.
+The coding involved is limited to typing in sets of commands, but the guide explains the purpose of each one.
+Users also need to register for an Amazon Developer Account, which they can get for free.
+Rik Cross, from the UK's after-school Code Club initiative, described it as an "interesting project", but added that parents should be aware of the privacy implications involved.
+"It's important to remember that this data could be captured and stored by Amazon, in the same way that any website can store the data provided," he told the BBC.
+"However, with the Raspberry Pi version, communication is via a button press, and so this serves as a much more 'active' way of interacting with the service, rather than a service that 'passively' listens to all your nearby conversations, as is the case with the Echo."
+Amazon's Alexa service can be used to stream music, provide weather and news updates, create lists and answer general knowledge questions.
+The online retailer was relatively late to the field - following Apple's Siri, Microsoft's Cortana and Google's Now services.
+But the firm has sought to make Alexa popular by allowing third-party developers to offer the facility. An internet connection is required because Amazon's own data centres do the processing required for the voice recognition and other artificial intelligence tasks involved.
+France's Invoxia became the first to take up the offer last year with Triby, an Alexa-powered fridge speaker.
+In January, a New York-based developer released a tutorial of his own explaining how a Raspberry Pi could be used to create an Echo-like device.
+But Amazon's guide, which has been published on the code-sharing site Github, is likely to drive interest in the idea.
+"Anything that helps people to make and create with the technology that was otherwise closed, mysterious and inaccessible seems like a good thing to me," commented Bethany Koby, co-founder of Technology Will Save Us - an education-focused start-up currently involved with the launch of another mini-computer, the Micro Bit.
+"What it doesn't do is create a way for a broader 'untechy' audiences to partake - but that isn't really its intention."
+Those not attracted by the idea can download an Alexa app for devices powered by Google's Android or Apple's iOS operating systems - however, the apps are restricted to US-based users at this time.

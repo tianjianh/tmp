@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151105151325/http://www.bbc.co.uk/news/uk-politics-34731735
+
+[SN]TITLE[SN]
+How and why M15 kept phone data spy programme secret
+
+[SN]FIRST-SENTENCE[SN]
+Home Secretary Theresa May has revealed the existence of an MI5 programme to collect vast amounts of data about UK phone calls - how and why was it kept secret?
+
+[SN]RESTBODY[SN]
+MI5's bulk communications data programme was so secret that until recently its existence was tightly held even within the headquarters of the security service.
+Officials were aware that it could be seen as overly intrusive - especially in the wake of revelations about a similar programme in the US - but they also believed the programme was valuable in finding terrorists.
+The programme involved getting hold of phone communications data in bulk - not the content of phone calls but the details of which phones were connecting to other phones and when.
+This could be used to quickly look for networks of contacts by seeing which other phones a suspicious number might be in touch with in a way and at a speed that would not be possible by making individual communications requests to service providers for each individual phone they came across.
+It is thought that the capability had first been authorised in the wake of the 9/11 attacks in the US but had only really been put into use after the 7 July, 2005 attacks and had been repeatedly re-authorised since then (although the number of times it was actually used is less clear).
+My sources previously told me that the technique of using call records had been deployed in hunting for the would-be bombers in the wake of the 21 July, 2005 failed attacks.
+The men had abandoned their phones and practised good operational security.
+But by looking at call records in bulk, it was possible to look at which phones were connecting to family and other associates of the men and it was this information which helped trace some of them to West London where they were arrested (another was arrested in Italy).
+However, when publishing that story I was met with silence from security officials about what capability had been used and on what legal basis.
+It is now clear that the capability was authorised by an obscure but sweeping clause in the 1984 Telecoms Act which basically allowed the government to order a telecoms company to do anything it directed and to keep that secret.
+This was precisely the kind of power that David Anderson QC, who reviewed the existing surveillance legislation, described as "undemocratic" because of its lack of transparency.
+"It wasn't illegal in the sense that it wasn't outside of the law, it is just that the law was so broad - and the information so slight - that nobody knew it was happening," he said.
+"It seems to me that was anti-democratic," David Anderson QC told me in the wake of the confirmation of the capability, adding that he did give credit to the government for now revealing it.
+The existence of the clause was public but few understood how sweeping its use could be. And MI5 wanted that secret kept partly because of the sensitivity of the fact that British telecoms companies were passing on so much customer data to them.
+On the surface the MI5 bulk data programme looks similar to the US programme revealed by Edward Snowden in the US.
+The first story published based on Snowden documents was a highly secretive court order to the company Verizon - the first sign of what would be called the 215 metadata collection programme.
+The Snowden documents related to work by the US National Security Agency (NSA) and its British counterpart GCHQ but did not relate to the work of other agencies such as MI5, which is focused on domestic threats.
+In a way, the puzzle in the US was always why the NSA - a foreign intelligence agency - had got into the business of analysing domestic phone records.
+Part of the reason was that the priority was hunting for terrorists with connections abroad or who had come into the country (as had been the case in the 9/11 attackers) and partly because it was the NSA and not the domestically-focused FBI who had the technical experience in large data sets and techniques like contact chaining (the ways in which different people's phones connect together).
+In the UK though, the capability for bulk domestic call record analysis sat more logically within MI5.
+But one result was that while GCHQ's programmes were exposed by Snowden, this one by MI5 remained secret.
+And in a way that became increasingly awkward for the security service as the drive towards being more open about capabilities picked up pace in the wake of the report by David Anderson, the independent reviewer of terrorism legislation, earlier in the year.
+There were hints about the capability in the speech by MI5 boss Andrew Parker the week before the draft Investigatory Powers Bill was published, when he talked about how "accessing data quickly, reliably and at scale is as fundamental to our workâ€¦..without communications data for example we could not have detected and disrupted numerous plots over the last decade."
+He, like the home secretary, claimed that bulk communications data was used to "identify, at speed, links between the individuals plotting to bomb the London Stock Exchange in 2010".
+Now - along with other capabilities - the bulk data programme is out in the public and up for debate with a new authorisation process promised in the draft Investigatory Powers Bill, which proposes replacing the secretive clause of the 1984 Telecoms Act.
+"It is a power that the agenciesâ€¦have found very useful since the 7/7 attacks ten years ago and I am sure they will want to defend it," argues David Anderson.
+"But it is absolutely right that they should have to defend that power in the public space where people evaluate the claims they make and evaluate the risks as well as the benefits."

@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170216163019/http://www.bbc.co.uk:80/news/technology-28208905
+
+[SN]TITLE[SN]
+Smart LED light bulbs leak wi-fi passwords
+
+[SN]FIRST-SENTENCE[SN]
+Security experts have demonstrated how easy it is to hack network-enabled LED light bulbs.
+
+[SN]RESTBODY[SN]
+Context Security released details about how it was able to hack into the wi-fi network of one brand of network-enabled bulb, and control the lights remotely.
+The LIFX light bulb, which is available to buy in the UK, has network connectivity to let people turn it on and off with their smartphones.
+The firm behind the bulbs has since fixed the vulnerability.
+Michael Jordon, research director at Context, explained how he was able to obtain the wi-fi username and password of the household the lights were connected to.
+"We bought some light bulbs and examined how they talked to each other and saw that one of the messages was about the username and password," he told the BBC.
+"By posing as a new bulb joining the network we were able to get that information," he added.
+"We were able to steal credentials for the wireless network, which in turn meant we could control the lights."
+The LIFX project started off on crowd-funding website Kickstarter. Billing itself as the "light bulb reinvented", it brought in over 13 times its original funding target.
+The master bulb receives commands from the smartphone applications and broadcasts them to all the other bulbs over a wireless mesh network.
+While it had taken two experts two weeks to crack the system, the equipment they had used was cheap and readily available, said Mr Jordon.
+LIFX said that it had updated its software since being notified of the vulnerability.
+In a blog post, the firm said: "There was a potential security issue regarding the distribution of network configuration details on the mesh radio but no LIFX users have been affected that were are aware of.
+"As always we recommend that all users stay up-to-date with the latest firmware and app updates."
+Increasingly everyday objects are being connected to the network, a phenomenon known as the internet of things.
+The number of objects that can potentially be hacked is set to rise exponentially, according to research firm Gartner.
+It estimates that there will be 26.5 billion physical objects embedded with technology by 2020. It believes the industry will be worth $1.9tn (Â£1.1tn) by that time.
+"Whereas phones and laptops have had a longer time to sort out security issues, these newer devices haven't learnt and are therefore easy gateways into hacking," said Mr Jordon.
+"Security costs time and money and some manufacturers are not putting in the right level of security."
+Brian McGuigan, commercial director at Silver Spring Networks, a firm providing networks for smart cities and smart lighting, said the issue of security was not limited to devices for the home as more and more of the furniture in cities was also connected to the network.
+"The buyers in cities have a low understanding of security, and they need to be encouraged to leverage the security standards that have been widely used in other industries."
+"The internet of things is a building block for cities but a lot of companies offering products are start-ups and under pressure to get to market quickly."

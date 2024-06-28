@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160727021805/http://www.bbc.co.uk/news/technology-36764548
+
+[SN]TITLE[SN]
+O2 customer data sold on dark net
+
+[SN]FIRST-SENTENCE[SN]
+O2 customer data is being sold by criminals on the dark net, the Victoria Derbyshire programme has learned.
+
+[SN]RESTBODY[SN]
+The data was almost certainly obtained by using usernames and passwords first stolen from gaming website XSplit three years ago to log onto O2 accounts.
+When the login details matched, the hackers could access O2 customer data in a process known as "credential stuffing".
+O2 says it has reported the case to police, and is helping the inquiry.
+It is highly likely that this technique will have been used to log onto other companies' accounts too.
+The data for sale included users' phone numbers, emails, passwords and dates of birth.
+It was shown to the BBC by an ethical hacker, Mike Godfrey from Insinia Security, who found the information listed for sale on a dark net market. The dark net is a part of the internet that is only visible to people using specialist web browsers, and is often used for illegal activity.
+BBC reporters purchased a small sample of customer details from the seller to investigate further and contacted O2. Together, the investigating teams believed it was the result of credential stuffing.
+This is where a criminal uses a piece of software to repeatedly attempt to gain access to customers' accounts by using the login details it has obtained from elsewhere - in this case, a November 2013 attack on gaming website XSplit. When successful, a customer's details can be retrieved and sold.
+Computer security expert Graham Cluley said that when customer details are stolen from a website "one of the first things the criminals will try to do is see if any stolen passwords might unlock other sites online - potentially spilling more secrets about us, and opening us up to fraud and identity theft".
+All the O2 account holders whose details the BBC has seen have been informed, with many saying they had used the same login for other online accounts.
+Hasnain Shaw, from Chester, was one of the people whose details we obtained. His data had already been used elsewhere to access more accounts.
+"I was away from home when eBay contacted me to say there was some suspicious activity on my account. I checked and it looked like there were cars for sale on my account.
+"Four weeks ago, I got a similar email from Gumtree. It looked like the same people had got access to that account because it was the same cars being advertised."
+He said he had used the same email address and password for both these accounts and the one with O2, but has since changed them. Before this happened he had considered himself secure online and internet-savvy.
+"I am considering using a password manager and two-step authentication, although nothing is foolproof," he added.
+O2 said in a statement: "We have not suffered a data breach. Credential stuffing is a challenge for businesses and can result in many company's customer data being sold on the dark net.
+"We have reported all the details passed to us about the seller to law enforcement and we continue to help with their investigations."
+The Victoria Derbyshire programme is broadcast on weekdays from 09:00-11:00 on BBC Two and the BBC News Channel.

@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170402034849/http://www.bbc.co.uk/news/technology-36358517
+
+[SN]TITLE[SN]
+Oculus anti-piracy update cracked in a day
+
+[SN]FIRST-SENTENCE[SN]
+An anti-piracy update for the Oculus virtual reality platform has been cracked within a day of release.
+
+[SN]RESTBODY[SN]
+The update lets games verify that they were legitimately purchased and are running on an approved Oculus device.
+It also breaks an unofficial patch called Revive that lets Oculus-only games run on rival devices.
+But Revive's creator found he could disable digital rights management (DRM) in Oculus titles completely to keep the patch working.
+That also stops software from verifying it has been legally purchased, paving the way for pirates to copy Oculus games.
+"DRM as a means to prevent piracy is rather futile," said Ernesto Van der Sar, founder of news website TorrentFreak.
+"If there's a demand to use a product or access a service, people will often find a way around DRM and other technological blockades.
+"History has shown many examples of how it mostly inconveniences legitimate customers."
+Facebook-owned Oculus has invested in exclusive software titles to encourage people to buy its virtual reality headset over competing devices.
+The Revive patch, created by Libre VR, translated some of the functions of Oculus games into the OpenVR language, which is compatible with HTC's Vive and other headsets.
+In December 2015, the company's founder Palmer Luckey said he did not mind if gamers did this.
+"If customers buy a game from us, I don't care if they mod it to run on whatever they want," he wrote on online community Reddit.
+He added that his goal was "not to profit by locking people to only our hardware".
+The update to the Oculus operating system, released on Friday, introduced a new "platform integrity check" that let software identify whether an Oculus-approved headset was being used.
+The developer of Libre VR responded with a new patch that bypassed DRM checks in some games completely. But that not only prevented software from checking whether it was being run on an Oculus headset, but also whether it had been legally purchased.
+"This is my first success at bypassing the DRM, I really didn't want to go down that path," said the developer.
+He told online technology magazine Motherboard: "By disabling the ownership check the game can no longer determine whether you legitimately own the game.
+"I still do not support piracy - do not use this library for pirated copies."
+Oculus has previously said people should not expect hacked games to work "indefinitely".
+"Regular software updates to games, apps and our platform are likely to break hacked software," the company told technology news website Ars Technica in April.
+Many gaming companies including Sony and Microsoft protect their software with some form of DRM, but Ernesto told the BBC it was not a surprise the Oculus update had been cracked so quickly.
+"Oculus should focus on providing a superior platform and the best games instead of focusing on piracy at this point," he said.
+"It's impossible to defeat piracy completely, but lessons from the movie and music industry show that providing great legal options work better than anti-piracy measures."

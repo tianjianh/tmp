@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170119235113/http://www.bbc.co.uk:80/news/science-environment-38656962
+
+[SN]TITLE[SN]
+Aeolus wind mission heads for test and launch
+
+[SN]FIRST-SENTENCE[SN]
+British engineers have finished assembling a satellite that experts believe could have a transformative impact on our weather forecasts.
+
+[SN]RESTBODY[SN]
+The Aeolus spacecraft will fire a laser into the atmosphere to make the first three dimensional maps of wind behaviour across the entire planet.
+The data will be incorporated into the models that project weather patterns a few days ahead.
+It is information that should give more warning of approaching storms.
+It ought also to remove some of the surprises associated with weather systems that end up behaving in a very different way to how they were forecast.
+"We pride ourselves on being able to forecast the weather a little bit more than a week ahead with acceptable quality," said Prof Erland Källén from the European Centre for Medium-Range Weather Forecasts (ECMWF).
+"But of course there are situations when our forecasts are poor and in many cases we have tracked that down to likely errors in the initial state - that is, we have a lack of observational information and, in particular, of winds in the tropics," he told BBC News.
+Meteorologists have multiple ways of measuring the wind, from whirling anemometers and balloons to satellites that infer wind behaviour by tracking cloud movement or by sensing the choppiness of the seas.
+But these are all somewhat limited indications, telling us what is happening in particular places or at particular heights.
+The European Space Agency's (Esa) Aeolus satellite is a completely new approach.
+With its ultraviolet laser, it will aim to build a truly global view of how wind blows on Earth from the surface of the planet all the way up through the troposphere and into the stratosphere (from 0km to 30km).
+It will achieve this by measuring how the pulses of light from its laser are scattered back off air molecules and water droplets, even particles of dust. The return signal will betray not only the altitude of wind streams but also gather some information about their speed and direction.
+"The molecules in the air and the clouds move with the wind and that motion causes a shift in the frequency of the return signal," explained Prof John Remedios, the director of UK's National Centre for Earth Observation.
+"The laser sends out a signal at one frequency and you get it back at a slightly different frequency. It's called the Doppler effect and you'll be familiar with it from the usual story of how an ambulance siren changes as it passes you in the street."
+Aeolus actually only sees the movement of the scattering particles away or towards the satellite - but this is still information the numerical weather models can make great use of.
+Engineers at Airbus in Stevenage have led the assembly of Aeolus. It has been a challenging project on many levels.
+The mission should have been in orbit in 2007 but the technologists in France and Italy who led the design and development of the laser system struggled to find a configuration that could work reliably in the vacuum conditions of space.
+Tests revealed that in the absence of air, the laser would degrade its own optics. The solutions had to be invented.
+"Normally it's something of a sad occasion when we say goodbye to satellite but perhaps not in this case. It's been taking up space in our cleanroom for a bit too long," quipped Andy Stroomer, the head of Earth observation, navigation and science at Airbus in the UK.
+The fact that Esa has stuck with Aeolus all this time says something about how compelling its data is likely to be.
+Currently, meteorologists launch somewhere in the region of 1,300 weather balloons (radiosondes) every day across the globe to gather wind and other atmospheric information. Simulations suggest with Aeolus, it will be as if that number balloons is being doubled.
+"The World Meteorological Organization has stated that there is a gap in the wind observing system and that (getting) wind profiles at all levels and outside populated areas is the number one priority for global numerical weather prediction," said Gemma Halloran, a research scientist at the UK Met Office.
+Aeolus is leaving Stevenage for Toulouse where it will be tested to ensure it can handle the vibration and noise it will experience on the rocket that takes it into orbit.
+From France, it goes to Liège in Belgium for another round of testing, this time inside a thermal vacuum chamber. This will be an end-to-end check on the performance of the laser system under space-like conditions.
+If it comes through all that, Aeolus will be ready to go to the launch site in French Guiana. A Vega rocket is booked for the end of the year.
+The satellite will be placed at an altitude of 320km where it will circle the Earth measuring winds for at least three years.
+Weather agencies across Europe plan to start using its data in their forecasts as soon as it is practical to do so.
+This does raise the issue of course of what happens when Aeolus ceases working, as will inevitably be the case at some point. All spacecraft eventually run out of fuel or suffer mission-ending component failure.
+When that happens, the improvements in forecasting will be lost as well. But Esa's Aeolus project manager, Anders Elfving, said that if Aeolus delivered on its promise the case for a replacement could then be made.
+"Because we've had some problems in the development of Aeolus, no-one has yet been inspired to talk about an operational system or an Aeolus-2. But I'm convinced, and I've seen this before - once you prove the efficiency in orbit, people start saying 'we need continuity in orbit'," he told BBC News.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

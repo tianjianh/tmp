@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170217035836/http://www.bbc.co.uk/news/business-36854291
+
+[SN]TITLE[SN]
+New gaming battleground lies in the cloud
+
+[SN]FIRST-SENTENCE[SN]
+Maurizio Sciglio has a problem. For three years he has been developing a technology that harnesses the power of the internet to supercharge the capabilities of games consoles, PCs, and even smartphones.
+
+[SN]RESTBODY[SN]
+The problem? His technology falls under the catch-all term "cloud gaming", a somewhat toxic phrase associated with false dawns and failures.
+It's a dilemma akin to creating a next-generation operating system - and having to call it Windows 8.
+In 2013, Mr Sciglio co-founded Edinburgh-based Cloudgine. His company uses the near-limitless power of cloud server farms to compute complex tasks and send the results to a device in milliseconds.
+In theory that means a games console could share, or completely offload, complicated calculations while it focuses its brainpower on something else. "We identified that there was not enough compute power available on consoles and PCs," Mr Sciglio tells the BBC.
+A PC's Central Processing Unit (CPU) - the brains where the calculations take place - are pretty limited against the "essentially unlimited power of resource" of Microsoft's Azure or Google Cloud, he says.
+"To be honest, pretty much everything in a game is difficult to run from a CPU perspective. So what we do is offload the tasks and run them in the cloud. We're essentially borrowing power from the internet," he says.
+If Mr Sciglio's comments seem familiar, that might be because it echoes the rhetoric of cloud computing firm Onlive, which in 2009 promised a future where games were rendered on server farms and seamlessly streamed to homes over the internet.
+It was meant to be the games equivalent of Spotify, opening the chance to enjoy the latest interactive entertainment on even modestly powered machines.
+The next Grand Theft Auto, the theory went, would be played on an Apple TV, or any middleweight device, providing it had a high-speed broadband connection.
+Some analysts valued Onlive at $1.8bn. But after two years of underperformance, in August 2012 the company laid off all its workers, and its assets were eventually sold for less than $5m.
+"We've been thinking hard about what to call our technology," Mr Sciglio says. "If we call it cloud gaming then people will think of Onlive and it won't really help our reputation."
+Onlive had many challenges. but perhaps the most difficult was latency, or time delay. It is the perceivable amount of time players wait for a game to send commands to a data centre and then send back the results.
+For games where triumph and failure hinge on split-second decisions - and so many of them do - even a tiny delay was unacceptable. For many people, cloud gaming just didn't measure up.
+But from the ashes of Onlive, a new cloud computing paradigm has emerged. Boyd Multerer, one of the key architects of the Xbox One, who left Microsoft in 2014, refers to it as a hybrid model.
+Mr Multerer, now an independent coder based in Seattle, believes that rendering an entire game over the internet without any latency was always futile.
+"There are a couple of things in the way. The speed of light, and the second law of thermodynamics. Those two are very difficult things to overcome," he says.
+"The question for developers is, can you do things, when designing your game, which work around these problems? This is where all the excitement is. This is where all the effort is."
+Mr Multerer's theory is that, while a standalone games console has its power limits, and cloud gaming has latency problems, perhaps a Goldilocks approach - striking a warm balance between both - could unlock the full potential of cloud gaming.
+Take Street Fighter, for example, a hugely-popular fighting game where a major time delay is likely to end in players being knocked out of the action. "The gameplay is extremely latency sensitive," Mr Multerer says. "If the end-to-end latency is above 30 milliseconds, you're dead."
+That's no exaggeration. It seems unbelievable, but battle-hardened Street Fighter players often use a technique called a one-frame-link, which is effectively an inescapable attack combo where the inputs are as precise as a sixtieth of a second, or roughly 17 milliseconds.
+It's a move so fast that it is not performed by reaction or forethought, but instead muscle memory. At optimal levels, Onlive rarely managed a latency better than 135 milliseconds.
+"But here's the thing with Street Fighter, the entire background image isn't latency sensitive at all. It's just the fighters that need to be rendered superfast. Now, is the background most of the pixels? Yes. So in a hybrid model, the background can be a beautiful image rendered in the cloud, while the console can focus all its power on the fighters. That's the best place to be," Mr Multerer says.
+The first game to fully adopt this hybrid cloud computing tech is Crackdown, on Xbox One, which is scheduled for release in 2017.
+Crackdown allows players to fire rockets into skyscrapers and watch them buckle and collapse in real-time. Such detailed scenes of destruction would usually overburden a console's memory and processors, meaning the picture would lag or the game itself even crash.
+But now it is achievable because Crackdown sends those complex calculations to Microsoft's Azure servers, which sends back the results within a few milliseconds.
+There is still a delay when the data is sent to Microsoft's servers, calculated and sent back, but that's not something so easily perceptible when watching a building collapse.
+Meanwhile, Crackdown's controls and character animations will still be handled offline by the console, meaning it will be as fast and responsive as ever.
+"Do you care if there's a three millisecond delay when a building is collapsing?" Mr Sciglio asks. "No, of course not. The latency is hidden."
+Crackdown is marketed by Microsoft as a major release for its Xbox One, and will serve as the acid test for server-enhanced gaming. If successful, it could pave the way for more projects that take a similar approach.
+Mr Sciglio is, of course, bullish about its prospects: "We think in one way or another, most games will be using cloud computing within five years."
+He adds that, for the past six months, his team has been applying the tech to an unannounced virtual reality (VR) game.
+"VR is a technology that is even more relevant for us, because it demands so much - 90 frames-per-second, stereo rendering. You're putting so much pressure on your local device. We feel cloud computing can help greatly in this area. We haven't announced anything yet, but we're working on a high-profile virtual reality game."
+But Mr Multerer foresees a different direction for the technology. He believes one of the best modestly-powered devices that can take advantage of cloud computing is the one in our pockets.
+"Why can't I just hook my phone up to my TV? I'll need a cable and a controller, but I won't need to buy anything else. My phone is my games console."
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

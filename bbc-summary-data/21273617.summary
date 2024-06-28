@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225164505/http://www.bbc.co.uk/news/technology-21273617
+
+[SN]TITLE[SN]
+How the New York Times cleaned house after its hack attack
+
+[SN]FIRST-SENTENCE[SN]
+If your house was infested with mice, the chances are that you would call a pest control firm to get rid of them.
+
+[SN]RESTBODY[SN]
+Once they had done their work, you might go as far as to replace some of the furniture nibbled by the rodents but you probably wouldn't replace every single item they had touched.
+Yet that was the approach taken by the New York Times when it cleaned house after its internal network was infested by a more modern nuisance - computer hackers.
+Every device, be it a laptop or chunk of network hardware, known or thought to have been compromised by the Chinese hackers was thrown out and replaced with a shiny, and more importantly, clean machine.
+The newspaper wanted to be sure that no trace of the hackers remained.
+In addition, the NYT beefed up its defences, blocked access from other compromised machines that had been used to get into its network and found and removed every back door into the newspaper's network.
+The decision to replace computers was motivated by the all-encompassing access that the attackers had to the NYT network. In an article detailing the attack, the NYT said the Chinese attackers had access for at least four months.
+Graham Cluley, senior technology consultant at security company Sophos, which often helps companies cope with intrusions by hackers, said replacing all those machines was "a bit extreme".
+"Normally, the most extreme measure is to reformat drives or completely wipe them but even that would be a bit of a sledgehammer," he said.
+Reformatting and wiping drives was sufficient to defeat even those malicious programs that buried themselves deep in the heart of the Windows operating system, he said.
+"Usually they would put a clean Windows installation on there rather than chuck out the hardware," he added.
+Mr Cluley speculated that the NYT threw out the machines to reassure partners, employees and others that the intrusion had been dealt with.
+The lingering problem, he said, was that the NYT was still not sure how its attackers won access to its network.
+The NYT suspects a so-called "spear phishing" attack that sent targeted, booby-trapped messages to a few key individuals. After they had won access to one computer, the attackers may have used that as a lever to pry open other parts of the network.
+"It can be very difficult to determine when and where the initial entry point was," he said, adding that without firm information about that, throwing out the old hardware might be a reasonable choice.
+The attack on the NYT was just one example of a growing number of attacks, seen by Sophos and other security firms, said Mr Cluley.
+While some attackers got in and out quickly when they had stolen payment information, others were content to lurk inside a network for months, seeking out useful internal information including intellectual property, design documents or confidential financial plans.
+"This was a long-term operation to steal intelligence and information that went under the radar," he said. "These sorts of targeted attacks that use unknown vulnerabilities do seem to be on the rise."
+"Security starts with knowing what you have," said Stephen Schmidt, chief security officer at Amazon's web services told the BBC in an earlier interview. Mr Schmidt is a former FBI investigator who specialised in intrusion analysis.
+Mr Schmidt said many companies had discovered that one consequence of using cloud-based services was that it forced them to find out everything about their internal network. The very act of shifting from an in-house data centre to an on-demand service can start a powerful discovery process.
+"You can see exactly what you have," he said. "There are no more dusty corners that someone can get to."
+In addition, because most cloud-based services used standardised hardware and software it was far easier to keep an eye on who was doing what. A similar level of scrutiny was much harder to manage on the infrastructure a company had grown up with, he said.
+"In the cloud... by definition you cannot log someone on under the desk," said Mr Schmidt.

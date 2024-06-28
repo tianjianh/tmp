@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160729235535/http://www.bbc.co.uk/news/uk-13025228
+
+[SN]TITLE[SN]
+Ceop website form 'could have put children at risk'
+
+[SN]FIRST-SENTENCE[SN]
+An investigation is under way after a web page - set up to protect children online - was found to be insecure.
+
+[SN]RESTBODY[SN]
+A member of the public found a form on the Child Exploitation and Online Protection Centre's website - to report alleged offenders - was unencrypted.
+Security experts have described the breach of data as a serious error which could have put children at risk.
+The agency told the BBC the risk was hypothetical and it has now been fixed so any crime can be reported safely.
+There will now be a full investigation by the Information Commissioner's Office.
+The unencrypted pages meant personal details entered on the site could have been visible to anyone with a sinister motive.
+But Ceop spokesman Peter Davies said: "The security was not as good as it should have been but it's been fixed now. But to have accessed it you would have had to have really gone hunting for it and would have had to have had very high levels of expertise."
+He explained that all secure website carried the prefix https, compare to http for insecure ones.
+But he said people coming to the form from third party websites, such as Google or Facebook, were coming through to an http address, rather than an https address.
+It meant that those with some technical expertise might have been able to access confidential details on the form.
+"It was only a hypothetical risk and there is no evidence anybody's details have been compromised," said Mr Davies.
+Ceop was set up in 2006 to help find and convict paedophiles, as well as working to keep young people safe from online predators.
+It has run several campaigns and educational programmes for schools designed to alert children to such dangers.
+A plan to merge Ceop with a new National Crime Agency in 2013 was announced in July by the Home Secretary Theresa May.
+The decision prompted the resignation of its former head, Jim Gamble.

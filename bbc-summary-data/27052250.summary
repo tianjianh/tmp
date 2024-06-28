@@ -1,0 +1,57 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150730151918/http://www.bbc.co.uk/news/business-27052250
+
+[SN]TITLE[SN]
+Big risks for small businesses who ignore data security
+
+[SN]FIRST-SENTENCE[SN]
+The recent security scare over the Heartbleed bug should send shivers down the spines of most small businesses.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Selling globally is child's play
+Hi-tech start-ups aim for the stars
+Powering up firms with hi-tech cash
+Windows XP end puts firms in a fix
+Does success lie up in the clouds?
+There you are thinking all your online customer data is safe, thanks to popular open-source encryption software called OpenSSL, and it turns out to be anything but.
+This small vulnerability has potentially compromised two-thirds of all websites.
+"The main worry is for small e-commerce sites that do not know they have been affected," says Keith Cottenden, director at cybersecurity specialists CY4OR.
+"Any business that takes customer details could be vulnerable because this encryption is designed to protect personal data… Businesses need to apply mitigation now."
+But finding effective and affordable ways to keep "mission critical" data safe from hackers, fraudsters and natural disasters can be a daunting and difficult task for small firms.
+Poor data security can literally ruin your business.
+For example, weak security measures and alleged poor infrastructure brought Japanese Bitcoin exchange MtGox to its knees before it eventually went bust.
+The exchange, which was handling about 70% of the world's bitcoin trades at its height, said 850,000 of the digital currency coins were stolen by hackers.
+The company was forced to file for bankruptcy in February.
+But in March, MtGox then said it had found 200,000 "lost" bitcoins - worth about £70m - in an old digital wallet dating from 2011.
+When security is your business, such laxity is obviously disastrous.
+The UK's Federation of Small Businesses (FSB) believes unchecked cybercrime is severely stunting the growth potential of its members.
+Source: Federation of Small Businesses
+The risk of fraud and online crime, both real and perceived, is costing each UK small business up to £4,000 per year, the FSB says, while cybercrime as a whole costs the UK economy an estimated £27bn a year.
+About a third of FSB members have been victims of online crime over the last year, whether from virus infections, hacking attacks or other system security breaches.
+As well as the financial loss and inconvenience, there is the potentially disastrous loss of customer trust.
+Despite the critical importance of data security, many businesses appear almost oblivious to the risks.
+A 2013 survey by security software firm AVG revealed that a large amount of data loss occurs simply due to human error and carelessness.
+It seems many businesses are more concerned with tidying their desks or ordering new business cards than backing up data.
+A reported 43% of UK and 53% of US small businesses said they spend more time changing passwords than backing up.
+And about a quarter of them leave longer than a week between back-ups.
+"Too many times an act of carelessness or a security breach has led to information going missing, and in some cases businesses have found themselves in a position where the data is non-recoverable," a Microsoft spokesman told the BBC.
+Natural disasters can pose just as big a risk to small firms as cybercrime.
+An estimated 25% of businesses do not reopen following a major disaster, according to the Institute for Business and Home Safety, a not-for-profit organisation.
+In 2012, Hurricane Sandy destroyed thousands of small businesses in the US, while many others still felt the effects at least a year after the event.
+Rob Cotton, chief executive of Manchester-based NCC Group, a data security firm, told the BBC that adapting good security practices can be difficult for small businesses.
+"SMEs that are using their own IT services in-house need to consider the physical security of the equipment, as well as whether the IT is vulnerable to external threats," he says.
+"It's also important to consider the risk from your own staff, since many incidents result from rogue employees - the so-called 'insider threat'."
+A common piece of advice is to back up data securely and often, but should this be to locally stored servers or to remote cloud services?
+"Cloud providers will generally be more proactive in terms of ensuring software is up-to-date and maintaining patch levels," says Mr Cotton.
+"They will also have better security knowledge and awareness, meaning servers and services will generally be well configured. On top of this they are more resilient and most will have robust disaster recovery and continuity plans in place."
+Another advantage of the cloud is that thieves won't necessarily know which service your business uses or where it keeps its servers.
+But Mr Cotton admits there are certainly risks around adopting cloud services.
+One obvious one - often overlooked - is that the provider itself suffers a break in service or a breach of its defences, so it makes sense to interrogate the reputation and reliability of any cloud service provider very closely.
+"Putting business-critical information in the hands of a third party demands a degree of trust," said a Microsoft spokesman. "Solid providers will explain their security methodologies and commitment to the business."
+That said, a "belt-and-braces" local back-up plan may be a good idea.
+Small firms need to protect their data against viruses, malware and natural disasters, as well as disgruntled or careless employees.
+But how defences against these threats are implemented will depend upon the circumstances and nature of each business, experts say.
+In finance, keeping all your eggs in one basket is rarely a wise idea, and the same applies to data. So for maximum security, spreading data around both traditional and non-traditional services seems to be the best policy.
+Perhaps most importantly, the FSB stresses the need for education.
+If your managers and employees don't appreciate the need to protect data, the whole future of your business could be on the line.

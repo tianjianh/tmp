@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170427225333/http://www.bbc.com/news/technology-36744925
+
+[SN]TITLE[SN]
+Malware hits millions of Android phones
+
+[SN]FIRST-SENTENCE[SN]
+Up to 10 million Android smartphones have been infected by malware that generates fake clicks for adverts, say security researchers.
+
+[SN]RESTBODY[SN]
+The software is also surreptitiously installing apps and spying on the browsing habits of victims.
+The malware is currently making about $300,000 (Â£232,000) a month for its creators, suggests research.
+The majority of phones that have been compromised by the malicious software are in China.
+A spike in the number of phones infected by the malware was noticed separately by security companies Checkpoint and Lookout. The malware family is called Shedun by Lookout but Hummingbad by Checkpoint
+In a blogpost, Checkpoint said it had obtained access to the command-and-control servers that oversee infected phones which revealed that Hummingbad was now on about 10 million devices. China, India, the Philippines and Indonesia top the list of nations with most phones infected by the software.
+Hummingbad is a type of malware known as a rootkit that inserts itself deep inside a phone's operating system to help it avoid detection and to give its controllers total control over the handset.
+The ability to control phones remotely has been used to click on ads to make them seem more popular than they actually are. The access has also been used to install fake versions of popular apps or spread programs the gang has been paid to promote.
+"It can remain persistent even if the user performs a factory reset," wrote Kristy Edwards from Lookout in a blogpost. "It uses its root privileges to install additional apps on to the device, further increasing ad revenue for the authors and defeating uninstall attempts."
+Ms Edwards said the recent spike in infections could be driven by the gang behind the malware adding more functions or using their access to phones for different purposes.
+The malware gets installed on handsets by exploiting loopholes in older versions of the Android operating system known as KitKat and JellyBean. The latest version of Android is known as Marshmallow.
+In a statement, Google said: ""We've long been aware of this evolving family of malware and we're constantly improving our systems that detect it. We actively block installations of infected apps to keep users and their information safe."
+Google released the latest security update for Android this month and it tackled more than 108 separate vulnerabilities in the operating system. So far this year, security updates for Android have closed more than 270 bugs.

@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170315053921/http://www.bbc.co.uk/news/technology-35376327
+
+[SN]TITLE[SN]
+DDoS: Website-crippling cyber-attacks to rise in 2016
+
+[SN]FIRST-SENTENCE[SN]
+Cyber-attacks that bring down websites and online services have been getting bigger every year. But how will businesses cope in 2016?
+
+[SN]RESTBODY[SN]
+Distributed denial of service (DDoS) attacks work by overloading websites or other online services with traffic.
+They have the power to knock whole sites offline and are usually carried out by automated bots or programs.
+Victims of such attacks in the past month include the Irish National Lottery and the BBC while in 2014 the popular videogame Wurm was also hit.
+Darren Antsee, chief security technologist at software company Arbor Networks, believes the world is in an "arms race" between those carrying out DDoS attacks and those who try to defend against them
+His firm conducts an annual survey of internet service providers on the subject and the company also takes in data from its "Atlas" system - which monitors 300 providers every hour.
+Mr Antsee says this gives the firm an idea of what's happening across "about a third of the internet".
+A newly published report from the company suggests attacks are getting bigger and more sophisticated - with more and more businesses suffering.
+More than 200 of the reported attacks in 2015 summoned 100 gigabits per second (Gbps) of traffic, with the largest of these clocking in at 500 Gbps - enough to disrupt an entire internet service provider's network.
+To put that in context, in 2014 internet connectivity for the entire country of Kenya was about 500 Gbps.
+But Mr Antsee says the larger attacks are not the real story.
+Instead, it's the "big jump" in more sophisticated DDoS raids which, though smaller in terms of gigabits per second, target specific parts of a website which are more easily overwhelmed.
+These often involve some clever analysis of how a website functions before an attack is launched, according to John Graham-Cumming, chief technology officer at DDoS protection service Cloudflare.
+"If you know that, say, on an e-commerce website, adding something to the basket takes a long time, what we'll see is attackers doing that over and over again to consume resources," he says.
+What's even more worrying is that there is now a wide range of "booter" services which offer to launch DDoS against specific targets for as little as $10 (Â£7).
+"My sense is that DDoS is just part of the internet at this point - it happens," adds Mr Graham-Cumming.
+"It's a bit like petty crime."
+Mr Antsee concurs and points out that a variety of motivations could prompt attacks these days.
+The most common now, according to the Arbor Networks survey, is criminals flexing their muscles against online targets to demonstrate their capabilities.
+Businesses occasionally dabble in attacking competitors, and there are also reports of individuals using DDoS for extortion - in which a ransom fee is demanded from the owners of a victim site.
+Finally, it's also sometimes the case that DDoS attacks will take place for "ideological" reasons - a website supporting a political viewpoint might be thrown offline by supporters of the opposing view, for example.
+In terms of protection, companies like Cloudflare offer to analyse web traffic for signs of malicious requests which can often weed out unwanted connections.
+Mr Antsee adds that "infrastructure access control lists" (ACLs) can be installed in routers and switches to detect suspicious patterns in traffic.
+However, the more sophisticated attacks mentioned above which target weak points in a website's structure are not always preventable with such technology.
+"You need to be using more intelligent DDoS mitigation systems to absorb that kind of traffic," says Mr Antsee.
+Interestingly, he also comments that there is quite a large disparity between the number of attacks like this detected by service providers and the number seen by businesses - suggesting that more might need to be done before their true scale is understood.
+As a result of these developments, it is widely expected that the market for DDoS protection services is set to grow this year.
+Indeed, 74% of service providers surveyed by Arbor said they had seen an increase in such protections among their customers.
+"We certainly don't see things slowing down, the reality is, for a lot of websites, it's easy to knock them offline and so people do it," notes Mr Graham-Cumming.
+He adds that these days, it seems as though anyone could be a target.
+"Who gets DDoS'd? It's everybody, really."

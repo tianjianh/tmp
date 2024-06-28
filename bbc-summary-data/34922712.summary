@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151126015219/http://www.bbc.co.uk/news/technology-34922712
+
+[SN]TITLE[SN]
+Nest Cam smart camera is 'always on' even when 'off'
+
+[SN]FIRST-SENTENCE[SN]
+Researchers have discovered the camera in the Nest Cam security device is always operating - even when turned off by the user.
+
+[SN]RESTBODY[SN]
+When the camera is disabled via the Nest smartphone app, the device's light-emitting diode (LED) turns off but the camera continues to function.
+The discovery was made following analysis of the camera's power consumption.
+Nest Labs said no video data was transmitted when the camera was off.
+A team at ABI Research found that even when in "off" mode, the camera on the Nest Cam continued to draw a current of 340 mA, indicating that it was, in fact, still operational.
+"When a device goes to power down mode, you expect the current drain to drop quite a bit," said Jim Mielke, a senior analyst at ABI Research.
+"In this case, the current drain only changed slightly when given the turn off command, reducing from 370 mA to 340 mA. Typically, a shutdown or standby mode would reduce current by as much as 10 to 100 times."
+The Nest Cam is the latest product from Google-owned Nest Labs. It allows users to see a live video feed of their home remotely, via their smartphone.
+The device also has automatic motion and audio sensors, which can detect unusual activity and then alert the user via a notification.
+"When Nest Cam is turned off from the user interface (UI), it does not fully power down, as we expect the camera to be turned on again at any point in time," said Nest Labs in a statement.
+"With that said, when Nest Cam is turned off, it completely stops transmitting video to the cloud, meaning it no longer observes its surroundings."
+The statement added that the Nest Cam used 128-bit secure sockets layer (SSL) encryption, perfect forward secrecy and a 2,048-bit RSA key unique to each camera - security measures intended to ensure that video data is not accessible, even over the local wi-fi network.

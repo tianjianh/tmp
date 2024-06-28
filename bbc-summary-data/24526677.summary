@@ -1,0 +1,61 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150530080416/http://www.bbc.co.uk/news/technology-24526677
+
+[SN]TITLE[SN]
+Silk Road: Will cybercrime evolve in wake of takedown?
+
+[SN]FIRST-SENTENCE[SN]
+Silk Road, the infamous online marketplace for drugs and other illegal goods, was closed down by the FBI earlier this month. Since then its alleged founder, Ross Ulbricht - who denies being the site's operator known as Dread Pirate Roberts - has been taken into custody, and police forces around the world have been making arrests.
+
+[SN]RESTBODY[SN]
+It is a blow to the sale and distribution of harmful substances, including cocaine and heroin, as well as disrupting other criminal activities arranged online, such as the sale of weapons and hitmen for hire.
+But for how long will society have been made safer?
+Does it mean the end for illegal marketplaces hidden in the so-called "deep web", which depend on the anonymity provided by the Tor network and the Bitcoin digital currency to attract buyers and sellers?
+Tor (The Onion Router) is a part of the internet hidden to normal browser software, but accessible via a specially modified version of Firefox.
+It was invented by the US Naval Research Laboratory to help people use the net without being traced and aids anonymity in two ways.
+Firstly, it can be used to browse the world wide web anonymously. It does this by randomly bouncing the data packets involved through hard-to-follow routes across computer networks using internet bandwidth donated by volunteers.
+Secondly, there are hidden sites on Tor that use the .onion domain suffix rather than .com, .org or one of the standard address endings.
+These are effectively websites but, as they sit on Tor, have typically been hard to find unless you have been given the relevant address since they are not indexed by normal search engines such as Google or Bing.
+Although many media reports about Tor have focused on how it is used to spread pornography and images of child abuse, it is also used for many legitimate means.
+Journalists and whistle-blowers use it to communicate with each other, with the New Yorker magazine's Strongbox being one example of a "dead drop" service based on the technology.
+Tor has been funded by, among others, the Electronic Frontier Foundation digital rights group, Google, Human Rights Watch and the US National Science Foundation.
+Or is it little more than a minor inconvenience?
+One man with first-hand experience of FBI takedowns is Emmanuel Gadaix.
+He was one of the directors of Megaupload, the popular file-sharing website founded by Kim Dotcom that was closed down by the US Department of Justice in January 2012.
+"This changes nothing in the same way that the closure of Megaupload changed nothing," he says.
+"All that happens if you bust him [Dread Pirate Roberts] is that two new people come along.
+"The closure of Silk Road is no more the end of online narcotics sales as the arrest of Al Capone was the end of organised crime."
+Another man with similar experience is a twenty-something expat Irishman who calls himself H2.0.
+He is the ex-spokesman for a deep web drugs marketplace called Atlantis, which was closed down by its operators shortly before the Silk Road takedown for "security reasons".
+Criminals may be more than willing to prey on others, but when it comes to their own dealings they want to feel safe, and H2.0 says Silk Road had managed to build a strong brand in the underworld.
+"It was a pillar of trust in an otherwise Wild West of dodgy scamsites," he says.
+But he is sure an alternative to Silk Road will emerge.
+"We could be in for a period of sites popping up for a few months and closing [just] as fast. Silk Road will be replaced fast but the trust will take longer."
+Other marketplaces for illegal goods still exist in the deep web - Sheep and Black Market Reloaded (BMR) are two of the better-known ones - and it appears that former Silk Road sellers are already setting up shop in them.
+"I do know one vendor who was previously one of the top-selling vendors on Atlantis," H2.0 adds.
+"He moved to Silk Road as soon as Atlantis closed, and two weeks after Silk Road closed he is already set up on Sheep and BMR.
+"Vendors even seem confident enough to carry forward the same usernames and reputations from Silk Road, which shows they don't seem too worried about being tracked."
+But security expert Brian Krebs thinks the takedown is significant.
+"It once again dispels the myth of anonymity on the web, or in this case on the deep web," he suggests.
+"That's a big deal because clearly many buyers and sellers in this community were under the impression that their actions somehow could not be traced online."
+In the future, illegal deep web marketplaces are likely to attempt to reassure drug dealers and their customers that their communications with each other are secure by making it easy to encrypt conversations.
+It turns out that a software package called BitWasp that aims to provide this is already under development, and as an open source project will be available free to anyone who wants it.
+The man behind BitWasp is known in internet circles as afk11. He currently spends between 30 and 50 hours a week developing it, he tells the BBC. He describes himself as unemployed, 21 years old and from Ireland.
+Afk11 claims his motivation is to help promote the virtual currency Bitcoin, suggesting it could become a popular way to pay for concert tickets and other events.
+"Just because people want to remain private doesn't mean things are suspicious," he says.
+But does he believe that drugs marketplace operators will also use his software? "The short answer would be yes, they probably will," afk11 says.
+"We're not specifically gearing our project towards the 'dark web' although it will certainly have features which are popular on it, such as PGP encryption.
+"But it's more important to us that Bitcoin becomes adopted by the masses."
+The next generation of illegal marketplace operators will be much harder for the FBI or other law enforcement agencies to catch, according to a Bangkok-based security expert and broker of security exploits known as the Grugq.
+"You can be famous, or a criminal, but you can't be a famous criminal," he says.
+"[Dread Pirate Roberts] was advertising everywhere and attracting attention - which is never a good thing."
+He says that the new marketplaces will last longer because the operators won't make the same mistakes.
+"Each bust works as evolutionary pressure, selecting out the insecure sites and training the other ones what to do better, so there will be better and better services (for buyers and sellers) with each iteration of these marketplaces after each bust," he says.
+Mr Krebs concurs: "Denizens of these communities will learn from their mistakes... with the result that the up-and-coming communities probably will be more difficult to penetrate and take down."
+But the Grugq believes that despite the protection and anonymity that Tor, Bitcoin and encryption can provide, many marketplaces and their users will get caught thanks to old-fashioned police techniques.
+"What you will see with these sites is that as they become higher-profile, undercover agents will infiltrate them as vendors or customers," he says.
+"They may even work their way into the inner circle and become administrators working for the site."
+One thing the Silk Road takedown has done is show that operators of illegal marketplaces can and do get caught.
+And ultimately it's the fear of that happening that may put many people off embarking on a criminal career in the deep web.
+"I think a legit career move is best for me," H2.0 concludes.
+"Whoever wants to be the next Dread Pirate Roberts better be able to handle the stress. I didn't like it."

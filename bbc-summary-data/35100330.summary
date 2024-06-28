@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151216043618/http://www.bbc.co.uk/news/technology-35100330
+
+[SN]TITLE[SN]
+MacKeeper users' details leaked online
+
+[SN]FIRST-SENTENCE[SN]
+Users of a popular utility designed to "optimise" Apple Mac computers have had their details leaked online.
+
+[SN]RESTBODY[SN]
+Kromtech - the Germany-based firm behind MacKeeper - has acknowledged that its customers' names, internet addresses and login credentials were among the data  exposed.
+However, it said that users' payment details were "never at risk".
+The firm believes the details were accessed only by the security expert who alerted it to the problem.
+"The privacy and security of our clients' information remains our top priority and from the moment we were aware of the access, we immediately took several proactive steps to identify and correct the issue," it said in a statement.
+"We want to offer a special 'thank you' to security researcher Chris Vickery for identifying the security breach attempt so that we could stop it before anyone was harmed."
+Mr Vickery told security blogger Brian Krebs that he had discovered 21 gigabytes of MacKeeper user data "after spending a few bored moments searching for database servers" that were not password-protected. He was able to do this by using Shodan, a search engine for internet-connected devices.
+Mr Krebs reported that Kromtech initially said that 13 million customers' details had been exposed.
+That figure was removed from the firm's statement - a spokesman for Kromtech told the BBC it had included both "active and non-active" users.
+MacKeeper is widely promoted on the web - including in prominent adverts on Ookla's Speedtest site - as a way to "clean" and "protect" Macintosh computers in order to help them run faster.
+However, critics have claimed that the software can cause computers to slow down and crash, and can be problematic to remove.
+"There are no ways that the program itself can harm or de-stabilise the system as described by some sources," the Kromtech spokesman said.

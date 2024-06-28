@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160417193724/http://www.bbc.com/news/technology-21352762
+
+[SN]TITLE[SN]
+Kaspersky anti-virus cuts web access of thousands of PCs
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of computers running Microsoft's Windows XP operating system were unable to connect to the internet after installing an anti-virus update.
+
+[SN]RESTBODY[SN]
+Users said they were also unable to access their internal company networks.
+Russian IT security company Kaspersky Labs told users to disable its anti-virus software or roll back the update.
+Two hours later it issued a fix - but since their PCs were unable to auto-install new code from the net, users had to perform several tasks first.
+Kaspersky told its customers: "Please disable the web AV component of your protection policy for your managed computers."
+It then told them to go the repositories section, download an update and re-enable the protection.
+The company issued a statement, apologising "for any inconvenience caused by this database update error".
+"Actions have been taken to prevent such incidents from occurring in the future," it said.
+Dorset-based IT consultant Graham Lord wrote on the micro-blogging site Twitter: "Bravo on breaking the internet on all your XP clients.
+"Your update just set back one of my repair jobs by a day's work."
+But Spain-based security blogger David Barroso tweeted: "So Kaspersky QA [quality assurance] team failed with this update but they quickly released a fix, which it is something good."

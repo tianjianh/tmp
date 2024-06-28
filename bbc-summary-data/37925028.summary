@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161110015536/http://www.bbc.com/news/technology-37925028
+
+[SN]TITLE[SN]
+Robot 'sets new Rubik's Cube record'
+
+[SN]FIRST-SENTENCE[SN]
+A robot has just set a new record for the fastest-solved Rubik's Cube, according to its makers.
+
+[SN]RESTBODY[SN]
+The Sub1 Reloaded robot took just 0.637 seconds to analyse the toy and make 21 moves, so that each of the cube's sides showed a single colour.
+That beats a previous record of 0.887 seconds, which was achieved by an earlier version of the same machine using a different processor.
+Infineon provided its chip to highlight advancements in self-driving car tech.
+But one expert has questioned the point of the stunt.
+Infineon staged the record attempt at the Electronica trade fair in Munich.
+At the press of a button, shutters covering the robot's camera sensors were lifted, allowing it to detect how the cube had been scrambled.
+It then deduced a solution and transmitted commands to six motor-controlled arms. These held the central square of each of the cube's six faces in place and spun them to solve the puzzle.
+All of this was achieved in a fraction of a second, and it was only afterwards that the number of moves could be counted by checking a software readout.
+A special "speed cube" - designed to have less friction between its parts than the original version of the toy - was used to help keep the time to a minimum.
+Infineon said the World Cube Association - the governing body for Rubik puzzle competitions - had approved its use.
+"We used this as a metaphor to show how digital systems are constructed," said the German company's spokesman Gregor Rodehueser.
+"We want to show that problems can be solved much more efficiently using microelectronics.
+"This is also the case when it comes to automated driving, where you have to have very low latencies and absolutely reliable and quick technologies."
+By contrast, the official Rubik's Cube record for a human is 4.904 seconds, which was set by a 14-year-old boy in 2015. And in recent days another youth completed the task in 4.74 seconds.
+Infineon wants to highlight the speed at which its Aurix microcontrollers can help cars respond to obstacles and automatically apply their brakes.
+But one artificial intelligence expert said the test was of limited use.
+"Rubik's Cube solutions are algorithmic and ideally suited to computer programs and the speed of Sub1 was genuinely impressive," said Prof Noel Sharkey, from the University of Sheffield.
+"However, autonomous driving, unlike Rubik's Cube, is in an open environment with a very large number of unanticipated circumstances.
+"The hardest part is in processing the sensory information and trying to work out whether it is a situation that requires braking or swerving or ignoring.
+"It is a bit like asking Sub1 if it is a Rubik's Cube in front of it or a pile of biscuits that needs to be crumbled for the base of a cheesecake.
+"Obviously processor speed helps, but it is minor part of the problem."
+To be regarded as an official record, the time must be signed off by the Guinness World Records organisation, which was not present at the event.
+"If Infineon feel they have beaten the current record, we encourage them to make an application on our website and submit their evidence for our records management team to review," said a spokeswoman.
+Mr Rodehueser said the paperwork would be submitted shortly.

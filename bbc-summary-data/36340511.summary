@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160522033244/http://www.bbc.co.uk/news/technology-36340511
+
+[SN]TITLE[SN]
+Gaming ransomware gang releases master decryption key
+
+[SN]FIRST-SENTENCE[SN]
+The gang who made the notorious Teslacrypt ransomware virus has shut up shop and released the master key it used to scramble data.
+
+[SN]RESTBODY[SN]
+The key has been used to to make a free decryption tool that can unscramble files encrypted by the malware.
+It means many of those hit by the malware will be able to recover data without paying a ransom.
+It is not yet clear why the gang behind Teslacrypt decided to stop using their malware.
+The Teslacrypt ransomware targeted gamers and, on infected machines, sought to encrypt more than 185 different types of files associated with popular games such as Call of Duty, Minecraft and World of Tanks.
+Victims could get their files decrypted by paying a ransom of up to $1,000 (Â£690).
+Over the past few weeks, researchers from security firm Eset noticed that the malware was being spammed out far less than usual. Many of the underground distributors of Teslacrypt were swapping to use a different ransomware family called CryptXXX.
+Eset sent a message to the hackers behind Teslacrypt via the technical support address given on the payment page the malware displays on infected machines. In the message, Eset asked for a copy of the master encryption key.
+To its surprise, it got a reply in which the hackers said the project was now "closed". In the body of the short message was the master encryption key used to scramble files on infected machines.
+The message ended: "We are sorry!"
+In a blogpost, Eset said it was "surprised" that the hackers had released the key so others can make a decryption tool.
+Paul Ducklin from security firm Sophos said it was "unusual" for cyber-thieves to give away their secret key.
+"Only victims who have been hit recently and haven't yet paid up, or victims who backed up their already-encrypted data "just in case", will get much use out of the master key at this stage," he wrote.
+Mr Ducklin speculated about why the hackers had decided to stop sending out their ransomware. Perhaps, he said, the gang had been hacked by rivals who released the key to ruin the business of a competitor.

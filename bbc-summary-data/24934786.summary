@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170204114740/http://www.bbc.co.uk:80/news/science-environment-24934786
+
+[SN]TITLE[SN]
+Quantum memory 'world record' smashed
+
+[SN]FIRST-SENTENCE[SN]
+A fragile quantum memory state has been held stable at room temperature for a "world record" 39 minutes - overcoming a key barrier to ultrafast computers.
+
+[SN]RESTBODY[SN]
+"Qubits" of information encoded in a silicon system persisted for almost 100 times longer than ever before.
+Quantum systems are notoriously fickle to measure and manipulate, but if harnessed could transform computing.
+The new benchmark was set by an international team led by Mike Thewalt of Simon Fraser University, Canada.
+"This opens the possibility of truly long-term storage of quantum information at room temperature," said Prof Thewalt, whose achievement is detailed in the journal Science.
+In conventional computers, "bits" of data are stored as a string of 1s and 0s.
+But in a quantum system, "qubits" are stored in a so-called "superposition state" in which they can be both 1s and 0 at the same time - enabling them to perform multiple calculations simultaneously.
+The trouble with qubits is their instability - typical devices "forget" their memories in less than a second.
+There is no Guinness Book of quantum records. But unofficially, the previous best for a solid state system was 25 seconds at room temperature, or three minutes under cryogenic conditions.
+In this new experiment, scientists encoded information into the nuclei of phosphorus atoms held in a sliver of purified silicon.
+Magnetic field pulses were used to tilt the spin of the nuclei and create superposition states - the qubits of memory.
+The team prepared the sample at -269C, close to absolute zero - the lowest temperature possible.
+When they raised the system to room temperature (just above 25C) the superposition states survived for 39 minutes.
+What's more, they found they could manipulate the qubits as the temperature of the system rose and fell back towards absolute zero.
+At cryogenic temperatures, their quantum memory system remained coherent for three hours.
+"Having such robust, as well as long-lived, qubits could prove very helpful for anyone trying to build a quantum computer," said co-author Stephanie Simmons of Oxford University's department of materials.
+"39 minutes may not seem very long. But these lifetimes are many times longer than previous experiments.
+"We've managed to identify a system that seems to have basically no noise."
+However she cautions there are still many hurdles to overcome before large-scale quantum computations can be performed.
+For one thing, their memory device was built with a highly purified form of silicon - free from the magnetic isotopes which interfere with the spin of nuclei.
+For another, the spins of the 10 billion or so phosphorus ions used in this experiment were all placed in the same quantum state.
+Whereas to run calculations, physicists will need to place different qubits in different states - and control how they couple and interact.
+"To have them controllably talking to one another - that would address the last big remaining challenge," said Dr Simmons.
+Independent experts in the quantum field said the new record was an "exciting breakthrough" that had long been predicted.
+"This result represents an important step towards realising quantum devices," said David Awschalom, professor in Spintronics and Quantum Information, at the University of Chicago.
+"However, a number of intriguing challenges still remain. For instance - will it be possible to precisely control the local electron-nuclear interaction to enable initialisation, storage, and readout of the nuclear spin states?"
+The previous "world record" for a solid state quantum system at room temperature - 25 seconds - was held by Dr Thaddeus Ladd, formerly of Stanford University's Quantum Information Science unit, now working for HRL Laboratories.
+"It's remarkable that these coherence states could be held for so long in a measurable system - as measurement normally introduces noise," he told BBC News.
+"It's also a nice surprise that nothing goes wrong warming up and cooling the sample again - from an experimental point of view that's pretty remarkable.
+"What is perhaps most important is that this is silicon. The global investment in this particular material means that it has a lot of potential for engineering."

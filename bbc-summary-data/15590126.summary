@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160721045403/http://www.bbc.co.uk/news/technology-15590126
+
+[SN]TITLE[SN]
+Microsoft offers temporary fix for Duqu malware exploit
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has released a temporary "fix" for a software vulnerability that left computer systems exposed to the Duqu infection.
+
+[SN]RESTBODY[SN]
+The Trojan malware is thought to have been designed to steal data from industrial organisations.
+Microsoft said it has traced the root of the exploit back to a flaw in its Win32k Truetype font parsing engine.
+It offered a workaround download and said its engineers were working on a definitive security update.
+Microsoft said the vulnerability in its code allowed attackers to "install programs; view, change or delete data; or create new accounts with full user rights".
+"This vulnerability is related to the Duqu malware," it said.
+Microsoft said the full update would not be ready this month, and did not provide a target release date.
+In the meantime it said that the workaround will cause some documents to "fail to display properly".
+The firm's security warning follows an investigation by the Laboratory of Cryptography and Systems Security (Crysys) at Budapest University.
+Earlier this week it revealed that the malware had been spread using a previously unknown vulnerability embedded in a Microsoft Word document.
+Internet security firm, Symantec, confirmed that Microsoft had identified the same bit of code.
+"It is a link point between Microsoft Word and the system software," said Greg Day, Symantec's director of security strategy.
+"This takes what you type in and turns it into what comes up on the screen."
+The security firm has confirmed Duqu infections at six different computer networks belonging to unidentified organisations across a total of eight countries.
+Microsoft's security report noted that the success of the attacks depended on users opening email attachments.
+"We have taught people for years that clicking on executable files from unknown sources is not sensible, but clicking on a Word document is a normal business practice," Mr Day told the BBC.
+"Since we think the Duqu attackers do reconnaissance beforehand they might have been able to exploit this to make people more likely to have opened the documents, either by having built up a relationship with them or having used an existing one to gain trust."
+Mr Day said the lessons for business were to ensure that their security software is up to date and that they have educated their employees to question whether an attachment comes from a trustworthy source.

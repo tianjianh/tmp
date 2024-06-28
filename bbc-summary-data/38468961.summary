@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101051259/http://www.bbc.com/news/technology-38468961
+
+[SN]TITLE[SN]
+Star Wars card firm Topps hit by 'unforgiveable' hack
+
+[SN]FIRST-SENTENCE[SN]
+The maker of iconic collectable trading cards has said hackers could have stolen customers' credit and debit card numbers along with their associated security codes in a recent breach.
+
+[SN]RESTBODY[SN]
+Topps' products include Star Wars, Disney's Frozen, Top Gear and the UEFA champion league.
+The New York firm told the BBC that the vulnerability had since been fixed.
+But a security researcher said he had previously warned the firm about security weaknesses.
+Topps declined to say how many people were affected or why the payment card numbers were at risk. In most hack attacks, companies assure users that they do not store such financial data in a form that can be exposed.
+In an email to customers Topps wrote that on 12 October "one or more intruders gained unauthorised access" to its systems.
+"[They] may have gained access to names, addresses, email addresses, phone numbers, credit or debit card numbers, card expiration dates and card verification numbers for customers [who made purchases] between approximately 30 July 2016 and 12 October 2016," it added.
+It is offering one year's worth of free identify theft protection to those affected.
+Various customers have posted the email on social media and it is also available on the Sports Collectors Daily website.
+Topps is part-owned by a fund belonging to Michael Eisner, the former chief executive of Disney.
+"The really unforgivable aspect here is the loss of credit card details," said cyber-security expert Prof Alan Woodward from Surrey University.
+"If this was an external attack, these details just should not be accessible or readable. An obvious question is, was the customers financial data encrypted?
+"If not that should attract some heavy attention from the appropriate regulators."
+Chris Vickery, a security researcher from Chromatech blogged in June about exposed databases of customer accounts with three of Topps' mobile apps: Bunt, Huddle, and Kick.
+He wrote that it was fixed. However, he later found another database containing information about the users of all three apps, and on this occasion was unable to get a response from the firm.
+"I can't in good conscience watch this data continue to leak without at least trying to get a warning out," he said at the time.

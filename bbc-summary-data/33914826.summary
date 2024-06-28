@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150816082353/http://www.bbc.co.uk/news/technology-33914826
+
+[SN]TITLE[SN]
+Android security patch 'flawed'
+
+[SN]FIRST-SENTENCE[SN]
+An Android update designed to fix a security hole in the operating system is itself flawed, it has emerged.
+
+[SN]RESTBODY[SN]
+In July, a vulnerability that affected up to a billion Android phones was made public by software researchers.
+Google made a patch available, but security company Exodus Intelligence said it had been able to bypass the fix.
+Exodus Intelligence said the update could give people a "false sense of security".
+Google told the BBC that most Android users were protected by a security feature called address space layout randomisation (ASLR).
+"Currently over 90% of Android devices have ASLR enabled, which protects users from this issue," it said.
+ASLR makes it difficult for an attacker to plot an attack, and introduces more guesswork to the process, which is more likely to crash a smartphone than compromise it.
+In April, another security company, Zimperium, found a bug in Android that could let hackers access data and apps on a victim's phone, just by sending a video message.
+The company disclosed the issue to Google and provided its own patch for the software, which Google made available to phone manufacturers.
+Details of the flaw were made public in July, after Google had integrated the patch into the latest version of Android.
+At the time, Google pointed out that there had been no reported cases of anybody exploiting the bug.
+On Thursday, Exodus Intelligence said its researcher Jordan Gruskovnjak had easily bypassed the patch and the vulnerability remained.
+"The public at large believes the current patch protects them when it in fact does not," the company said on its blog.
+"Stagefright is the early warning alert to a much bigger challenge," said David Baker, security officer for computing firm Okta.
+"There isn't a comprehensive update solution for Android, since there are so many device makers modifying the software."
+Android is an open source operating system and phone-makers can modify it to use on their handsets.
+Phone manufacturers are responsible for updating their own devices with the latest software. But many do not, while some companies use customised versions of Android which take time to rebuild when security changes are made.
+For these reasons, only 2.6% of Android phones are running the latest version of the operating system.
+"Other manufacturers like Apple and BlackBerry control both the hardware and software. That means they can patch flaws much more quickly," said Mr Baker.
+Exodus Intelligence said Google had known about the flaw for more than 120 days and still not fixed it.
+"The patch is 4 lines of code and was (presumably) reviewed by Google engineers prior to shipping," said Exodus Intelligence on its blog.
+"If Google cannot demonstrate the ability to successfully remedy a disclosed vulnerability affecting their own customers then what hope do the rest of us have?"

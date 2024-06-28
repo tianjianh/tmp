@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170214182325/http://www.bbc.com:80/news/technology-34944140
+
+[SN]TITLE[SN]
+Children's electronic toy maker Vtech hacked
+
+[SN]FIRST-SENTENCE[SN]
+Vtech, a company which specialises in electronic toys and educational material for children, has had its app store database, Learning Lodge, hacked.
+
+[SN]RESTBODY[SN]
+The firm said that there was "unauthorised access" to the database on 14 November.
+The app is a gateway for customers to download games, e-books and other content on to their Vtech devices.
+It is not clear how many customers have been affected, but some have told the BBC they have received an email.
+A large amount of data, which looked like it could be from the hack, was seen online but has now been hidden, according to some experts. It also appeared to include a considerable number of children's names, dates of birth and gender.
+In an email to customers, the company said: "Upon discovering the unauthorised access we immediately conducted a thorough investigation, which involved a comprehensive check of the affected site and implementation of measures to defend against further attacks."
+The company stressed it was "important to note that our customer database does not contain any credit card or banking information" nor social security numbers.
+However it does contain what the Vtech describes as "general user profile information", such as "name, email address, encrypted password, secret question and answer for password retrieval, IP address, mailing address and download history".
+The firm sells a range of electronic products ranging from toy cars and interactive garages to cameras, games, e-books and tablets.
+Professor Alan Woodward, cyber security expert at Surrey University, said it looks like the firm may have been subjected to a simple hacking technique known as an SQL injection.
+"If that is the case then it really is unforgivable - it is such an old attack that any standard security testing should look for it," he said.
+"If initial reports are correct then they should be taking their website connection to their databases offline immediately until they can discover how this was done and correct the issue.
+"They also need to be alerting the parents as soon as possible, with particular emphasis on how their children might be approached using this type of data.
+"These breaches are endemic and we have to stop. If that means focusing the minds of these companies through big fines then so be it. It needs to be taken seriously and those responsible held to account."
+Another security expert, Troy Hunt, said he was extremely concerned by the breach.
+"When it's hundreds of thousands of children including their names, genders and birthdates, that's off the charts," he wrote.
+"When it includes their parents as well - along with their home address - and you can link the two and emphatically say 'Here is nine-year-old Mary, I know where she lives and I have other personally identifiable information about her parents (including their password and security question)', I start to run out of superlatives to even describe how bad that is."
+The BBC has contacted Vtech for further information.

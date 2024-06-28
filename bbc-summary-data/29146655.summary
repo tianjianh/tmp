@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222200655/http://www.bbc.co.uk:80/news/science-environment-29146655
+
+[SN]TITLE[SN]
+Training computers to understand the language of music
+
+[SN]FIRST-SENTENCE[SN]
+We often describe songs using terms like "warm" and "dreamy" - but do these words mean anything to a computer?
+
+[SN]RESTBODY[SN]
+New software presented at the British Science Festival aims to give music producers the power to manipulate sounds more intuitively.
+By training computers to understand the vocabulary of sound, researchers could make life easier for amateur musicians.
+The technology allows computers to respond intelligently to the music being made.
+Music is essentially an arrangement of sounds of variable pitch, rhythm and texture. "We put all of these different complicated things together into a higher level representation," explained Dr Ryan Stables, lecturer in audio engineering and acoustics at Birmingham City University.
+But computers represent music only as digital data. You might use your computer to play the Beach Boys, "but a computer can't understand that there's a guitar or drums, it doesn't ever go surfing so it doesn't really know what that means, so it has no idea that it's the Beach Boys - it's just numbers, ones and zeroes," said Dr Stables.
+Dr Stables and his team at the Digital Media Technology Lab are trying to bridge the musical gap between humans and computers. "We take computersâ€¦ and we try and give them the capabilities to understand and process music in the way a human being would."
+"It's useful to know this kind of thing because if we understand the way human beings represent sound internally we can do lots of human-like tasks on a computer."
+When he's not in the lab, Dr Stables can often be found strumming a guitar or twiddling knobs on a mixing desk. "I was always interested in making music - I've done it all my life and it was something I had this qualitative knowledge aboutâ€¦ but I wanted to make it objective and usable to other people without going through the same kind of training."
+Professional music production combines instruments with audio effects in a technical and creative process which can take years to learn.
+Dr Stables wants to make the process easier for musicians "who might have spent the last fifty years mastering how to play the violin, and just want to make a recording that sounds good, rather than spending another fifty years learning how to use music production software".
+Dr Stables has developed a free downloadable package of "plug-in" effects that work with most music production programs. They alter music by manipulating the components of the sound and by adding reverberation, distortion, and other effects.
+Where it differs from existing software is in the use of crowd-sourced "tags", and mathematical modelling of their meanings, to intelligently apply the effects.
+Using "save" mode, the user tags a sound they have made using the software with a description - e.g. "warm" or "dreamy".
+The program links the user-generated tag with features of the music and effects used and adds it to a central dataset, partitioned by genre, musical instrument and other parameters. "What we're interested in is the transformation from what the song used to be to what the song is now after it's been processed," explained Dr Stables.
+Using "load" mode, users then type in the sound they would like to achieve ("crunchy", "gentle"); the software uses probabilistic modelling to "guess" what kind of music is being made and change the sound according to the desired description, "to influence production decisions and essentially interface with music a lot more intuitively," added Dr Stables.
+"What we're trying to do is give it the ability to understand what the numbers mean and act upon that understanding."
+Film composer Rael Jones has tried the new software. "These are quite simple effects and would be very intuitive for the amateur musician. There are similar commercially available technologies but they don't take a semantic input into account as this does."
+However Mr Jones cautioned that plug-in effects cannot compensate for deficiencies in the original recording. "Plug-ins don't create a sound, they modify a sound; it is a small part of the process. The crucial thing is the sound input - for example you could never make a glockenspiel sound warm no matter how you processed it, and a very poorly recorded instrument cannot be fixed by using plug-ins post-recording."
+"But for some amateur musicians this could be an interesting educational tool to use as a starting point for exploring sound."
+In one month of beta testing the team have gathered data from 5000 music producers. The code and data are publicly available to other researchers.
+The software is now available to the general public to download and will continue to improve as more data is submitted. "One of the main objectives of this project was to develop a dataset that was continually expanding," said Dr Stables.
+One improvement planned in future is to allow users to navigate "semantic space" more freely, for example to produce a sound halfway between "fluffy" and "spiky".
+Algorithmic composition could "give computers the creative ability that musicians naturally have," suggests Dr Stables. So could human music producers be out of a job?
+Dr Stables is clear on the limitations. "Music production is an art form - it's unrealistic to say that with software like this you could produce someone as good as Quincy Jones, who produced many of Michael Jackson's songs. There's a gap between intelligent computing and intelligent human beings."

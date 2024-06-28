@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170704182359/http://www.bbc.co.uk/news/technology-40497026
+
+[SN]TITLE[SN]
+Ukraine cyber-attack: Software firm MeDoc's servers seized
+
+[SN]FIRST-SENTENCE[SN]
+Police in Ukraine have seized the servers of an accountancy software firm, which is believed to have unwittingly helped spread malware that attacked many global firms last month.
+
+[SN]RESTBODY[SN]
+Intellect Service has denied that its software helped spread the malware.
+But security experts have said that some of the initial infections were indeed spread via a malicious update to MeDoc.
+It is Ukraine's most popular accounting software.
+The cyber-attack - a variant of an earlier virus called Petya - hit businesses around the world including the shipping firm Maersk and the marketing giant WPP.
+It was initially thought to be a ransomware attack designed to make money for the hackers behind it.
+But some security firms now think that it was deliberately designed to destroy data and targeted Ukraine.
+The head of the country's national Cyberpolice unit had previously alleged that Intellect Service had ignored repeated warnings that it needed to improve its security in advance of the attack.
+"They were told many times by various anti-virus firms," Col Serhiy Demydiuk told the Associated Press news agency.
+"For this neglect, the people in this case will face criminal responsibility."
+In a separate interview with Reuters, the father and daughter team who run Intellect Service said they were not responsible.
+"What has been established in these days, when no one slept and only worked? We studied and analysed our product for signs of hacking - it is not infected with a virus and everything is fine, it is safe," said Olesya Linnik, managing partner at Intellect Service.
+"The update package, which was sent out long before the virus was spread, we checked it 100 times and everything is fine."
+Security experts, including Microsoft, Cisco and Symantec, said that they all have evidence that the malware was spread via an update to the tax software program MeDoc.
+It is believed that around 80% of companies in Ukraine use the software, which allows clients to send and discuss financial documents internally as well as file them with the government's tax department.
+Ukraine police said that the family could face criminal charges if it is confirmed that they knew about the infection but took no action.

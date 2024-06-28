@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170211045251/http://www.bbc.com/news/technology-37939910
+
+[SN]TITLE[SN]
+Microsoft fixes bug used by Russian hacker group
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has issued a patch for a software bug being actively exploited by hackers trying to infiltrate government networks.
+
+[SN]RESTBODY[SN]
+Details of the bug were made public earlier this month by Google security researchers.
+Microsoft criticised the disclosure, saying Google had put people at risk by sharing information about the flaw.
+One hacker group has kicked off several new campaigns that seek to use the flaw before it is widely patched.
+The patch for the flaw was included in Microsoft's regular software update, which this month contained 14 separate updates that addressed 68 vulnerabilities in Windows, Microsoft's Office suite and its Edge browser.
+Microsoft's patch comes a week after Google released information about the flaw and almost two weeks after Adobe patched an associated bug in its widely used Flash software.
+The release of the patch fulfils a promise made in a blog by Terry Myerson, Microsoft's head of Windows, to close the loophole as soon as possible.
+The blog also detailed the activities of what Microsoft calls the Strontium hacker group, which has exploited the flaw to target governments, federal agencies, embassies, military organisations and defence contractors.
+The Strontium group is also known as Pawn Storm, Fancy Bear, Sofacy and APT28.
+It is believed to be based in Russia and has been linked to the cyber-attack on the Democratic National Committee, the governing body of the United States Democratic Party.
+The prospect of the patch had already prompted this hacker group to accelerate its attempts to exploit it, research by security company Trend Micro suggests.
+Trend Micro said the group had "ramped up" its targeted phishing campaigns that used the flaw in late October and early November.
+Booby-trapped attachments posing as invites to a conference about cyber-threats were used as the attack vector for the campaigns.
+The group still has time to exploit the flaw because many companies do not apply patches as soon as they appear.
+They can take time to test the patch to ensure they do not inadvertently shut down important systems that keep a business running.

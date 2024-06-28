@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112213012/http://www.bbc.co.uk:80/news/business-36303705
+
+[SN]TITLE[SN]
+The tech start-up planning to shake up the legal world
+
+[SN]FIRST-SENTENCE[SN]
+A career in law and extremely long hours tend to go hand in hand. When you're starting out it's often particularly gruelling.
+
+[SN]RESTBODY[SN]
+Partly of course it's about proving your commitment, but being a lawyer also involves an awful lot of grunt work - spending hours and hours looking through past case law to help your firm determine how to fight a current case.
+It's this time consuming, labour intensive research aspect of the legal system that Andrew Arruda, co-founder and chief executive of tech start-up Ross Intelligence, believes its invention can address.
+The AI (or artificial intelligence) legal research system allows lawyers to type in a question - much in the same way they'd ask a colleague - and bring up relevant examples of what has happened in previous US legal cases, essentially at the touch of a button.
+"Lawyers may know the law and where it stands on a particular issue today but many cases come out and it can change that so they're always looking into the past to build the future.
+"The issue with that is there's just millions of cases. What our system is able to do is keep up to track with all these changes in the law so at a glance a lawyer can help their clients really, really efficiently," says Mr Arruda.
+He calculates the invention eventually has the potential to save lawyers some 30% of their time. It seems a staggering claim for a firm founded just over a year ago, but Mr Arruda says the calculation is based on this being the amount of time lawyers typically spend on legal research using a normal database.
+The system is built on IBM Watson, a technology platform that uses natural language processing and machine learning to find relevant information from large amounts of unstructured data, basically written in text, rather than neatly situated in the rows and columns of a database.
+This enables Ross to extract facts and conclusions from over a billion text documents a second.
+In contrast, existing solutions rely on traditional search technologies that look for keywords to find results and which then need to be sifted manually, while other rival research products typically require substantial training to be used effectively.
+"Our system is actually able to understand, when a lawyer asks it a question, what they are really looking for. It does that by examining the different words in the sentence, contextualising it and seeing the relationships between those words.
+"In an instant it knows what the user is looking for and once a system knows what the user is looking for it's also able to learn from them on what's best to bring up, so there's this constant feedback loop that Ross learns from its users," says Mr Arruda.
+This of course begs the question as to whether the aim of Ross Intelligence is really to replace lawyers with its much cheaper machines.
+Mr Arruda claims not, arguing its aim is simply to allow lawyers to do their job more efficiently, describing the research system as "an augmentation" or enhancement of their skills, rather than a replacement.
+But he acknowledges it could make possible hiring a lawyer in the first place - currently out of the reach of many people.
+"Systems like ours allow lawyers to do a lot more with less and we are really looking forward to the day when everyone can afford a lawyer," he says.
+In fact, it was this intention which drove the creation of the firm in the first place.
+Mr Arruda's co-founder Jimoh Ovbiagele, now chief technology officer at the firm, was 10 years old when his parents separated, a time when he first got interested in programming and computer science.
+He witnessed his mum unable to afford the high cost of divorce lawyers first-hand, driving his determination to use his interest in tech to ensure others would not have to go through what his mother did.
+Yet many are sceptical that the legal industry - arguably more associated with tradition, bulging files of papers, odd clothing and arcane procedures - is ready for this level of technical innovation.
+Mr Arruda refuses to say how many subscribers the firm has so far for its service, although recently BakerHostetler, a US law firm announced it would use Ross Intelligence for bankruptcy matters, saying it believes emerging technologies like cognitive computing can "help enhance the services we deliver to our clients".
+But Mark Estes, library director at Alameda County Law Library in California, believes human researchers are still the best and most reliable method for people to find out what they need to know in a legal situation.
+"Sometime in the future it may be easier to find information without the help of a human individual interaction but that to me seems a long way off because a computer has to be able to interpret whatever someone is saying and infer in ways that would be very challenging.
+"I really don't foresee a time when it will not be advantageous to use a trained law librarian or a trained lawyer to finish your legal research issue," he says.
+In the meantime, however, Mr Arruda says thanks to Ross's invention there are some lawyers who get to leave work on time.
+"We've heard a bunch of great stories... such as 'Thank god Ross has allowed me to attend this' or 'I was going to spend Friday night at the office looking into this...'"

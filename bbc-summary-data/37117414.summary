@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170109005420/http://www.bbc.com/news/technology-37117414
+
+[SN]TITLE[SN]
+Is Russia hacking the US election?
+
+[SN]FIRST-SENTENCE[SN]
+Huge leaks of data from US organisations have been attributed by some to Russia, so has the former Soviet state launched cyberwar on the US elections?
+
+[SN]RESTBODY[SN]
+Hacking tools allegedly developed by the US National Security Agency (NSA) were dumped online by a group calling itself Shadow Brokers.
+It follows a string of recent leaks of data from the Democratic National Committee (DNC).
+There are also now suspicions that the Clinton Foundation, a charitable body, may have been targeted.
+Is this part of a Russian campaign to damage the US and even influence the presidential election in November, or are things a little more complicated than that?
+Analysis of the files released by Shadow Brokers has revealed a group of malware that can be used to hack US-made firewalls and routers.
+Indeed, the tech firms Cisco and Fortinet have warned customers that there are some serious exploits in the dump that affect their products.
+Juniper Networks has also said it is reviewing the data to see if its devices are affected.
+There are fears that some of the exploits were "zero-day" vulnerabilities, meaning they had gone undetected.
+The hacking tools are believed to belong to a group of malware developed by "The Equation Group", which was first revealed by cybersecurity firm Kaspersky in 2015.
+"On the basis of what we've looked at, we certainly believe that there's a connection to the Equation Group malware," said David Emm, Kaspersky's principal security researcher, told the BBC.
+"I've thought from the very beginning that it was real," added Mikko Hypponen at security company F-Secure.
+"The sheer amount of data would be very hard to fake."
+For Mr Hypponen and many others, this is "the real mystery".
+No-one really knows how this information was acquired, though there has been speculation that a server operated by the NSA may have been hacked.
+Another theory, put forward by former NSA employee David Aitel, is that an insider decided to steal the data.
+Whether the same insider then went on to leak it is yet another unanswered question.
+In June, it was reported that a hacker going by the moniker of "Guccifer 2.0" had released a cache of DNC members' emails.
+The resulting fallout led to the resignation of DNC chairwoman Debbie Wasserman Schultz.
+Then, earlier this month, Guccifer published another wave of allegedly hacked data, including the personal contact details of nearly 200 current and former members of Congress from the Democratic Party.
+Russia has been accused by US officials of being involved in the DNC leaks; an accusation that Russia has vehemently denied.
+Either way, President Obama has already said that Russian involvement would not have a significant impact on his diplomatic relationship with the Russian President Vladimir Putin.
+Despite Obama's public comments that his relationship with Putin would not be strained, the hacks come at a particularly sensitive time.
+With an election in November, some have speculated that the leaks are an attempt to somehow influence the result of the vote.
+"I think it's more likely that if this is indeed the Russian state, then what they want to do is simply cast doubts on the validity of the electoral process," said Nigel Inkster at the International Institute for Strategic Studies in London.
+Conversely, in February Mr Putin warned that "foes abroad" might try to influence Russia's September elections.
+It is worth remembering that, in July, Russia announced that about 20 Russian government organisations had been targeted by spyware, though it stopped short of attributing the infiltration to any specific state or actor.
+Cyberspying is an inherently murky world. The nature of cyberspace makes it easy to hide your tracks and obscure your identity. And there is a difference between traditional espionage - stealing information secretly - and releasing information publicly - something more akin to information warfare.
+Stealing information is age-old but so is the release of information to undermine your opponent. During the Cold War, the USA and USSR both engaged in what were often called "influence operations" or "political warfare" - spreading information or disinformation or propaganda about individuals or political parties or ideas. Cyberspace only offers a new way of doing this. So is there some kind of cyber-information battle going on between Washington and Moscow now? Perhaps. But,  if so, it may be hard to prove and both sides may be happy - as in the past - for this to be fought without the information war ever being formally acknowledged.
+The US President has not yet made a public statement promising retribution for the apparent hack of an American intelligence agency.
+And some believe he can't.
+Mr Obama recently clarified how the United States would respond to a cyber attack, Mr Inkster noted.
+"These set out criteria for determining how serious an incident is and, by extension, what retaliatory measures would be justified," he told the BBC.
+"So to say this is an incident of a certain level of importance and we're confident the Russian state did it - that puts the United States in a position of, 'Well, what are you going to do about it?'"
+According to Mr Hypponen, the exploits released in the dump of hacking tools are not likely to implicate members of the public.
+"There's a bit of an impact to companies using routers and firewalls," he noted, but end users would probably not have to take any action.

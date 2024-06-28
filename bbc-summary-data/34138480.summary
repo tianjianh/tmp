@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150904151955/http://www.bbc.co.uk/news/technology-34138480
+
+[SN]TITLE[SN]
+Web baby-monitoring cameras open to hacking, study warns
+
+[SN]FIRST-SENTENCE[SN]
+Several popular web-connected baby-monitoring cameras lack basic security, researchers have warned.
+
+[SN]RESTBODY[SN]
+Even the most rudimentary hacking attempts could give hackers access to the devices, US company Rapid7 said.
+Babies could be watched, but the cameras could also be used as a springboard to attack other home devices.
+The report highlights potential security problems with web-enabled devices in the "internet of things".
+Baby-monitoring cameras work by filming a child at home and sending a video stream to a personal website or an app on a smartphone or tablet.
+The Rapid7 researchers said they had found serious security problems and design flaws in all of the cameras they tested.
+Some had hidden, unchangeable passwords, often listed in their manuals or online, that could be used to gain access.
+In addition, some of the devices didn't encrypt their data streams or some of their web or mobile features.
+"There's a certain leap of faith you're taking with your child when you use one of these,'' says Mark Stanislav, a senior security consultant at Rapid7.
+Higher camera prices don't translate to higher levels of security, he said.
+More expensive models come with extra features, potentially giving hackers more ways to access a camera or its video stream, he added.
+The Rapid7 research looked at seven baby monitors made by six different companies.
+The Philips In.Sight B120 baby monitor, which is about Â£60, had flaws that could allow a hacker to start a camera and watch a video stream online, and also hack into a connected home computer, the report said.
+Philips said that the model had been discontinued. It added that its branded video baby monitors were now licensed to Gibson Innovations, which was aware of the problems and was working on software updates to fix them.
+The researchers also tested the iBaby and iBaby M3S, Summer Infant's Summer Baby Zoom, Lens Peek-a-View, Gynoii, and the Trendnet WiFi Baby Cam TV-IP743SIC.
+Summer Infant said it was reviewing the report's findings and would make sure that any necessary precautions were taken to protect its customers' security.
+Gynoii said it wanted to work with Rapid7 to fix the issues with its camera.
+Trendnet said that physical access to its camera would be needed to exploit the security bug, but it had prepared a patch and a software update would be available soon.

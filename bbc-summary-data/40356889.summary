@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170621192217/http://www.bbc.com/news/technology-40356889
+
+[SN]TITLE[SN]
+Microsoft admits disabling anti-virus software for Windows 10 users
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has admitted that it does temporarily disable anti-virus software on Windows PCs, following an competition complaint to the European Commission by a security company.
+
+[SN]RESTBODY[SN]
+In early June, Kaspersky Lab filed the complaint against Microsoft.
+The security company claims the software giant is abusing its market dominance by steering users to its own anti-virus software.
+Microsoft says it implemented defences to keep Windows 10 users secure.
+In an extensive blog post that does not directly address Kaspersky or its claims, Microsoft says it bundles the Windows Defender Antivirus with Windows 10 to ensure that every single device is protected from viruses and malware.
+"We built Windows Defender Antivirus to make a promise to our customers that every Windows 10 device always has protection from viruses and malware... our test results are among the top of security industry leaders, including recent real-world testing where Windows Defender Antivirus scored over 99% detection rates," writes Rob Lefferts, a partner director of the Windows and Devices group in enterprise and security at Microsoft.
+"We also know that Window customers value choice, and that is why we actively engage with and support a community of over 80 independent software vendors through the Microsoft Virus Initiative (MVI) program.
+"This engineering programme enables us to share key technical details of Microsoft technologies with our AV [anti-virus] partners to collaborate on future directions and problem solve on existing security challenges to protect our shared customers from malicious software."
+To combat the 300,000 new malware samples being created and spread every day, Microsoft says that it works together with external anti-virus partners.
+The technology giant estimates that about 95% of Windows 10 PCs were using anti-virus software that was already compatible with the latest Windows 10 Creators Update.
+For the applications that were not compatible, Microsoft built a feature that lets users update their PCs and then reinstall a new version of the anti-virus software.
+"To do this, we first temporarily disabled some parts of the AV software when the update began. We did this work in partnership with the AV partner to specify which versions of their software are compatible and where to direct customers after updating," Mr Lefferts writes.

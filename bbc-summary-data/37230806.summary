@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170518073353/http://www.bbc.co.uk/news/technology-37230806
+
+[SN]TITLE[SN]
+Google DeepMind targets NHS head and neck cancer treatment
+
+[SN]FIRST-SENTENCE[SN]
+Anonymised CT and MRI scans from 700 former University College London Hospital radiotherapy patients will be analysed by Google's artificial intelligence division, DeepMind.
+
+[SN]RESTBODY[SN]
+The aim is to develop an algorithm that can automatically differentiate between healthy and cancerous tissues.
+This "segmentation" is necessary in patients with head and neck cancers.
+And it is hoped the time it takes to design targeted radiotherapy treatments could be cut from four hours to one.
+"Clinicians will remain responsible for deciding radiotherapy treatment plans," UCLH said.
+"From my perspective, one of the challenges that we have in the treatment of all tumours, but particularly brain and neck [tumours], is their complexity," said Dr Kieran Breen, of Brain Tumour Research, who is not involved in the work.
+"One way we can really improve this is by using the knowledge we already have," he told the BBC.
+"This is essentially what this project is doing."
+More precise radiotherapy helps reduce side effects of such treatment, according to Dr Justine Alford, senior science information officer at Cancer Research UK.
+"Using computers to help plan radiotherapy could help deliver better treatment for patients by speeding up the process and improving accuracy," she said.
+"But we won't know until results from this innovative new project are produced."
+The former patients have consented to their anonymised scans being used for medical research.
+Ownership of the data will be retained by the hospital.
+And, at the end of the partnership, DeepMind will "securely destroy" any information provided to it.
+One in 75 men and one in 150 women will be diagnosed with oral cancer during their lifetime, according to Google.

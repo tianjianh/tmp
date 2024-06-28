@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151213025653/http://www.bbc.co.uk/news/technology-35070853
+
+[SN]TITLE[SN]
+Cybercriminals will target Apple in 2016, say experts
+
+[SN]FIRST-SENTENCE[SN]
+Cybercriminals are increasingly targeting Apple devices and 2016 will see a rise in attacks on its operating systems, security experts suggest.
+
+[SN]RESTBODY[SN]
+According to security firm Symantec, the amount of malware aimed at Apple's mobile operating system (iOS) has more than doubled this year, while threats to Mac computers also rose.
+Security firm FireEye also expects 2016 to be a bumper year for Apple malware.
+Systems such as Apple Pay could be targeted, it predicts.
+Apple is an obvious target for cybercriminals because its products are so popular, said Dick O'Brien, a researcher at Symantec.
+While the total number of threats targeting Apple devices remains low compared with Windows and Android, Symantec is seeing the range of threats multiply.
+Last year, it was seeing a monthly average of between 10,000 and 70,000 Mac computers infected with malware.
+"This is far fewer than Windows desktops and we don't want to scaremonger. Apple remains a relatively safe platform but Apple users can no longer be complacent about security, as the number of infections and new threats rise," said Mr O'Brien.
+The number of unique OS X computers infected with malware in the first nine months of 2015 was seven times higher than in all of 2014, its research found.
+A significant amount of this spike is accounted for by so-called greyware - applications that may not have malware attached but can still be annoying to users, by serving up unwanted ads or tracking their web-browsing habits.
+Symantec also found seven new threats aimed at Apple's mobile iOS platform, with jailbroken devices - those that have been unlocked - being particularly vulnerable.
+And hackers are also increasingly targeting corporations, where Mac use is now more prevalent.
+A corporate espionage group known as Butterfly which attacked multi-billion dollar companies in 2015 developed malware tools that attacked both Windows and Apple computers.
+Traditionally iOS has been seen as a more secure platform than Android because of the more closed community that Apple runs for its apps but that is changing, according to FireEye.
+While it found that the vast majority - 96% - of mobile malware is targeted at Android devices, iOS is no longer immune.
+According to Bryce Boland, chief technology officer at FireEye, attackers are increasingly "finding ways into Apple's walled garden, and that will ramp up next year".
+FireEye recently discovered that XcodeGhost, iOS malware that Apple acted quickly to remove from its app store, had found its way into the networks of 210 US businesses.
+The attack was thought to be the first large-scale attack on Apple's app store.
+The introduction of new payment systems, such as Apple Pay, will add a financial incentive for hackers, making it worth their "time and effort" to develop new malware, FireEye said.
+Mr O'Brien said: "We haven't yet seen any threats targeting Apple Pay but anything that involves a financial transaction will be of interest to hackers."

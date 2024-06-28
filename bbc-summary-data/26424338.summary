@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170210181622/http://www.bbc.com:80/news/business-26424338
+
+[SN]TITLE[SN]
+Can big data crunching help feed the world?
+
+[SN]FIRST-SENTENCE[SN]
+The analysis of large volumes of data collected from fields, warehouses, trucks - and even animals' stomachs - may be key to preventing widespread hunger in the coming decades.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Bad guys v the data defenders
+Big Data: Are you ready for blast-off?
+Lotus F1 Team looks to tech to win
+Hey you, get on to my cloud
+Domain shift sends cyber world dotty
+The world's population is projected to grow to 9 billion by 2050, and the Food and Agriculture Organization of the United Nations believes that food production will have to increase by 70% in the next 35 years to prevent widespread hunger.
+But the increasing use of farmland for biofuel production means that there is less land available for food, and about half - or two billion tonnes - of the food that is produced is wasted, according to the Institution of Mechanical Engineers.
+Technology and data analysis could help improve the situation.
+For example, innovations in the way data can be collected from cattle have the potential to transform dairy and beef production.
+Vital Herd, a Texas-based start-up, has developed a device that can be swallowed by cows. The sensor, or e-Pill,  sits in the cow's rumen and uses sonar technology - originally developed for military purposes - to collect information about the animal, including heart rate, temperature, rumination time, rumen acidity and oestrogen levels. It will be available commercially later this year.
+The information stored on each e-Pill will be transmitted wirelessly to receivers as cows pass by, and then through the internet to Vital Herd's cloud-based herd management software. This will collate and interpret the data about each animal so it can be viewed by farm managers. The software will send out alerts by text message or email if it appears that individual animals have anything seriously wrong with them.
+"Forty per cent of dairy cows get ill each year," explains Brian Walsh, Vital Herd's chief executive. "The cause can be early lactation, the type of feed they are receiving or one of a very large spectrum of health complications. Early warning or auto-detection can help minimise complications or avoid them altogether."
+The US Department of Agriculture says total economic loss from animal sickness and death is more than $5bn (Â£3bn) a year, with global losses amounting to 12 times this.
+Mr Walsh believes that more productivity benefits will be realised by analysing historical data from a wide range of cattle. "If we can aggregate data from customers in different regions we could do industry benchmarking and studies to link productivity to vital sign data and genetics," he says.
+Big data analysis can also increase crop yields by helping famers make better decisions about when to plant, manage and harvest their crops.
+For example, the Climate Corporation, a company founded by two ex-Google employees and acquired by agriculture giant Monsanto in 2013, operates a cloud-based farming information system that takes account of weather measurements from 2.5 million locations every day.
+It processes that data, along with 150 billion soil observations, to generate 10 trillion weather simulation data points. Using this information, the company claims it can provide US farmers with temperature, rain and wind forecasts for areas as small as one-third of a square mile (about 200 acres), for the forthcoming 24-hour and seven-day periods.
+Accessed from a web browser, this information enables farmers to work out when best to spray large areas of farmland, because they can ascertain when the land is dry enough, when the wind speed is low enough to permit spraying, and when there is a long enough time window before the next rainfall to ensure that the spraying is effective.
+The system also uses daily weather data from the past few months to provide farmers with yield estimates for their crops in individual fields, and it allows them to explore historical data from the last thirty growing seasons to provide an accurate estimate of the value of fields they may be considering buying.
+But even if crops, dairy products and meat can be produced more efficiently by making use of big data, it's a major undertaking to get it from the farm or abattoir to the dining room table. That's because most food has to be transported hundreds or even thousands of miles on pallets in containers loaded on to trucks, ships and even aeroplanes, stopping at warehouses and distribution points on the way.
+Changes in temperature, humidity and even oxygen levels in the containers can all affect the condition of the food when it arrives at its market destination. About 10% to 15% of food that is transported chilled spoils during transport, according to some industry estimates, costing around $25bn.
+Tech Mahindra, an IT service company based in Bangalore, India, offers a system called Farm-to-Fork which aims to monitor containers centrally, sending alerts out whenever the conditions in a container deviate from their ideal ones.
+Sensors in each container measure temperature, humidity and other parameters, communicating over mobile data networks while the containers are in transit, and via wi-fi when they arrive at distribution centres. Global positioning system (GPS) data also keeps a track of where the containers are.
+In some circumstances problems can be rectified automatically, according to Mahesh Vasudevanallur, a practice head at the company. For example, if the sensors indicate that oxygen levels in the container have fallen too low, more of the gas can be released from an on-board tank.
+If automatic adjustment isn't possible, humans can intervene. "For a ship on the high seas, an alert message goes to a technician to see what action can be taken," Mr Vasudevanallur says. "With a truck, a driver can go to the nearest depot to get things fixed rather than driving on to his final destination."
+All this recorded data can be used to improve food transport conditions, he adds.
+"Big data scientists can do freshness and nutrition analysis at each part of the value chain to improve food longevity. That will do wonders getting the products to stomachs instead of being wasted."

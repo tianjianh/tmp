@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160304053352/http://www.bbc.co.uk/news/technology-35709676
+
+[SN]TITLE[SN]
+Police drone can be hacked with $40 kit, says researcher
+
+[SN]FIRST-SENTENCE[SN]
+A security researcher has reported finding a way to hijack a high-end drone, using parts costing as little as $40 (£29).
+
+[SN]RESTBODY[SN]
+The expert says it is possible to start the octocopter's engines, engage auto-takeoff, control its camera and, potentially, crash the machine.
+He will present his findings at the RSA security conference in San Francisco, and has published a thesis.
+The drone's manufacturer has been informed.
+However, the researcher told Wired magazine there would be "no easy fix" to the problem, meaning units might have to be recalled for a hardware update.
+Nils Rodday is currently a security consultant at IBM, but carried out his research at the Netherlands' University of Twente.
+His work focused on an unmanned aerial vehicle (UAV) used by the Dutch police force for surveillance.
+He said it cost about 20,000 euros ($21,700; £15,400).
+It is more expensive than consumer drones because it:
+The UAV is also used for power-line inspections, professional photography and agriculture applications
+The aircraft's maker lent Mr Rodday a copy of its machine on condition its name was not disclosed.
+Mr Rodday focused on its use of a telemetry module fitted with an Xbee radio chip, made by the company Digi International.
+The module converts wi-fi commands sent by a computer app into low frequency radio waves, which are then transmitted to another Xbee chip on the drone.
+This allows the operator to control it from a greater distance than would otherwise be possible.
+To achieve the hack, Mr Rodday required two Xbee chips of his own, among other low-cost components, as well as the use of a computer.
+The hack consisted of two parts:
+The second step had been relatively easy, Mr Rodday said, because the drone-maker had opted not to make use of Xbee's built-in encryption features.
+The reason for this was that they would have extended the lag between the operator sending a command and the drone reacting.
+"The whole communication is sent in clear text," wrote Mr Rodday in his thesis.
+"As long as the arriving data is syntactically and semantically correct, the data is forwarded to the application."
+Countermeasures were possible to prevent such attacks, he added, but they would "require better hardware, which leads to increased production cost".
+The drone manufacturer intends to fix the problem when it releases its next-generation model.
+But Mr Rodday believes other similar high-end aircraft may also face the same issue.
+To raise awareness, he intends to hack a drone on stage at the RSA.
+"[I] will make the UAV engine's spin, so the UAV will have to be tied to something heavy during the presentation," he said.
+Another expert, who has previously spoken out about the risks that drones pose, said he was concerned.
+"That a engineering student could demonstrate how to hack and take control of a larger commercial UAV as part of his masters degree shows both the infancy of this technology and the potential risks presented by the proliferation of these devices," said Prof David Dunn, from the University of Birmingham.
+"As this report shows, drones such as this can be commandeered [and] then be stolen, or redirected to crash into a specific target such as a crowd, building or airliner.
+"This report, however, raises the more general issue of the risks presented by the development of a new technology, the use of which is way ahead of preparations to regulate, deter, or defend against its potentially malign uses."
+Read more cybersecurity stories in our special index

@@ -1,0 +1,91 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170126230158/http://www.bbc.co.uk/news/technology-23027764
+
+[SN]TITLE[SN]
+Q&A;: NSA's Prism internet surveillance scheme
+
+[SN]FIRST-SENTENCE[SN]
+It has been described by its critics as a spying scandal and by its supporters as a justified and effective effort to head off the threat of terrorist attacks.
+
+[SN]RESTBODY[SN]
+Weeks after details of the US Prism programme first leaked, some of the details of what it entails have been confirmed but others have yet to be clarified, and may not do so for years to come.
+What is Prism?
+A surveillance system launched in 2007 by the US National Security Agency (NSA).
+A leaked Powerpoint presentation, dated April 2013, states that it allows the organisation to "receive" emails, video clips, photos, voice and video calls, social networking details, logins and other data held by a range of US internet firms.
+One of the slides names the companies as: Microsoft and its Skype division; Google and its YouTube division; Yahoo; Facebook, AOL, Apple and PalTalk - a lesser known chat service owned by AVM Software.
+The presentation says the programme costs $20m (Â£13m) a year to run and is designed to overcome  earlier "constraints" in the NSA's counterterrorism data collection efforts.
+Details of the initiative were first published by the Guardian and the Washington Post newspapers on 6 June.
+Late that day the US director of national intelligence confirmed the initiative's existence and declassified some information about it.
+James Clapper said that there were "strict, court-imposed restrictions" on how the data was handled and that only a "very small fraction" of the information was ever reviewed as most of it was not "responsive" to anti-terrorism efforts.
+A 1978 law - the Foreign Intelligence and Surveillance Act (Fisa) - had set out the conditions under which a special three-judge court would authorise electronic surveillance if people were believed to be engaged in espionage or planning an attack against the US on behalf of a foreign power.
+Following the 9/11 attacks, the Bush administration secretly gave the NSA permission to bypass the court and carry out warrantless surveillance of al-Qaeda suspects and others.
+After this emerged in 2005, Congress voted to both offer immunity to the firms that had co-operated with the NSA's requests and to make amendments to Fisa.
+The relaxation to the rules, introduced in 2008, meant officials could now obtain court orders without having to identify each individual target or detail the specific types of communications they intended to monitor so long as they convinced the court their purpose was to gather "foreign intelligence information".
+In addition they no longer had to confirm both the sender and receiver of the messages were outside the US, but now only had to show it was "reasonable" to believe one of the parties was outside the country.
+Details of the programme were leaked by Edward Snowden, a 30-year-old who had formerly worked as a technical assistant to the US Central Intelligence Agency.
+He has since been charged in the US with theft of government property, unauthorised communication of national defence information and wilful communication of classified communications intelligence.
+Mr Snowden initially moved to Hong Kong, but its government says he left the city voluntarily on 23 June. There have been conflicting media reports about where he has gone.
+Officials say that Prism cannot be used to "intentionally target any US citizen, any other US person, or anyone located within the United States".
+According to the Washington Post, the NSA identifies suspect communications using search terms designed to give it a 51% confidence rating that the target is foreign.
+The paper says the queries are then checked by the FBI to ensure no US citizen is named as a target.
+Once this is done and a suspect identified, it says that anyone that person has contacted or been contacted by can also become subject for review and then, in turn, everyone in the inbox and outbox of this extended group may also be targeted.
+On 20 June the Guardian published a document spelling out the precautions the NSA is supposed to take to minimise the risk of inadvertently examining data about US citizens and residents.
+It says that if officials discover details about US persons they should either pass them onto domestic law enforcement or destroy them "at the earliest practicable point". The exception to this is if the data is encrypted.
+But some experts have questioned whether such safeguards are effective.
+"The only way you can be reasonably be sure that somebody is a resident of a particular country from their email is to go and read all of their stuff," says Ross Anderson, professor of security engineering at the University of Cambridge's Computer Laboratory.
+"The NSA appears to be claiming magical powers for itself with claims it can search automatically through large numbers of webmail inboxes and pull out the right material, because even the webmail companies have said in most cases they can't figure out the nationality, residence and domicile of a user without getting a person to look through their stuff."
+Even assuming the NSA checks are adequate, that still leaves overseas residents who use services provided by the named tech companies as potential targets.
+President Barack Obama has sought to offer reassurance by saying US security services are not "rifling through the ordinary emails" of German, French or other citizens, but are rather following a "circumscribed, narrow system".
+One of the leaked slides says that "collection [of data was] directly from the servers" of the US tech firms.
+Initial reports suggested that the NSA did in fact extract the data via special equipment they had installed on the companies' computers which acted as a "back door".
+However, the tech firms issued statements denying that they provided "direct access".
+The New York Times then suggested that the companies had created the digital equivalent of "locked mailboxes" - secure areas on their networks onto which they copied the requested files for the agency to inspect.
+However, Google later denied this in an interview with Wired magazine.
+It said it had complied with court-ordered requests by either sending data over secure FTP (file transfer protocol) - an encrypted transmission sent from its computers to the authorities' - or by physically handing over the information "in person".
+The other tech firms have not been as specific.
+Although several of the tech firms involved said they had never heard of Prism before the newspaper reports, they have provided limited information about how they handle national security requests.
+Microsoft, Apple, Yahoo and Facebook have all published figures giving a rough indication of the total number of requests they have received from law enforcement agencies over a period of time.
+However, they say they are not able to provide a figure for Fisa-related requests alone as this data remains classified.
+By contrast, Google declines to provide an aggregated figure saying this would mark a "step back" for its users.
+The firm already sub-divides the different kinds of government requests it receives into different groups - including the number of national security-related letters received from the FBI.
+Its figures do not include requests from the NSA. It says to do so would involve "lumping together" the Fisa requests with those related to other cases which it says would be less transparent.
+Security researcher Ashkan Soltani has posted a blog saying there are still five key unanswered questions about Prism:
+NSA director Keith Alexander says that his agency's communication surveillance programmes have helped prevent more than 50 "potential terrorist events" since 9/11.
+He adds that at least 10 of those had been set to take place in the US, but says that some details need to remain classified to ensure the efforts remained effective.
+President Obama adds that: "You can't have 100% security, and also then have 100% privacy and zero inconvenience."
+The Guardian says it has obtained official documents that state "special programmes for GCHQ exist for focused Prism processing" - suggesting that spies at the UK's Government Communications Headquarters are making use of data sourced from the US tech firms.
+The newspaper says that in the year to May 2012, the British agency was able to generate 197 intelligence reports as a result. These would normally be passed on to the MI5 and MI6 intelligence agencies, it says.
+Foreign Secretary William Hague says that law-abiding citizens have "nothing to be worried about".
+The Deputy Prime Minister Nick Clegg adds that there are "exacting checks and balances in the way in which all intelligence agencies access information".
+But Labour's shadow defence secretary Douglas Alexander says the government needs to be more open about the subject.
+Professor Alan Woodward, a cybersecurity consultant who has worked for the UK government, suggests at the very least it should put limits on how long the information can be stored.
+"Regimes do change and you don't want your data to be misused by any future government," he says.
+"The key to that is how long the data is kept for. The reassurance needs to be that the data is not kept for any more than a reasonable amount of time - perhaps a couple of years."
+Parliament's Intelligence and Security Committee says it will receive a full report on the matter from GCHQ shortly and will then decide what action to take.
+The EU's justice commissioner, Viviane Reding, says she has concerns that firms complying with Prism-related requests might be handing over data in breach of European citizens' data privacy rights.
+As a consequence the US has agreed to set up a joint working group to examine the issue.
+China's government says it is "gravely concerned" by other recently disclosed US "cyber attacks" on its citizens. The country's official news agency, Xinhua, says the affair proves the US is the "biggest villain in our age" while the South China Morning Post accuses Washington of "hypocrisy".
+However, Russian President Vladimir Putin says that this kind of surveillance is "becoming a global phenomenon" and a  practical way to fight terrorism.
+Freedom Watch, a Florida-based activist group, is suing various government agencies and the tech companies involved, claiming that Prism violates the US constitution.
+But the White House says that the programme is legal under the Fisa amendments first passed by Congress in 2008 and then renewed in 2012. These are not due to expire until 2017.
+There have, however, been suggestions that US firms could face lawsuits in the EU for complying with the requests.
+The UK's Information Commissioner's Office has issued a statement saying: "Aspects of US law under which companies can be compelled to provide information to US agencies potentially conflict with European data-protection law, including the UK's own Data Protection Act."
+Finland's communications minister Pia Viitanen has also raised concerns.
+However, researchers at the University of Amsterdam suggest that national security exemptions mean the firms have a valid legal defence.
+Far from it.
+The Guardian has published details of another Fisa-sanctioned programme which demanded US phone network provider Verizon hand over phone records belonging to millions of its customers to the NSA. The US director of national intelligence says this was limited to "telephony metadata" including the numbers dialled and length of calls but not the contents of the conversations. Even so, the American Civil Liberties Association has filed a lawsuit against the government claiming it was in breach of the US Constitution.
+The leaked Powerpoint slides also point to a separate effort to collect "communications on fibre cables and infrastructure as data flows past", in other words as it travels across the internet. The Guardian has reported that GCHQ is doing something similar as part of a project codenamed Tempora, and says the agency is storing collected data for up to 30 days. Germany's justice minister describes the claims as "nightmarish".
+And Reuters has reported that the US government is now the biggest buyer of malware, noting that the NSA declines to comment on its own role in buying such tools because of the "sensitivity" of the topic.
+Richard Cox - a security specialist who previously worked in the UK's telecoms industry - warns the appearance of being over-zealous could prove self-defeating.
+"Trust is vital - if the intelligence agencies appear to be overstepping the bounds of trust then there will be distrust," he says.
+"We need greater oversight of the mechanisms being used so that we know they are being used in accordance with the law and so that we don't have to restrict officials' capabilities which might harm our security."
+Several websites have published advice on how to avoid Prism's reach. Suggestions include:
+But the University of Cambridge's Prof Anderson says the NSA can still overcome such measures.
+"It won't break the encryption, but will put malware on your phone or laptop," he says.
+"If you come to the attention of the NSA it will simply compromise the end devices."
+Security consultant Prof Woodward agrees a certain amount of paranoia is justified, but adds that concerns need to be put in context.
+"You should assume other countries are trying to spy on you - that's what they do," he says.
+"Because of the way the internet has developed much of it is based in the States, so Americans have a prime opportunity.
+"One of the comforts that the British have about the Americans and vice-versa is that we've been working hand-in-glove since 1946 sharing the material.
+"But this doesn't mean the British intelligence services can get round local legislation and go to the Americans for information they've gathered on a UK citizen.
+"That is still illegal. If they want information collected by an ally they still have to go through the legal process."

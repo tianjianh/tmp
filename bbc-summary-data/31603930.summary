@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170213102733/http://www.bbc.co.uk:80/news/technology-31603930
+
+[SN]TITLE[SN]
+How hackers hijack the net's phone books
+
+[SN]FIRST-SENTENCE[SN]
+Online services that charge to kick people out of games or bombard websites with data have been put out of action by PayPal and security researchers.
+
+[SN]RESTBODY[SN]
+The payment firm and the experts worked together to identify the accounts used by so-called "booter" services,
+They are thought to carry out hundreds of thousands of attacks each year and charge up to $300 (Â£200) a month.
+Research suggests the action cut the number of active booter services by about 90%.
+The booting services use many different ways to batter sites with data but have joined with many other cybercriminals recently in abusing part of the net's infrastructure - the Domain Name System (DNS).
+This acts like a phone book and translates the website names people use into the numeric equivalents that computers are happy with.
+So when you type bbc.co.uk, DNS translates that into 212.58.244.18 so your browser can find the page.
+"DNS underlies everything you do on the internet," said Neil Cook, chief technology officer at security firm Cloudmark. It is used billions of times a day to make sure you reach the site you are looking for.
+Its very usefulness has made it a tempting target for criminally-minded hackers, said Mr Cook, especially because few firms see it as a potential attack vector.
+"Most people just see it as plumbing," he said. "They don't see it as a security hole."
+But it is, he said. An attacker that can subvert the DNS system has total control over the data emerging from a company, internet service provider (ISP), home or phone.
+Cloudmark was alerted to its potential for trouble by one of it customer, a mobile operator that noticed a massive jump in the amount of data being sent to its DNS servers.
+This was odd because the typical DNS query does not involve much data -  a simple query and response. There was no good reason why, suddenly, far more data was being sent to those computers.
+Closer inspection revealed the culprit. "It was a rogue operator," said Mr Cook. "It had installed software on user's handsets so it did not have to pay roaming charges."
+The rogue was outside the UK and was funnelling customers data via DNS so it did not have to travel over the main mobile network and be paid for.
+At its fastest, DNS can move data around at about 200 kilobits per second - much slower than most mobile networks. But, said Mr Cook, the fact that users paid nothing to browse the web overseas offset the inconvenience.
+Tom Neaves from security firm Trustwave said that might be plenty fast enough if an attacker wants to move a small amount of data - such as a password.
+"A lot of people underestimate its potential as an attack tool because it was never meant to be used to transfer a lot of data," he said.
+Mr Neaves has proved just how useful it can be for attackers by creating software that exploits DNS to slowly steal data. For criminal hackers intent on industrial espionage that slow rate is fine - especially when you consider that, on average, it takes companies more than 200 days to spot an intruder insider their network.
+Trustwave has seen DNS exploited in other ways too, he said. It can be used as a command and control channel for a malicious program attackers have got running on a machine inside a network. Or as a way for attackers to communicate across networks in different companies.
+And it does not end there, said senior analyst Darren Anstee from network monitoring experts Arbor.
+"There are a lot of ways to exploit DNS to do bad things," he said.
+Most often Arbor had seen it used to carry out Distributed Denial of Service attacks that sought to knock a site offline by overwhelming it with data. Using well-known techniques, said Mr Anstee, DNS servers could be tricked into sending data to a particular site. If enough DNS servers are enrolled into the attack the amount of data turning up at a target site can be overwhelming.
+Arbor had seen attacks that funnelled more than 100 gigabits of data a second at a target. That's so much that it can have a knock-on effect on other systems on the same network.
+"The attack tools exist and the capability is built into various botnets and crimeware services," he said. Online there are so-called "booter" services that abuse DNS in a bid to knock people off game servers.
+Attackers had targeted home routers in a bid to subvert their DNS settings so they can get a look at the traffic and scoop up login names and passwords as they travel, he said.
+Public-spirited efforts such as the Open Resolver Project have helped to patch many vulnerable home routers and stop them being abused for either DDoS attacks or to steal data.
+The OSR has enjoyed a lot of success and has managed to get about seven million devices fixed.
+Unfortunately there are still about 20 million vulnerable devices accessible online, said Bruce van Nice, a director at DNS specialist Nominum.
+"That's a pretty good base of stuff that can be used for attacks," he said.
+Defending against DNS-based attacks is hard because many of the defensive techniques used to counter other attacks do not work well when applied to DNS. This is because DNS only works well if data can travel quickly to and from servers. Inspecting each packet to see if it is properly formed and is not being used to steal data would slow the whole system down. Users would complain as web browsing slowed to a crawl.
+There are techniques that can clean up traffic and mitigate DDoS attacks but defenders need to be aware that novel ways to abuse DNS are being produced all the time.
+Adversaries are not idle and are refining their techniques, said Mr van Nice.
+"We see activity every single day and we see evolution in those attacks so someone is improving their capabilities.
+"They do not do that without good reason."

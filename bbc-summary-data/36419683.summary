@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170113031648/http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-36419683
+
+[SN]TITLE[SN]
+Building a bat language database for a new bat detector
+
+[SN]FIRST-SENTENCE[SN]
+Bats are some of my favourite mammals, but they are so hard to film.
+
+[SN]RESTBODY[SN]
+They tend to fly fast and in unpredictable patterns; and of course, they are active at night. This behaviour doesn't just cause problems for us TV reporters, it also makes life difficult for scientists studying bat numbers.
+But now scientists at the University of Warwick think they have come up with a new way to identify bat species and it's a method that can be used by any bat enthusiast and not just experts.
+All this is good news because studying bat populations is an important way to learn more about the general health of an ecosystem.
+Since bats are often pretty high up the food chain, if they are doing well then chances are everything else, from insects to plants, is doing well too.
+So what the researchers have done is to record the world's largest database of bat noises.
+The tiny, short squeaks that bats make when they are out and about.
+This involved catching a lot of bats, identifying them visually and then recording any audible sound they make.
+The idea is to build an algorithm that can recognise a bat just from the noise it makes.
+Now that's not as easy as it might sound. A squeak is a very short sound. It doesn't contain an awful lot of information for a computer to get its digital-teeth into.
+But the researchers at the University of Warwick are very good at pulling patterns out of the tiniest amount of data.
+The end result could be a simple smartphone app that can record bat sounds in the wild and crunch the audio to produce a list of bat species in the area.
+It could revolutionise the work of scientists in the field.
+Bat identification is a very specialised job, but this research would mean many more people could get involved, really expanding what we know about the natural world.
+Read more about this work here;

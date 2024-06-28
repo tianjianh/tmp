@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161226225331/http://www.bbc.co.uk/news/business-34463981
+
+[SN]TITLE[SN]
+Tracking the 'Morecambe Missile' two-wheeled speed demon
+
+[SN]FIRST-SENTENCE[SN]
+John McGuinness, known as the "Morecambe Missile", has won 23 times at the famous Isle of Man TT motorbike races.
+
+[SN]RESTBODY[SN]
+Hurtling round the extremely dangerous 38-mile (61km) street course at an average speed of nearly 132mph (212km/h), takes immense skill and nerves of steel.
+But what makes him so much faster than many of his rivals on near identical bikes?
+Some of the sponsors of his Honda 1,000cc bike wanted to find out using the appliance of science.
+Data analytics firm EMC, sportswear maker Alpinestars, and sensor specialist Freescale Semiconductor, fitted his bike and suit with a battery of biometric and mechanical sensors to record every aspect of man and machine in action.
+"It was a bit nerve-wracking - there were wires everywhere," the 43-year-old road-racing champion tells the BBC. "There were even temperature sensors down my underpants.
+"But once the visor's down you forget all about that."
+The team tested the technology at the Monteblanco circuit in Huelva, Spain, comparing McGuinness' performance against that of motorcycle journalist, Adam Child.
+Then they tested the kit in race conditions during June's Isle of Man TT race.
+The results were surprising, not least to McGuinness himself.
+Fifty sensors measured everything from front and rear wheel velocities to throttle usage; banking angles to gear changes; acceleration and braking rates to suspension travel. The sensors in his suit even allowed them to analyse his position on the bike at different points of the course.
+But it was the biometric sensors on McGuinness himself that revealed a lot about the racer's secret to success.
+It turns out that he really does have ice in his veins, figuratively speaking. Even bombing down roads at top speeds of over 200mph, his heart rate is much lower than might be expected.
+"He was only at 120bpm [beats per minute] - well within the aerobic range - even at very high speeds," says Mike Foley, EMC's senior director of data science.
+"As his heart rate was much lower, his oxygen intake was lower," he says. "He was under less stress, calmer, and so more consistent in his performance, experiencing less fatigue than other riders."
+And tiredness leads to mistakes - sometimes fatal - in an intense time-trial race that lasts 1 hour 50 minutes around a course with 250 corners.
+"I didn't really know why I was faster," says McGuinness, "so it's been interesting finding out.
+"I get nervous before a race starts, but I consciously try to relax myself so I don't get burnt out and lose concentration."
+The testing generated mounds of data, all of which needed analysing, says Mr Foley. It also revealed limitations in the sensors themselves - many failed in the harsh conditions of the Isle of Man.
+Unusually, EMC opened a global competition to see who could analyse and present all the collected data in the most imaginative and practical way.
+"We crowd-sourced 750 data scientists," he says. "We applied machine learning techniques to the data analysis and discovered that only 14 variables really made a difference during the race.
+"It is the interplay of those 14 variables at any point on the lap that explains why he is faster."
+In short, this means he braked a little later, accelerated a little longer, and banked over in the corners a little more than other riders. He also used some gears more than others.
+"A 1% change in banking angle can make a big difference," says Mr Foley.
+Of course, natural ability plays a big part, too, as does long experience.
+"I first went on a motorbike at the age of three," he tells the BBC. "My dad had a bike garage in Morecambe so it was two wheels for me as far back as I can remember."
+Racing was just a natural extension of his "burning passion" for motorbikes, he says.
+"I loved the thrills, the speed, the freedom...and winning was the icing on the cake."
+So what did he learn from the data analysis?
+"I learned that I can go even faster in a couple of areas on the track - the ones I don't enjoy as much. I get a little tense here and my heart rate goes up.
+"So now I can clean myself up and make myself relaxed," he says.
+Formula 1 motor racing has had this kind of analysis for years, as has superbike Moto GP racing, with sensors beaming data wirelessly from the cars and bikes in real time during races.
+But the Auto-Cycle Union (ACU) Ltd., which runs the Isle of Man TT races, does not allow real-time data transmission - all the analysis of how the bikes have performed must be done after the races.
+"We like to think of TT as a purer form of racing - the rider has the responsibility for what he is doing, not the technical guys," explains Dr Paul King, chair of the ACU's road race committee.
+But Mr King, who is also a senior lecturer in mechanical engineering at Loughborough University, does believe in-suit biometrics could play an increasing role in motorsport and for civilian motorcyclists.
+"There are all sorts of possibilities for smart sensor technology in motorcycle clothing," he says. "Core body temperature is key on motorcycles - levels of concentration can drop if your body gets too cold.
+"You could receive an alert - a vibration in the seat perhaps - if this happens and you get too sleepy, for example."
+John McGuinness agrees, saying: "All this data we're gathering could be useful in the real world - sensors measuring your fatigue levels, the state of your tyres, whether you have an oil leak - it could save lives."
+Meanwhile, McGuinness aims to beat the late Joey Dunlop's record of 26 Isle of Man TT wins.
+With the help of data analytics, he might just succeed.
+Follow Matthew on Twitter: @matthew_wall

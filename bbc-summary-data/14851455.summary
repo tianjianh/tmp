@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170205004326/http://www.bbc.co.uk/news/technology-14851455
+
+[SN]TITLE[SN]
+Microsoft online services hit by major failure
+
+[SN]FIRST-SENTENCE[SN]
+Millions of Microsoft users were left unable to access some online services overnight because of a major service failure.
+
+[SN]RESTBODY[SN]
+Hotmail, Office 365 and Skydrive were among the services affected.
+Microsoft was still analysing the cause of the problem on Friday morning, but said it appeared to be related to the internet's DNS address system.
+Such a major problem is likely to raise questions about the reliability of cloud computing versus local storage.
+Especially embarrassing is the temporary loss of Office 365, the company's alternative to Google's suite of online apps.
+Its service also went offline briefly in mid-August, less than two months after it launched.
+The latest disruption is believed to have lasted for around two-and-a-half hours, between 0300 GMT and 0530 GMT.
+In a blog, posted at 0649 GMT, Microsoft said: "We have completed propagating our DNS configuration changes around the world, and have restored service for most customers."
+The Domain Name System (DNS) is responsible for translating URL web addresses , such as bbc.co.uk into the internet's native system of IP addresses, e.g. 212.58.246.95.
+Microsoft is not alone in suffering problems with its cloud-based applications. Google Docs was unavailable for a period on Wednesday.
+However, the fact that Microsoft's Office 365 is a paid-for service, with users charged Â£4 per month, may raise expectations of a more robust setup.
+Moving applications from installed software on individual computers, to web-based "software as a service" has been a major trend in computing in recent years.
+Such systems are seen as easier to manage, simpler to scale-up and down, and potentially offering more robust security.
+But a number of high profile failures have dented confidence in cloud computing.
+Among them have been several failures of Amazon's EC2 - the company's remote computing service, which allows businesses to hire additional processing power and storage on demand.
+The system failed in April 2011, impacting several large websites, including Foursquare and Reddit.
+Another period of down time in August affected many of the same websites.
+"There will be an element of confidence shaken," said Ken Moody, data centre services manager at the Cloud Computing Centre.
+Avoiding major cloud problems in future would depend on IT companies' ability to spread the risk, according to Mr Moody.
+"People should look at smaller data centres which are divided up where resilience could be guaranteed," he told BBC News.
+"Our service level agreements are 99.99% because we don't put everything into one large data centre."
+Mr Moody said that no-one, including its users, knows exactly how Microsoft's cloud computing systems are structured.
+Building future confidence in the platform may depend on sharing more information.
+"There's a requirement for transparency and communication to prospective clients," he said.

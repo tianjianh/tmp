@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150929115343/http://www.bbc.co.uk/news/technology-34356770
+
+[SN]TITLE[SN]
+Old net addresses run out in US
+
+[SN]FIRST-SENTENCE[SN]
+North America has officially run out of its stock of old net addresses.
+
+[SN]RESTBODY[SN]
+This week the American agency which oversees net addresses in the region gave out the last block of these vital net components.
+It said companies in North America should now accelerate their move to the latest version of the net's addressing system.
+Now Africa is the only region with any significant blocks of the older version 4 internet addresses available.
+The older addressing system, called IPv4, was created when the net was being set up in the 1970s. The system can support up to 4.3 billion addresses but the massive growth of the online world has swiftly depleted this.
+The successor addressing system, known as IPv6, can handle a vast amount of addresses and is unlikely to ever run out. IPv6 has been available since 1999 but only now are large numbers of firms starting to use it.
+"Organisations should be prepared to help usher in the next phase of the internet by deploying IPv6 as soon as possible," John Curran, head of the American Registry for Internet Numbers (Arin) told tech news site The Register.
+Shifting to IPv6 can be tricky for some ISPs because, for the time being, they have to support both old and new addressing schemes. Running both and translating from one to the other can break some services and introduce delays that irk customers.
+Afrinic, which hands out net addresses in Africa, currently has about 2.3 million IPv4 addresses left and these look set to run out by early 2019, statistics suggest. Stocks of IPv4 addresses ran out in other regions several years ago.
+Axel Pawlik, managing director of Europe's net address administrator Ripe NCC, said Arin exhausting its stock of IPv4 addresses was a "landmark moment in the history of the internet".
+"This means that organisations across North America can now only obtain IPv4 addresses by trading for them," he said. "For networks looking to grow, this will increasingly create pressure in the immediate future. "
+The steady depletion of IPv4 addresses has kicked off a market in buying and selling chunks of addresses that large or defunct companies no longer use.
+The Arin depletion might spark a significant rise in prices, suggests research by the IPv4 Market Group which acts as a broker for firms with addresses to sell.
+The sale of several big blocks of addresses from very large companies including Merck, Lilly, Dupont and Nortel could spell problems for anyone looking to buy a significant number of addresses, it said. The lack of single big blocks would  probably drive prices upwards as anyone requiring lots of addresses would have to get them from several sources, it said.
+In May, the UK's Department for Work and Pensions started selling off some IPv4 addresses it owned and got about Â£7 for each of the 150,000 it sold.
+Arin's announcement came as BT, the UK's biggest ISP, unveiled that it planned to enable its entire network for IPv6 by the end of 2016.

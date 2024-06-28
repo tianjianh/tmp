@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170317055428/http://www.bbc.com/news/technology-30880534
+
+[SN]TITLE[SN]
+Dating apps found 'leaking' location data
+
+[SN]FIRST-SENTENCE[SN]
+Many mobile dating apps can be hacked to expose the exact location of users, warn security experts.
+
+[SN]RESTBODY[SN]
+The vulnerability might leave users open to stalking, harassment or persecution, said the researchers.
+By spoofing requests to the servers behind the apps, researchers were able to track people as they moved around during the day.
+One app maker has fixed the loopholes in some nations but most users are still at risk, they warned.
+The location-leaking vulnerabilities were found by Colby Moore and Patrick Wardle from cybersecurity firm Synack. The pair focused most of their attention on gay dating app Grindr but said other dating apps were vulnerable in the same way.
+They found that they could exploit a feature of Grindr that tells users how far away they are from other people who have signed up to use the service and share where they are. The app calls on several different sources of data to provide very precise measurements of this distance.
+To exploit the loophole the researchers sent several requests to servers behind Grindr, each one appearing to come from a different location. This let them get multiple estimates of a target's distance from these separate places. This made it possible to calculate a person's exact location by triangulation.
+In a presentation at the Shmoocon conference, Mr Colby showed how he was able to use the loophole to map all Grindr users in San Francisco's Bay Area and those at the Sochi winter Olympics. Correlating this location data with information from social media sites would make it easy to find out someone's identity, he said.
+While exploiting the loophole was not straightforward, said the researchers, there was evidence that it was being abused in Egypt to harass some dating app users.
+He said Synack had told Grindr about the vulnerability which prompted the firm to update versions of its app available in nations where homosexuality is illegal or which have a history of violence against gay people.
+It added that it had made it easy for people to stop sharing their location if they were worried about how it could be abused.
+In a blogpost published soon after it was told about the problem, Grindr said that it had no plans to change the location finding system in nations where it was used because it was a "core function" of the service rather than a security flaw.
+As a result, Mr Moore told tech news site Ars Technica, the problem still existed for Grindr users outside nations where location sharing was turned off.
+"We were able to replicate this attack multiple times on willing participants without fail," he said.
+He said Grindr could make it much harder to exploit the bug by checking where people were making location requests from and stopping those that were obviously spoofed. In addition, he said, the firm could make the location data less precise to help obscure people's locations.

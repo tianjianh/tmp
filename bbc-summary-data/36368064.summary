@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307070855/http://www.bbc.co.uk/news/science-environment-36368064
+
+[SN]TITLE[SN]
+Sentinel satellite probes coral health from orbit
+
+[SN]FIRST-SENTENCE[SN]
+Scientists are working on techniques that would allow them to routinely monitor the health of corals worldwide from orbit.
+
+[SN]RESTBODY[SN]
+The EU's new Sentinel-2a satellite has the capability to look into the water column, to see whether reefs are undergoing change.
+Current, anomalously high temperatures are driving a huge coral bleaching event across the globe.
+Early work suggests the Sentinel can detect the effects from 780km up.
+The satellite's two images on this page show Fatu Huku Island in French Polynesia.
+The one below is a full colour view of the 1.5km-long rocky outcrop.
+At the top of the page, however, is a picture that displays only the "blue band" from the satellite's camera.
+Selecting this 490-nanometre wavelength makes the submerged reef around Fatu Huku jump out.
+"The blue band really goes into the water. The shorter the wavelength, the better the penetration you have," explained Dr Benjamin Koetz from the European Space Agency (Esa).
+"With Sentinel-2a, we can see 10-15m into the water, which you just couldn't see if you were using the green band, for example," he told BBC News.
+Esa is sponsoring a project called Sen2Coral, which had Sentinel-2a make repeat observations of the volcanic island from February to April this year.
+In that time, it detected a change in sea-bottom radiance - a brightening - that is very likely related to bleaching.
+A dedicated field team sent to the island at the end of February confirmed that sea-water temperatures were consistently above 30C and that parts of the reef were stressed. More work is needed though to confirm the associations.
+Excessively warm water will cause coral polyps to expel their symbiotic algae. This drains a reef of its colour. It is not necessarily fatal but it can weaken the ecosystem, making it vulnerable in the face of other threats such as disease.
+Bleaching has been occurring globally on a large scale of late because of the El Nino phenomenon, which sees surface temperatures spike in many ocean regions but particularly in the central and eastern Pacific.
+Scientists had previously tried to observe corals in the same way as at Fatu Huku using the American Landsat spacecraft and the French Spot platform. The former does not have quite the resolution needed (just 30m versus S2a's 10m), and the latter's camera does not have the optimal band to penetrate the water column.
+Ultimately, if the S2a techniques can be fully validated, it should be possible to automate the detection of change at reefs.
+Scientists could then use the Sentinel to alert them, not just to possible bleaching but to other deleterious impacts such as pollution incidents and nutrient run-off from land.
+The EU satellite is ideally suited to this kind of application. It is designed to map all land surfaces (and the coastal regions where corals tend to live) every 10 days. When its sister satellite (Sentinel-2b) is launched next year, this repeat time will fall to five days. All the data is free and open.
+"Sentinel coverage is systematic in the sense that it covers within 20km of the coast. But this doesn't, of course, include all the corals in the world, and one of the objectives of this project is to try to understand what exactly is needed," said Dr Koetz.
+"If we wanted to have a systematic coral reef observatory, we would have to increase the image acquisition plan, to take in all of the Great Barrier Reef, for example."
+The coral work of Sentinel-2a was highlighted at Esa's Living Planet Symposium which took place in Prague earlier this month.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

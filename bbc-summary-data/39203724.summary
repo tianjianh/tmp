@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170309013437/http://www.bbc.com/news/technology-39203724
+
+[SN]TITLE[SN]
+Apple, Samsung and Microsoft react to Wikileaks' CIA dump
+
+[SN]FIRST-SENTENCE[SN]
+Several of the tech firms whose products have been allegedly compromised by the CIA have given their first reactions to the claims.
+
+[SN]RESTBODY[SN]
+Wikileaks published thousands of documents said to detail the US spy agency's hacking tools on Tuesday.
+They included allegations the CIA had developed ways to listen in on smartphone and smart TV microphones.
+Apple's statement was the most detailed, saying it had already addressed some of the vulnerabilities.
+"The technology built into today's iPhone represents the best data security available to consumers, and we're constantly working to keep it that way," it said.
+"Our products and software are designed to quickly get security updates into the hands of our customers, with nearly 80% of users running the latest version of our operating system.
+"While our initial analysis indicates that many of the issues leaked today were already patched in the latest iOS, we will continue work to rapidly address any identified vulnerabilities.
+"We always urge customers to download the latest iOS to make sure they have the most recent security update."
+Samsung - whose F8000 series of televisions was reportedly compromised via a USB connection-based hack co-developed with the UK's MI5 agency - was briefer.
+"Protecting consumers' privacy and the security of our devices is a top priority at Samsung," it said.
+"We are aware of the report in question and are urgently looking into the matter."
+The leaks also claimed that the CIA had created malware to target PCs running Microsoft's Windows operating system.
+"We are aware of the report and are looking into it," a spokesman from Microsoft said.
+The documents said that the CIA had also created "attack and control systems" that could hijack computers powered by Linux-based software.
+"Linux is a very widely used operating system, with a huge installed base all around the world, so it is not surprising that state agencies from many countries would target Linux along with the many closed source platforms that they have sought to compromise," Nicko van Someren, chief technology officer at The Linux Foundation told the BBC.
+"[But] rapid release cycles enable the open source community to fix vulnerabilities and release those fixes to users faster."
+Google declined to comment about allegations that the CIA was able to "penetrate, infest and control" Android phones due to its discovery and acquisition of "zero day" bugs - previously unknown flaws in the operating system's code.
+The World Wide Web Foundation - which campaigns for internet privacy - said the US government needed to issue a detailed response.
+"Governments should be safeguarding the digital privacy and security of their citizens, but these alleged actions by the CIA do just the opposite," said the organisation's policy director Craig Fagan.
+"Weaponising everyday products such as TVs and smartphones - and failing to disclose vulnerabilities to manufacturers - is dangerous and short-sighted.
+"If these new assertions prove true, we call on the Trump administration and other governments to stamp out such practices."
+The CIA has not confirmed whether the documents - said to date between 2013 to 2016 - are real.
+But one of its former chiefs was concerned by their publication.
+"If what I have read is true, then this seems to be an incredibly damaging leak in terms of the tactics, techniques, procedures and tools that were used by the Central Intelligence Agency to conduct legitimate foreign intelligence," ex-CIA director Michael Hayden told the BBC.
+"In other words, it's made my country and my country's friends less safe."
+But one expert said the fact that the CIA had targeted such a wide range of technology was no surprise.
+"The story here isn't that the CIA hacks people. Of course they do; taxpayers would be right to be annoyed if that weren't the case," blogged Nicholas Weaver, a security researcher at the International Computer Science Institute in Berkeley.
+"The CIA's job, after all, is [to] collect intelligence, and while its primary purview is human intelligence, hacking systems interacts synergistically with that collection.
+"The actual headline here is that someone apparently managed to compromise a Top Secret CIA development environment, exfiltrate a whole host of material, and is now releasing it to the world... now the world wants to know who, and how, and why."
+These latest leaks - which appear to give details of highly sensitive technical methods - will be a huge problem for the CIA.
+There is the embarrassment factor - that an agency whose job is to steal other people's secrets has not been able to keep its own.
+Then there will be the fear of a loss of intelligence coverage against targets who may change their behaviour because they now know what the spies can do.
+And then there will be the questions over whether the CIA's technical capabilities were too expansive and too secret.
+Because many of the initial documents point to capabilities targeting consumer devices, the hardest questions may revolve around what is known as the "equities" problem.
+This is when you find a vulnerability in a piece of technology and have to balance the benefit to the public of telling the manufacturer so they can close it and improve everyone's security with the benefit to the spy agency of leaving it in place so it can be exploited to collect intelligence.
+The National Security Agency faced questions about whether it had this balance right when many of its secrets were revealed by Edward Snowden, and now it may be the CIA's turn.
+Read more from Gordon

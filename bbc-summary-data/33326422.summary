@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150707225737/http://www.bbc.co.uk/news/business-33326422
+
+[SN]TITLE[SN]
+The apps giving hospitals a cutting edge
+
+[SN]FIRST-SENTENCE[SN]
+Hospitals have long relied on the trusty pager to alert doctors to an emergency. But the technology now looks embarrassingly primitive in the age of the multimedia smartphone.
+
+[SN]RESTBODY[SN]
+So some healthcare start-ups are looking at ways to improve how doctors and nurses communicate, care for patients and manage treatments.
+Niall Rafferty, a radiographer and boss of a tech firm, Medxnote, says anecdotal evidence from doctors suggests that "we're wasting about 45 minutes to an hour each per day by using pagers".
+The Irish start-up has developed a secure messaging app for hospital staff - like a version of group messaging platform WhatsApp, but one that's wearing a white coat and stethoscope.
+Dublin's Blackrock Clinic piloted the app in one of its wards and is now interested in extending its use across the entire hospital, says the hospital's head of IT, John Hayes.
+Blackrock's previous communications system wasn't secure and offered no way of acknowledging that people had received the message, he explains.
+"We would like to roll it out to the rest of the hospital and make it the mandatory way of sending patient information," he says.
+But it's the multimedia potential of smartphone apps that is interesting hospitals, not just their more responsive text communications features.
+Many health professionals have already been using publicly available apps, like WhatsApp and Viber, to share photos of patient conditions and carry out online consultations, says Mr Rafferty.
+"Unofficially people are taking photos of a wound or something and they might text it to a doctor to see what kind of antibiotic they want," he says. "It's widespread in hospitals."
+The big problem is that this way of doing things doesn't comply with strict privacy and security rules governing patient data. So Medxnote is planning to add a secure photo-sharing feature to its app soon.
+"We have all the functionality of a WhatsApp but all the images stay within Medxnote - they don't go up to the cloud or to your photo gallery. It's all encrypted; it's safe and secure," he says.
+Blackrock Clinic is waiting until this important feature is added before rolling out the Medxnote app in its hospital. It also wants the firm to add support for Android phones - something that is in the pipeline, Mr Rafferty says.
+Secure connectivity means clinicians can also get access to patient records and health data much more quickly.
+"I think the reason that people are moving to applications like this is because there are other features available besides just reaching you with a text," says Ed Ricks, chief information officer at Beaufort Memorial Hospital in Beaufort, South Carolina.
+His hospital has been using Imprivata's secure communications platform and trialling automatically sending electronic medical records to health professionals in real time.
+UK-based Sensium Healthcare specialises in wearable health monitoring sensors that transmit data wirelessly.
+It has teamed up with Medxnote to bid for a National Health Service pilot scheme testing how this real-time patient data can be sent to the relevant clinicians via the messaging app.
+This way, doctors and nurses can respond more quickly to health alerts, the companies hope.
+Hospitals are also catching up with the latest app technology in the operating room.
+Surgeons are still using a lot of guesswork when trying to keep track of blood soaked up by sponges and swabs during operations.
+Gauss Surgical in California decided there must be an app for that, too.
+Its iPad app, Triton, which was recently cleared by the US Food and Drug Administration, takes a photo of the blood-soaked swab and uses its own unique algorithm to scan the pixels and give the surgeon a slightly more accurate view of how much haemoglobin and blood it contains.
+"It uses what we call feature extraction technology - something we have trademarked - and it breaks it down to the very pixel level, and it's sort of like a photometer," says Gauss Surgical boss, Milton McColl.
+"It looks at the colour and can actually calculate how much blood is on it."
+Accurately monitoring a patient's blood loss during an operation is vital, as overestimation can lead to unnecessary blood transfusions, while underestimation may mean necessary steps to prevent haemorrhaging are not taken.
+The Triton system is encrypted and compliant with US health data protection guidelines, the firm says, and carries no personally identifiable information about patients.
+Hospitals have also looked at making it easier for patients and visitors to find their way around the buildings and grounds.
+For example, Sarasota Memorial Hospital in Florida, has recently updated its app, integrating beacon location technology usually found in the retail sector.
+"We had explored various options for the hospital in using GPS for finding your way around the hospital, but GPS doesn't recognise floors, so if you're on the first floor or the fifth floor it doesn't know that," says Charles Westcott, the hospital's webmaster who worked on the app.
+Beacons - small transmitters that communicate wirelessly smartphones - were a means to fix that.
+"No matter where the beacons are, you're connected with that specific beacon and they can be programmed to send notifications to the devices with the app," says Mr Westcott.
+"It was all about making the experience of getting our visitors to where they need to go as quickly and easily as possible."
+The app has had generally positive feedback, he says, and they have also added features, such as a 10% discount for patients and families at the gift shop.
+Currently the beacons are only compatible with iPhones, but the hospital intends to offer support for Android phones over the next couple of months.

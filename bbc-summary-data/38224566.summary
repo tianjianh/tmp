@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107235305/http://www.bbc.com/news/science-environment-38224566
+
+[SN]TITLE[SN]
+Jumping robot inspired by bush babies
+
+[SN]FIRST-SENTENCE[SN]
+Scientists in the US have unveiled an athletic robot which takes its inspiration from bush babies.
+
+[SN]RESTBODY[SN]
+Salto the robot can perform multiple vertical jumps in a row - making it a champion robot athlete.
+Bush babies, or galagos, can jump five times in four seconds, to reach a combined height of 8.5m.
+Writing in Science Robotics, the researchers say the prototype could be used for search and rescue in disaster zones.
+The bush baby (Galago senegalensis) is a nocturnal primate native to Africa. It has the unusual ability to store energy in its tendons, enabling it to jump to heights not achievable by its muscles alone.
+Duncan Haldane and his colleagues at the University of California, Berkeley, describe the bush baby's special skill as "vertical jumping agility".
+To compare robots and animals, the roboticists developed a new metric to measure vertical agility.
+This is defined as the height something can reach with a single jump in Earth gravity, multiplied by the frequency with which that jump can be made.
+Their robot is 26cm tall and weighs 100g. A motor drives a spring, which loads via a leg mechanism to create the kind of crouch seen in the bush baby.
+Salto mimics the way energy is stored in the tendons of the nocturnal mammal, which means it doesn't need to wind up before a jump. As soon as it leaps, the robot is ready to go again.
+With a vertical jumping agility of 1.75 metres per second (m/s), Salto was able to achieve 78% of the bush baby's score; the mammal has a jumping agility of 2.24 m/s.
+However, the Californian-built robot was able to beat a bullfrog on the same metric.
+"By combining biologically inspired design principles with improved engineering technology, matching the agile performance of animals may not be that far off," said co-author Prof Ronald Fearing.
+The research has been backed by the US Army Research Laboratory among other funders.
+Follow Paul on Twitter.

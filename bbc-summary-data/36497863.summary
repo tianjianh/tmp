@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160611154254/http://www.bbc.co.uk/news/technology-36497863/
+
+[SN]TITLE[SN]
+Twitter locks accounts after log-ins go on sale
+
+[SN]FIRST-SENTENCE[SN]
+Twitter has locked some accounts following reports that log-in details for millions of users were on sale.
+
+[SN]RESTBODY[SN]
+On Thursday reports surfaced that a Russian hacker called Tessa88 was asking for 10 bitcoins (Â£4,000) for access to a list of 32 million names.
+In a blogpost, Twitter said it was confident that the data had not come from a hack attack on its servers.
+But after scrutinising the list, it had locked some accounts and users would need to reset their passwords.
+"The purported Twitter @names and passwords may have been amassed from combining information from other recent breaches, malware on victim machines that are stealing passwords for all sites, or a combination of both," wrote Michael Coates, chief security officer at Twitter, in the blogpost.
+Security firm Leaked Source, which first shared information about the list, said its analysis suggested the information came from PCs infected with data-stealing malware.
+Twitter's cross-checking of the list showed that some of the log-in data being offered was real, said Mr Coates, and led to the micro-blogging service locking those accounts and forcing a password reset.
+He said Twitter had taken similar action in recent weeks as data from other breaches became publicly available.
+He did not say how many of the supposedly stolen log-ins were legitimate or how many accounts had been locked.
+Some security experts have expressed doubt about whether all the information in the list of 32 million log-in names is genuine.
+Per Thorsheim, who advises companies about security and safe log-in procedures, said he was "sceptical" about the data but added that he had not had chance to look through it himself.
+"A 32 million leak doesn't make sense," he said. "It could be a very old leak from when Twitter only had 32 million users, it could be a chunk of the full dataset from a recent breach or what I usually think - it's just made-up junk."
+Troy Hunt, who maintains an online repository of breach data, told technology news site Ars Technica that he too had his doubts about the list.
+"I'm highly sceptical that there's a trove of 32 million accounts with legitimate credentials for Twitter," he said. "The likelihood of that many records being obtained independently of a data breach and them being usable against active Twitter accounts is extremely low."
+The sale of the Twitter list comes in the wake of a series of "mega-breaches" which have seen data stolen from companies many years ago now being widely shared. More than 600 million passwords feature in the massive data dumps.
+Cyberthieves are keen to get at this data because many people reuse log-in names and passwords so finding a working combination on one service may unlock many others.

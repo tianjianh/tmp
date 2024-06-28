@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160807033603/http://www.bbc.co.uk/news/technology-36128184
+
+[SN]TITLE[SN]
+Facebook hacker discovers traces of other intruder
+
+[SN]FIRST-SENTENCE[SN]
+A hacker looking for ways to breach Facebook's internal network has uncovered traces of another hacker who got there first.
+
+[SN]RESTBODY[SN]
+The Taiwanese researcher found files left behind by the other intruder on a neglected Facebook server.
+The former hacker was using tools to scoop up login names of Facebook's net admin staff.
+Facebook said the traces were left by another security researcher also seeking loopholes in its systems.
+In a blog post, security researcher Orange Tsai detailed the way he found the vulnerable server and his realisation that someone else had been there before him.
+The earlier intruder had set up scripts to grab the login names and other credentials for Facebook employees. At first glance, he said it looked like a "pretty serious security incident".
+Mr Tsai, who works for security firm Devcore, reported his findings to Facebook so it could harden the server and clean out the login-sniffing scripts.
+He won a $10,000 (Â£7,000) bug bounty from Facebook for finding the vulnerable server. In a statement on the Hacker News site, Facebook said it was "really glad" that Mr Tsai reported his findings.
+"After incident response, we determined that the activity Orange detected was in fact from another researcher who participates in our bounty program," it said.
+Facebook described the discovery of the vulnerable server as a "double win" as it involved two competent researchers assessing its systems. Neither was able to get further than the server to get full access to the site's internal networks, it added.
+Paul Ducklin, writing on the blog of security firm Sophos, said anyone planning to do similar work on other net firms should be more careful.
+"We recommend that you don't go as far as either hacker in this case." he wrote. "Orange stretched the rules a bit; the earlier mystery hacker stretched them a lot."
+Going too far might introduce new weaknesses, warned Mr Ducklin.
+"You don't make security stronger by weakening it," he said.

@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150804205133/http://www.bbc.co.uk/news/technology-33724290
+
+[SN]TITLE[SN]
+Click here to hack the network
+
+[SN]FIRST-SENTENCE[SN]
+This week is hacker week in Las Vegas. The desert playground is hosting three conferences dedicated to computer security - Black Hat USA, Def Con and BSides LV.
+
+[SN]RESTBODY[SN]
+Between them, they capture the entire gamut of hacker culture.
+Black Hat is the sensible, grown-up conference, where the clothes might be casual but the shoes are shiny. BSides is an unofficial companion conference for Black Hat and acts as a fringe event for the bigger show. Def Con is their freewheeling, raucous, free-spirited sibling. With tattoos. And a mohawk.
+Black Hat is now the biggest gathering of security professionals in the world and about 8,000 people involved in computer security will attend its training sessions, briefings and seminars.
+But what do they all do? What is a typical day as a security professional actually like?
+To find out I went to hacker school. I spent the day in the company of the pros at the NCC Group, who guided me through some of the training courses and exercises used on graduate recruits.
+One of the many jobs that security pros do is penetration testing.
+"We're emulating what the attackers do," said Matt Lewis, an associate director at NCC. "As best we can we need to use the tools and techniques of attackers to make the tests fair and representative of real-world threats and risks."
+The first phase is enumeration - essentially exploring the small, sample network they set up to see what we can find. We probe every device we find to see if it has any ports open. Ports can be thought of as virtual doors and every net-connected device has them.
+"If there is a open port there is a service," said Mr Lewis. Services are the things we do on the net. For instance, port 80 typically handles HTTP traffic - web browsing to you and me.
+"Those services might be exploitable and give us a way in.
+"We can use other tools to start probing those services a bit more to see what information we can elicit about the system we are looking at," said Mr Lewis. The probes might shake loose user names, software versions or other useful information.
+Armed with this we can look online for information about vulnerabilities that we can slip through.
+During our enumeration we noticed that the test network has a web server running on it so we have a look at it to see if that is exploitable. Whoever set it up might have done a poor job and left it open to the well-known cross-site scripting attacks.
+"There's a lot of old code running out there from the 1990s," said Mr Lewis. "They never thought that it would be used in the way that it's being used today."
+There might be a database behind the web server we can subvert using other tried and tested techniques. We also use a proxy program that lets us manipulate data as it travels between our browser and the server. It's another way to see if that behind-the-scenes system is subvertable.
+The idea, said Mr Lewis, is to establish a foothold or even a toehold on the network. With that done we can seek to move sideways around the system and, eventually, rattle up the hierarchy of privilege to consolidate our control.
+The ultimate aim is to get root - total ownership where we can do anything we please to this network.
+It's at this point that the tactics of the pen tester and the cyberthief differ.
+"Once they are in they will look for another way to get back in to the system," said Mr Lewis. Bad guys do not want to risk getting shut out so, once they are in, they try to use the power over the network they have gained to give themselves a back door.
+And on it goes. Almost everywhere we look on this network there are holes, mistakes, vulnerabilities and exploits we can get through. It's been set up to be wholly holey but, said Mr Lewis, plenty of networks have some of the same weaknesses.
+What has surprised me is how little I would need to know to do this by myself. The software tools are available online and, armed with a few relevant commands, I could do this again.
+If I did I would be breaking the Computer Misuse Act. To avoid prosecution, penetration testers get a letter of authority from their clients to poke around.
+I also should not get carried away with the progress we made, said Stuart McKenzie from Context IS, which also carries out security audits and penetration tests.
+"You can always get in but where can you get to?" he asked. Just because an attacker is on the inside does not mean they instantly own the whole system.
+Consolidating that hold, moving up through the hierarchy, takes time - which gives victims a window in which to react and notice the intrusion.
+"Defenders still have time," he said. "but they have to be quick to react."
+The good news was that many larger companies had got much better at handling computer security, he said.
+"Everyone has quite good defences now. They have moved past the point of thinking that attackers will not get in.
+"Now it's about monitoring and response rather than just building higher and higher walls," he said. "It's test, test, test or they will miss the holes."

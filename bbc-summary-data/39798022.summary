@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170504230131/http://www.bbc.com/news/business-39798022
+
+[SN]TITLE[SN]
+Google Docs users hit by phishing scam
+
+[SN]FIRST-SENTENCE[SN]
+Google says it has stopped a phishing email that reached about a million of its users.
+
+[SN]RESTBODY[SN]
+The scam claimed to come from Google Docs - a service that allows people to share and edit documents online.
+Users who clicked a link and followed instructions, risked giving the hackers access to their email accounts.
+Google said it had stopped the attack "within approximately one hour", including through "removing fake pages and applications".
+"While contact information was accessed and used by the campaign, our investigations show that no other data was exposed," Google said in an updated statement.
+"There's no further action users need to take regarding this event; users who want to review third party apps connected to their account can visit Google Security Checkup."
+During the attack, users were sent a deceptive invitation to edit a Google Doc, with a subject line stating a contact "has shared a document on Google Docs with you".
+The email address hhhhhhhhhhhhhhhh@mailinator[.]com was also copied in to the message; Mailinator, a free email service provider has denied any involvement.
+If users clicked on the "Open in Docs" button in the email, they were then taken to a real Google-hosted page and asked to allow a seemingly real service, called "Google Docs", to access their email account data.
+By granting permission, users unwittingly allowed hackers to potentially access to their email account, contacts and online documents.
+The malware then e-mailed everyone in the victim's contacts list in order to spread itself.
+"This is a very serious situation for anybody who is infected because the victims have their accounts controlled by a malicious party," Justin Cappos, a cyber security professor at NYU, told Reuters.
+According to PC World magazine, the scam was more sophisticated than typical phishing attacks, whereby people trick people into handing over their personal information by posing as a reputable company.
+This is because the hackers bypassed the need to steal people's login credentials and instead built a third-party app that used Google processes to gain account access.
+The Russian hacking group Fancy Bear has been accused of using similar attack methods, but one security expert doubted their involvement.
+"I don't believe they are behind this... because this is way too widespread," Jaime Blasco, chief scientist at security provider AlienVault, told PC World.
+Google said the spam campaign affected "fewer than 0.1%" of Gmail users. That works out to about one million people affected.
+Last year, an American man pleaded guilty to stealing celebrities' nude pictures by using a phishing scam to hack their iCloud and Gmail accounts.
+And in 2013, Google said it had detected thousands of phishing attacks targeting email accounts of Iranian users ahead of the country's presidential election.

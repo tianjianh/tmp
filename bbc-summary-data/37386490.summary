@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170813054704/http://www.bbc.co.uk/news/business-37386490
+
+[SN]TITLE[SN]
+Can tech keep the world's bees buzzing?
+
+[SN]FIRST-SENTENCE[SN]
+The plight of the honey bee is a major cause of concern for the world's scientists, environmentalists and the food industry, not to mention beekeepers.
+
+[SN]RESTBODY[SN]
+Bees play a crucial role in the survival of many of the crops in our food chain - one in three mouthfuls of food depends on the pollinating insects, according to the British Beekeeping Association - but their numbers are significantly declining.
+A recent US report said that American beekeepers lost 44.1% of their hives between March 2015 - April 2016 - the highest rate of decline since the annual study began six years ago.
+There are a number of reasons for this dramatic fall. One is the deadly varroa destructor, a parasitic mite that feeds on bees, and can kill off a whole hive.
+At present, varroa infestations can be controlled, but not removed completely.
+Bee populations have also been killed by disease, and the use of certain pesticides and fungicides on crops.
+Together with the impact of varroa mites, this has also led to a big increase in colony collapse disorder - when worker bees abandon their hives.
+In the US the precarious situation has been made much worse since the summer, due to aerial spraying of insecticides to target mosquitoes that could carry the Zika virus.
+As the insecticides also kill bees, millions have died, wiping out whole honey farms. One report from South Carolina earlier this month said it looked as if the bees had been "nuked".
+But despite the continuing woes faced by beekeepers, a number of technology firms are trying to help.
+Bee Smart Technology aims to allow beekeepers to remotely monitor their hives, so that they can more quickly, and more easily, check whether there is a problem.
+Ivan Kanev, co-founder and chief executive, says: "We figured beekeepers don't really rely on modern technology.
+"The last meaningful innovation was the invention of the motorised vehicle so they could transport hivesâ€¦ so we decided to do something about it."
+Bee Smart, which has a research and development division in Mr Kanev's native Bulgaria, and a marketing team in California, has developed a small box of sensors that attaches to the frames in a hive.
+The system monitors a number of metrics including temperature, humidity, the colony's levels of activity, whether the queen is mating, and even the sound of the bees.
+Bee Smart also claims that its sensors can predict when a swarm is imminent.
+The box is battery operated and needs charging every three months. Data is sent via the cloud's data centres to Bee Smart, where it is processed, analysed and then sent to the beekeeper.
+Mr Kanev adds that in the US the beekeeping industry is big business, but is not predominantly about harvesting honey.
+"Here honey is a secondary thing for bee keepers, [instead] they rent out their bees for pollination services," he says.
+"They are transporting bee hives across the country to pollinate different crops."
+The almond farms of California, for example, which rely on honey bee pollination, will pay around $200 (Â£150) per hive for the service.
+Mr Kanev adds: "When you're transporting your beehive, as a beekeeper you might think of those as your assets - being able to remotely monitor their state is becoming very important."
+Bee Smart is set to launch a closed trial of its technology in the coming weeks, but Mr Kanev says that in tests so far there has been a "visible improvement" in beehive health, season after season.
+"The product is based around the idea that bees are critical for us and they are in danger," he says.
+In the UK Plan Bee is hoping to go one step further with a complete one-stop-shop for potential beekeepers when it launches in the next few weeks.
+Based in Motherwell, Scotland, it offers a monitoring service for the hives, complete with data analysis, powered by a credit-card sized Raspberry Pi computer.
+But Plan Bee does not want to exclude the human touch.
+"We'll provide the hives, the honey bees, and 28 visits a year to the beehive," said chief executive Warren Bader.
+"It's like garden maintenance but for bees."
+Fellow UK business Tumbling Dice is another firm looking to help beekeepers.
+It has developed an active vision system called Rana, which is currently being trialled by researchers in the US state of Utah.
+It also uses a Raspberry Pi computer to analyse individual video frames received from monitor cameras. The system can be programmed to track a specific event, such as when individual bees leave a hive.
+"This is more about looking at the foraging behaviour of the bees than the health of the hive," says Tumbling Dice founder Mark O'Neill.
+But what about efforts to tackle the varroa mite?
+Current treatments tend to involve chemicals, but one successfully crowd-funded scheme called Thermosolar Hives hopes to offer a hardware solution after raising more than $44,000.
+Invented by Czech scientist Roman Linhart, the Thermosolar Hive uses solar power to heat the inside to 40C for 150 minutes. He says this doesn't harm the bees, but will destroy the mites.
+The treatment then has to be repeated 10 days later to attack mites that return to the hive attached to bees who were out during the initial treatment.
+Mr Linhart, who has been a beekeeper for 25 years, and spent 10 developing the product, says his technology is preferable to the uses of chemicals, to which he says mites are becoming resistant.
+"Our [development] work took so long because we have tested it in different areas like high mountains, lowlands, cities, or regions with very hot summers," he told the Digital Trends website back in May.
+He also said he faced hostility from rivals.
+"There were some problems with company producing chemicals for varroa treatment, and some with people who are trying to breed varroa-tolerant bees," he added.
+"They were not very happy to see that something like our hive can disrupt their business."
+The Thermosolar Hive is due to start being delivered to buyers in January 2017.

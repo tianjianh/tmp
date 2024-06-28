@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170808184038/http://www.bbc.co.uk/news/technology-40861976
+
+[SN]TITLE[SN]
+Hackers 'could target electricity grid' via solar panel tech
+
+[SN]FIRST-SENTENCE[SN]
+Hackers could target electricity grids through security flaws in solar panel equipment, a Dutch researcher has said.
+
+[SN]RESTBODY[SN]
+Willem Westerhof found 17 vulnerabilities in inverters, which convert electricity produced by the panels so it can be used on the grid.
+He said internet-connected inverters could be targeted by hackers.
+One manufacturer said that only "a small fraction" of its devices were affected.
+After discovering vulnerabilities in devices produced by a range of manufacturers, Mr Westerhof carried out a field test near Amsterdam on two inverters made by SMA.
+He told the BBC the test showed it would be possible for an attacker to remotely control the devices and alter the flow of power.
+Because energy equipment on the grid needs to balance supply with demand, overloading the system could result in a power cut.
+"If an attacker does that on a large scale, that has serious consequences for the power grid stability," said Mr Westerhof.
+Energy researcher Iain Staffell, at Imperial College London, told the BBC, "It's certainly a risk to electricity supply and could stress grid operations."
+However, he did not believe it could cause blackouts and he pointed out that a large number of inverters would have to be attacked at once for any significant effect to occur.
+SMA responded by pointing out the limitations to such an attack:
+"The security of our devices has highest priority for SMA in all respects," the company said in a statement.
+"We already assessed the mentioned issues on a technical basis and [are working] intensively on the correction."
+It added that it would publish further responses to Mr Westerhof's research in the coming days and that it was working on a report about the security of its products with the Dutch National Cyber Security Centre.
+Asking users to change passwords was a way of pushing liability away from the manufacturer, said cyber-security researcher Tom van de Wiele, at F-Secure.
+"The vulnerabilities are real," he said, though he agreed with SMA that not all inverters would be open to attack.
+"Just because you bought one of their products and a solar array, [it does not mean] that you are vulnerable."
+He added that he had seen similar security issues in other industrial products.
+Mr Westerhof discovered the security flaws while working on his undergraduate thesis and detailed the research in a talk at the SHA2017 security conference in the Netherlands on Monday.
+He said he had decided not to release full details of potential attacks on the inverters, to avoid encouraging malicious hackers.
+"Solar producers should seek to isolate the products from the internet ASAP," said Dave Palmer, director of technology at cyber-security company Darktrace.
+"And [they should] also review their physical access security to reduce the risk of a local attack from someone physically breaking into their facilities."

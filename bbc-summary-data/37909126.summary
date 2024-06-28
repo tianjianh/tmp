@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161108235458/http://www.bbc.co.uk/news/technology-37909126
+
+[SN]TITLE[SN]
+Secure browser add-on pulled after privacy lapse
+
+[SN]FIRST-SENTENCE[SN]
+A popular secure browsing tool has been pulled from web stores following a privacy lapse.
+
+[SN]RESTBODY[SN]
+The Web of Trust (WoT) add-on is used by millions of people to check if sites safeguard data and are safe to visit.
+An investigation by German broadcaster NDR found that the firm behind it sold user data without properly anonymising it.
+NDR was able to identify individuals' sexual preferences, health and surfing histories from data that was sold.
+WoT said the lapse was "unacceptable" and said it hoped to earn back trust by overhauling its data-handling policies.
+The Web of Trust add-on has been downloaded more than 140 million times and rates websites on how safe they are to visit using information provided by users.
+The investigation by NDR found that WoT gathers large amounts of data on people's browsing habits including terms they search for, sites they visit, documents they share as well as information about the devices they use and where they live.
+The data is shared with marketing firms and online agencies who use it to target advertising.
+NDR got hold of some information that WoT had sold to one firm and found that it included personal data, including email addresses and phone numbers, that were not obfuscated. This, it said, made it straightforward to identify individuals and tie them to browsing histories and other personal details.
+WoT's poor anonymisation practices left users "naked on the net", said the broadcaster.
+In a statement on its website, the software firm apologised for the "anxiety" the incident had caused. It said it made a "great effort" to anonymise data but NDR's investigation showed that, in some cases, identification remained possible.
+"If the data allows the identification of even a small number of WoT users, we consider that unacceptable," it said.
+In response to the NDR investigation it said it was overhauling its anonymisation system to minimise the chance of it being used to identify individuals. It said it would also introduce a way for users to opt out of the data-gathering process.
+WoT would also update its privacy policy to ensure users knew what data was gathered about them and what would happen to that information.

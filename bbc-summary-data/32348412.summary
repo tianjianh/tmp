@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150422091248/http://www.bbc.com/news/technology-32348412
+
+[SN]TITLE[SN]
+Can big data reveal the mood of the electorate?
+
+[SN]FIRST-SENTENCE[SN]
+It feels as if every day I get emails from companies with names like TheySay, TalkWalker, and emoSense telling me which party is winning the election based on social media buzz. There is a technical label for what they do: sentiment analysis.
+
+[SN]RESTBODY[SN]
+But is it accurate, and what does it really tell us?
+"Some of the commercial companies do it brilliantly, some do it terribly," says Carl Miller of the left-leaning think-tank Demos which has set up the Centre for the Analysis of Social Media to examine this booming business.
+"It is a way of analysing hundreds of thousands of online conversations that we could never read ourselves but it should never be confused with an opinion poll."
+While the nation was glued to its screens for the televised general election debates, Carl and his team at Demos monitored Twitter's "firehose" - the real-time feed of every tweet in the world.
+During the clash between the seven main party leaders on 2 April, their algorithm identified 420,000 relevant tweets. They were classified as positive or negative - "cheers" or "boos".
+The Demos model is based on technology developed by the Text Analytics Group at the University of Sussex.
+"Computers are really good pattern recognition machines, and what you're trying to do is get the computer to connect the patterns in the tweets with the categories you are assigning tweets to," explains Dr Jeremy Reffin.
+First, a human being chooses the hashtags that are likely to be most relevant.
+Then the algorithm is taught how to classify each tweet, using technology called Natural Language Processing. It has to learn how to distinguish between an opinion and a statement of fact.
+The computer throws up examples and asks whether it has made the right decision, a process known as assisted machine learning.
+BBC Click is broadcast on the BBC  News channel and BBC World News.
+Follow the BBC's 2015 election coverage here
+The system was honed using data from reality TV shows like X Factor, which are effectively elections that are held every week.
+But some of the big challenges in this area became clear when doctoral student Simon Wibberley shows me a spreadsheet listing every tweet from the leaders debate.
+One said: "Ad-break. Time for a kitten in a hat. #leadersdebate". But the algorithm classified this as a cheer.
+There are other tweets that say one thing but that are classified as the opposite.
+"It's slightly unfair to challenge it on a case-by-case basis," argues Mr Wibberley.
+He claims the system can make errors on a tweet-by-tweet basis, but it tends to make the right decisions on a larger scale.
+The team also has to employ a technique called network analysis to separate out clusters of journalists and political professionals who are tweeting each other.
+Yet I cannot escape the feeling that the audience on Twitter is not as balanced as the sample for an opinion poll.
+Then there is one particularly British issue.
+"Sarcasm," says Dr Reffin. "At this stage computers have a real problem with sarcasm."
+The number of Twitter accounts in the UK is dwarfed by the 35 million users of Facebook in Britain.
+The social network has published details of the number of interactions - which include likes, comments and shares - for each political party between 1 January and 7 April.
+But Facebook's politics specialist Elizabeth Linder warns about over-interpreting the data.
+"I think it's difficultâ€¦ because a lot of people are sharing content that they maybe don't agree with, or they're sharing content because they're saying 'I'm a little bit confused by all of this, what do you all think?'," she says.
+"I think instead what we are seeing is the potential to reach people and that they care about politics on Facebook."
+She adds that many users may comment publicly on a political party's page but limit their personal views to private conversations with family and friends so the rest of us cannot see them.
+Facebook has been able to make some connections between users' likes - such as music and films - and their political views, though.
+Like all big data, social scientists would ask whether those are direct relationships or just coincidences.
+"It'll be quite some time before [big data] can stand shoulder to shoulder with the social sciences in terms of how rigorous it is," says Carl Miller of Demos.
+As a political journalist, I will definitely soak up all this new information, but I will still be reading the polls. And spending too much time reading Twitter.
+Watch more reports on BBC Click on the BBC News Channel and BBC World News. Find out more at Click's website and @BBCClick.

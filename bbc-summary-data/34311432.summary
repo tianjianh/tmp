@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151102180417/http://www.bbc.com/news/world-asia-34311432
+
+[SN]TITLE[SN]
+South Korea child monitoring phone app 'flawed'
+
+[SN]FIRST-SENTENCE[SN]
+A child monitoring phone app funded by the South Korean government has major security flaws, a new report says.
+
+[SN]RESTBODY[SN]
+The popular Smart Sheriff app has vulnerabilities that could leak children's personal details or allow the phone to be hacked, the study says.
+The app's developer says it has since addressed some of the issues raised in the report, although this has not been independently verified.
+South Korea mandated in April that all children's phones must be monitored.
+Anyone under 19 who buys a smartphone must install an app that can filter and block harmful content.
+The University of Toronto report is based on two separate security audits, one conducted by researchers at the Citizen Lab with the university's Munk School of Global Affairs, and the other by auditing firm Cure53.
+Smart Sheriff was developed by a consortium of telecommunications companies known as the Korean Mobile Internet Business Association (Moiba). It has been downloaded by hundreds of thousands of users in South Korea.
+The app allows parents to control the apps on their child's mobile phone, as well as schedule when the phone can be used. It can also alert parents when it detects trigger words such as "kill", "rape", and "suicide", according to earlier news reports.
+However, the new report found that children's personal details and browsing activity were not secure on the app, parental limits could be easily disabled and Smart Sheriff's design and infrastructure were insufficiently protected.
+The report said this could "allow children to bypass parental protections, allow malicious attackers to disrupt access to every user's device, and interfere with the operations of the service".
+"This case shows precisely how good intentions can end up seriously wrong â€” in this case, a government-promoted parental monitoring application actually putting children at greater, rather than less, risk of harm," said Citizen Lab's director Ron Deibert.
+News agency AP quoted independent researcher Collin Anderson, who worked with Citizen Lab on the report, as saying: "Smart Sheriff is the kind of baby sitter that leaves the doors unlocked and throws a party where everyone is invited."
+Citizen Lab said it had informed Moiba of the vulnerabilities. Moiba has since released updates, the latest on 25 August, to fix the issues raised. However, researchers said they had yet to independently verify if all vulnerabilities had been addressed.
+The BBC's calls to Moiba on Monday were not answered.
+The introduction of the child monitoring law in April sparked some controversy, with critics raising privacy concerns.

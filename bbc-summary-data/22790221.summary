@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150725094937/http://www.bbc.co.uk/news/technology-22790221
+
+[SN]TITLE[SN]
+Google facial password patent aims to boost Android security
+
+[SN]FIRST-SENTENCE[SN]
+Users could soon be asked to pull a series of faces to unlock their Android phones or tablets.
+
+[SN]RESTBODY[SN]
+Google has filed a patent suggesting users stick out their tongue or wrinkle their nose in place of a password.
+It says requiring specific gestures could prevent the existing Face Unlock facility being fooled by photos.
+The Jelly Bean version of Android introduced the need for users to blink their eyes as a check, but users soon demonstrated it could be fooled.
+A spokesman for Google was unable to comment on when the suggested technology might be implemented.
+The document - which was filed in June 2012 but has only just been published - suggests the software could track a "facial landmark" to confirm a user not only looks like the device's owner but also carries out the right action.
+It says examples of the requests that might be made include:
+It says the check would work by comparing two images taken from a captured video stream of the user's face to see if the difference between them showed the gesture had been made.
+The filing also notes several ways the software might check that the device was being shown a real person's face rather than doctored photographs.
+These include studying other frames from the captured video stream to check that the person had made a sequence of movements to achieve the commanded gesture, and confirming all of the frames actually showed the person's face.
+In addition it says the software could monitor if there were changes in the angle of the person's face to ensure the device was not being shown a still image with a fake gesture animated on top.
+Such efforts might help address criticism that its current face detection software is insecure.
+Last year Google introduced a "liveness check", requiring users to blink at their device to prevent its facial recognition program being fooled by a photograph.
+However, a group of security researchers from the University of British Columbia posted a video online showing the feature could still be tricked.
+They showed that an image of one of their members could be copied from Facebook, then - using graphics editing software - treated so that his eyes were painted over with colours matching his skin tone, and fake eyelashes were drawn on top to make it appear that he had his eyes shut.
+By holding a screen up to the targeted Android device and flicking back-and-forth between the original and doctored images, they showed Android was fooled into believing it was being shown the subject blinking.
+The latest patent says the additional checks should prevent such a spoof working, adding that a combination of specific gestures - such as a request for a blink followed by a half turn of their head and then a wink - could be issued at random to make it even harder to deceive the ID feature.
+However, Google acknowledges even this might not be enough, envisaging a situation in which a device could be programmed to generate a video showing the user making the requested facial expressions.
+To tackle this it says the device could also "emit light beams having different colours or frequencies, that are expected to induce in the eyes of a user a reflection of light having  a corresponding frequency content".
+In other words, the software could use the device's screen and flash to shine different coloured light into the user's face and then check for related glints in their eyes as he or she made the requested facial gestures.
+In the future it adds that a "3D-rangefinder" built into a phone or tablet might also use lasers to study the contours of the person's face as an additional check.
+Despite all this, one cybersecurity expert said it might still be years before it became advisable to use facial recognition passwords.
+"The problem with biometrics in the past has been that you have always been able to find a way to work round the requests to deliver what's needed," Prof Alan Woodward, chief technology officer at the consultancy Charteris, told the BBC.
+"It sounds like Google is thinking about how try and counter this with randomness and movement.
+"But there's a long way between writing a patent about an idea and delivering it as a reliable security measure. I would expect people will still use traditional passwords for some time to come."
+A spokesman for Google said it did not discuss individual patents, but noted that it filed a variety of ideas that its employees came up with.
+"Some of those ideas later mature into real products or services, some don't," he added.
+"Prospective product announcements should not necessarily be inferred from our patent applications."

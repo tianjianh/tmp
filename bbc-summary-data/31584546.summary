@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170130092805/http://www.bbc.co.uk:80/news/technology-31584546
+
+[SN]TITLE[SN]
+Internet of things starter kit unveiled by ARM and IBM
+
+[SN]FIRST-SENTENCE[SN]
+A "starter kit" designed to spur on the invention of internet-connected gadgets has been announced as part of a tie-up between two leading tech firms.
+
+[SN]RESTBODY[SN]
+Chip designer ARM and cloud services giant IBM say it can take just five minutes to unbox the equipment and start sending readings to online apps.
+They suggest this will make it easier to test smart home, smart city and other "internet of things" prototypes.
+One expert said small start-ups would be among those that could benefit.
+The IoT Starter Kit consists of two parts:
+These two components fit together and can be attached to the net via an ethernet cable and to other computer equipment via a USB link.
+This provides a way to take readings about the kit's surrounding environment and the state of physical objects it is attached to.
+Instructions contained in the box guide the owner to visit an IBM website.
+If the owner enters the device's credentials on this site they can see the data it is recording in real-time.
+In addition they can access a variety of tools created by IBM and other firms to analyse the information and/or funnel it through online programs that in turn control other internet-connected equipment.
+One example the firms gave for how this might be used in real-life involved using the kit to send information about local conditions to a remote data centre, which in turn would send back commands to a smart lighting system made up of internet-connected bulbs.
+Another more grisly suggestion was to connect a set of smart mousetraps to the internet, allowing a building janitor to know which ones had been triggered and avoid having to check each one in person.
+"Frankly the use cases are bounded only by human imagination," said IBM's vice president of development Rob Lamb.
+Zach Shelby, ARM's vice president of marketing, added: "[It's for] anybody who is into making products, whether they are makers who have a Kickstarter idea...all the way up to the device engineers for the big companies."
+The boxed kit will be manufactured by another company, Freescale. The price has yet to be set, but ARM said it should be somewhere between $50 (Â£32) and $200.
+The components in the starter kit are not new, but by bundling them together ARM and IBM hope to tempt developers to their ecosystems rather than those of rivals.
+Nearly five billion internet-connected "things" - including fridges, sprinkler systems and cars - will be in use by the end of the year, and that figure is set to rise four-fold by 2020, according to the tech consultancy Gartner.
+ARM makes money by both licensing its chip designs to computer manufacturers and charging firms using its forthcoming "internet of things" mbed operating system to securely transmit readings back to data centres.
+IBM provides a range of compatible cloud services, including the Bluemix platform, which allows online apps to be built and run, and Watson, an artificial intelligence-enhanced analytics system.
+Its goal is to entice developers who buy the kit with free trials of these products and then convince them to pay for their regular use and associated storage.
+"This is a very sensible partnership for the firms to have because they can offer a complete start-up kit," said Ruari McCallion, a writer for trade magazine The Manufacturer.
+"But the lower the price comes the better."
+ARM said the kit would be on sale within "months not quarters" but could not be more exact.

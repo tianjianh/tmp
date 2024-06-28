@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160228072300/http://www.bbc.co.uk/news/science-environment-35654938
+
+[SN]TITLE[SN]
+How Northern European waters soak up carbon dioxide
+
+[SN]FIRST-SENTENCE[SN]
+The seas around the UK and the rest of northern Europe take up a staggering 24 million tonnes of carbon each year.
+
+[SN]RESTBODY[SN]
+It is a mass equivalent to two million double-decker buses or 72,000 747 jets.
+The number was produced by scientists studying the movement of carbon dioxide into and out of the oceans.
+The team, led by Heriot-Watt University and Exeter University, has produced a software "engine" that will allow other scientists to do the same for different parts of the globe.
+"It's a software toolbox essentially, that we've made available," said Exeter's Jamie Shutler.
+"We've used it for our own work. We've done extensive checking, and now we're putting it out there for everyone else to use."
+The amount of carbon dioxide absorbed by seawater acts as a moderator in the climate system.
+It is estimated that a third of all human-produced CO2 emissions, from fossil fuel burning and the like, ends up in the oceans. Another third is taken up by land "sinks", with the rest remaining in the atmosphere.
+Researchers are keen to understand how this budget might change over time.
+Should the oceans' capacity become diminished in future, it could lead to an acceleration in atmospheric warming.
+There is also concern that as more carbon dioxide is dissolved into the oceans, it will reduce the pH of the water (a process called ocean acidification), making it harder for corals and similar organisms to make the hard parts in their bodies.
+In developing its software, the international team used a combination of satellite and ship-borne measurements.
+To calculate a flux, scientists have to know the solubility of CO2 in seawater, as well as the speed of gas transfer.
+Solubility comes from a combination of measurements of the surface water's temperature and its salinity.
+And the speed at which carbon dioxide is transferred is governed by the state of the ocean surface, which is affected by wind and waves. The level of biological activity in the water is a factor here, too.
+"Temperature is a key driver," explained Dr Shutler.
+"You typically get more carbon dioxide being taken up at higher latitudes where the water is colder and more storms are able to churn up the surface to increase the transfer. And then you end up with some of the gas being given back up to the atmosphere in latitudes around the equator.
+"So, it's constantly moving around but because the water gets drawn down into very deep parts of the ocean, the carbon dioxide gets locked away for long periods of time before it escapes again."
+Dr Shutler and colleagues are eager to start using the European Union's new Sentinel-3 satellite, launched earlier this month.
+That platform carries a suite of instruments that will gather many of the measurements required to run the team's Flux Engine.
+It has an altimeter that can determine the state of the ocean surface, and a thermal infrared sensor to map water temperature. And its colour camera gathers data that can be used to interpret the biological activity in the water - it will see the blooms of phytoplankton that consume dissolved carbon as they photosynthesise.
+"We now have this fantastic machine in orbit where all these measurements come together, but we still need the in-situ (ship) measurements," said Dr Craig Donlon, the European Space Agency's senior scientist on Sentinel-3.
+"The in-situ measurements are absolutely critical, and it's true to say we're currently under-sampled in the ocean; it's our biggest challenge. And, in particular, if you want to look at the whole carbon cycle you need somehow to get at the really hard-to-reach places - going down to the bottom of the ocean to retrieve deep profiles."
+Sentinel-3 has launched at the peak of an El Nino event which witnesses a dramatic shift in the distribution of warm surface waters in the Pacific. The effect that this phenomenon has on carbon fluxes will be intensively studied.
+The Flux Engine research is described in the Journal of Atmospheric and Oceanic Technology.
+Although led from Heriot-Watt and Exeter, the research also involved the Plymouth Marine Laboratory, the National Oceanography Centre and the Environmental Research Institute, North Highland College UHI - all in the UK - as well as Ifremer in France and the Institute of Oceanology of the Polish Academy of Sciences.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

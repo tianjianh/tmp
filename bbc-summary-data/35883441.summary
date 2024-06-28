@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114225057/http://www.bbc.com/news/technology-35883441
+
+[SN]TITLE[SN]
+Israel's Cellebrite linked to FBI's iPhone hack attempt
+
+[SN]FIRST-SENTENCE[SN]
+An Israeli cybersecurity firm is under pressure to reveal its involvement in efforts to extract data from an iPhone.
+
+[SN]RESTBODY[SN]
+The FBI said on Monday that it might have found a way to deal with the password lock set by killer Syed Rizwan Farook, who was behind an attack in San Bernardino, California, in December.
+An Israeli newspaper has since reported that data forensics experts at Cellebrite are involved in the case.
+Cellebrite told the BBC that it works with the FBI but would not say more.
+Its website, however, states that one of its tools can extract and decode data from the iPhone 5C - the model in question - among other locked handsets. Apple has refused to help the FBI do this.
+"File system extractions, decoding and analysis can be performed on locked iOS devices with a simple or complex passcode," Cellebrite's site states.
+"Simple passcodes will be recovered during the physical extraction process and enable access to emails and keychain passwords.
+"If a complex password is set on the device, physical extraction can be performed without access to emails and keychain."
+The keychain reference relates to a tool on Apple devices that allows all of an owner's log-ins to be revealed if a master password is known.
+The website does not make clear if the process would work with iPhone 5Cs, whose operating system has been upgraded to iOS9, which Farook's device is thought to be running.
+Cellebrite, a subsidiary of Japan's Sun Corp, signed a data forensics contract with the FBI in 2013, according to the report in the Yedioth Ahronoth newspaper.
+Apple has refused to create a special version of iOS that would prevent the contents of a device being wiped if someone made too many incorrect guesses at its passcode.
+It is not known whether Farook enabled the security setting, but the FBI says it does not want to risk losing "evidence related to the terrorist mass murder of 14 Americans".
+A federal court had been due to rule on Tuesday whether the FBI could compel Apple to help it.
+But the hearing was postponed when the Department of Justice announced that it might not need the tech firm's assistance because a third-party had demonstrated a possible extraction method to FBI agents.
+"I am not able to comment on the identity of the outside party," bureau spokesman Christopher Allen told the BBC.
+"I would simply refer to the court filing from Monday that says the outside party demonstrated the method on Sunday, March 20."
+Cellebrite has taken numerous calls from the media asking if it is indeed the unidentified helper.
+A Twitter user noted the firm signed a fresh $15,000 (£10,600) contract with the FBI two days ago - albeit in Chicago rather than California.
+A spokesman for Cellebrite said it might have more to say at a later point.
+The firm recently suggested that it has more than 50% of the North American market in law enforcement digital forensics tools.
+"When we get devices, we do work on different levels of accessing the data," Ronen Engler, Cellebrite's senior manager of technology and innovation, told the Homeland Security Today website earlier this month.
+"The logical [data] is the somewhat easy part. However, in order to access the logical data the phone needs to be unlocked.
+"We provide other mechanisms in order to bypass the lock and get the data out."
+The firm has also provided its services to the UK authorities, and in 2012 helped North Wales Police extract deleted text messages from an iPhone 3GS that helped lead to the arrest of a paedophile.
+Its website says it intends to show off its latest solutions at the Forensics Europe Expo in London next month.

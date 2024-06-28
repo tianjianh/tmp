@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108131801/http://www.bbc.co.uk:80/news/technology-35669817
+
+[SN]TITLE[SN]
+Baidu apps found to be 'leaking' personal data
+
+[SN]FIRST-SENTENCE[SN]
+Personal data is being collected and transmitted insecurely by thousands of apps using code from the Chinese net giant Baidu, say security researchers.
+
+[SN]RESTBODY[SN]
+Millions of Chinese people are believed to have been affected by the data leaks, said security experts at the University of Toronto.
+The data reveals where people are, search terms, sites visited and the ID numbers of devices they own.
+Baidu said it had tackled the problems with the insecure computer code.
+The code is found in a software development kit that can be used to create apps for Android phones and programs for Windows.
+Baidu itself used it to make web browsers for Android and Windows and many other firms have used the kit too.
+Apps and browsers made using the Baidu kit have been downloaded hundreds of millions of times, said researchers at Toronto's Citizen Lab in the report. As part of a long-running research project, the Lab has focussed on privacy and personal data use in China. Last year the team found shortcomings in the Alibaba browser.
+The latest report found several security and privacy shortcomings in the Baidu code.
+Some data, including GPS coordinates and search terms, is sent in plain text.
+In addition, the protections added to other forms of information, such as unique device IDs, could easily be broken.
+Poor protection of apps made with the kit also made users "susceptible" to fake updates that could give an attacker access to a phone or a Windows computer.
+"The transmission of personal data without properly implemented encryption can expose a user's data to surveillance," said the authors in their report.
+Worryingly, they added, users would have no warning that the data was being transmitted or gathered.
+"The leakage of such user data is particularly problematic for individuals who use these applications and their devices to engage in politically sensitive communications," said the report.
+"It's either shoddy design or it's surveillance by design," Ron Deibert, director of the Citizen Lab, told Reuters.
+Citizen Lab said that Baidu had fixed some of the bugs in the code since it had first been told about them in November last year.
+However, it added, the poor encryption scheme was still being used on sensitive data.
+Baidu said it was collecting the data about users for commercial purposes. Occasionally, it said, it shared the data with partners.
+It added that the information was not handed over wholesale to the Chinese authorities.
+It said it "only provides what data is lawfully requested by duly constituted law enforcement agencies".

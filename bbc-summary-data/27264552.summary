@@ -1,0 +1,74 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170204114740/http://www.bbc.com/news/science-environment-27264552
+
+[SN]TITLE[SN]
+D-Wave: Is $15m machine a glimpse of future computing?
+
+[SN]FIRST-SENTENCE[SN]
+A Canadian firm has courted controversy with its claim to have built a practical quantum computer, a feat thought to be decades away. Now, independent researchers are trying to understand whether it really can tap the strange world of quantum physics.
+
+[SN]RESTBODY[SN]
+For the modest sum of $15m (Â£9m), a start-up near Vancouver will sell you a black box the size of a garden shed with its logo emblazoned on the side in white neon.
+Not sold yet?
+What if I told you the contents of the box were kept colder than the temperature of interstellar space?
+You still need some convincing - I get it.
+How about this: The box contains a machine that can solve some of the thorniest mathematical problems and could revolutionise computing.
+Well, the company's sales pitch has worked on some big names - like Nasa, Google, and defence giant Lockheed Martin.
+The Canadian start-up in question is called D-Wave and their monolithic machine is - they claim - nothing less than a real, working quantum computer. But not everyone is convinced.
+Quantum computing exploits the weird physics that takes hold at tiny (atomic or sub-atomic) scales. Computers that tap the quantum realm could carry out complex calculations much faster than their conventional - or classical - counterparts.
+While the basic units of information in classical computers are called "bits" and are stored as a string of 1s and 0s, their equivalents in a quantum system - qubits - can be both 1s and 0s at the same time.
+This phenomenon would enable multiple calculations to be performed simultaneously. But the qubits need to be synchronised using a quantum effect known as entanglement, which Albert Einstein termed "spooky action at a distance".
+Scientists have struggled to entangle more than a handful of qubits, and to maintain them in their quantum state. Lab devices suffer from drop-out, where the qubits lose their ambiguity and become straightforward 1s and 0s. This has ensured that quantum computers remain confined to the lab - proofs of principle capable of solving only elementary problems.
+Headquartered in the small tech hub of Burnaby, on Canada's west coast, D-Wave has raised upwards of $100m in venture capital from the likes of Amazon founder Jeff Bezos and In-Q-Tel, the venture capital arm of the Central Intelligence Agency (CIA).
+"The original vision of the company was simple: build a commercially useful quantum computer as soon as possible," Vern Brownell, D-Wave's chief executive, tells me.
+"We just want to provide quantum computing resources to researchers and businesses around the world so they can solve really hard problems, better than they can today."
+So when, in 2007, D-Wave staged a demonstration of a quantum processor called Orion that could solve Sudoku puzzles and search a public database of drugs to find the closest match to a specific molecule - both impressive achievements in this field - it was greeted with deep scepticism.
+Four years later, the company unveiled the "first commercially available quantum computer", a 128-qubit machine called the D-Wave One, and this time its claims weren't so easily dismissed. The announcement coincided with the publication of a study supporting the machine's quantum credentials in Nature, one of the most prestigious peer-reviewed journals in the world.
+This tempered some of the criticism, but fell short of winning over vocal sceptics like Scott Aaronson of the Massachusetts Institute of Technology (MIT). He thinks the firm's computers show "pretty good" evidence for entanglement at a local level, though not necessarily on a large scale. But he sees no evidence that this is helping boost the performance of D-Wave's machines.
+Prof Aaronson told BBC News: "The questions about 'the explanation for the speedup' haven't even been activated yet, since so far there's no speedup to explain!"
+Mr Brownell comments: "What I think is really interesting is that scientists and researchers are no longer arguing about whether it works, it's how fast does it work? What's the scalability going to be?"
+There are things we take for granted about the world around us. Let go of your smartphone and it will fall to the ground. Pull the handle on a drawer and it will open. These familiar rules can be described by the principles of classical mechanics.
+But in the late 19th and early 20th Centuries, scientists were beginning to realise that classical physics could not explain certain phenomena seen at very large and very small scales.
+This spawned two revolutions: one was relativity and the other quantum mechanics. Early experiments suggested light was a wave, rather than a stream of particles. In quantum theory, light can be both a particle (the photon) and a wave.
+One principle central to quantum mechanics is that a particle, such as an electron, can exist in all of its possible states simultaneously - known as superposition. Another important idea is that of entanglement, a phenomenon whereby objects become linked, even if they lie far apart.
+The company's first commercial machine was followed in 2013 by the D-Wave Two, powered by a 512-qubit chip called Vesuvius. Like its predecessor, this computer is not for conventional use, but was designed for solving optimisation problems, a particular class of mathematical challenge that entails finding the best solution from all the possible solutions.
+Lockheed is using its D-Wave computer - housed at the University of Southern California - to verify and validate flight software. Google's machine, which is shared with Nasa at the space agency's Ames Research Center, is being used for machine learning, a branch of artificial intelligence with applications in areas as diverse as voice recognition and detecting credit card fraud.
+The big name buy-in has generated serious buzz, but sceptics have not been swayed.
+"I don't care if the Messiah has come to Earth on a flaming chariot, not to usher in an age of peace but simply to spend $10m on D-Wave's new Vesuvius chip," Scott Aaronson wrote on his blog, adding that the considered opinion of an academic expert of his choice "would mean more to me than 500,000 business deals".
+D-Wave was founded in 1999 as a University of British Columbia spin-out by Rose - who holds a PhD in physics and a light-heavyweight world title in Brazilian Jiu-Jitsu - and his academic mentor Haig Farris.
+"The team spent about five years, with collaborators in various kinds of academic environments, coming to a view on the fastest way to come to market with something useful," says Mr Brownell.
+The so-called gate model underpins the vast majority of academic research into quantum computing. This idea is based on developing the quantum equivalents of the logic gates that form the building blocks of circuits in classical computing.
+But D-Wave settled on an approach called quantum annealing. Outlined in a seminal 2000 paper by Eddie Farhi of MIT, and others, this technique is fundamentally different to the theory of quantum gates.
+In Rose's chosen martial art of Brazilian Jiu-Jitsu, opponents start off on their feet and typically end up grappling on the mat. The aim in quantum annealing is also to reach the "ground state" - in this case, the lowest energy point.
+One common analogy is that of a cross-section through a mountain range. The altitude of the landscape describes the energy, or cost, of the solution. The aim is to find the lowest point on the map and read the coordinates, as this gives the lowest energy, or "best", solution to the problem.
+"The way you would do it in classical computing is to walk up and down the valleys and hills until you've found it," said Prof Alan Woodward, a computing expert from the University of Surrey.
+"What the quantum annealing process does for you is effectively to tunnel through the mountain... until it announces: 'The lowest point I found was X'."
+"It shortcuts everything, and that's how it speeds up."
+Experts say quantum annealing can't offer the performance boost theoretically possible with gates, but proponents of D-Wave's approach point to innate advantages, such as greater robustness to the "drop-out" problem that plagues gate model quantum computing.
+Dr Rose has even branded quantum gates the "single worst thing that ever happened to quantum computing".
+Whatever the route taken, efforts to build a quantum computer must overcome daunting engineering hurdles. The circuits in D-Wave's processors are superconducting, which means they have zero electrical resistance and generate no heat. In order to get quantum effects, liquid helium is used to cool the chip to 0.02 Kelvin, a shade above the temperature known as absolute zero.
+The whole system is enclosed in a so-called Faraday Cage, which blocks external electrical fields that could interfere with quantum mechanical behaviour.
+Prof Andrew Steane, from the department of physics at Oxford University, says: "If you go back five or 10 years, the initial statements coming out of D-Wave - before they had a device to look at - were seen as something you could ignore, because it just didn't seem credible.
+"Then they produced this device, so they came up with the goods. And it's a non-negligible device - it has serious computing power. It's just a question of whether what it's achieving is beyond what could have been done with a system based on classical physics."
+Significant academic effort is now being thrown at this question. Last year saw the publication of several scientific studies favourable to the company's case, including indirect evidence for entanglement of qubits and research by Catherine McGeoch, a professor of computer science at Amherst College, that found the system performed 3,600 times faster on some tests than did a standard desktop machine.
+But in January 2014, a team led by Matthias Troyer, of ETH Zurich in Switzerland, published results of its benchmarking of Lockheed's unit. Team members won't comment publicly until the work is published in a peer-reviewed journal, but in some tests devised by them, the D-Wave machine was found to perform no faster than a classical computer.
+However, company executives counter that the tests used were not the sort where the quantum computer offers any advantage over conventional types.
+Then in February, a team led by Prof Umesh Vazirani, of the University of California, Berkeley, published a study concluding that a simple, classical computing model of interacting magnets could explain behaviour in D-Wave's machines.
+In his response to an unfavourable blog entry about the paper penned by Dr Rose, Prof Vazirani suggested that key questions might be answered if D-Wave were to grant researchers access to its hardware, which is proprietary. However, not everyone thinks this would shed much light on the matter.
+"At a high level, we know what the machine is doing: namely, it's doing annealing to the ground state, with superconducting Josephson junctions (paired superconductors) at 20mK (milliKelvin) temperature, in a way that's 'mostly classical' but that has some quantum effects present, at least at the local level," says Prof Aaronson.
+"I think this research has actually reached some pretty firm conclusions: most importantly, that the current device is not getting a speedup on the problem distributions currently being tried," he explains.
+Andrew Steane says the computers show promise, but on the question of whether they are exploiting quantum effects for performance gains he says the studies by Troyer and Vazirani "suggest they can't yet really make that claim".
+But the company points to ongoing benchmarking of its machines by Google and cites other academic papers from recent months that support their case.
+Mr Brownell comments: "How many trillions have been invested in classical computing? How many innovations and iterations of hardware since John Von Neumann and the Bletchley Park folks?
+"How much algorithm work and research around software and applications and compilers and efficiency? We've come up with something in 10 years that performs just as well, and maybe outperforms in some narrow cases that entire ecosystem."
+Geordie Rose told BBC News: "Scepticism implies a healthy and unbiased doubt about new technological capabilities or scientific advancements. Much of that has gone away as we've continued to advance our technology so far beyond what anyone else has done."
+"The negativity against pioneering companies though comes from small but vocal groups concerned about losing access to funding, and from commercial competitors. I believe the former will go away once these folks realise that our success means more money for their basic science, not less."
+D-Wave's next chip, consisting of 1,024-qubits, is currently undergoing calibration ahead of its planned release later this year. In addition to its aforementioned customers, D-Wave has others it won't name. The firm is now looking to expand into other potentially lucrative markets.
+"As we get some more internal resources to support customers adequately, we would like to branch out into other areas like bioinformatics, energy exploration, finance," says Vern Brownell. "We know already there are huge applications in each of these areas for quantum computing."
+Documents leaked by Edward Snowden reveal that the US National Security Agency (NSA) has been conducting "basic research" to determine whether it was possible to build a quantum computer that would be useful for cracking encrypted communications.
+But D-Wave's quantum annealing approach isn't well suited to this application. Cryptanalysis is an area where researchers seem to agree that the logic gate model offers more promise.
+Of the company's efforts, Alan Woodward says: "The engineering difficulties [of building quantum computers] are enormous, because of susceptibilities to interactions from the environment and so on. What Geordie said was - let's build what we can, instead of always thinking about things that are out of reach. And you've got to admire that.
+"I suspect it's something that's helping to move on the state-of-the-art from an engineering perspective, even if it turns out not to be the ultimate shape of things to come."
+Andrew Steane comments: "I'm gently pleased by their boldness, to have a go and make the thing.
+"It's a bit like 'Make it and they will come'. They haven't quite got to 'they will come'. But they've made something."
+Follow Paul on Twitter.

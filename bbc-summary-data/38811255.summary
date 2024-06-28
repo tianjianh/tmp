@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170204074318/http://www.bbc.co.uk:80/news/science-environment-38811255
+
+[SN]TITLE[SN]
+Quantum computer 'construction plan' drawn up
+
+[SN]FIRST-SENTENCE[SN]
+Physicists have drawn up construction plans for a large-scale quantum computer.
+
+[SN]RESTBODY[SN]
+These super-fast machines promise to revolutionise computing, harnessing the world of quantum mechanics to solve problems that are beyond reach for even the most advanced "classical" ones.
+But the challenges of building practical, large-scale models have kept quantum computers confined to the lab.
+The new blueprint, based on a modular design appears in Science Advances.
+"We have produced a construction plan - a real blueprint to actually build a large-scale quantum computer," Winfried Hensinger, from the University of Sussex, told BBC News.
+In classical computers, the unit of information is called a "bit" and can have a value of either 1 or 0. But its equivalent in a quantum system - the qubit (quantum bit) - can be both 1 and 0 at the same time.
+This phenomenon opens the door for multiple calculations to be performed simultaneously. But the qubits need to be synchronised using a quantum effect known as entanglement, which Albert Einstein termed "spooky action at a distance".
+But scientists have struggled to build devices with more than 10 or 15 qubits. Lab machines suffer from a kind of drop-out called decoherence, where qubits lose their ambiguity and become straightforward 1s and 0s - a technical obstacle to building practical quantum computers.
+"With our concept we include a method to correct these errors allowing the possibility to build a large scale device," said Prof Hensinger.
+The University of Sussex professor led an international collaboration consisting of scientists from Google, Denmark's Aarhus University, the Riken research institute in Japan and the University of Siegen in Germany.
+"If you go back in time to the first computers, they started with tens of bits. This is where the full field of quantum computing is right now," said Winfried Hensinger.
+He added: "For some of the really exciting applications of quantum computers, such as inventing new drugs, or understanding the fabric of reality itself, understanding the Universe, designing new materials, instead of 10 or 15 quantum bits, I need a lot more qubits, maybe up to 10 billion quantum bits eventually."
+The researchers started with a question: using only existing technology, how would you go about building a large-scale quantum computer?
+Their latest work provides an answer, drawing on a variety of applied science approaches to assemble the blueprint for a "universal" quantum computer - one that can tackle a comprehensive array of complex problems.
+The plan uses charged atoms (ions), confined in a trap to function as qubits. This approach allows the computer to operate at room temperature, unlike an alternative "superconducting" model, which requires the whole system to be cooled to very low temperatures.
+Logic gates are the building blocks of circuits, and are used to perform the computations in this quantum computer. One way to achieve this is with lasers, but this would require aligning an individual laser beam onto each ion - an extremely challenging prospect when dealing with a large number of qubits.
+The latest proposal uses microwaves and the application of voltages to make the gate system work - a much simplified solution.
+In addition, other modular designs have proposed the use of fibre optics to connect individual computer modules and to encode quantum information.
+However, this solution is slower and more complicated than the scientists would like, so they instead advocate the use of electric fields to push the ions from one module to another. Prof Hensinger explained: "A modular design is absolutely critical in order to realize a quantum computer with truly phenomenal processing power".
+As their next step, the team plans to build a prototype quantum computer at the University of Sussex, based on this design.
+This machine will cost Â£1-2m to build, although Prof Hensinger estimates that a practical device for real-world applications would cost tens of millions by comparison, maybe more.
+There are several continuing efforts to build large-scale quantum computers for practical applications.
+D-Wave, a company headquartered in Burnaby, Canada, has recently released a quantum computer with a 2,000 qubit processor. It has several longstanding customers, including Nasa, Google and defence giant Lockheed Martin, and recently added a fourth - US cybersecurity firm Temporal Defense Systems.
+However, there is a continuing debate on whether D-Wave's machines are achieving speeds beyond those possible with classical computers.
+Google is also working on devices that employ superconductivity, while Microsoft is exploring a form known as topological quantum computing. Meanwhile, start-ups such as IonQ are focusing their efforts on the trapped ion approach favoured by Prof Hensinger and his colleagues.
+Follow Paul on Twitter.

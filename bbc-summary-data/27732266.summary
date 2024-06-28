@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160430004913/http://www.bbc.co.uk/news/technology-27732266
+
+[SN]TITLE[SN]
+Heartbleed fix finds more security bugs in server code
+
+[SN]FIRST-SENTENCE[SN]
+More security holes have been uncovered in the same software that was found to harbour the dangerous "Heartbleed" bug.
+
+[SN]RESTBODY[SN]
+Heartbleed was found in security software used on many websites to ensure data was not spied upon as it passed back and forth.
+About 500,000 websites were believed to be vulnerable to attacks that exploited the Heartbleed vulnerability.
+The newly discovered bugs are not thought to be as serious as Heartbleed and are harder to exploit.
+The software package harbouring all the vulnerabilities is known as OpenSSL and is used to scramble, or encrypt, data as it is swapped between users and a site.
+Tech companies including Google, Facebook, Yahoo and Amazon and many others all use OpenSSL.
+The fresh batch of vulnerabilities was found as a result of work done to close Heartbleed and ensure other parts of the software were secure. The discovery of Heartbleed led to many big firms pledging cash to the small organisation that developed OpenSSL to help it improve its bug finding and fixing efforts.
+Updated versions of OpenSSL that have the bugs patched are now available and anyone running vulnerable versions are being urged to update as soon as possible.
+"They are going to have to patch. This will take some time," Lee Weiner, a spokesman for security firm Rapid7 told Reuters.
+If exploited the bugs would let attackers run their own programs on a target server or stop it working. The most serious bug would let an attacker interpose themselves between a victim and the server they were using and spy on the data as it passed back and forth.
+Writing on the blog of security firm Sophos, Chester Wisniewski said there was no need to panic about the latest bug reports.
+"Patch early and patch often," he said. "You will likely see updates for many of your programs on your computer and Android smartphones being updated over the next few weeks."

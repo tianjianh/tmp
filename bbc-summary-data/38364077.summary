@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170206202614/http://www.bbc.co.uk/news/technology-38364077
+
+[SN]TITLE[SN]
+Smart homes haunted by the cyber-ghost of Christmas future
+
+[SN]FIRST-SENTENCE[SN]
+This year delivered a chilling warning as we witnessed distributed denial of service (DDoS) attacks on a scale that few thought possible.
+
+[SN]RESTBODY[SN]
+These attacks - where massive volumes of data are thrown at online systems so they can no longer deal with legitimate requests - underwent a step change this year as attackers learned to harness vulnerable devices that constitute parts of the so-called internet of things (IoT).
+One nightmare vision for the future is an internet plagued with DDoS attacks based on IoT devices, including some sitting under your Christmas tree this year.
+Perhaps what we now need is the modern-day equivalent of Dickens's Ghost of Christmas Yet to Come to scare device-makers and the public into changing their ways before it's too late.
+The IoT holds great promise. We have the potential to network a whole new generation of smart devices: everything from fridges, kettles and toasters to the systems that heat your home and keep an eye on your cat.
+The value of being able to control these devices remotely seems obvious, and new forms of convenience will emerge as people think of new ways in which the technology can be used.
+Unfortunately, the technologies that enable these devices to be "smart" can pose a security threat. No one is suggesting that hackers will want to break into your toaster to steal personal data, although some IoT devices will hold data that has value we may not yet understand.
+But your white goods could be co-opted by hackers to take part in an onward attack, in which the products send huge amounts of junk data and/or a flood of requests to the target, causing it to be overwhelmed. The DDoS attacks we have seen this year were launched by a zombie army of IoT devices formed into what is called a botnet.
+The more devices that can be recruited into these botnets the larger the volumes of useless data that can hurled. The largest attack of 2016 saw hundreds of thousands of devices being used simultaneously in what became known as the Mirai botnet, mounting what was a frighteningly simple attack.
+A key lesson from Mirai was that default usernames and passwords are not a secret, and if you use the same ones on every instance of a device it is just asking to be hacked.
+Router manufacturers have had to learn this lesson the hard way but many IoT device manufacturers clearly did not hear the story.
+Manufacturers will always struggle to make internet-enabled devices that are secure for several reasons.
+Firstly, these products are sold as commodities and the Scrooge in all of us sees price as an important factor for such purchases. Designing technology to be secure takes money and when you are selling items where pennies matter, security is likely to be the first area for compromise.
+Secondly, even if a security problem is found, the ability to update the software built into the device - known as firmware - is often very limited. Few owners would, or should be expected, to know how to update firmware, and manufacturers will not always do so, again because there is a cost involved.
+It does happen with high-end products, such as smart TVs, as well as IoT kit from big-name tech firms - such as Philips Hue, Amazon, British Gas's Hive division and Google's Nest.
+But some of the cut-price products from the more obscure brands do not get the same treatment.
+Lastly, devices such as those likely to comprise the IoT are often forgotten about once in operation. Unlike phones or laptops, owners don't typically look to buy a newer version until it physically stops working.
+As you can expect something like a fridge to last many, many years we have the spectre of an IoT in 10 or even 20 years' time that is populated by devices being bought now, or in the very near future, whose manufacturers may no longer be in business or - even if they are - not interested in updating decades-old kit.
+However, when it comes to DDoS attacks, a partial solution has been available since 2000.
+In that year, a draft standard was issued (with the catchy title BCP 38) that provided network operators with a means to significantly lessen the effects of DDoS attacks. All that was missing was for the providers to co-operate and put it into operation - a situation that may now happen at the prompting of the UK government. Even so, it does not solve this new variant of DDoS attack outright.
+You could take the bah humbug approach and say that you will never buy a device that is either smart or connected, but that won't work. This technology will be present by default.
+Even if you simply try to ignore the smart features you could end up contributing to the problem because owners will need to do a certain amount of checking to ensure they are not unwittingly contributing to online attacks.
+So, if you are lucky enough to receive a smart networked device this Christmas the first thing you should do is check to see if it has a default username and password that needs changing.
+Don't assume that the manufacturers have heard the horror stories of Christmas past, and, don't let it become the neglected, dusty box in the corner that is adding to the ever increasing background noise on the internet. Merry Christmas to one and all.

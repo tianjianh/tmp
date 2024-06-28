@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225233119/http://www.bbc.com/news/technology-29987373
+
+[SN]TITLE[SN]
+Dark net experts trade theories on 'de-cloaking' after raids
+
+[SN]FIRST-SENTENCE[SN]
+The hidden web community has started trying to find out how services and identities were compromised after police raids led to 17 arrests.
+
+[SN]RESTBODY[SN]
+Last week, several high-profile sites on the so-called "hidden", "dark" or "deep" web were seized.
+Experts are looking at techniques the authorities may have used to "de-cloak" people running services accessed through anonymisation service Tor.
+"We were as surprised as most of you," said the group that develops Tor.
+In a blog post, the Tor Project team wrote: "We are left asking, 'How did they locate the hidden services?' We don't know.
+"In liberal democracies, we should expect that when the time comes to prosecute some of the 17 people who have been arrested, the police would have to explain to the judge how the suspects came to be suspects.
+"As a side benefit of the operation of justice, Tor could learn if there are security flaws in hidden services or other critical internet-facing services."
+The anonymity Tor offers means that it has become popular with criminals as a way to conduct their activities online.
+But the Tor Project, which receives funding from the US government, is also seen as a key component for those who need anonymity on the internet for other important reasons, such as activism in repressive regimes.
+Tor is one of several services that allows people to access what is generally referred to as the "hidden", "deep" or "dark" web.
+Here, sites that do not show up on traditional search engines are located.
+But more importantly, users on Tor have their locations, and therefore identities, hidden. This is achieved by routing a person's journey on the internet through various different computers in locations all over the world, creating anonymity.
+However, with this latest raid, the anonymity of users on Tor is again under question. But one expert, Dr Steven Murdoch, from University College London, told the BBC it was unlikely that Tor itself had been "cracked".
+"Some major hidden markets are still available," he noted. "Including some of the biggest.
+"If they had a successful way of compromising hidden services they would have done it to everyone."
+The shutdown of the hidden web services was co-ordinated by Europol in what it dubbed Operation Onymous.
+In a press release, it said more than 400 services were shut - although it later clarified that to mean 400 pages were disabled. Those pages had belonged to 27 individual services that were seized and closed.
+The majority of the sites were selling drugs or other illegal paraphernalia, while others dealt with the selling of stolen credit card data.
+The most high-profile closure was of Silk Road 2.0 - a site selling drugs, set up after the closure of the original Silk Road site last year.
+The Tor Project went into detail listing possible methods of how the sites were compromised and their owners arrested.
+They included:
+In an attempt to find clues as to the authorities' tactics, one owner of a seized site - who was apparently not arrested - released log files showing activity on his "onion", the term given to sites on Tor.
+He offered the logs up to the community for scrutiny.
+On a mailing list for Tor developers, he wrote: "This will probably be a very humbling experience, because unlike my fellow illegal onion operators both past and present, I will actually be outside of a jail cell and able to read the ruthless dissection of my set-up.
+"On the bright side, you're all are getting way more info from me than the pigs [police] will ever willingly cough up, which means if they have some sort of magic onion de-cloak trick, this mailing list discussion is a good chance at finding it."
+His post, titled, "yes hello, internet super-villain here", shared details of Doxbin, a hidden website that allowed people to upload documents supposedly anonymously.
+From the logs, some have suggested that the DoS attack, as detailed above, was responsible for "de-anonymising" users of the site.
+Dr Murdoch noted that getting a real explanation for how Operation Onymous was carried out is unlikely.
+"They're not going to tell anyone about it because they want to do it again," he said.
+"They want people to be afraid to run illegal hidden services."
+Follow Dave Lee on Twitter @DaveLeeBBC
+Tor is a special way to access the internet that requires software, known as the Tor Browser bundle, to use it.
+The name is an acronym for The Onion Router - just as there are many layers to the vegetable, there are many layers of encryption on the network.
+It was originally designed by the US Naval Research Laboratory, and continues to receive funding from the US State Department.
+It attempts to hide a person's location and identity by sending data across the internet via a very circuitous route involving several "nodes" - which, in this context, means using volunteers' PCs and computer servers as connection points.
+Encryption applied at each hop along this route makes it very hard to connect a person to any particular activity.
+To the website that ultimately receives the request, it appears as if the data traffic comes from the last computer in the chain - known as an "exit relay" - rather than the person responsible.
+As well as allowing users to visit normal websites anonymously, it can also be used as part of a process to host hidden sites, which use the .onion suffix.
+Tor's users include the military, law enforcement officers and journalists - who use it as a way of communicating with whistle-blowers - as well as members of the public who wish to keep their browser activity secret.
+But it has also been associated with illegal activity, allowing people to visit sites offering illegal drugs for sale and access to child abuse images, which do not show up in normal search engine results and would not be available to those who did not know where to look.

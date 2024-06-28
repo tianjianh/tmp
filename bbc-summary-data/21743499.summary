@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107201315/http://www.bbc.co.uk:80/news/world-asia-china-21743499
+
+[SN]TITLE[SN]
+The astonishing speed of Chinese censorship
+
+[SN]FIRST-SENTENCE[SN]
+You have written something politically sensitive on one of China's "weibo" microblogging sites. So how much time passes before it gets deleted?  And what does it reveal about how Chinese censors work? Computer scientists Jed Crandall and Dan Wallach explain the findings of a study they conducted.
+
+[SN]RESTBODY[SN]
+In China, internet penetration has grown massively in the last decade -  from 4.6% in 2002 to 42.1% in 2012.
+Microblogging site Sina Weibo only launched in 2010, but it now has 300 million users and about 100 million messages are sent daily. It clearly plays an important role in the discourse surrounding current events in China.
+The Chinese government seems to require Chinese companies to maintain internal censorship regimes.
+There have been several interesting studies on how Chinese censorship works and how to work around it, but we wanted to know how the censors do it and how they make their censorship scale to manage hundreds of millions of users.
+We found a landscape in which a post could be deleted as quickly as five minutes after being put online and where the censors appear not to work a regular day, but seem to take a break when China's all-important 19:00 news comes on.
+So how did we make such observations?
+Last year - along with several colleagues  - we spent 30 days observing 3,500 users on Sina Weibo to track the fate of their posts. During this time around 300 of the accounts were deleted - that's about 12% of the total.   We further examined data about the posts and that provided some fascinating insights into how the censors go about their job.
+We looked at users who have been censored and then see how long their to-be-censored posts survived. Those who are more often censored are also censored faster which shows they are getting more scrutiny than other users.
+We could do this because many Sina Weibo posts are only censored post-publication and so we could track the posts. We also identified users who were likely to make postings on sensitive topics and therefore also likely to be deleted.
+We believe this is the first real-time analysis of weibo posts - that monitors how quickly microblog posts are removed in terms of minutes rather than days. What it revealed was a sophisticated operation.
+We cannot estimate the exact number of staff who are dedicated to censorship, but it is clear that there are some relatively sophisticated programmers who build their censorship tooling and they have a number of staff who use those tools.
+Deletions happen most heavily in the first hour after a post has been submitted.  About 5% of deletions happened in the first eight minutes, and within 30 minutes almost 30% of the deletions had been made. Nearly 90% of deletions happen within the first 24 hours.
+We worked out that if none of the process was automated, Sina Weibo would need to employ more than 4,000 censors reading at speed every day just to keep up.
+There are other possible systems at work too:
+The authorities are also likely to be targeting users who have had posts deleted in the past. These users' posts are deleted most quickly.
+There are other censorship mechanisms, too. Sometimes Sina Weibo suspends posts until they can be manually checked, telling the user that the delay is because of "server data synchronisation".
+It also uses "camouflaged posts", making it appear to a user that their post was successfully posted, but other users are not able to see the post and the poster is not aware of this.
+Censors also track backwards to delete sensitive topics everywhere they arise, and monitor specific users.
+What is censored?
+We also found that those topics where a mass removal happens the fastest are those that combine events that are hot topics across Sina Weibo, for example the Beijing rainstorms or a specific sex scandal that occurred during our tracking effort, with topics that are generally considered sensitive.
+If Sina Weibo had insufficient controls, the government may take action against the company.  If their controls were too rigid, users might abandon them for one of their competitors.
+Its success implies that it has found a happy medium, and that is what makes it an interesting social media platform to study.
+But there is more research to do. We would like to get deeper into why some topics are censored and others not.  We are also interested in the impact of the censorship.  How much do the post deletions and other forms of censorship actually stymie conversation and free assembly?  That is still an open question, and a very important one.
+Research was conducted by Tao Zhu, David Phipps, Adman Pridge, Jedediah R Crandall and Dan S Wallach and published in arxiv.org.

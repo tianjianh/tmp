@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101140005/http://www.bbc.com/news/technology-38207974
+
+[SN]TITLE[SN]
+Credit card numbers guessed in 'seconds'
+
+[SN]FIRST-SENTENCE[SN]
+Smart cyber thieves who query lots of websites at once can guess credit card numbers in a few seconds, suggests research.
+
+[SN]RESTBODY[SN]
+Security experts from the University of Newcastle found loopholes on websites that helped thieves seeking card data.
+The attacks works against some of the most popular retailers on the web, said the team.
+Vulnerable sites have been told about their findings and some have now put in place defences against the attack.
+The research, led by PhD student Mohammed Aamir Ali at the University of Newcastle, created a credit card querying system that simultaneously submitted payment requests to different sites at the same time.
+Starting with just the first six digits of a card, the system guessed the remaining details and tried the combinations on many sites at the same time.
+By trying different combinations of a card's number, expiry date and security code this system could quickly find out all the information needed to replicate a card, said the researchers in a paper describing their work.
+Because different sites ask for different parts of the credentials required to verify a purchase it was possible to compile the fragmented details that sites share to build up all the security information for a card.
+"This attack subverts the payment functionality from its intended purpose of validating card details, into helping the attackers to generate all security data fields required to make online transactions," they wrote.
+This approach could help thieves who have some knowledge of victims gained from information in the massive troves of data released by breaches at web firms.
+Few sites noticed that multiple queries were being run across lots of sites, found the team.
+"It is possible to run multiple bots at the same time on hundreds of payment sites without triggering any alarms in the payment system," they said.
+A sample attack showed that if an attacker ran many queries at once they could compile the correct information about a card in approximately six seconds.
+There is no evidence that cyber thieves are using such a distributed attack, said the researchers, but their work showed it was "practical" and therefore a "credible" threat.
+The team shared its findings with 36 of the sites against which they ran their distributed card number-guessing system. The disclosure led to eight sites changing their security systems to thwart the attacks. Many now limit the number of times card details can be checked.
+However, said the researchers, the other 28 sites made no changes despite the disclosure.
+"We do not know the reason behind this and further research will be needed to find the explanation," wrote the team.

@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223170852/http://www.bbc.co.uk:80/news/technology-27668260
+
+[SN]TITLE[SN]
+Russian Evgeniy Bogachev sought over cybercrime botnet
+
+[SN]FIRST-SENTENCE[SN]
+The US has charged a Russian man with being behind a major cybercrime operation that affected individuals and businesses worldwide.
+
+[SN]RESTBODY[SN]
+Evgeniy Bogachev, said to be known as "lucky12345" and "slavik", is accused of being involved in attacks on more than a million computers.
+The charges came as authorities seized control of a botnet used to steal personal and financial data.
+Computer users were urged to run checks to protect themselves from the threat.
+In a press conference held on Monday, the US Department of Justice said it believed Mr Bogachev was last known to be residing in Anapa, Russia.
+Cooperation with Russian authorities had been "productive", a spokesman added.
+In a entry added to the FBI's Cyber Most Wanted list, it stated: "He is known to enjoy boating and may travel to locations along the Black Sea in his boat."
+His charges, filed in a court in Pittsburgh, included conspiracy, wire, bank and computer fraud, and money laundering.
+The UK's National Crime Agency (NCA) said people probably had "two weeks" before the criminals would get the botnet functioning again, and posted advice on how to best protect computers.
+Internet service providers (ISPs) will be contacting customers known to have been affected by either letter or email. The first notices were sent out on Monday, the BBC understands.
+The action related to a strain of malware - meaning malicious software - known as Gameover Zeus.
+Malware is typically downloaded by unsuspecting users via what is known as a phishing attack, usually in the form of an email that looks like it comes from somewhere legitimate - such as a bank - when it fact it is designed to trick a person into downloading malicious software.
+Once installed on a victim's machine, Gameover Zeus will search specifically for files containing financial information.
+If it cannot find anything it deems of worth, some strains of Gameover Zeus will then install Cryptolocker - a ransomware program that locks a person's machine until a fee is paid.
+The FBI said Gameover Zeus could be responsible for "financial losses in the hundreds of millions of dollars".
+In what has been described as the biggest ever operation of its kind, servers all over the world were raided simultaneously by the authorities.
+"The scale of this operation is unprecedented," said Steve Rawlinson from Tagadab, a web hosting company involved in the take-down effort.
+"This is the first time we've seen a co-ordinated, international approach of this magnitude, demonstrating how seriously the FBI takes this current threat."
+The action meant the authorities could direct what are known as Command and Control (C&C) servers - the machines that control the operation of the botnet.
+With the C&C servers under police control, criminals should temporarily be unable to manage the computers they hijacked - but only until they are able to set-up new C&C servers elsewhere.
+All computer users are being urged to make sure that the malware has not infected their machines.
+"This warning is not intended to cause you panic but we cannot over-stress the importance of taking these steps immediately," said UK-based Get Safe Online, a government-backed organisation that has published a list of software it recommends for the task.
+"This is because the UK's NCA has taken temporary control of the communications used to connect with infected computers, but expects only a very limited window of opportunity to ensure you are protected."
+Technical problems caused some users to become unable to access the Get Safe Online website on Monday afternoon.
+A spokesman said: "We have been overwhelmed by the interest of those trying to take action to protect themselves by visiting our page.
+"We are sorry about this and are working very hard to make the page available as quickly as possible. In the meantime, the advice can be accessed via our Facebook and Google+ pages."
+More detailed information on the threat was published by the US Computer Emergency Readiness Team (Cert).
+Following a slew of high-profile hack attacks in recent weeks - including eBay, Spotify and shoe retailer Office - security expert Rik Ferguson raised concerns that computer users might be suffering from "notification fatigue".
+However, he stressed that this operation was more targeted, and should not be ignored.
+"I think one of the things that is really critical with this operation is that if people are infected, it's going to be completely invisible to them," the Trend Micro security researcher said.
+"One of the strengths of this operation is not only that it involved organisations around the world, but that it involved the ISPs as well.
+"The ISPs will go out and proactively notify any of their customers who are infected."
+He suggested that machines known to be infected by serious malware should be placed in a quarantined environment until the threat was removed.
+"Making it uncomfortable, if not impossible, to use the internet is one of the most effective ways to do that," he said.
+Follow Dave Lee on Twitter @DaveLeeBBC

@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170516082739/http://www.bbc.com/news/technology-36044016
+
+[SN]TITLE[SN]
+Patch makes Oculus games playable on HTC Vive
+
+[SN]FIRST-SENTENCE[SN]
+Owners of the HTC Vive virtual-reality headset can now play games made exclusively for the rival Oculus Rift.
+
+[SN]RESTBODY[SN]
+A developer has created a software patch to make titles bundled with the Rift headset compatible with the Vive.
+Currently, it works with only two games - Lucky's Tale and Oculus Dreamdeck. More patches for other games are expected to follow.
+However, one user said, the patch may prove tricky to install for those unfamiliar with PC technology.
+A developer known as LibreVR put the patch on the Github code-sharing site for anyone to download and use.
+Sam Machkovech, a writer for the news site Ars Technica, said it had allowed him to run Lucky's Tale via the SteamVR game-playing system used by the Vive.
+The patch also preserves some elements unique to the HTC Vive such as the "chaperone" system that keeps an eye on a gamer's surroundings and warns if they stray too close to walls or other obstacles.
+However, the ported game can only be played via an Xbox controller rather than with the Vive's motion controllers.
+Mr Machkovech said the patch was significant because, before now, although the Oculus could get at games accessible via SteamVR, Vive owners could not get at many Oculus games.
+But installing and running the patch might prove tricky for some because of the combination of files it needed to get games working.
+"HTC Vive owners now have a free, simple way to access some of Oculus's most impressive launch offerings," wrote Mr Machkovech.
+Oculus has yet to respond to news about the LibreVR patch, although in the past it has said it would be happy for people to change or "mod" its games.

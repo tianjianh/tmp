@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151014032413/http://www.bbc.co.uk/news/technology-26432473
+
+[SN]TITLE[SN]
+XP - the operating system that will not die
+
+[SN]FIRST-SENTENCE[SN]
+On 8 April Microsoft will end support for the venerable Windows XP operating system. That means no more security patches, software updates or bug fixes for the software.
+
+[SN]RESTBODY[SN]
+It's an event that Microsoft has been warning people and businesses about for months. And it is one that hi-tech thieves have been looking forward to as those digital protections start to diminish.
+In a bid to get users shifting over to a more modern version of windows, Microsoft has created a website that tells people if they are, or are not, running the software and on 8 March will make a pop-up warning appear on the screens of those who are still using it.
+Microsoft is also working with some other software firms to help people work out how to update and upgrade and has made tools that transfer data and settings over to a new version of Windows so the switch is as painless as possible.
+Windows XP (for "eXPerience") went on sale in October 2001 and has proved remarkably resilient.
+Figures from market research firm Net Applications suggest that it was the most widely used Microsoft operating system until August 2012 when it was overtaken by Windows 7.
+"We estimate that on 9 April we will see 20-25% of all enterprise PCs running XP," said Michael Silver, a research vice-president at consultancy Gartner.
+The software is still popular in many government departments and some studies suggest the majority of the world's cash machines still run it.
+"The longevity is not because of anything special that has to do with XP," said Mr Silver, "it's actually as outlined in the support life cycle Microsoft laid out in 2004."
+Under that life cycle Microsoft commits to providing different levels of support for software products depending on their age and that of the products that succeed them.
+Delays in the versions of Windows that came after XP extended the support life for the operating system. Add to this the hard work it takes for companies to get applications running on new versions of Windows and its no surprise that companies have stuck with it.
+However, said Mr Silver, people and businesses should be getting on with shifting to something newer.
+"If you are only acting now you are pretty late," he said.
+One of the reasons that Microsoft is keen to stop people using XP is because it is feared that once the security updates stop, anyone still using XP will be a tempting target for hi-tech thieves.
+This was especially true given the work that Microsoft had done to harden more recent versions of Windows against attack, said James Lyne, director of technology strategy at security firm Sophos.
+"It's got harder for the bad guys to come up with working exploits for more modern Windows platforms," he said.
+Windows 7 and 8 now employ several different techniques that hide the internal workings of the operating system from attackers. Cybercriminals keen to steal data or compromise machines often get a foothold by exploiting a problem in an application such as a web browser. Then they piggyback on the access that application has to a PC's memory to burrow their way in deeper.
+Exploits had far less chance to work on those more up-to-date versions of Windows because of the very different way they moved data in and out of different places in memory, he said.
+As a result, anyone sticking with XP could be at risk as it will be easier to crack than Windows 7 or 8.
+Unfortunately, said Jason Steer from security firm Fire Eye, the biggest security threats to XP may be outside Microsoft's control.
+"About 90% of the vulnerabilities for Windows XP are found in third-party programs," he said.
+This meant that cybercriminals used bugs in programs from Adobe and Oracle's Java to get at Windows users rather than look for a specific operating system vulnerability, he said.
+Doubtless the end of security support will mean bugs in those other programs will have more success at catching people out.
+The good news is that many anti-virus companies are planning to keep on updating their products to spot malware aimed at XP. Most are keeping an eye on XP for at least a year and some will keep providing updates for much longer, suggests a list drawn up by independent security monitoring organisation AV Test.
+"Every one of our customers brings up the problem of XP," said Mr Steer, from Fire Eye, adding that companies that had not upgraded by now were not going to able to manage the swap in the next 30 days.
+"Those upgrade and update projects can take 12-18 months to roll out," said Mr Steer. "They are going to have to mitigate that risk in other ways."
+Delaying had other problems too, said Mr Silver from Gartner. Some software firms that make programs that ran on XP no longer test on the operating system.
+Some had ditched XP versions a couple of years ago, he said, so keeping on with that older application could end up being costly.
+And then there is the problem of China. Windows XP is still hugely popular in mainland China but Microsoft has much less control over these machines because so many of them are running pirated versions of the software.
+Those pirates are unlikely to want to pay for a new operating system when they did not pay for the last one they got.
+The Chinese authorities are known to have had meetings with Microsoft asking it to extend support so XP users are not left at risk. Microsoft reportedly refused to make a special case for the country. Now some of China's native security firms are banding together to help provide updates and security fixes on their own.
+Microsoft, it seems, is going to be haunted by XP for a long time to come.

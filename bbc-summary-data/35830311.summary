@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170718015016/http://www.bbc.co.uk/news/business-35830311
+
+[SN]TITLE[SN]
+Would you let a robot invest your hard-earned cash?
+
+[SN]FIRST-SENTENCE[SN]
+The floors of the New York and London Stock Exchanges now exist mostly for show. The real trading is done automatically by robots.
+
+[SN]RESTBODY[SN]
+About three-quarters of trades on the New York Stock Exchange and Nasdaq are done by algorithms - computer programs following complex sets of rules.
+And this "robo-trading" is having a profound effect on the investment world, from global hedge funds right down to personal savers.
+But what are the advantages and disadvantages of allowing computers to manage the world's trillions of dollars?
+The advantage for personal, or retail, investors is that we now have powerful tools at our fingertips helping us choose and manage a balanced portfolio of investments, often at much lower cost than going through traditional brokers or fund management companies.
+And if you don't fancy the DIY approach, advisers and intermediary companies have access to these tools as well.
+"Robo-advice" companies, such as Betterment and WiseBanyan in the US, and Nutmeg and MoneyFarm in the UK, are trying to demystify investment while giving us access to such tools.
+WiseBanyan co-founder Vicki Zhou says her platform allows people to "invest algorithmically through a diversified portfolio of low-cost index funds."
+And they don't charge the management costs normally levied by traditional funds, she says - pointing out that 88% of such funds in the US have underperformed their benchmark indexes over last five years.
+Betterment's Joe Ziemer says: "We look at 40 different variables - spousal situation, rental income, pensions - and from these we will deliver you online, in seconds, a comprehensive retirement plan."
+In a recent report, the UK's Financial Conduct Authority said online financial advice could "play a major role in driving down costs".
+This is good news for us, but bad news for advisers - Royal Bank of Scotland said it would be cutting the jobs of 220 face-to-face advisers in response to this new technology.
+Big financial institutions are always looking for an edge over their rivals. Information is power, so if you have more of it and can put that into effect quicker than others, you'll win the race for profits.
+Robo-trading offers them this advantage.
+Computers can trade multiple times in fractions of a second, exploiting tiny changes in stock prices and indexes to turn a profit.
+Companies like New Jersey-based Tradeworx are erecting line-of-site networks of microwave relays, involving towers interspersed every 30 miles or so.
+This network will convey financial information from Chicago - where financial products called futures are traded - to the New York Stock Exchange 2.3 milliseconds faster than data sent over existing fibre-optic cables.
+This tiny time saving is enough to give a trader an advantage in the hyper-fast world of "flash trading" - the controversial phenomenon exposed in Michael Lewis' best-selling book, Flash Boys.
+Computers are also unemotional.
+"They don't panic... they don't understand things like greed and fear," says Dr Michael Halls-Moore, whose website, QuantStart.com, teaches people how to write investment algorithms.
+And they're also getting smarter.
+With the rise of machine learning and artificial intelligence, they can scour reams of news, research and social media - hundreds of data sets - potentially learning and self-improving as they go.
+"When data was scarce, people would hoard information, and find an edge in investing that way," says Dr Thomas Wiecki, lead data scientist at Quantopian, a crowd-sourced hedge fund.
+"Now we take huge mountains of data a human could never analyse, and automate it."
+Quantopian gives monthly prizes to private investors who come up with their own market beating algorithms.
+Dr Eugene Kashdan, a former London algorithmic trader, now a mathematics lecturer at University College Dublin, explains that these data sets taken individually might not reveal much useful information.
+But when combined with many others, a picture can emerge - undetectable by the human eye - giving a signal whether to buy or sell.
+New York-based Rebellion Research and California-based Sentient AI are developing ways that these algorithms can learn from past mistakes and refine their rules, without the need for much human intervention.
+Proponents say algorithmic trading puts needed liquidity - the availability of buyers and sellers - into the market, and reduces costs.
+Critics say it wastes the talents of highly trained mathematicians and physicists, and destabilises the markets in ways no one - especially regulators - yet understands.
+On 6th May 2010, a "flash crash" took place that regulators blamed on high-frequency algorithmic trading.
+It saw a trillion-dollar drop in US stocks, the second-largest swing ever in the market during a single day. The markets recovered their value 36 minutes later.
+US authorities blamed a 36-year old in west London, who was using commercially available algorithmic trading software to trade part-time from his parents' house.
+On 23 March, a UK judge is due to give a decision on whether the trader in question, Navinder Sarao, should be extradited to the US.
+The fear is that "flash crashes" could become more frequent in a trading world dominated by self-learning robots.
+Is it too far-fetched to imagine a clever computer deliberately triggering a huge sell-off with the purpose of buying shares when they're cheap and making a profit as the market recovers?
+Some think a more likely scenario is that all these self-learning trading algorithms, accessing all the market-relevant data there is to know, eventually converge to a single view, leading to stagnation in the market.
+Trading volumes would then shrink along with spreads - the difference between buying and selling prices.
+"The best and the worst scenarios would get pretty close," says Dr Kashdan.
+But others believe we'll never reach that point - the world is just too complex. No algorithm will ever be able to predict the future.
+"Everyone openly admits it's impossible," says Quantopian chief executive John Fawcett.
+"But it's too important to ignore."
+Follow Technology of Business editor @matthew_wall on Twitter.

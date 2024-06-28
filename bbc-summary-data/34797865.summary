@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151112233700/http://www.bbc.co.uk/news/technology-34797865
+
+[SN]TITLE[SN]
+InstaAgent's creator apologises after Apple and Google ban
+
+[SN]FIRST-SENTENCE[SN]
+The creator of an app that posted spam to peoples' Instagram accounts has said he made "a terrible mistake".
+
+[SN]RESTBODY[SN]
+Turker Bayram's InstaAgent app was pulled from Apple and Google's stores after another developer flagged it was copying users' names and passwords for the photo-sharing service.
+But although InstaAgent used the logins, Mr Bayram denies saving them.
+One expert said sending the passwords to an unknown server was still "highly unorthodox".
+InstaAgent had topped the free app charts in several countries, including the UK, before it was blocked.
+The software promised to let users see who had viewed their Instagram profiles.
+But on Tuesday, David Layer-Reiss - a German iOS developer - posted a series of tweets that included evidence InstaAgent was "hacking" people's details.
+Mr Bayram failed to explain his actions when he was phoned by the BBC the next day, but later posted a statement online in broken English.
+In it, he said he had been working on a new way to promote the service.
+The app had charged people a fee if they wanted to see more than three people who had looked at their pictures.
+Mr Bayram explained he had been working on a feature that would have unlocked full access for free if device owners let an advert for InstaAgent appear in their feeds, but said he had decided not to activate it.
+"It was not a good idea," he acknowledged.
+"We didn't publish because we learned that Instagram wasn't allowing private APIs [application program interfaces] for third-party applications' usage."
+He added, however, that for reasons he "couldn't understand" the code still started posting the ads to some people's accounts.
+"It was a terrible experience for us. Because our application has removed both mobile markets," he wrote.
+But he said people who had downloaded the app should not be concerned.
+"Nobody's account [was] stolen. Your password [was] never saved [to] unauthorised servers.
+"But again and again we apologise... [and in the future] we must read service providers' policies carefully."
+Instagram - which is owned by Facebook - has advised users against using such bolt-on services.
+"Anyone who has downloaded this app should delete it and change their password," a spokeswoman said.
+Security consultant Alan Woodward added that he still had concerns.
+"Offering users an app to see who has viewed their profile is a classic way of scamming users into installing malware," he said.
+"For a third-party app to send your password to an external server is at best a way of circumventing the policy of that social media service. At worst it is simply a means of grabbing your password for nefarious purposes.
+"The particular way in which this app was sending user credentials to an unknown server seems highly unorthodox."

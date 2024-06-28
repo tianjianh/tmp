@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160608122155/http://www.bbc.co.uk/news/technology-36403020/
+
+[SN]TITLE[SN]
+Is the web full of nasty tricks?
+
+[SN]FIRST-SENTENCE[SN]
+Ever signed up for something online and then found it very difficult to unsubscribe? Then you've been to a roach motel - one of many web design tricks employed by some firms to drum up more trade.
+
+[SN]RESTBODY[SN]
+Microsoft provoked outrage recently when it was revealed that closing a pop-up box reminding Windows users to upgrade to Windows 10 was treated as consent to the upgrade, if a common setting was in place.
+It was described by one frustrated tech reporter as a "nasty trick", as many people would expect closing the box to both remove it and prevent any related activity.
+After a media storm, the tech giant backtracked.
+But was it any worse than other cunning sales tactics?
+London-based user experience consultant Harry Brignull coined the phrase "dark patterns", which he describes as "a user interface that has been carefully crafted to trick users into doing things".
+His website contains a library of the sort of tricks employed by websites great and small, submitted by readers.
+Some tricks are no longer an option - for example, adding items to a shopper's online basket without their knowledge, such as through pre-ticked boxes, has been closed in many European countries by an EU directive - but there are still plenty out there.
+The "roach motel" for example will be familiar to anyone who has happily signed up for a newsletter or subscription and then found it extremely difficult to unsubscribe - "a roach motel makes it very easy for a user to get into a certain situation, but then makes it hard for them to get out of it when they realise it is undesirable," the Dark Patterns website notes.
+Also well known are what Mr Brignull calls "trick questions", where the process of ticking boxes to opt in or out of receiving marketing material is deliberately inconsistent. Royal Mail is one of those that asks people registering to opt out for the first question and then opt in for the second.
+Royal Mail says its wording is designed to reduce confusion. "Royal Mail aims to make it as easy as possible for its customers to opt out of receiving information that is not relevant to them," it said.
+"At the same time, we aim to make it easy for interested customers to receive highly targeted information that they may find useful. We look to make these choices as clear and unambiguous as possible by using bold text where appropriate, simple check box options and plain English."
+When Tim Jones from the Electronic Frontier Foundation asked on social media for a phrase referring to the practice of "creating deliberately confusing jargon and user-interfaces which trick your users into sharing more info about themselves than they really want to", the answers that came back were variations on the theme of "Zucking", a dubious honour for Facebook founder Mark Zuckerberg.
+Mr Jones wrote about it in a blog post, settling on the less personal phrase "evil interfaces".
+"Sharing your data requires radically less work than protecting it," he concluded.
+But this was a while ago - last year the firm's privacy policy was praised by the US Center for Plain Language.
+User Testing journalist Jennifer Winter listed some of her pet hates in a blog post last year.
+She illustrated the practice of "misdirection" in a mobile game where the buttons to start play and select a level were both long green tabs.
+"Players are trained to associate the green buttons with game play," she wrote.
+"But if you lost the game a screen appeared inviting you to buy a move - and the "buy move" button was also a long green tab.
+"Guess how many times I've tapped the green button. I actually have no idea because I've lost count at this point," Ms Winters said.
+However, she also pointed out that purchasing the moves required a visit to the app store, so there was still a boundary before purchase.
+"Wherever there are organisations that value short-term gains over lasting customer relationships, there will be designers who implement dark patterns in an attempt to trick users into taking actions they wouldn't normally want to take," said Hannah Alvarez from User Testing.
+"Dark patterns are well known among designers and UX practitioners who care about their users and want to avoid creating poor user experiences.
+"I believe some marketers and executives who don't have a background in user-centred design will implement dark patterns without realising they're doing so - they're just trying to get quick results."
+Mr Brignull said deliberate dark patterns come about as a nefarious use of combining web design and psychology.
+"Psychological insights that would once have been used to stop people making mistakes are now being used to get them to buy stuff," he told the BBC.
+Many tech firms conduct what's known as A/B testing - trying out different designs on a live site simultaneously to see which generates the better results.
+"People don't realise it's on every large site you use - you will be tested on something like that. It is so easy to run," said Mr Brignull.
+This was confirmed recently by Google, which experimented with turning the blue links on its search results pages black to see whether it increased the number of clicks.
+"We're always running many small-scale experiments with the design of the results page," the firm said.
+During her time as a senior executive at the search giant, Marissa Meyer famously led experiments with 41 hues of blue to determine the most clickable link colour.
+"This is about selling people things," said web science expert Prof Leslie Carr of Southampton University.
+"The [advertising] industry has been doing this for 150 years."
+However, he thinks the tech giants, such as Microsoft and Google, have a greater responsibility than most to stick to the rules.
+"You have to trust the platform," he said.
+Ms Alvarez says designers should aim to develop "user empathy".
+"That means questioning your own assumptions, asking how your designs could be interpreted in a different way than you intended, and regularly getting user feedback throughout your design process," she said.
+"No matter how experienced you are, never trust your gut."

@@ -1,0 +1,56 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307031906/http://www.bbc.com/news/technology-38223805
+
+[SN]TITLE[SN]
+TalkTalk's wi-fi hack advice is 'astonishing'
+
+[SN]FIRST-SENTENCE[SN]
+TalkTalk's handling of a wi-fi password breach is being criticised by several cyber-security experts.
+
+[SN]RESTBODY[SN]
+The BBC has presented the company with evidence that many of its customers' router credentials have been hacked, putting them at risk of data theft.
+The UK broadband provider confirmed that the sample of stolen router IDs it had been shown was real.
+But it is still advising users that there is "no need" to change their routers' settings.
+A cyber-security advisor to Europol said he was astounded by the decision.
+"If TalkTalk has evidence that significant numbers of passwords are out in the wild, then at the very least they should be advising their customers to change their passwords," said the University of Surrey's Prof Alan Woodward.
+"To say they see no need to do so is, frankly, astonishing."
+A spokeswoman for TalkTalk said that customers could change their settings "if they wish" but added that she believed there was "no risk to their personal information".
+She referred the BBC to another security expert. But when questioned, he also said the company should change its advice.
+The risk to TalkTalk's subscribers was first flagged over the weekend by  cyber-security researchers at Pen Test Partners.
+They had been investigating the spread of a variant of the Mirai worm, which was causing several makes of routers to stop working properly.
+During tests of a TalkTalk model, the researchers discovered that the vulnerability exploited by the worm was also being abused to carry out a separate attack that forced the router to reveal its wi-fi password.
+But TalkTalk played down the discovery, saying it had "not seen anything to confirm" that users' router credentials had been stolen.
+It said it was also making "good progress" to protect its routers.
+The BBC was subsequently contacted by someone who said he had access to a database of 57,000 router IDs that had been scraped before any fix had been rolled out.
+He did not reveal his identity, but agreed to share a sample of the credentials that had been harvested.
+The list contained details of about 100 routers including:
+The source said he wanted to highlight the problem because other more malevolent actors might have carried out a similar operation.
+The BBC passed the details on to TalkTalk.
+"The list that you sent me, I can confirm that they are TalkTalk router IDs," said its head of corporate communications.
+"But we haven't seen anything to suggest that there are 57,000 of them out there."
+Hackers could not use the credentials to carry out a mass attack from afar - but they could use the IDs to identify high value targets to travel to, or they could simply drive through the streets hunting for a match.
+Prof Alan Woodward said once a hacker was outside a vulnerable property, they could:
+TalkTalk's spokeswoman referred the BBC to Steve Armstrong, a cyber-security instructor that she said would support it on the matter.
+He said the risk to an individual user was relatively low.
+"If you look at the average home user and what is on their home network, that would be exposed to an attacker,... then there is not a great deal.
+"The risk is probably no higher than using a [coffee shop's] open wi-fi network."
+But he added that he still felt TalkTalk was giving the wrong advice.
+"Part of my pushback to them is that they should be telling people, 'You need to change your password,'" he said.
+"At the moment, you trust your home infrastructure, and as a result of this vulnerability, that may not be [secure]."
+Others have been more critical of TalkTalk's handling of the matter.
+"It does a disservice to the complicated debate around security and privacy to give out advice of this fashion," said Don Smith, technology director at Dell SecureWorks.
+Pen Test Partners' Ken Munro said: "TalkTalk appear to be flying fast and loose with customer data security, yet again."
+The company was fined Â£400,000 last month by the Information Commissioner's Office for a previous breach that led to the theft of nearly 157,000 customers' personal details.
+TalkTalk has about four million customers in total.
+TalkTalk's approach contrasts with that of Eir, an Irish internet provider whose routers have also come under attack.
+It told the BBC on Tuesday that it had detected "unauthorised access" to two Zyxel-branded routers used by 2,000 of its customers.
+"We do not have any indication at this time that customer data has been lost or accessed," said a spokeswoman.
+"Our strong advice to customers is to reset their modem and, once this is done, to change both the modem administration password as well as the wi-fi password."
+TalkTalk asked that its statement be quoted in full:
+"As is widely known, the Mirai worm is an industry issue impacting many ISPs around the world, and a small number of TalkTalk customers have been affected.
+"We can reassure these customers there is no risk to their personal information as a result of this router issue and there is no need for them to reset their wi-fi password.
+"However, any customer with concerns can find out how to change their wi-fi password on our website or in their initial router set up guide. We have made good progress in repairing affected routers, but any customer who is still having any problems should visit our help site where they can find a guide that will show them how to reset their router.
+"Alternatively, they can call us and we can talk them through the repair process or send them a new router."
+University College London's data security expert Dr Steven Murdoch suggested the statement was misleading.
+"I think the press release is conflating the Mirai worm with the wi-fi password leak, and while the worm infection is dealt with for now, more work needs to be done to clear up the compromise of wi-fi passwords," he explained.
+"I think that despite what the press release states, there is a risk to personal information."

@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170214051753/http://www.bbc.co.uk/news/technology-34205258
+
+[SN]TITLE[SN]
+Finance firms targeted by cyber extortion gang
+
+[SN]FIRST-SENTENCE[SN]
+Banks, media groups and gaming firms are being hit with extortion demands by a cyber gang who threaten to knock them offline unless they pay up.
+
+[SN]RESTBODY[SN]
+In a report, net firm Akamai said in the last 10 months it had seen 141 attacks on its customers by the group.
+The gang, called DD4BC, threatens to swamp servers with data unless a ransom of up to 50 bitcoins (Â£8,000) is paid.
+The attacks mounted by the gang can flood sites with more than 56 gigabits of data a second, it said.
+DD4BC had been active since September 2014, said Akamai in a report about the group, but had recently stepped up its attacks against net-based businesses.
+"The latest attacks - focused primarily on the financial service industry - involved new strategies and tactics intended to harass, extort and ultimately embarrass the victim publically," said Stuart Scholly, manager of Akamai's security division, in a statement.
+Mr Scholly said that as well as threatening to knock companies offline, DD4BC said it would also post messages on social networks to shame firms if they did not pay up.
+DD4BC had a substantial network of computers to call on to mount its attacks, said Akamai, and was capable of rapidly increasing the amount of data being directed at a site to overwhelm it.
+The group's main tactic is to use what are known as Distributed Denial of Service (DDoS) attacks which, on average, were able to pipe about 13.3 gigabits of data every second (gbps) towards victims. The average connection that most firms have to the net can run at a speed of about 10gbps, said Akamai, so such an attack would completely overwhelm that link.
+The largest attacks seen by Akamai involved more than 56.2 gigabits of data per second - far more than most companies could cope with.
+In emails sent to targets, DD4BC claimed to have the ability to direct about 500 gigabits of data at victims but Akamai said it had seen no attacks of this magnitude.
+Analysis of the attacks DD4BC had carried out showed it was using 10 separate methods of generating DDoS data floods. One method exploited weaknesses in the WordPress blogging tool to bounce data at targets.
+The payments demanded by the group ranged from 25 to 50 bitcoins. At current exchange rates 25 bitcoins are worth about Â£4,000. It was likely that many firms had paid up to avoid their sites being hit, said Akamai in an interview with Information Week.
+Akamai said it was possible to defend against the attacks by filtering data and spotting which came from systems controlled by the DD4BC group.

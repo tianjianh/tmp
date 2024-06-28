@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222155332/http://www.bbc.co.uk/news/technology-28654613
+
+[SN]TITLE[SN]
+Russia gang hacks 1.2 billion usernames and passwords
+
+[SN]FIRST-SENTENCE[SN]
+A Russian group has hacked 1.2 billion usernames and passwords belonging to more than 500 million email addresses, according to Hold Security - a US firm specialising in discovering breaches.
+
+[SN]RESTBODY[SN]
+Hold Security described the hack as the "largest data breach known to date".
+It claimed the stolen information came from more than 420,000 websites, including "many leaders in virtually all industries across the world".
+Hold Security did not give details of the companies affected by the hack.
+"They didn't just target large companies; instead, they targeted every site that their victims visited," Hold Security said in its report.
+"With hundreds of thousands of sites affected, the list includes many leaders in virtually all industries across the world, as well as a multitude of small or even personal websites."
+The New York Times, which first reported the findings, said that on its request "a security expert not affiliated with Hold Security analysed the database of stolen credentials and confirmed it was authentic".
+"Another computer crime expert who had reviewed the data, but was not allowed to discuss it publicly, said some big companies were aware that their records were among the stolen information," the paper said.
+The paper added: "Hold Security would not name the victims, citing nondisclosure agreements and a reluctance to name companies whose sites remained vulnerable."
+The Wall Street Journal later revealed that Hold Security intended to offer website owners the ability to check whether they had been affected, but only if they paid a fee.
+The firm has since posted a message on its site saying it will charge $120 (??71) a month for a "breach notification service".
+One computer security expert said he was surprised by this approach.
+"This situation is quite unusual in that the company has decided to charge for this information," Dr Steven Murdoch from University College London's computer science department told the BBC.
+"Usually they would do an initial disclosure [of who had been affected] for free and then offer their services for a fee at a later stage.
+"The company rightly points out that there is going to be a huge amount of work to securely contact all the affected websites, but a common solution to this is to partner with a government or industry-funded organisation to help with that."
+Despite the large amount of credentials said to have been compromised, Dr Murdoch added that it would be premature to advise the public to reset all their passwords.
+"Although there's a large amount of passwords involved, a lot of them could be irrelevant and many of the websites tiny," he said.
+"It's not necessarily the case that a large proportion of internet users have been affected. Until we get more statistics we won't know that.
+"So, there's no reason to panic now, but perhaps it's a good reminder to follow best practice of not using the same password on multiple websites, because this will not be the last time such a breach happens."
+Hold Security, which has previously reported about hacks on Adobe and Target, said it took more than seven months of research to discover the extent of the latest hack.
+The firm claimed the gang initially acquired databases of stolen credentials from fellow hackers on the black market.
+"These databases were used to attack e-mail providers, social media, and other websites to distribute spam to victims and install malicious redirections on legitimate systems," Hold Security said.
+The hackers also got access to data from botnets - a network of computers infected with malware to trigger online fraud.
+Hold Security said the botnets helped the hacking group - which it dubbed CyberVor - identify more than 400,000 websites that were vulnerable to cyber attacks.
+"The CyberVors used these vulnerabilities to steal data from these sites' databases," the firm said.
+"To the best of our knowledge, they mostly focused on stealing credentials, eventually ending up with the largest cache of stolen personal information, totalling over 1.2 billion unique sets of e-mails and passwords."
+The firm is now marketing its breach notification service as a way to "stay ahead of the hackers ".
+But one of its rivals expressed surprise at this approach.
+"For a long time the security industry has freely shared information on breaches within its own community," said Vanja Svajcer, principal security researcher at Sophos.
+"Researchers discovering credentials breaches usually help end users either by making the information about compromised accounts public or by working with the company whose servers were compromised to inform all affected users.
+"In this case, the credentials were harvested from thousands of servers and it would be difficult to work with every server owner to inform the compromised users. Nevertheless, it is reasonable to expect the company to make the information freely available so everybody can check that none of their email addresses have been compromised."
+The University of Surrey's Prof Alan Woodward suggests the following rules should be observed when picking a new password.
+Don't choose one obviously associated with you
+Hackers can find out a lot about you from social media so if they are targeting you specifically and you choose, say, your pet's name you're in trouble.
+Choose words that don't appear in a dictionary
+Hackers can precalculate the encrypted forms of whole dictionaries and easily reverse engineer your password.
+Use a mixture of unusual characters
+You can use a word or phrase that you can easily remember but where characters are substituted, eg, Myd0gha2B1g3ars!
+Have different passwords for different sites and systems
+If hackers compromise one system you do not want them having the key to unlock all your other accounts.
+Keep them safely
+With multiple passwords it is tempting to write them down and carry them around with you. Better to use some form of secure password vault on your phone.

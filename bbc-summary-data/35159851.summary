@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151222162317/http://www.bbc.co.uk/news/technology-35159851
+
+[SN]TITLE[SN]
+Java plug-in malware alert to be issued by Oracle
+
+[SN]FIRST-SENTENCE[SN]
+Millions of Java users are to be warned that they could be exposed to malware as a result of a flaw that existed in the software's update tool.
+
+[SN]RESTBODY[SN]
+The plug-in is installed on many PCs to let them to run small programs written in the Java programming language.
+Its distributor Oracle has agreed to issue an alert on both social media and its own site following an investigation by the US's Federal Trade Commission.
+By doing so it has avoided the risk of being fined.
+However, the firm has not formally admitted to any wrongdoing.
+According to the FTC's complaint, Oracle was aware of security issues in the Java SE (standard edition) plug-in when it bought the technology's creator Sun in 2010.
+"The security issues allowed hackers to craft malware that could allow access to consumers' usernames and passwords for financial accounts, and allow hackers to acquire other sensitive information," the FTC said.
+The regulator alleged that Oracle had promised consumers that installing its updates would ensure their PCs would be "safe and secure".
+But it said the firm had failed to acknowledge that a risk remained.
+This was because Sun's original update process did not delete earlier versions of its software, which hackers could exploit to carry out their attacks.
+When Oracle initially tried to address this, its update tool only removed the most recent prior version of Java, leaving earlier editions behind.
+It was not until August 2014 that the company finally rectified the problem.
+Oracle could not plead ignorance because the FTC had obtained internal documents dated from 2011 that stated "[the] Java update mechanism is not aggressive enough or simply not working".
+According to the watchdog, Java SE is installed on more than 850 million computers.
+Because many of those will still not have installed the latest versions of the plug-in, the warning still serves a purpose and provides a link that can be used to detect and uninstall the code.
+Java is still used to power some web browser-based games, calculator, chat tools and other functions.
+However, one expert said most users should take this opportunity to trash it.
+"Java is one of the top three applications that criminals target," commented Rik Ferguson, vice president of security research at anti-malware firm Trend Micro.
+"It comes pre-installed on a lot of machines, so a lot of people don't know they are using it.
+"There are times in some businesses where they may be internal applications that require Java in the web browser, so you won't have much option, but our recommendation for others is to remove it and stop using it."
+Mr Ferguson added that the ruling sent out a message to other software providers that the FTC was concerned about update procedures and might not settle future cases without imposing a financial penalty.

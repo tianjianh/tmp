@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170609013302/http://www.bbc.co.uk/news/technology-40200400
+
+[SN]TITLE[SN]
+Britney Spears: Malware planted in singer's Instagram page
+
+[SN]FIRST-SENTENCE[SN]
+The comments section of Britney Spears' Instagram account has been used by cyber-thieves to co-ordinate attacks.
+
+[SN]RESTBODY[SN]
+Security firm Eset found the gang controlled its malware, called Turla, by posting comments about images in the singer's gallery.
+The comments looked like spam but once transformed by code in the virus, directed victims to other sites.
+Several other compromised websites were also being used to track victims and spread the malware.
+Turla has been active since 2014 and sought to catch out government workers, diplomats and other officials, said Eset researcher Jean-Ian Boutin. It is believed to be run by a hacker group working for the Russian state.
+Most often, he said, Turla's handlers compromised websites that targets would be likely to visit.
+One compromised server asked visitors to install a booby-trapped extension for the Firefox web browser.
+Digital detective work by Mr Boutin revealed that the command and control (C&C) channel set up between the creators of the extension and victims' machines was on the singer's Instagram page.
+The malicious extension searched for comments that, when digitally transformed, matched a specific value. These were then converted into a website address that the compromised machine visited to report in or to update the malicious code they harboured.
+Very few comments posted to the Instagram account had the key characteristics - suggesting that Turla's creators were testing or refining the control system.
+Mr Boutin said using social media in this way made "life harder for defenders".
+"Firstly, it is difficult to distinguish malicious traffic to social media from legitimate traffic," he wrote. "Secondly, it gives the attackers more flexibility when it comes to changing the C&C address as well as erasing all traces of it."
+Mr Boutin added that he had been in touch with Mozilla, which was working on ways to stop extensions for Firefox being compromised in this way.

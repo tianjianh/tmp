@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170726151549/http://www.bbc.com/news/technology-36301904
+
+[SN]TITLE[SN]
+Google to phase out full support for Flash on Chrome
+
+[SN]FIRST-SENTENCE[SN]
+Google is planning to phase out full support for Adobe's Flash software on its Chrome browser by the end of 2016.
+
+[SN]RESTBODY[SN]
+The technology will only be enabled by default on 10 sites, including YouTube and Facebook. On all others, users will have to choose to activate it.
+Flash, which is used for multimedia content, has become very popular with cyberthieves who exploit bugs to compromise web users.
+Google follows other browser-makers who have ended support for Flash.
+Some of the other sites on which Flash will still be active are Twitch, Amazon and many Russian sites such as Vk.com, Yandex and Mail.ru.
+In a message posted on a Chromium-dev discussion forum, Anthony Laforge, Google's technical lead on Chrome, said internal metrics revealed the 10 chosen sites were the most popular Flash-using sites that users visited.
+Mr Laforge said the changes would mean that on other sites Chrome would seek to use alternative technologies, such as HTML5, to play video. Where only Flash is available, browser users will be asked if they want to allow the software to run.
+Chrome will remember which sites have permission to run Flash so users are not endlessly bothered with pop-ups.
+Google said it was also working on ways to ensure that Flash still ran unimpeded when companies used it on internal networks.
+Many other tech firms, including Apple, Microsoft and Mozilla, have taken steps to stop Flash running. In 2015, Facebook's security chief Alex Stamos called for it to be killed off once and for all.
+However, it still lives on because many sites still make heavy use of it and many games employ it in ways that are hard to replicate with other web technologies.
+Shortly before Google announced its plans, security firm Fireeye revealed the latest reported vulnerability in Flash was being actively exploited by cyberthieves. The malicious campaign began only days after the bug was first discovered.
+In a blogpost, Fireeye researcher Genwei Jiang said attack code was being included in Flash files embedded in Microsoft Office documents.
+Adobe has published patches that stop Flash being used as an attack route via this flaw.
+Writing on the Sophos security blog, Paul Ducklin said this was the third time in three months that Adobe had needed to produce patches for vulnerabilities that, if exploited, would let attackers compromise a victim's computer.
+He recommended that Flash be uninstalled where possible.
+"We need it so occasionally, that we download it every time we need it, install it, use it, then uninstall it altogether and delete it," he said.

@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170308052534/http://www.bbc.com/news/technology-36519044
+
+[SN]TITLE[SN]
+Huge spam and malware network goes offline
+
+[SN]FIRST-SENTENCE[SN]
+One of the biggest networks of spam-sending computers in the world has gone quiet, puzzling experts, internet security firms have said.
+
+[SN]RESTBODY[SN]
+For years the Necurs botnet has distributed junk mail and malware for many different groups of cyber-thieves.
+But the amount of malicious traffic emerging from Necurs has now dwindled to almost nothing.
+It is not clear what has caused the slowdown and whether traffic will return to previously high levels.
+One of the first signs of the disruption was seen earlier this month when email messages spreading the Dridex banking trojan and Locky ransomware caught by security firms dried up.
+Typically, millions of messages bearing these malicious programs are sent out every week,  Proofpoint said in a blogpost.
+However, the flood of messages "essentially stopped" last week, it said. Investigations revealed that these messages typically travelled via the Necurs botnet which was found to have gone largely offline.
+The Necurs botnet is believed to be made up of about six million compromised Windows machines, many of which were enrolled when their owners inadvertently fell victim to a form of malware known as a rootkit.
+Analysis of some of the machines known to be part of Necurs shows that its core administration systems have disappeared, said Proofpoint.
+"Data from a variety of sources show that Necurs bots are actively looking for a new command and control (C&C) system, but we have no evidence that the Necurs botmaster has been able to retake control of the botnet."
+A botnet's C&C system helps the network keep running and co-ordinates the distribution of any spam or malware being sent out via the global collection of computers.
+Security researchers who monitor botnets and the groups that operate them said the cause of the shutdown remained a mystery.
+"We cannot confirm how the botnet was brought down yet," Joonho Sa, a researcher for FireEye, told tech news site Motherboard.

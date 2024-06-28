@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225025404/http://www.bbc.co.uk/news/business-37348016
+
+[SN]TITLE[SN]
+The firm that protects both banks and the Eurovision Song contest
+
+[SN]FIRST-SENTENCE[SN]
+When a police swat team burst into his house in the middle of the night Matthew Prince must have momentarily questioned what he did for a living.
+
+[SN]RESTBODY[SN]
+He may have also had a brief wobble the time he was asked how he would deal with death threats.
+But he was definitely fine with the occasion when he came to the rescue of the Turkish escort industry.
+Mr Prince is the founder and boss of an internet security company called Cloudflare.
+The San Francisco-based business protects its customers' websites by routing their traffic through its own network, filtering out hacking attacks along the way.
+Founded in 2009, San Francisco-based Cloudflare today has four million clients, including global banks, governments, large online retailers, and even the Eurovision Song Contest. Controversially, it is also used by numerous websites in the adult entertainment world.
+Very simply, Cloudflare works as a cloud-based shared firewall - when someone tries to attack one of its clients, it learns of the new threat, and can protect everyone else who uses its network.
+Mr Prince, a 41-year-old American, estimates that his company handles up to 10% of the world's internet traffic at times, and to manage this Herculean task it runs a huge cluster of data centres around the world.
+Such is the important role that Mr Prince and Cloudflare play in protecting firms from hackers, he has often found himself under personal attack from some of the world's most ruthless cyber criminals.
+This includes the occasion someone phoned the police and fictitiously said they had seen someone behaving threateningly with a gun at his house, leading to the arrival of the swat team.
+On another occasion, his own email account was broken into.
+Mr Prince, who grew up in Utah, says: "He [the hacker] was in my personal Gmail account for a while - he posted some stuff that was very personal and deeply embarrassing to me."
+Cloudflare's roots go back to 2004 when Mr Prince and Cloudflare co-founder Lee Holloway were working on a computer industry project they called Honey Pot.
+The idea was that people with websites signed up for free, to install software which then tracked people who sent unsolicited emails.
+Five years later Mr Prince was doing a Master of Business Administration (MBA) at Harvard Business School, and the project was far from his mind, when he got an unexpected phone call from the US Department of Homeland Security asking him about the information he had gathered on attacks.
+Mr Prince recalls: "They said 'do you have any idea how valuable the data you have is? Is there any way you would sell us that data?'.
+"I added up the cost of running it, multiplied it by ten, and said 'how about $20,000 (Â£15,000)?'.
+"It felt like a lot of money. That cheque showed up so fast."
+Mr Prince, who has a degree in computer science, adds: "I was telling the story to Michelle Zatlyn, one of my classmates, and she said, 'if they'll pay for it, other people will pay for it'."
+And so the idea for Cloudflare was born, with Ms Zatlyn as its third co-founder.
+The firm now has more than 300 employees, and more than 100 data centres around the world.
+Cloudflare's business model is the classic "freemium" approach, in that its basic service is free, but companies pay for increased protections.
+And while only an estimated 4 to 5% of its clients do pay, that brings in tens of millions of dollars in revenues.
+Last year alone Cloudflare received $110m in investment, and Mr Prince has previously said he believes the company is worth more than $1bn.
+Yet Mr Prince remains modest about how much investment the company has received, saying that "bragging about funding is like bragging about how big your mortgage is".
+He also puts some of the success of Cloudflare down to the timing, and the fact it was launched just as the rise of online video was leading to better bandwidth, and as smartphones were taking off.
+"If we had tried to do it a year or two earlier or later it would have been impossible," he says.
+Professor Alan Woodward, a cyber security expert at Surrey University, says Cloudflare has been a success "because the service they provide has proven itself robust under some hefty attacks".
+Cloudflare has however, not been without its critics, due to the fact that it lets pretty much anyone use its service, including pornography websites, and even extremist groups.
+In defending this, Mr Prince's argument is that he and the company have a deeply rooted belief in enabling all voices and views to the heard on the internet, even those that lots of people might not agree with.
+He explains: "What's great about the internet is that anyone can publish, and we want to help preserve that ideal not threaten it.
+"We have to follow the law, but we don't think it's the right thing for us to say what's politically incorrect, or good, or bad. We can't mess with what is flowing through the pipes."
+Mr Prince also says that having such a large and diverse customer base enables Cloudflare to defeat hackers more quickly, as what it learns from defending an attack on one industry, it can then apply to protecting another.
+In explaining this he uses the example of why back in 2012 Cloudflare found that more than 150 Turkish escort websites signed up over a two week period.
+The websites told him they were all under constant attack from a conservative group that strongly disapproved of their activities.
+Mr Prince says that the following year Cloudflare helped the Eurovision Song Contest defeat an attack into its website. The mystery cyber attackers turned out to be strangely familiar.
+"If it wasn't the same people as those attacking the Turkish escort sites, it was the same resources," he says.
+"So because we had protected the Turkish escorts we were able to help Eurovision.
+"They [the escort websites] may not seem attractive customers... but they helped us learn."
+On another occasion, a group of hackers called Lulzsec briefly used Cloudflare to protect themselves from other hackers (you don't need Cloudflare's permission to use it). This again enabled Cloudflare to learn how to better defend its wider community.
+Regarding the personal attacks Mr Prince continues to face - "some of the things have been crazy" - he says he lets law enforcement deal with the situation.

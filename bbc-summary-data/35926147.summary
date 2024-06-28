@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107235814/http://www.bbc.co.uk/news/science-environment-35926147
+
+[SN]TITLE[SN]
+Small, cheap gravity gadget to peer underground
+
+[SN]FIRST-SENTENCE[SN]
+UK researchers have built a small device that measures tiny fluctuations in gravity, and could be used to monitor volcanoes or search for oil.
+
+[SN]RESTBODY[SN]
+Such gravimeters already exist but compared to this postage stamp-sized gadget, they are bulky and pricy.
+The new design is based on the little accelerometers found in smartphones.
+To begin with, the team - from the University of Glasgow - tested it by measuring the Earth's tides over a period of several days.
+Tidal forces, caused by the interacting pull of the Sun and Moon, not only drag the oceans up and down but slightly squash the Earth's diameter.
+"It's not a very big squeeze, but it means that essentially Glasgow - or anywhere else on the Earth's crust - goes up and down by about 40cm over the course of 12-13 hours," said Richard Middlemiss, the PhD student who made the new instrument.
+"That means that we get a change in gravitational acceleration - so that's what we've been able to measure."
+In fact, Mr Middlemiss and his colleagues, writing in the journal Nature, report that their contraption can detect even smaller gravity changes - such as those that would be caused by a tunnel less than 1m across, buried 2m underground.
+Fleets of these devices could eventually be scattered around volcanoes or mounted on drones, they suggest, to conduct subterranean surveys.
+They could even help civil engineers locate pipes under roads, Mr Middlemiss said, to save them digging in the wrong places.
+"What we wanted was to make a gravimeter that was very small and very cheap."
+Speaking to BBC News, he estimated that the device - in a few years' time - could be priced in the hundreds of pounds. This is much better than the £70,000-plus charged for today's commercial gravimeters, which are largely the preserve of wealthy oil companies.
+The UK team has a patent pending on its design.
+Like most gravimeters, the heart of the new instrument is a weight hanging from a spring. Unlike all other gravimeters thus far, this one is a MEMS: a "microelectromechanical system".
+The whole sensor is carved from a sheet of silicon 0.2mm thick; the "weight" is a small slab of that silicon and the "spring" consists of several thin shafts that hold it in place.
+When it is held vertically, gravity pulls the slab downwards. If that pull changes slightly, then the slab moves - as does its shadow, cast by a light shining through the device. This allows the movement to be detected by a photodiode, converted to current and recorded.
+This is similar to the MEMS that tells your smartphone when it is upside down, Mr Middlemiss explained - but with some crucial improvements.
+"The difference between the mobile phone accelerometers and our device is that our springs are very, very thin - about 10 times thinner than a human hair.
+"That means that whereas in a mobile phone, it'll only be activated by something as big as the Earth - our sensor is... almost at the point where you could detect the gravitational pull of a human when you're standing next to them."
+Comparatively, the acceleration caused by the Earth's tides is much larger - but also much slower.
+So when Mr Middlemiss's gadget showed it had the stability to track those tides over days and weeks, instead of the seconds over which a MEMS usually operates, it was something of a landmark.
+"It needs incredibly long-term stability," he said. "It's never been done with a MEMS device before."
+It was working with fellow Glasgow physicists and engineers - including some of those involved in the recent detection of gravitational waves - that made the development possible, he added. But those famous ripples in space-time are well beyond Mr Middlemiss's small, silicon sensor.
+"There is absolutely no way that our device could measure gravitational waves! But it's the expertise that's come out of the Institute of Gravitational Research, and the gravitational wave community generally, that has allowed us to do this."
+For example, those colleagues showed him the importance of controlling the temperature in his sensor - while those in the School of Engineering helped him work out how to fabricate it.
+Prof Hazel Rymer, a vulcanologist at the Open University, greeted the Glasgow gadget with huge enthusiasm.
+"It is just so exciting," she told BBC Inside Science.  "It's an absolute game-changer. Not yet - it's still something that needs to be operated in the laboratory and they've got to attach it very firmly to the floor.
+"But the point is, they've now got a sensor that is sensitive enough to measure the types of gravity changes that I'm interested in - and anybody else that is using gravity meters.
+"They will be a lot cheaper than the instruments that we've got at the moment - and certainly considerably more portable."
+Follow Jonathan on Twitter

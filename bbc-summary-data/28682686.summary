@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150822223621/http://www.bbc.co.uk/news/technology-28682686
+
+[SN]TITLE[SN]
+Microsoft tip leads to child porn arrest in Pennsylvania
+
+[SN]FIRST-SENTENCE[SN]
+A tip-off from Microsoft has led to the arrest of a man in Pennsylvania who has been charged with receiving and sharing child abuse images.
+
+[SN]RESTBODY[SN]
+It flagged the matter after discovering that an image involving a young girl had been allegedly saved to the man's OneDrive cloud storage account.
+According to court documents, the man was subsequently detected trying to send two illegal pictures via one of Microsoft's live.com email accounts.
+Police arrested him on 31 July.
+The man, in his twenties, has since been placed in a county correctional facility and has yet to enter a plea. A preliminary court appearance is scheduled for next week.
+A copy of the affidavit detailing the case against the defendant has been published online by a news site specialising in leaked law enforcement documents.
+It claims that the man acknowledged acquiring the pictures through Kik Messenger, a chat app, as well as "trading and receiving images of child pornography on his mobile cellular device".
+The BBC spoke to one of the officers involved, Trooper Christopher Hill from the Pennsylvania State Police, who confirmed the affidavit was genuine and that Microsoft had instigated the investigation.
+But he said he could not discuss any of the case's specifics because it was still an "open investigation".
+He did, however, add that he was aware of other instances of "internet carriers" passing on similar details in other inquiries.
+The details have emerged a week after it was first reported that Google had handed over the identity of a Texas-based user after detecting suspected child abuse imagery in his Gmail account. The 41-year-old was arrested as a consequence of Google's action.
+The cases highlight the fact that commonly-used internet services are not private.
+One campaign group said tech firms must be explicit about how they monitor users' accounts.
+"Microsoft must do all that it can to inform users about what proactive action it takes to monitor and analyse messages for illegal content, including details of what sorts of illegal activity may be targeted,"  commented Emma Carr, acting director of the campaign group Big Brother Watch.
+"It is also important that all companies who monitor messages in this way are very clear about what procedures and safeguards are in place to ensure that people are not wrongly criminalised, for instance, when potentially illegal content is shared but has been done so legitimately in the context of reporting or research."
+Microsoft's terms and conditions for its US users explicitly state that it has the right to deploy "automated technologies to detect child pornography or abusive behaviour that might harm the system, our customers, or others".
+Neither Google nor Microsoft handed over the material directly to the police.
+Instead both companies contacted the National Center for Missing and Exploited Children's CyberTipline, which serves as the US's centralised reporting system for suspected child sexual exploitation.
+Microsoft has openly discussed its use of image-processing software to detect suspected paedophiles in the past, including an interview with the BBC in 2012.
+Following the most recent case, Mark Lamb from the company's Digital Crimes Unit released a statement.
+"Child pornography violates the law as well as our terms of service, which makes clear that we use automated technologies to detect abusive behaviour that may harm our customers or others," he wrote.
+"In 2009, we helped develop PhotoDNA, a technology to disrupt the spread of exploitative images of children, which we report to the National Center for Missing and Exploited Children as required by law."
+PhotoDNA creates a unique signature for each image, similar to a fingerprint, to help pictures be matched.
+This is done by converting the picture into black-and-white, resizing it and breaking it into a grid. Each grid cell is then analysed to create a histogram describing how the colours change in intensity within it, and the information obtained becomes its "DNA".
+The technique means that if a copy of a flagged photo appears in one of Microsoft's user's accounts, the firm can be alerted to the fact without its staff having to look at the picture involved.
+Because the amount of data involved in the "DNA" is small, Microsoft can process and compare images relatively quickly.
+"[It] allows us to find the needle in the haystack," says promotional material for the software.
+Google also uses PhotoDNA, alongside its own in-house technologies, to detect child abuse images,
+In addition, the software is used by Facebook and Twitter, among others.

@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160120140054/http://www.bbc.co.uk/news/technology-35361090
+
+[SN]TITLE[SN]
+Largest known prime number discovered in Missouri
+
+[SN]FIRST-SENTENCE[SN]
+The largest known prime number has been discovered by a computer at a university in Missouri in the US.
+
+[SN]RESTBODY[SN]
+Prime numbers - such as two, three, five and seven - are divisible only by themselves and one, and play an important role in computer encryption.
+The new prime is more than 22 million digits long, five million longer than the previous largest prime.
+Primes this large could prove useful to computing in the future.
+The new prime number was found as part of the Great Internet Mersenne Prime Search (Gimps), a global quest to find a particular type of large prime numbers.
+Mersenne primes are named after a French monk who studied them in the 17th Century.
+They are hunted by multiplying two by itself a large number of times, then taking away one. It is a relatively manageable calculation for today's computers, but not every result is a prime.
+The discovered prime is written as 2^74,207,281-1, which denotes two, multiplied by itself 74,207,281 times, with one subtracted afterwards.
+The Gimps project has calculated the 15 largest Mersenne primes in the 20 years it has been running and it is possible that there could be an infinite number of them to discover.
+Large prime numbers are important in computer encryption and help make sure that online banking, shopping and private messaging are secure, but current encryption typically uses prime numbers that are hundreds of digits long, not millions.
+"This prime is too large to currently be of practical value," the Gimps project admitted in a statement.
+However, searching for large primes is intensive work for computer processors and can have unexpected benefits.
+"One prime project discovered that there was a problem in some computer processors that only showed up in certain circumstances," said Dr Steven Murdoch, cybersecurity expert at University College London.
+The new large prime, the 49th known Mersenne prime, was discovered by Dr Curtis Cooper at the University of Central Missouri.
+Although computers do most of the hard work, primes are said to be discovered when a human takes note of the result.

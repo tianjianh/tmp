@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170309040143/http://www.bbc.co.uk/news/technology-23268893
+
+[SN]TITLE[SN]
+'Virtual Lolita' aims to trap chatroom paedophiles
+
+[SN]FIRST-SENTENCE[SN]
+Spanish researchers have created a robot posing as a 14-year-old girl to spot paedophiles in online chatrooms.
+
+[SN]RESTBODY[SN]
+Negobot uses artificial intelligence (AI) software to chat realistically and mimic the language used by teenagers.
+The "virtual Lolita" starts off neutral but will adopt any of seven personalities according to the intensity of interactions.
+Experts say it can help overburdened police but may risk trapping people unfairly.
+The team behind the project at the University of Deusto near Bilbao say the software represents a real advance. One of its creators, Dr Carlos Laorden, said that in the past "chatbots" have tended to be very predictable. "Their behaviour and interest in a conversation are flat, which is a problem when attempting to detect untrustworthy targets like paedophiles," he noted.
+By contrast, the Negobot uses advanced decision-making strategies known as "game theory" to simulate convincing chats as they develop.
+It can take the lead in conversations, and remember specific facts about what had been discussed previously, and with whom.
+The so-called conversational agent also uses child-like language and slang, introducing spelling mistakes and contractions to further spoof the predator.
+Negobot would be used in a chatroom where suspected paedophiles are thought to be lurking. It initiates a chat as a fairly passive participant. It then adapts its behaviour according to the grooming techniques used by the suspect to try to win over its trust and friendship.
+For example, if the suspect does not appear to be enticed into having a conversation, the software can appear offended or get more insistent.
+And it will respond to more aggressive advances - like requests for personal information - by trying to find out more about the suspect. This can include details such as their social network profile and mobile number, information which can then be used by police to start an investigation.
+John Carr, a UK government adviser on child protection, welcomed any move to relieve the burden on real-world policing. But he warned the software risked enticing people to do things they otherwise would not.
+"Undercover operations are extremely resource-intensive and delicate things to do. It's absolutely vital that you don't cross a line into entrapment which will foil any potential prosecution", he said.
+To date, the software has been field tested on Google's chat service and could be translated into other languages.  It has already attracted the attention of the Basque police force.
+But researchers admit that it does have limitations and will need to be monitored. Although it is has broad conversational abilities, it is not yet sophisticated enough to detect certain human traits like irony.

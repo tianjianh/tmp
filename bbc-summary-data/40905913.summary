@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170816093026/http://www.bbc.co.uk/news/technology-40905913
+
+[SN]TITLE[SN]
+AI seeks fantasy football challengers
+
+[SN]FIRST-SENTENCE[SN]
+Computer scientists at University of Southampton are testing an artificially intelligent tool for predicting Premier League football results.
+
+[SN]RESTBODY[SN]
+The machine learning algorithm has managed to beat BBC football commentator Mark Lawrenson's predictions for two seasons in a row.
+The team now wants fantasy football fans to try to beat it.
+The algorithm could also help the players generate better teams, the researchers said.
+Fantasy football is a game in which users assemble an imaginary team of real-life footballers and score points based on the players' actual statistical performance during the season.
+The game was invented in 1971 in the UK by Bernie Donnelly and was originally a niche recreational activity, but today it is a burgeoning business on the internet, where users play ad-supported versions of the game, download it as an app and even place bets on the outcomes of games.
+There are two types of fantasy football games:
+Fantasy managers can compete with Squadguru's AI in the Challenge the Squadguru league in the free Fantasy Premier League salary cap game by entering league code 2917382-677658.
+"We've compared the performance of our AI against the performance of three million human players over two seasons and shown that we are able to outperform 99% of these players," Dr Sarvapali (Gopal) Ramchurn, an associate professor at University of Southampton's electronics and computer science department, told the BBC.
+Initially, the researchers applied a computer algorithm to disaster response, trying to work out the best way to assign emergency responders and tools.
+Dr Ramchurn realised the same computer algorithm could also be used to make predictions about fantasy football, and so, over the past five years, the team has trained and improved Squadguru using semi-supervised learning.
+"We're challenging people to compete against us, to see how people perform against the AI," he said.
+"By doing this, we hope to attract keen fantasy football enthusiasts who stick with the game for the full duration of the season and don't drop out."
+But editor of news site Fantasy Football 24/7 Adam Alcock said user feedback on AI tools in fantasy football was often negative.
+"[AI is] out there to use - but from my experience most fantasy players use it sparingly and usually only out of interest rather than having any actual reliance on it," he said.
+"The fun part of the game is in making your own decisions and seeing how they work out.
+"To have a team based upon the choices made by a machine defeats that object really."

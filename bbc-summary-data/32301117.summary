@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108100335/http://www.bbc.co.uk:80/news/technology-32301117
+
+[SN]TITLE[SN]
+US lottery security boss charged with fixing draw
+
+[SN]FIRST-SENTENCE[SN]
+The former security boss of a lottery in the US has been charged with fraud after allegedly hacking the computer that picks the winning numbers.
+
+[SN]RESTBODY[SN]
+Eddie Raymond Tipton was the security director for the Multi-State Lottery Association when he was arrested in January by the Iowa Division of Criminal Investigations.
+Prosecutors said he had been caught on CCTV buying the winning ticket. The $14.3m (Â£9.5m) prize was never claimed.
+Mr Tipton denies the charges.
+Citing court papers filed by prosecutors in the case, the Des Moines Register said the 51-year-old "may have inserted a thumb drive into a highly locked-down computer that's supposed to generate the random numbers used to determine lottery winners".
+The offline computer is housed in a glass room and in theory can only be accessed by two people at the same time. It is also constantly monitored by a video camera.
+It is alleged Mr Tipton used his position as security director to change the video camera settings and record only one second in every minute. This would have given him enough time to enter the room and plug a thumb drive into the computer.
+On that drive, according to the prosecution, was a rootkit: a stealthy computer program designed to do a specific task and, in this case, then erase itself.
+That task was to predetermine the winning lottery numbers for the draw that Mr Tipton was to later buy the winning ticket for.
+Mike McLaughlin, senior analyst at computer security company First Base, said the allegation might sound farfetched but was plausible.
+He told the BBC: "It is entirely possible to code a rootkit on a USB drive which could interfere with software on a computer then delete itself.
+"It would only take a second to run once plugged in.
+"However, this can leave traces on the infected machine if you know where to look."
+As a member of staff, Mr Tipton was not allowed to win the lottery himself.
+The court filings suggest there was an attempt to claim the prize just hours before it was scheduled to expire by a company incorporated in Belize.
+If found guilty of the two charges of fraud, Mr Tipton faces up to five years in jail and a fine of up to $7,500.

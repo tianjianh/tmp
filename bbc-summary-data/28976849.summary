@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150917165103/http://www.bbc.co.uk/news/technology-28976849
+
+[SN]TITLE[SN]
+Millions of historical images posted to Flickr
+
+[SN]FIRST-SENTENCE[SN]
+An American academic is creating a searchable database of 12 million historical copyright-free images.
+
+[SN]RESTBODY[SN]
+Kalev Leetaru has already uploaded 2.6 million pictures to Flickr, which are searchable thanks to tags that have been automatically added.
+The photos and drawings are sourced from more than 600 million library book pages scanned in by the Internet Archive organisation.
+The images have been difficult to access until now.
+Mr Leetaru said digitisation projects had so far focused on words and ignored pictures.
+"For all these years all the libraries have been digitising their books, but they have been putting them up as PDFs or text searchable works," he told the BBC.
+"They have been focusing on the books as a collection of words. This inverts that.
+"Stretching half a millennium, it's amazing to see the total range of images and how the portrayals of things have changed over time.
+"Most of the images that are in the books are not in any of the art galleries of the world - the original copies have long ago been lost."
+The pictures range from 1500 to 1922, when copyright restrictions kick in.
+Mr Leetaru began work on the project while researching communications technology at Georgetown University in Washington DC as part of a fellowship sponsored by Yahoo, the owner of photo-sharing service Flickr.
+To achieve his goal, Mr Leetaru wrote his own software to work around the way the books had originally been digitised.
+The Internet Archive had used an optical character recognition (OCR) program to analyse each of its 600 million scanned pages in order to convert the image of each word into searchable text.
+As part of the process, the software recognised which parts of a page were pictures in order to discard them.
+Mr Leetaru's code used this information to go back to the original scans, extract the regions the OCR program had ignored, and then save each one as a separate file in the Jpeg picture format.
+The software also copied the caption for each image and the text from the paragraphs immediately preceding and following it in the book.
+Each Jpeg and its associated text was then posted to a new Flickr page, allowing the public to hunt through the vast catalogue using the site's search tool.
+"I think one of the greatest things people will do is time travel through the images," Mr Leetaru said.
+"Type in the telephone, for example, and you can see that all the initial pictures are of businesspeople, and mostly men.
+"Then you see it morph into more of a tool to connect families.
+"You see another progression with the railroad where in the first images it was all about innovation and progress that was going to change the world, then you see its evolution as it becomes part of everyday life."
+Archivists said they were impressed with the project.
+"Finding images within texts and tagging large collections of images are notoriously difficult," said Dr Alison Pearn, a senior archivist from the University of Cambridge and associate director of the Darwin Correspondence Project.
+"This is a clever way of providing both quantity and searchability, and it's great that it is freely available for anyone to use.
+"The image identification has picked up things like library stamps and scribbles in the margins, and the tagging is a bit hit and miss, but research has always been at least in part about serendipity, and who knows what people will find to do with them."
+Mr Leetaru's own ambition is a tie-up with the internet's most famous encyclopaedia once his project is completed next year.
+"What I want to see is... Wikipedia have a national day of going through this to illustrate Wikipedia articles," he said.
+"Take a random page about a historical event and there's probably a good chance that you're going to find an image in here that bears in some way on that event or location.
+"Being able to basically enrich [them] would be huge."
+He added that he also planned to offer his code to others.
+"Any library could repeat this process," he explained.
+"That's actually my hope, that libraries around the world run this same process of their digitised books to constantly expand this universe of images."

@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160510220306/http://www.bbc.co.uk/news/business-36215293
+
+[SN]TITLE[SN]
+Can the 'internet of moving things' end traffic jams?
+
+[SN]FIRST-SENTENCE[SN]
+When you're stuck in a traffic jam wreathed in fumes or squeezed onto a sweltering commuter train, the promised future of a smart, efficient transport system may seem like a utopian dream.
+
+[SN]RESTBODY[SN]
+But optimistic technologists assure us relief from this gridlocked hell is closer than we think.
+And it's all down to the "internet of moving things" - cars, buses, bikes, trains, and planes laden with sensors beaming data to a big brain in the cloud.
+The better we know where everything is, the better we can manage traffic flows and optimise routes, avoiding congestion, accidents and natural hazards, the argument goes.
+"The internet of moving things is giving us whole new sets of data," says Shiva Shivakumar, chief executive of Urban Engines, a specialist in urban mobility data.
+"Delivery companies, taxis, travel cards, smartphones, and connected cars are all pushing movement data to the cloud which we can then mash up with real-world maps to create a space/time engine," he says.
+"Transport providers from Singapore to Sao Paulo can now analyse journeys trip by trip and understand why a bus was late, spot where there is unused capacity or see opportunities for new routes."
+Mr Shivakumar, a former Google engineer, says his firm has been able to help delivery companies in San Francisco optimise their routes in real time, testing different scenarios based on current traffic flows and weather conditions.
+This type of analysis has led some companies to experiment with mobile delivery hubs, rather than having all goods stored in one warehouse and making all the journeys from there.
+Taxi firms now know where the most demand is at each point during the day, even the areas where customers tip the most.
+"Experience might tell you one thing, but the data might tell you something else," says Mr Shivakumar.
+And in the not-too-distant future, automated travel advisers on our smartphones with access to real-time data from all forms of transport will tell us the best way to reach our destinations, he believes.
+Mapping firm Here - recently acquired by German vehicle makers BMW, Audi and Daimler - is busy mapping the road networks of major cities around the world using laser technology, or lidar. It has a fleet of hi-tech camera cars much as Google does.
+This kind of technology can perceive road markings, lane widths, and concrete barriers, says vice-president Aaron Dannenbring, to create a "precise, reference index of the road system globally".
+"But we also need a dynamic map that reflects everything that's happening on the road. So by connecting other vehicles to our cloud platform we can capture how the traffic situation is changing."
+And as more vehicles are fitted with sensors and cameras, the more accurate and useful these dynamic maps will be, he believes.
+"Say a number of cars sense black ice on the road, that data will go to the cloud and be analysed by our algorithms. If a pattern emerges a warning will be beamed down to other cars to inform them.
+"We think tens of thousands of lives could be saved each year as a result of these systems."
+This internet of moving things will also be crucial to the success of driverless vehicles.
+Rail, too, is benefiting from this kind of movement data analysis.
+For example, indoor location start-up Pointr is tracking how people move around railway stations to offer navigation tips and live train updates. It is taking part in the Hacktrain innovation programme.
+Such data analysis could aid the design of stations and ticket offices, while the move to digital ticketing and the integration of rail data with other transport data is bringing closer that "magic carpet ride ideal - gently wafting through stations without any barriers or friction," says Ian Holt, chief executive of rail ticketing website, Trainline.
+More Cloud Computing features from Technology of Business
+All this data is also helping government agencies manage transport networks more efficiently.
+For example, in Los Angeles congestion improved by 10% after the authorities experimented with traffic light timings at busy times of the day.
+And in Seattle, the government has introduced toll-based charging to manage traffic flows.
+In time, says Bryan Mistele, chief executive of traffic intelligence specialist Inrix, this type of decision-making will become automated as computers learn traffic patterns and respond to changing conditions.
+Inrix collects real-time data from more than 275 million vehicles and devices in 60 countries, including anonymised population movement data gleaned from mobile phone masts.
+Of course, problems in one type of transport can affect the rest of the network.
+This is why the UK's Gatwick airport is using cloud analytics firm Splunk to predict how incidents could affect peak performance four hours ahead.
+For example, motorway pile-ups can lead to passengers being late for their planes, causing delays that then affect turnaround times and the number of slots for take-off and landing.
+Such early warnings could help airport managers decide on staffing levels to prevent huge queues and grumpy passengers.
+The fly in the ointment for this vision of a unified transport intelligence, however, is that it presupposes common data standards - all moving things accessing and understanding every piece of useful information.
+But rival manufacturers don't have a very good track record when it comes to openness and sharing.
+"We've proposed an open standard for data exchange so that any manufacturer could receive this type of data," says Mr Dannenbring.
+And it is significant that three automotive rivals banded together to buy Here, suggesting that the industry is realising co-operation would be to the benefit of all.
+But will a tech giant like Apple, rumoured to be developing its own car and known for creating its own closed ecosystems, be willing to share data so readily?
+There are other issues around data privacy and ownership: whose data is it and what guarantees do we have that speed data, for example, isn't being used to police us in a more draconian fashion?
+Such concerns aside, the tech utopians do paint an alluring picture of the connected future.
+"Once all this tech is integrated with your calendar, your car will automatically know where you're going and how long it's going to take," says Mr Mistele.
+"It will choose the optimal route, and if you're going to be late it will message the people you're meeting."
+Dream of that next time you're in a jam.
+Follow Matthew Wall on Twitter @matthew_wall

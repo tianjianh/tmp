@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170121172132/http://www.bbc.co.uk/news/science-environment-35446894
+
+[SN]TITLE[SN]
+Lift-off for Europe's space laser network
+
+[SN]FIRST-SENTENCE[SN]
+Europe has begun to roll out a data superhighway in orbit above the Earth.
+
+[SN]RESTBODY[SN]
+The first node in the network is a telecommunications satellite that was launched from Baikonur, Kazakhstan.
+It will use a laser to gather pictures of the planet taken by other spacecraft and then relay them to the ground.
+One benefit will be to put information on natural disasters, such as flooding and earthquakes, into the hands of emergency responders far faster than has previously been possible.
+Currently, it can take hours to get the pictures taken by Earth observation satellites down on the ground.
+Part of the reason is that spacecraft can only transmit their images when they pass over a receiving dish, and they will have visibility of this antenna for just 10 minutes in most cases during every 90-minute tour around the globe.
+The European Space Agency's (Esa) answer is to fire the pictures upwards instead, via laser, to another satellite much higher in the sky that has a constant view of the ground station.
+The agency recently put up two Earth observers that are equipped with optical transmission equipment. These will now be able to offload their data through the new relay satellite, which is to be positioned 36,000km above the equator at 9 degrees East.
+Testing by Esa's industrial partner, Airbus Defence and Space, shows it should be possible for the system to put pictures on the desks of the people who need them within 20 minutes of those images being acquired.
+For some applications - such as the monitoring of pollution incidents, or illegal fishing or ocean piracy - the time saved could be critical to achieving an effective response.
+"Some important shipping routes go through the North Pole region, where thick ice flows can cause damage to vessels and even threaten human life," explained Magali Vaissiere, Esa's director of telecoms.
+"It's also an environment in constant motion which means that data that is two days old is not only unhelpful - it could even be unsafe.
+"We have already demonstrated quasi real-time performance of below 20 minutes for bringing monitoring information from the coast of Brazil to the user's desk. And with this capability, the European Data Relay System (EDRS) may open up a new horizon to what I would call quasi real time Earth observation."
+EDRS has been in development for more than 10 years. Getting satellites to talk to each other via a narrow laser beam is no easy task, says Esa project manager Michael Witting.
+"The difficulty is basically that you have to hit another satellite with your laser beam over a distance of over 40,000km, which is akin to hitting a two-euro coin over the distance of the Atlantic," he told BBC News.
+With a successful connection, data will move at a rate of up to 1.8Gbps.
+EDRS will debut with the European Commission as its anchor customer. Brussels is establishing a series of satellites called Sentinels that will systematically map the Earth, to help inform and enforce EU policies.
+Prodigious volumes of data are expected from these satellites in the coming years and the traditional downlink solutions are no longer regarded as adequate to the task.
+The relay spacecraft is actually a standard TV platform owned by the Paris-based commercial operator Eutelsat. Esa's laser node, which it refers to as EDRS-A, is a hosted payload on this spacecraft.
+The launch from the Kazakh Baikonur cosmodrome atop a Proton rocket occurred at 22.20 GMT on Friday (04:20 local time Saturday).
+The drop-off high above the Earth was confirmed nine hours and 12 minutes later.
+Many weeks of testing lie ahead. EDRS should go into full service in the summer.
+A second relay satellite carrying another laser terminal will go up in 2017. Further such platforms will be required to provide fully global, round-the-clock, super-fast connections.
+Evert Dudok from Airbus said: "We are looking for partners to deliver the system. It can be a dedicated payload but it can also be a hosted payload as we have it on EDRS-A. We want to have this system operational by 2020; that's very important. And I think we can set this optical standard established here in Europe as a global standard, which would be very interesting"
+The laser technology is very much a German development, led by Tesat Spacecom. Germany has invested more than 280m euros in the capability, through its own space agency (DLR) and through Esa.
+Eutelsat-9B was built in large part at Airbus factories in Stevenage and Portsmouth the UK. Britain will also be a major downlink point for EDRS through a dish sited at Harwell in Oxfordshire.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

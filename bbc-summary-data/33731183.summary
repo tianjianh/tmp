@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150802041202/http://www.bbc.co.uk/news/technology-33731183
+
+[SN]TITLE[SN]
+Ashley Madison attack prompts spam link deluge
+
+[SN]FIRST-SENTENCE[SN]
+The hack attack on the Ashley Madison site has prompted spammers to capitalise on interest in data stolen from the infidelity site.
+
+[SN]RESTBODY[SN]
+On 20 July, hackers claimed to have stolen information about the 37 million accounts registered on the service.
+A BBC investigation has found that many of these spam links involve fake data, scam pages and malware.
+A few files are seeded with images and videos of people who commit adultery "burning in hell".
+The attack on the Ashley Madison site was revealed by computer security blogger Brian Krebs earlier this month. Mr Krebs said he had seen and verified some of the data stolen by the gang behind the hack.
+The attackers posted a small amount of information they claimed to have stolen on the Pastebin website at that time and said all the data would be dumped unless the site closed down. Swift action by Ashley Madison owner Avid Life Media got the initial links shared by the hackers removed.
+Since then there have been no more reports of data supposedly stolen from the site being posted on the web by the attackers.
+Spammers and other cyber-conmen have filled this gap by posting lots of links that purport to share stolen data on sites such as Pastebin, Slexy and other sites.
+The BBC has visited many of the pages the links point to and found that all of them were fake.
+The majority of the files contained a short list of email addresses and passwords that have been widely shared online since 2011 strongly suggesting they are not part of a cache of recently stolen data.
+Other links led to webpages that were booby-trapped with fake security software that told visitors their machine was infected with viruses or had other problems. Many used a variety of coding tricks to make it hard to close the page and shut off the pop-up warning messages.
+Fixing the non-existent problems involved downloading some software and paying a fee. None of these pages hosted any files that contained data from Ashley Madison.
+Some other links led to pages that asked visitors to fill in a survey, sign up for an expensive mobile game or watch videos before they could get hold of data.
+A small number of the files downloaded by the BBC were hundreds of megabytes in size suggesting they had more information in them than others. However, opening the files revealed they were padded out with images, videos and text stolen from a religious site that depicts in gruesome detail what happens to "sinners, adulterers and fornicators in hell".
+These files also contained malware that tried to install itself on a Windows PC to give attackers remote access and steal more data.
+Jeroen Vader who runs the Pastebin website said it was "aware" that fake Ashley Madison data was being posted widely on the site.
+"Spammers will always try to abuse any trend to get some free exposure, and this Ashley Madison leak is no exception," he said. "It is hard for us to remove everything, but we do actively search for such posts."

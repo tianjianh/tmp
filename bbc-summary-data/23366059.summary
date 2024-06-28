@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160221061007/http://www.bbc.co.uk/news/technology-23366059
+
+[SN]TITLE[SN]
+Leap Motion: Touchless tech wants to take control
+
+[SN]FIRST-SENTENCE[SN]
+The keyboard and mouse have long been the main bridge between humans and their computers.
+
+[SN]RESTBODY[SN]
+More recently we've seen the rise of the touchscreen. But other attempts at re-imagining controls have proved vexing.
+"It's one of the hardest problems in modern computer science," Michael Buckwald, chief executive and co-founder of Leap Motion, told the BBC.
+But after years of development and $45m (Â£29m) in venture funding, his San Francisco-based start-up has come up with what it claims is the "most natural user interface possible."
+It's a 3D-gesture sensing controller that allows touch-free computer interaction.
+Israeli firm Primesense has been making headlines in recent days thanks to a report that it is in talks to be bought by Apple - something the 3D sensor firm says is an unfounded rumour.
+Rather than trying to make consumer products of its own, the company licenses its depth-sensing tech to others.
+Its sensors are used in Microsoft's original Kinect, a 3D scanner by Matterbot and iRobot's Ava - a device that guides itself through hospitals allowing doctors to use it to "visit" patients without leaving their office.
+Primesense recently showed off Capri - a second-generation sensor that is 10 times smaller than the previous version and needs less power.
+It has fitted the component to one of Google's Nexus tablets to stir up interest and also suggests it could be built into smartphones.
+But rather than fitting the sensor to the front of devices to recognise owners' gestures, the firm suggests the best use would be on their backs to look out into the surrounding environments.
+"Object recognition is something that is very easily do-able," chief executive Inon Beracha tells the BBC.
+"Imagine you scan something - you would get an identification and then you could get the price for an object."
+Although the sensor won't feature in the Xbox One games console's new Kinect - which is using Microsoft's own tech - Mr Beracha says to expect news of a tie-up with another big player "in the next months".
+Using only subtle movements of fingers and hands within a short distance of the device, virtual pointing, swiping, zooming, and painting become possible. First deliveries of the 3in (7.6cm)-long gadget begin this week.
+"We're trying to do things like mould, grab, sculpt, draw, push," explains Mr Buckwald.
+"These sorts of physical interactions require a lot of accuracy and a lot of responsiveness that past technologies just haven't had."
+He adds that it's the only device in the world that accurately tracks hands and all 10 fingers at an "affordable" price point, and it's 200 times more precise than Microsoft's original Kinect.
+It works by using three near-infrared LEDs (light emitting diodes) to illuminate the owner's hands, and then employs two CMOS (complementary metal-oxide-semiconductor) image sensors to obtain a stereoscopic view of the person's actions.
+Hundreds of thousands of pre-orders have poured in from around the world, and thousands of developers are working on applications, Mr Buckwald says.
+Leap Motion is convinced it has a shot at making gesture controls part of the mainstream PC and Mac computing experience.
+But some high-profile Silicon Valley leaders doubt Leap Motion will render the mouse and keyboard obsolete anytime soon.
+They include Tom Preston-Werner, chief executive and founder of Github, a service used by developers to share code and advice.
+Coders will still have a need for keyboards and computer mice for years to come, he says, adding that sticking your arm out and waving it for any length of time will be uncomfortable and tiring.
+For developers who work long hours, Mr Preston-Warner says he prefers approaches like the forthcoming Myo armband, which wirelessly transmits electrical signals from nerves and muscles to computers and gadgets without being tethered to a USB port.
+Other Silicon Valley programmers like Ajay Juneja, aren't convinced Leap Motion's touch-free controller has entirely solved the human-computer interface problem either.
+"It's a tool for hobbyists and game developers," says the founder of Speak With Me, a firm that develops natural-language voice-controlled software.
+"What else am I going to use a gestural interface for?"
+Of course, Leap Motion has lots of ideas.
+The company already has its own app store called Airspace with 75 programmes including Core's Painter Freestyle art software, Google Earth and other data visualisation and music composition apps. The New York Times also plans to release a gesture-controlled version of its newspaper.
+Mr Buckwald says he doesn't expect a single "killer app" to emerge. Instead he predicts there will be "a bunch of killer apps for different people".
+Kwindla Kramer, chief executive of Oblong Industries - which helped inspire the gesture-controlled tech in the movie Minority Report - considers Leap Motion's controller "a step forward".
+His firm makes higher-end devices ranging from $10,000 to $500,000 for industry.
+Leap's "accuracy and pricing" is great, he says, but adds that the "tracking volume" - the area where the device can pick up commands - is somewhat limited.
+Still, most experts believe the user interfaces of the future will accept a mash-up of different types of controls from a range of different sensors.
+Meanwhile, Leap is already looking beyond the PC and says it hopes to embed its tech into smartphones, tablets, TVs, cars and even robots and fighter jets in future.

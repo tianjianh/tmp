@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150517063959/http://www.bbc.com/news/health-19653105
+
+[SN]TITLE[SN]
+Robots join the fight against cancer
+
+[SN]FIRST-SENTENCE[SN]
+A 30cm (1ft) snake slowly moves through the body of a man on a spotless table, advancing its way around the liver.
+
+[SN]RESTBODY[SN]
+It stops, sniffs to the left, then turns to the right and slithers behind the ribcage.
+This is a medical robot, guided by a skilled surgeon and designed to get to places doctors are unable to reach without opening a patient up.
+It is still only a prototype and has not yet been used on real patients - only in the lab.
+But its designers, from OC Robotics in Bristol, are convinced that once ready and approved, it could help find and remove tumours.
+The mechanical snake is one of several groundbreaking cancer technologies showcased at this week's International Conference on Oncological Engineering at the University of Leeds.
+Most of the devices are in very early trial stages, but Safia Danovi from Cancer Research UK says that innovation and research are extremely important in tackling the disease.
+"Surgery is a cornerstone treatment for cancer so new technologies making it even more precise and effective are crucial," she says.
+"Thanks to research, innovations such as keyhole surgery and robotics are transforming the treatment landscape for cancer patients and this trend needs to continue."
+Cancer accounts for about 13% of worldwide deaths every year, according to the World Health Organization.
+Although some cancer treatments involve non-invasive methods, surgeons often need to get inside the body - a procedure that is often risky.
+Snake robots could be as minimally invasive as possible with today's technology - they would use body orifices or local incisions as points of entry, says Rob Buckingham, managing director at OC Robotics.
+They would allow a surgeon to look and "feel" inside the body - by using cameras and extremely sensitive equipment to provide feedback.
+Snake robots could complement a robotic surgical system that has been used for the past decade - the Da Vinci machine, developed by US company Intuitive Surgical.
+This mechanism looks like a human-size robot with four "arms" equipped with pincers.
+Although it cannot perform surgery autonomously, it has allowed doctors to make complex operations less invasive and more precise.
+The Da Vinci is controlled by a surgeon sitting in a nearby chair and looking at a screen displaying the area of the body where the surgery is taking place. The surgeon manipulates the robot by pressing pedals and moving levers.
+Many hospitals around the world have opted for the Da Vinci, despite the cost of about £1.4m ($2.2m).
+Another option is a thin, long mechanical "arm" called Mirosurge, developed by German aerospace centre DLR.
+It is also only a prototype, but a DLR engineer who described the technology at the conference says that in the long run, the robot is more versatile than the Da Vinci machine.
+"You can attach different tools to it and it can be used either as a one-arm application or as four arms on a surgical table to assist a surgeon controlling them from a workstation," says Sophie Lantermann.
+"Also, it has sensors in all the joints, allowing it to detect collisions. For instance, when there's a patient between two arms of the Da Vinci, one arm can hit the other, but our robotic arm detects another arm working next to it.
+"It can be a lot cheaper for a hospital because you can use it all day long for different applications."
+One of the challenges with cutting away a tumour is making sure that all of it is removed.
+For this, the surgeon needs to understand where the tumour stops, which can be tricky.
+At the University of Bern in Switzerland, scientists inject a drug into the patient's body and once attached to the tumour, it starts glowing when light is shone on it.
+This imaging technology is also applied to instruments as they navigate inside the body, the same way a GPS helps us find our way home.
+"It is about tracking surgical instruments, so that a surgeon sees on a computer screen as a medical tool moves through the body, overlaying it with CT scan data - just like an augmented reality application," says Stefan Weber from the ARTORG Center for Biomedical Engineering Research at the University of Bern.
+"If you look at the liver, for example, it's a homogeneous, reddish-brownish organ, but you would like to see where the tumours are.
+"We scan the patient, derive a 3D model of the liver with the vessels, and in that model we see the tumours so we can tell the surgeon where to cut.
+"Detection of vessels, aligning the model with the patient's anatomy, and doing it precisely - even five years ago computers weren't able to do this."
+At Leiden University Medical Centre in the Netherlands, scientists are developing a similar technique.
+But one of the main topics of discussions at the conference has been about making new technologies work together.
+"If we start to combine, for instance, our snake-like robot that can nose-follow to avoid or reach behind organs within the body, with sensors that can identify and lock in on the target that has been marked in some special way, then there may be clinical benefit," says Rob Buckingham.
+"Part of the challenge is to think about that benefit. Typically we start travelling in a specific direction, assuming a benefit, and then realise that the goal isn't quite where we expected.
+"The important thing is to start moving, to learn."

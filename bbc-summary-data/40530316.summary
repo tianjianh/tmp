@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170710004427/http://www.bbc.com/news/technology-40530316
+
+[SN]TITLE[SN]
+Petya victims given hope by researchers
+
+[SN]FIRST-SENTENCE[SN]
+A security firm says it has managed to decrypt files damaged by the recent Petya ransomware attack, on one infected computer.
+
+[SN]RESTBODY[SN]
+The cyber-attack caused havoc for businesses around the globe, but mainly in Ukraine.
+The potential solution only works if the ransomware secured administration privileges to the machine.
+However Positive Technologies said the concept is currently too technical for most average computer users to run.
+"Once you have a proof of concept of how data can be decrypted, the information security community can take this knowledge and develop automatic tools, or simplify the methodology of getting the encryption reversed," said the firm's Dan Tara.
+The company says in a blog that the creators of the ransomware made mistakes in programming the encryption algorithm Salsa 20 that was used with administration rights.
+Mr Tara said his team had not expected to get this result when it started investigating the outbreak.
+"Recovering data from a hard drive with this method requires applying heuristics, and may take several hours," said Head of Reverse Engineering Dmitry Sklyarov.
+"The completeness of data recovery depends on many factors (disk size, free space, and fragmentation) and may be able to reach 100% for large disks that contain many standard files, such as OS [Operating Systems] and application components that are identical on many machines and have known values."
+It is impossible to work out how many victims would have had their administration privileges taken over.
+Without this, the ransomware carries out a different method of encryption which is only reversible with a private key obtainable from the criminals behind it.
+However the email address that was provided was initially shut down meaning that they were not contactable by victims who chose to try to pay.
+The research team's finding only works on the recent Petya ransomware and its variants.
+"It doesn't look like a working solution yet but it gives cause for hope," said security expert Prof Alan Woodward, from the University of Surrey.
+Salsa20, which activates when the ransomware has admin privileges, corrupts a device's Master File Table (MFT), meaning that files are lost forever.
+"What they seem to have discovered is that there's a portion of the MFT that isn't corrupted and they are suggesting they may have found a way of recovering that," Prof Woodward added.
+"If that is true, that would be a significant finding. It may actually allow people to recover the so-called boot disks, that contain the original operating system, which we were assuming you couldn't do."
+Earlier this week the perpetrators of the attack appeared to have accessed the ransom payments they raised and made fresh demands.
+Consumer goods giant Reckitt Benckiser, which makes Nurofen painkillers, Dettol cleaner and Durex condoms, said the attack may have cost it Â£110m because of lost production and delivery time, the Financial Times reported.

@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150719033611/http://www.bbc.co.uk/news/technology-33055067
+
+[SN]TITLE[SN]
+Cyber-thieves exposed by UK Turing data tool
+
+[SN]FIRST-SENTENCE[SN]
+Cyber-thieves are being exposed thanks to a software tool created by the overseers of the .uk domain.
+
+[SN]RESTBODY[SN]
+Nominet has created the tool, called Turing, that gathers activity around the 10.5 million sites using the .uk suffix.
+The software can sort through terabytes of data swiftly to expose trends, hotspots and outbreaks.
+It can wind activity forwards and backwards in time to trace when attacks started, to help police investigations.
+Data to feed Turing is gathered by Nominet when computers around the world request information about the location of .uk websites or domains. Nominet operates the servers holding information about .uk sites.
+"At .uk level we handle more than five billion queries and responses every day," said Simon McCalla, chief technology officer at Nominet.
+This vast mass of traffic represents the "pulse" of activity around the sites that use .uk, he said, and Turing let them analyse it in "unprecedented" detail.
+Turing started as a way to get more information about .uk traffic, said Mr McCalla, to see which sites were popular and track trends in the waves of data hitting Nominet's servers.
+But it had proved particularly useful when it came to tracking cybercrime and the junk email messages, or spam, often used to help it spread.
+"We always knew there was a lot of spam, you only have to look at your email inbox to see that," said Mr McCalla.
+Turing was helping Nominet see where spam originated, he said, and analysing those starting points had helped the organisation pick out computers that have been enrolled into criminal botnets.
+The vast majority of spam is routed through botnets that are networks of hijacked home computers. Turing had found signatures of many different botnets allowing Nominet to home in on different groups, see how their botnets have grown and the way they are used by spam gangs and other cyber-thieves.
+This work had helped police forces track ransomware gangs and was proving useful for ISPs keen to spot computers that are part of botnets on their own networks.
+The tool had also helped mitigate large-scale web attacks known as Distributed Denial of Service (DDoS) attacks. These try to knock servers offline by bombarding them with data from computers spread around the world. It had also given Nominet insights into other cybercrime campaigns that seek to skew search results or trick people into visiting dangerous sites.
+"There's been a lot of activity that has been going on for a long time that has gone undetected," he said. "That's because the proportion of botnet traffic to normal traffic is tiny."
+"Turing helps us pick the signals out of that massive amount of noise," he said.

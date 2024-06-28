@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150910160553/http://www.bbc.co.uk/news/technology-34185372
+
+[SN]TITLE[SN]
+Laser can 'disable self-drive car'
+
+[SN]FIRST-SENTENCE[SN]
+A homemade gadget can disable the systems that allow self-driving cars to see where they are going, a security researcher has said.
+
+[SN]RESTBODY[SN]
+Jonathan Petit demonstrated how a modified, low-cost laser could create ghostlike objects in the path of autonomous cars.
+The cars slowed down to avoid hitting them.
+If enough phantom objects were created, the car would stop completely, Mr Petit told tech magazine IEEE Spectrum.
+Mr Petit, principal scientist at software company Security Innovation, used a laser, similar to a mass-market laser pen and added a pulse generator - something that can be created using a low-cost computer such as the Raspberry Pi.
+The set-up cost was just $60 (Â£40), he said.
+This device created phantom objects - cars, walls and pedestrians - that fool the "eyes" of self-drive cars - known as lidars.
+"I can spoof thousands of objects and basically carry out a denial of service attack on the tracking system so it's not able to track real objects," Mr Petit told IEEE Spectrum.
+"I can take echoes of a fake car and put them at any location I want," he added.
+Lidars - a combination of light and radar - work by illuminating a target with a laser and analysing the reflected light, to measure distance and map out where objects are.
+Thousands of these expensive sensors are used on self-driving cars.
+Mr Petit targeted the lidars produced by IBEO Lux but was keen to point out that it is not a problem just for them.
+"I don't think any of the lidar manufacturers have thought about this or tried this," he told IEEE Spectrum.
+His paper, written while he was a research fellow at the University of Cork's computer security group, will be presented at the Black Hat Europe conference in November.
+Of course, for mischief-makers intent on causing chaos, there are already plenty of ways to disrupt traditional driving.
+Standard laser pens have proved to be a dangerous toy in the wrong hands.
+Reports of people pointing laser pens at drivers and pedestrians regularly hit the headlines, while several people have been sent to prison for shining the devices at police helicopters and other aircraft.

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20141206103813/http://www.bbc.co.uk/newsbeat/30346384
+
+[SN]TITLE[SN]
+Football robot promises to get rid of the boring bits
+
+[SN]FIRST-SENTENCE[SN]
+For years Match of the Day has satisfied impatient football fans by condensing a 90 minute match into a handy chunk of highlights.
+
+[SN]RESTBODY[SN]
+But that requires a very patient man or woman to select the most important periods of play.
+Now scientists in Spain are trying to make that work easier by getting a computer to do it.
+The technology is being designed to automatically edit a whole game down to the key moments.
+The people behind it at the Polytechnic University of Catalonia have been working on it for a few years and have just published 18 pages of exactly how it works.
+Arnau Raventos is the lead professor on the project.
+He tells Newsbeat they have "been working with the local television companies in Spain in order to try to make the job easier for the person who manually does the summaries currently."
+Without having to read the full report (we did that for you) - in short - it analyses what are known as key-frames.
+So, every part of the match is looked over by the computer to spot tell-tale signs of when something interesting is happening.
+That might be lots of players grouped together, lots of zoomed-in action, extra noise from the crowd or the sound of the referee's whistle.
+Arnau calls them "occasions".
+"We want to find specific combinations of moments in a football match. A goal is an occasion."
+We thought of an example: if a defender goes down in the penalty box, everyone groups around them, you'll hear a whistle, there's lots of faces in the shot and a penalty happens. In theory, the technology should capture that.
+There is a long way to go though.
+The technology could frustrate even the most lukewarm of football fans because it hasn't quite nailed exactly the magic moment - when the goal goes in.
+In a test on five matches, the technology detected 70 per cent of the total goals.
+"We need to be sincere," says Arnau. "We need to say that at the moment it's not possible to perform a complete automatic summary just yet. It's difficult to detect all the goals."
+"However, we think it's very easy to discard those moments that are not important. For example, the panoramic views. They are easy to detect and to discard them so that already makes the job of the editor easier."
+Follow @BBCNewsbeat on Twitter and Radio1Newsbeat on YouTube

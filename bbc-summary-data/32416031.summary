@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150424060343/http://www.bbc.co.uk/news/technology-32416031
+
+[SN]TITLE[SN]
+Disney video-dubbing software makes people speak gibberish
+
+[SN]FIRST-SENTENCE[SN]
+Disney has developed software that automatically redubs video clips with new words that fit the speaker's lip movements.
+
+[SN]RESTBODY[SN]
+The program works by tracking variations in the shape of a subject's mouth and jaw, and then searching a pronunciation dictionary to find alternative words that match the moves.
+The firm says it can "literally put plausible words" into a person's mouth.
+But for now, the examples it has produced are of limited use.
+A video posted to YouTube shows an actor saying the short phrase "salary and tenure".
+The software identifies thousands of alternative phrases that could replace the utterance based on factors such as when the lips open to enunciate a vowel or close to express certain types of consonants.
+The program then ranks the strings of words according to the likelihood they would appear in that order in normal speech. This prevents it using ungrammatical phrases.
+A voice synthesiser subsequently creates some of the highly ranked phrases, ensuring each bit of sound - known as a phoneme - is timed to coincide with the appropriate lip movements. This is then used to replace the original sound.
+Examples of the replacement expressions created include:
+The system appears to have limitations.
+The actor involved had to be asked to keep the position of his head as still as possible and speak in a neutral tone to get the best results.
+And even with the ranking mechanism, many of the generated phrases appear to be gibberish.
+Disney's researchers acknowledge that the primary application of speech redubbing is to translate films and television programmes from one language to another.
+And it seems unlikely that the system could be used to find enough suitable matching phrases to re-voice a complete film or programme imperceptibly.
+However, it could potentially be used for more gimmicky applications.
+One YouTube video maker, for example, already specialises in making clips that replace the voices of well-known personalities with deliberately ridiculous lip-synched utterances for comedic effect.
+His creations include Beyonce singing nonsensically at US President Barack Obama's inauguration ceremony and a version of Game Of Thrones where the characters appear to believe they are working in a theme park, both of which have been watched millions of times.
+Patrick Walker, chief executive of the viral video distribution network Rightster, noted that an existing app called Dubsmash had become popular by letting users replace their own voices in self-made videos with well-known quotes and sounds from films and songs.
+"Putting these kinds of tools in the hand of creators is the most important thing," he told the BBC.
+"If there was some way in which friends could get together and create their own versions of licensed clips from the Disney archive that would be interesting.
+"The other alternative would be a kind of 'lip synch roulette', in which you would say a phrase and then the app would fit it to a video clip from a database that it thought best matched. That would be cool and those clips could go viral."
+For its part, Disney's research team says the most interesting insight from its work is the "extreme level of ambiguity" involved in trying to carry out speech recognition based on visual information alone.

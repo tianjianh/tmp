@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160724033210/http://www.bbc.co.uk/news/technology-36865209
+
+[SN]TITLE[SN]
+Snowden designs phone case to spot hack attacks
+
+[SN]FIRST-SENTENCE[SN]
+A smartphone case that tells its owner when their phone has been hacked is being designed by whistleblower Edward Snowden.
+
+[SN]RESTBODY[SN]
+The case would monitor components inside the phone to spot when it is sending data unexpectedly.
+It is aimed at activists, aid workers and journalists who need to conceal their whereabouts.
+So far, only plans for an iPhone 6 case have been drawn up but sleeves for other phones could follow.
+Smartphones are the "perfect tracking device," wrote Mr Snowden and collaborator Andrew Huang in a blogpost explaining their ideas.
+Knowing this, they said, many governments, law enforcement agencies and security services target these devices when they want to locate dissidents, critics or others who work in war zones and contested territories.
+In addition, they wrote, many cyber thieves also seek to install malware that steals data without alerting a phone's owner that information is going astray.
+To combat this, Mr Snowden and Mr Huang have started work on an "introspection engine" that keeps an eye on the radio components inside a smartphone.
+"This work aims to give journalists the tools to know when their smart phones are tracking or disclosing their location when the devices are supposed to be in airplane mode," they said.
+"Trusting a phone that has been hacked to go into airplane mode is like trusting a drunk person to judge if they are sober enough to drive."
+The case would be built around a small self-contained computer and have a small screen on which it would display a real-time readout of a phone's cellular, GPS, wi-fi and Bluetooth status.
+Status information about these components will be read from test points on a phone's circuit board that can be reached via a connector that plugs in through the device's sim card slot. Instead of being slotted into the phone, the sim card will be inserted in the case.
+Fitting a phone with one of the anti-snooping cases would probably require the services of a trained engineer or technician, they said.
+The two engineers are now working on turning their proposal into a working "field ready" prototype that should be ready within 12 months.
+Mr Snowden and Mr Huang also presented their ideas for the anti-snooping phone case at MIT's invitation-only Forbidden Research conference.

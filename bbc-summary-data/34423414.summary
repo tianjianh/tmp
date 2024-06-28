@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151224031020/http://www.bbc.co.uk/news/technology-34423414
+
+[SN]TITLE[SN]
+Home routers 'vaccinated' by benign virus
+
+[SN]FIRST-SENTENCE[SN]
+A benevolent virus has been used to harden more than 10,000 home routers against cyber-attacks, says a security firm.
+
+[SN]RESTBODY[SN]
+Symantec says the Wifatch program is closing loopholes and fixing bugs on routers it infects.
+Routers are being increasingly targeted by criminals keen to steal data or to help with large-scale web attacks.
+Symantec has monitored the network of "vaccinated" devices but, so far, has not seen it put to malicious use.
+Wifatch was first discovered in late 2014 and since then has been steadily scouring the web for routers and other smart devices running vulnerable software.
+In a blogpost, Symantec said that once Wifatch finds and infects a vulnerable router it connects to other compromised devices to download software updates that make them harder to attack successfully.
+In addition, it said, Wifatch tries to disinfect devices that have been compromised by malicious software. It regularly reboots devices to kill off malware running on them and return them to a clean state.
+As far as Symantec can tell, Wifatch's payload has no malicious components and the growing network of compromised devices has never been used for attacks, said Symantec security analyst Mario Ballano.
+The software also leaves a message on the router telling its owner to change the default passwords and update the firmware that controls the device.
+Wifatch targets a wide variety of home routers that run variations of the Linux operating system. Symantec said that "tens of thousands" of gadgets were harbouring Wifatch. About a third of all the devices it had hit were in China with Brazil and Mexico making up another quarter of its victims.
+Symantec remained cautious about the intentions of Wifatch despite its benign appearance.
+"Wifatch is a piece of code that infects a device without user consent and, in that regard, is the same as any other piece of malware," said Mr Ballano.
+"It should also be pointed out that Wifatch contains a number of general-purpose back doors that can be used by the author to carry out potentially malicious actions," he added.

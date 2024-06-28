@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150915143752/http://www.bbc.co.uk/news/technology-34244665
+
+[SN]TITLE[SN]
+Tool tackles power-hungry Android apps
+
+[SN]FIRST-SENTENCE[SN]
+Power-hungry apps that drain the battery on Android phones even when they are in a sleep state are being tackled by US researchers.
+
+[SN]RESTBODY[SN]
+Apps that regularly check for updates consume about 30% of the battery power an Android phone loses when in that mode, say the researchers.
+They have created a free Hush tool that lets only the most-used apps check in while the phone is off.
+Hush can cut power loss from the apps by almost half, say the team.
+Hush was created by engineers from Purdue University in Indiana after they carried out a large-scale study of energy use on Android smartphones.
+The analysis of power-consumption patterns on 2,000 handsets found that a lot of energy was wasted by badly written apps that did not let a phone go back into a sleep state after they checked for updates, said Prof Y Charlie Hu from Purdue.
+"They are not letting the phone go back to sleep because of software bugs and, specifically, due to the incorrect use of Android power control application programming interfaces called wakelocks," he said in a statement.
+The first versions of the Hush tool did a better job of handling wakelocks and policed which apps were allowed to wake a phone up and download data, said the team.
+The batteries on Android phones using Hush lasted about 15% longer than those without it, suggested early results.
+The Purdue team is now working to improve the tool so it can keep an eye on other functions on a phone to see which ones can be minimised to reduce the power they drain.
+Prof Hu said the team's ultimate aim was to double the battery life of a smartphone.
+"Much of the battery drain is caused by various apps when the screen is on and also legitimate maintenance functions," he added.

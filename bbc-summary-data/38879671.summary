@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170207233536/http://www.bbc.co.uk/news/technology-38879671
+
+[SN]TITLE[SN]
+Hacker briefly hijacks insecure printers
+
+[SN]FIRST-SENTENCE[SN]
+A hacker has briefly hijacked more than 150,000 printers accidentally left accessible via the web.
+
+[SN]RESTBODY[SN]
+The attacker made the devices print a warning urging their owners to cut off remote access.
+Large printers in offices, domestic devices and tiny receipt printers in restaurants were all caught up in the hack.
+The attack came soon after a German academic study found vulnerabilities in a wide range of printers.
+Over the weekend, a hacker using the alias Stackoverflowin ran an automated program that scoured the internet for printers that did not have basic security controls switched on.
+Once it discovered a vulnerable device, the program made them print a page announcing the invasion and telling the owner to close the "port" used to hijack it.
+"For the love of God, please close this port, skid [script kiddie, ie novice coder]," said the message.
+Early versions of the program also added ASCII art depicting different robots or a computer.
+Also included were an email address and a Twitter handle for Stackoverflowin.
+Many people posted pictures of the printed messages to social media and asked questions about what was happening on technical support forums and social networks such as Reddit.
+Printers made by HP, Brother, Epson, Canon, Lexmark, Minolta and many others were hit by Stackoverflowin's program.
+The hacker said he did not intend to abuse the access he had gained to the printers.
+"I'm about helping people to fix their problem, but having a bit of fun at the same time," he told the Bleeping Computer tech news website.
+"Everyone's been cool about it and thanked me to be honest."
+Last week, computer security researchers Jens Muller, Vladislav Mladenov and Juraj Somorovsky, from the Ruhr University, in Germany, released an academic paper summarising work they had done on printer security.
+The trio tested 20 separate printers and found that all of them were vulnerable to at least one type of attack.
+They found ways to put the printers in to an endless loop so they were never available to users, or to hijack the devices so they could be used as an entry point to the computer networks on which they sat.

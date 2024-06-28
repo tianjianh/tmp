@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170612062615/http://www.bbc.co.uk/news/business-37636099
+
+[SN]TITLE[SN]
+Lights, camera... cloud: How film is spreading its wings
+
+[SN]FIRST-SENTENCE[SN]
+We're used to streaming TV and films to our digital devices over the cloud these days, using services such as Netflix, Amazon Prime, iPlayer and YouTube.
+
+[SN]RESTBODY[SN]
+But cloud computing is also having a big impact on how this entertainment is being created.
+Take US-Canadian visual effects studio Atomic Fiction, for example. It worked on films such as Star Trek Beyond, Deadpool, and upcoming Brad Pitt movie Allied.
+But Laurent Taillefer, the firm's computer graphics supervisor, believes his company would not have been able to compete with larger studios without access to outsourced cloud computing power.
+Rendering - the process of assembling all the component elements of a film - video, audio, graphics, filters and so on - into one final version, can take an agonisingly long time and requires vast computing power, he says.
+"The amount of shots we are dealing with... and the level of detail of their contents - the photo-real reconstruction of Manhattan for Robert Zemeckis' movie The Walk, for example - require a computational power that would imply a massive investment which would make it impossible for a studio like ours to be competitive," says Mr Taillefer.
+So Atomic Fiction uses a cloud-rendering service called Conductor, which gives the firm access to turbo-charged computing power as and when it needs it.
+"For Deadpool," he says, "some shots of the city had so much detail in the models and textures that rendering the final images required more memory than available on standard computers.
+"Cloud machines offered us that missing power, making extremely complex shots possible to render."
+These cloud-based services - Google-owned Zync and Rayvision are two others - and their "pay-for-what-you-use" business models, are giving smaller studios the chance to compete with the biggest companies in the world.
+"A lot of businesses like the scalability of the cloud," says Simon Robinson, chief scientist at The Foundry, a firm that makes software tools for the film industry.
+"If you know you can produce something that a very large company can do - that's very enticing. It gives you that combination of scalability and accessibility to play up there with the big firms."
+Before the cloud, some small studios found it difficult to handle the huge file sizes the switch to digital film-making entailed.
+The processing power required to create 21st Century film special effects is "up there with supercomputing", he says.
+For example, a film in production can grow in size to a petabyte of data - that's the equivalent of 1,000 terabyte hard drives. And all this data needs to be moved around, manipulated, uploaded and downloaded by the various teams involved in the stages of movie post-production.
+So the benefits of sticking it somewhere remote and secure, yet accessible, may seem obvious.
+But while the public cloud giants, Amazon, Microsoft and Google, already have vast data centres with rentable capacity, Hollywood studios have been slow to make use of this "public space", preferring instead to build their own cloud infrastructures.
+Why? One reason is Hollywood studios have invested large sums in their own private data centres and private clouds so are reluctant to give up on that investment immediately, despite cheaper alternatives becoming available.
+Security is another concern.
+"As you can imagine the film industry is highly paranoid about security and data," says Mr Robinson.
+"The security that a lot of the cloud vendors can offer now is as good as anything elseâ€¦. but what people worry about comes back to our old friends the humans - mistakes and lapses that humans make."
+Dr Richard Southern, senior lecturer in computer animation at Bournemouth University, agrees, saying: "In our crime-focused world, studios are in complete lockdown. Take [visual effects company] MPC, which is working on the Marvel films. No way would they permit a public system to be used in their production management."
+Another concern is about the speed and reliability of cloud networks.
+"Let's say you are rendering at 30 frames per second," says Dr Southern. "Each frame can be up to 100 megabytes. So the amount of data you are transferring becomes completely unmanageable if the network you are on is poor."
+This is why many studios with deeper pockets have decided to keep the data in-house and build their own "server farms".
+And uploading and downloading data in the huge quantities demanded by a film project still takes time and that time would be billed for by a cloud provider, Mr Robinson adds.
+"It's still a slight barrier today. We're just near the edge now where people can say: 'I can either go and buy [my own hardware] or I can go to large [cloud] vendors.'
+"It's almost worth their while doing it but the cost is still such that they often say: 'Ah forget it, I'll just buy my own.'"
+Follow Technology of Business editor Matthew on Twitter
+Click here for more Technology of Business features

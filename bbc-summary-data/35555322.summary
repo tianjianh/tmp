@@ -1,0 +1,68 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170227092647/http://www.bbc.com/news/uk-northern-ireland-politics-35555322
+
+[SN]TITLE[SN]
+Stormont election: How results are calculated and reported
+
+[SN]FIRST-SENTENCE[SN]
+Members of the Northern Ireland Assembly are elected using the Single Transferable Vote system or STV.
+
+[SN]RESTBODY[SN]
+There are 90 seats to be filled, a reduction from the 108 seats elected in May 2016.
+With STV, candidates are elected according to the share of the vote they receive, the size of the electorate, and the number of seats to be filled.
+On ballot papers, voters rank candidates in order of preference, giving each a number. They can choose as many or as few as they like.
+When polls close and vote counting begins, the first step is to work out the 'quota', which decides how many votes a candidate needs to be elected.
+To calculate the quota, you divide the number of valid voting papers cast by the number of seats to be filled plus one, and then add one.
+Candidates who exceed the quota are elected straight away.
+Votes are then redistributed among the other candidates in two ways.
+1. Some candidates may be elected by many more votes than the quota. These extra votes are called the surplus, and are redistributed in proportion to the total number of preferences for other candidates in an elected candidate's ballots.
+2. The lowest ranked candidates are eliminated, and the preferences on their ballot papers are distributed among the other candidates.
+The process continues, with votes redistributed in these two ways, until all the seats are filled.
+To illustrate how the process can work, consider an election for the three most popular Shakespeare characters.
+Here is the result from the first round of voting:
+To calculate the quota: There were 109,525 valid votes cast and three seats to be filled.
+So, 109,525 divided by (3 seats +1)4, +1 = 27,382
+Hamlet has clearly achieved this, so is elected in round one.
+There are 29,406 surplus votes from Hamlet to be redistributed - and all of his ballots are examined to decide the proportion.
+Some 23% of Hamlet's total ballots were found to have second preferences for Cleopatra.
+Therefore, of the 29,406 surplus, 23% is awarded to Cleopatra = 6,763.4
+Quota: 27,382
+Cleopatra now exceeds the quota and is elected at stage 2.
+The other candidates receive proportional transfers from Hamlet's surplus.
+There are 6,148 surplus ballots from her new total to redistribute. Again, all of her ballot papers are examined and the new surplus is redistributed in the same way as before.
+Quota: 27,382
+However, no one reaches the quota in stage 3 so the last placed candidate - Lady Macbeth - is eliminated.
+Any preferences on her ballots are transferred to the remaining candidates.
+Any votes with only one preference - for Lady Macbeth herself - are discarded, and known as 'non-transferable'.
+Quota: 27,382
+Stage 4 concludes with no candidate surpassing the quota.
+Last-placed Romeo is now eliminated and his preferences transferred to the remaining candidates.
+Quota: 27,382
+Desdemona is elected in the final round when Romeo's second preferences are transferred.
+A candidate can win without meeting the quota when there are no more votes available for transfer.
+In this particular scenario, surpluses were only redistributed in the first two stages.
+However, in an election where more seats need to be filled, and with more candidates, the process can happen repeatedly through many stages of counting.
+The summary scoreboard shows first preference votes and vote share to indicate electoral support across the country.
+The bar chart at the top of the page shows the top 5 or 6 parties in terms of seats won in the assembly.
+If more than 6 parties win seats, the parties with fewest seats are amalgamated into a grouping called Others.
+In the event of a tie - for example two parties have two seats - the party with the most first preference votes nationwide will be named.
+Each constituency page displays a summary of all parties' and candidates' first preferences.
+You can follow how the stages of counting unfold on the 'stage by stage' tab. This shows who is elected and eliminated in each round and the transferred votes at each stage.
+Seat change will not be shown at national or constituency level in this election. This is because the reduction in seats from 108 to 90 makes a valid comparison extremely difficult.
+On smaller mobile screens, parties are sometimes abbreviated to 3 or 4 letter codes. Codes used in Northern Ireland are:
+APNI: Alliance Party
+CCLA: Cross Community Labour Alternative
+CON: Conservative
+CSA: Citizens Independent Social Thought Alliance
+DUP: Democratic Unionist Party
+GRN: Green Party Northern Ireland
+IND: Independent
+PBPA: People Before Profit Alliance
+PUP: Progressive Unionist Party
+SDLP: Social Democratic & Labour Party
+SF: Sinn FÃ©in
+TUV: Traditional Unionist Voice
+UKIP: United Kingdom Independence Party
+UUP: Ulster Unionist Party
+WP: Workers Party
+OTH: Others

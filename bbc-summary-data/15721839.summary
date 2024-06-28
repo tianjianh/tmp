@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170330074247/http://www.bbc.co.uk/news/technology-15721839
+
+[SN]TITLE[SN]
+Iran says it has 'controlled' Duqu malware attack
+
+[SN]FIRST-SENTENCE[SN]
+Iran has confirmed some of its computer systems were infected with the Duqu trojan, but said it has found a way to control the malware.
+
+[SN]RESTBODY[SN]
+Security organisations had previously identified Iran as one of at least eight countries targeted by the code.
+The spyware is believed to have been designed to steal data to help launch further cyber attacks.
+The sender has not been identified, but researchers have found a reference to a US television programme in Duqu's code.
+The Iranian news agency, IRNA, reported that the country's cyber defence unit was taking steps to combat the infection.
+"The software to control the virus has been developed and made available to organisations and corporations," Brigadier General Gholamreza Jalali, head of Iran's civil defence body, is quoted as saying.
+"All the organisations and centres that could be susceptible to being contaminated are being controlled."
+Mr Jalali said a "final report" into which organisations had been targeted was still being worked on.
+Last year the Iranian government accused the West of trying to disrupt its nuclear facilities using the Stuxnet worm computer attack.
+Then in April 2011 officials said the country's facilities had been targeted by a second piece of malware dubbed "Stars".
+Officials now describe the Duqu attack as  the "third virus" to hit Iran.
+The computer security specialist Kaspersky Lab said it believed that "Stars" was a keylogging program that may have been part of the same attack that installed Duqu.
+Keylogging programs are able to collect information about a computer system, take screenshots, search for files and capture passwords.
+The firm also provided more detail about how Duqu worked based on its analysis of other targets.
+It said another unidentified company received an email from an individual identifying himself as Mr B Jason who requested a joint business venture.
+The firm believed this was a reference to the Jason Bourne books and spy movies.
+The recipient was asked to open a Microsoft Word attachment that referenced the targeted company's name in its title, and thus did not appear to be spam.
+It said that for every victim a separate set of attack files was created using a different control server. The firm said this happened at least 12 times.
+When the addressee opened the file the malware became active through a Truetype font exploit, but did nothing until it detected that there had been no keyboard or mouse activity for ten minutes.
+Kaspersky Lab said the font was called Dexter Regular and its creators were identified as Showtime Inc.
+"This is another prank pulled by the Duqu authors, since Showtime Inc is the cable broadcasting company behind the TV series Dexter, about a CSI doctor who happens also to be a serial killer," the report said.
+The firm said the exploit then loaded a driver onto the system. Analysis of the driver suggested it was compiled as long ago as August 2007.
+"If this information is correct, then the authors of Duqu must have been working on this project for over four years," the report said.
+The firm said the driver then began a process that led to the Duqu trojan being installed allowing the attackers to introduce new modules, infect other networked computers, and collect information.
+The company said efforts to identify the attackers have been complicated by the fact that the suspects appear to have deactivated several of the control servers thought to have been involved in the attacks.

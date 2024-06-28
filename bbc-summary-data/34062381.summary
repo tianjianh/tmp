@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160812042054/http://www.bbc.co.uk/news/technology-34062381
+
+[SN]TITLE[SN]
+Dark web marketplace shuts down over security concerns
+
+[SN]FIRST-SENTENCE[SN]
+Agora, one of the biggest online black markets, has shut down because of security concerns, its website reports.
+
+[SN]RESTBODY[SN]
+The site said fears that a recently discovered flaw in the network on which it runs could lead to Agora's servers being located, were behind the move.
+Administrators said they would keep the site offline until they could come up with a long-term solution.
+According to one expert, the issue showed that users could not entirely trust the dark web's security.
+"Once again, something that many people were putting their trust into on the internet is being revealed to be not quite so trustworthy after all." said the security expert Graham Cluley.
+He suggested that a study into a vulnerability in the Tor network's security, which was published by the Massachusetts Institute of Technology last month, was the source of the administrators' concerns. It detailed how hidden servers could be exposed accurately.
+Agora is often used to buy and sell drugs online. Last month, it announced that it would no longer allow the sale of guns.
+Its rules also explicitly prohibit payments for assassinations, weapons of mass destruction, poisons and images of child sexual abuse.
+In their posting, the Agora administrators wrote: "Recently research... shed some light on vulnerabilities in Tor Hidden Services protocol which could help to deanonymize server locations."
+They said that they had seen "suspicious activity around our servers which led us to believe that some of the attacks described in the research could be going on", which led them to relocate.
+The administrators added that they had a solution to the problem "in the works", but that it would take time to implement.
+"At this point, while we don't have a solution ready it would be unsafe to keep our users using the service, since they would be in jeopardy. Thus, and to our great sadness we have to take the market offline for a while, until we can develop a better solution. This is the best course of action for everyone involved," the statement read.
+The statement was held on its own site on the dark web and included a public PGP key that matched the one listed on the site's contact page. The decision to take the site down was first reported by the news website DeepDotWeb.

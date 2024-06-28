@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170612194741/http://www.bbc.com/news/technology-40219686
+
+[SN]TITLE[SN]
+News and sports websites 'vulnerable to attack'
+
+[SN]FIRST-SENTENCE[SN]
+News and sports websites have some of the lowest levels of security adoption, a study has suggested.
+
+[SN]RESTBODY[SN]
+A team of cyber-security experts looked at the security protocols used by the top 500 sites in various industries and online sectors.
+They found that fewer than 10% of news and sports websites used basic security protocols such as HTTPS and TLS.
+Even those that do are not always using the "latest or strongest protocols", one of the study's authors said.
+"As time goes by, all encryption gets weaker because people find ways around it," Prof Alan Woodward, a cyber-security expert at the University of Surrey, told the BBC.
+"We tested the University of Surrey's website using a site called Security Headers a couple of weeks ago and it got an A," he explained, "but it's only a C now."
+The research, published in the Journal of Cyber Security Technology, shows that some sectors seem much more security-conscious than others.
+The websites of computer and technology companies and financial organisations showed a much higher level of adoption than shopping and gaming sites, for example.
+"In the financial sector, almost every one of the sites we looked at had encrypted links", Prof Woodward said, "but even in retail the adoption of the very latest standards is low."
+A quarter of the shopping sites studied were using Transport Layer Security (TLS), which offers tools including digital certificates, remote passwords, and a choice of ciphers to encrypt traffic between a website and its visitors.
+But among news and sport websites fewer than 8% were found to be using the protocol.
+Among those that did, many failed to make use of some of the strongest tools available, such as HSTS, which automatically pushes users accessing an unsecured version of a website on to the encrypted version instead.
+"It's like news and sport content providers don't value the security of their content," Prof Woodward said.
+"They're leaving themselves vulnerable to attacks like cross-site scripting, where an attacker can pretend something's come from a website when it hasn't."
+But Prof Woodward warned against putting too much faith in sites that appear to have the most up-to-date and comprehensive security protocols in place.
+"People assume that because they're using TLS they're having a secure conversation, but there's no guarantee about who they're having that secure conversation with," he explained.
+"Some of those spoof sites are using more up-to-date security than the genuine sites. You've got to click on that padlock and check who it is you're talking to."

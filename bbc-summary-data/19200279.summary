@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170104231709/http://www.bbc.co.uk/news/technology-19200279
+
+[SN]TITLE[SN]
+Google fined over Safari cookie privacy row
+
+[SN]FIRST-SENTENCE[SN]
+Google has agreed to pay the largest fine ever imposed on a single company by the US Federal Trade Commission.
+
+[SN]RESTBODY[SN]
+The firm agreed to pay $22.5m (Â£14.4m) after monitoring web surfers using Apple's Safari browser who had a "do not track" privacy setting selected.
+Google does not have to admit wrongdoing as part of the settlement.
+The penalty is for misrepresenting what it was doing and not for the methods it used to bypass Safari's tracker cookie settings.
+Cookies are small text files that are installed onto a computer that can allow it to be identified so that a user's web activity can be monitored.
+"No matter how big or small, all companies must abide by FTC orders against them and keep their privacy promises to consumers, or they will end up paying many times what it would have cost to comply in the first place," FTC Chairman Jon Leibowitz said in a statement.
+The government agency launched its inquiry after a Stanford University researcher noticed the issue while studying targeted advertising.
+Cookies are small files that allow a website to recognise and track users. The UK's Information Commissioner's Office classes them according to three overlapping groups:
+Session cookies
+Files that allow a site to link the actions of a visitor during a single browser session. These might be used by an internet bank or webmail service. They are not stored long term and are considered "less privacy intrusive" than persistent cookies.
+Persistent cookies
+These remain on the user's device between sessions and allow one or several sites to remember details about the visitor. They may be used by marketers to target advertising or to avoid the user having to provide a password each visit.
+First and third-party cookies
+A cookie is classed as being first-party if it is set by the site being visited. It might be used to study how people navigate a site.
+It is classed as third-party if it is issued by a different server to that of the domain being visited. It could be used to trigger a banner advert based on the visitor's viewing habits.
+He revealed that the search giant was exploiting a loophole that let its cookies be installed via adverts on popular websites, even if users' browsers' preferences had been set to reject them.
+This allowed the firm to track people's web-use habits even if they had not given it permission to do so.
+Google said no "personal information" - such as names or credit card data - had been collected, and that the action had been inadvertent.
+Apple's browser automatically rejects tracking cookies by default. But Google got around this block by adding code to some of its adverts to make Safari think that the user had made an exception for its cookie if they interacted with the ad.
+At the same time as using the exploit the search giant said on its help centre that Safari users did not need to take extra steps to prevent their online activities from being logged.
+Google said the workaround had been employed to help it deploy its +1 button - letting users show their approval for something on the web - a feature it introduced for its Google+ social network.
+"We set the highest standards of privacy and security for our users," said a spokesman.
+"The FTC is focused on a 2009 help centre page published more than two years before our consent decree, and a year before Apple changed its cookie-handling policy.
+"We have now changed that page and taken steps to remove the ad cookies, which collected no personal information, from Apple's browsers."
+But Nick Pickles, director of privacy campaign group Big Brother Watch, said it was right that Google should be penalised.
+"It's an essential part of a properly functioning market that consumers are in control of their personal information and are able to take steps to protect their privacy," he said.
+"The size of the fine in this case should deter any company from seeking to exploit underhand means of tracking consumers. It is essential that anyone who seeks to over-ride consumer choices about sharing their data is held to account."

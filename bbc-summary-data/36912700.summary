@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101012328/http://www.bbc.com/news/technology-36912700
+
+[SN]TITLE[SN]
+Australia plans new co-ordinates to fix sat-nav gap
+
+[SN]FIRST-SENTENCE[SN]
+Australia is to shift its longitude and latitude to address a gap between local co-ordinates and those from global navigation satellite systems (GNSS).
+
+[SN]RESTBODY[SN]
+Local co-ordinates, used to produce maps and measurements, and global ones differ by more than 1m.
+The body responsible for the change said it would help the development of self-driving cars, which need accurate location data to navigate.
+Australia moves about 7cm north annually because of tectonic movements.
+Modern satellite systems provide location data based on global lines of longitude and latitude, which do not move even if the continents on Earth shift.
+However, many countries produce maps and measurements with the lines of longitude and latitude fixed to their local continent.
+"If the lines are fixed, you can put a mark in the ground, measure its co-ordinate, and it will be the same co-ordinate in 20 years," explained Dan Jaksa of Geoscience Australia. "It's the classical way of doing it."
+Because of the movement of the Earth's tectonic plates, these local co-ordinates drift apart from the Earth's global co-ordinates over time.
+"If you want to start using driverless cars, accurate map information is fundamental," said Mr Jaksa.
+"We have tractors in Australia starting to go around farms without a driver, and if the information about the farm doesn't line up with the co-ordinates coming out of the navigation system there will be problems."
+The Geocentric Datum of Australia, the country's local co-ordinate system, was last updated in 1994. Since then, Australia has moved about 1.5 metres north.
+So on 1 January 2017, the country's local co-ordinates will also be shifted further north - by 1.8m.
+The over-correction means Australia's local co-ordinates and the Earth's global co-ordinates will align in 2020.
+At that point a new system, which can take changes over time into account, will be implemented.
+"We used the old plate fixed system to make life simple, but we don't want to do this adjustment every so often," said Mr Jaksa.
+"Once we have a system that can deal with changes over time, then everybody in the world could be on that same system."

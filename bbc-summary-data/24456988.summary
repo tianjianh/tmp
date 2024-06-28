@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170705015406/http://www.bbc.co.uk/news/technology-24456988
+
+[SN]TITLE[SN]
+Blackhole malware exploit kit suspect arrested
+
+[SN]FIRST-SENTENCE[SN]
+Russian police have reportedly arrested a man on suspicion of masterminding two infamous hacking tools.
+
+[SN]RESTBODY[SN]
+He is suspected of being the man behind the alias Paunch - the nickname used by the creator of the Blackhole and Cool exploit kits, sold to cybercriminals to infect web users with malware.
+The Russian authorities have not confirmed the details.
+But security firms said they had already detected a decline in the programs' use.
+A spokesman for the law enforcement agency Europol told the BBC: "Europol and the European Cybercrime Centre has been informed that a high-level suspected cyber criminal has been arrested.
+"We can only refer you to the Russian authorities, they are the ones who should speak about this topic."
+The Russian police's press office said it had nothing to add at this time.
+However, Alexander Gostev, chief security expert at the Moscow-based internet protection provider Kaspersky Lab, said the arrest had been confirmed to him by "anonymous sources".
+The Blackhole kit, released in 2010, dominated the crimeware market throughout 2012 and the start of 2013, according to Fraser Howard, a researcher at the anti-virus company Sophos.
+He said the code had been sold for an annual licence of $1,500 (Â£940) or could be rented from its creator for $200 (Â£125) for one week's use, among other price plans.
+The software targeted a range of vulnerabilities in the Java programming language, Adobe's Flash media player, Windows software and PDF files.
+It had two ways of doing this:
+Among the malware downloaded was:
+Although Mr Howard said Blackhole was once the biggest threat of its kind, he added that in recent months it had been overshadowed by rival kits, including Sweet Orange and Neutrino.
+According to the researcher, the Blackhole and Cool kits put together were only involved in about 4% of all malware detected by Sophos in August, down from 28% the previous year.
+The figure had since dropped to 2% in recent days, he added.
+Another independent security blogger stressed that the arrest was still significant.
+"If it's true that the brains behind the Blackhole has been apprehended it's a very big deal - a real coup for the cybercrime-fighting authorities, and hopefully cause disruption to the development of one of the most notorious exploit kits the web has ever seen," said Graham Cluley.
+"However, it's worth remembering that nature abhors a vacuum, and there would surely be other online criminals waiting to take their place, promoting their alternative exploit kits and malicious code."
+Mikko Hypponen, chief research officer at F-Secure, agreed.
+"If indeed it is Paunch that they arrested, that is a major arrest - he is a big deal," he told the BBC.
+"He was clearly the biggest player in providing exploit kits - not just by selling them, but also renting and leasing them to online criminals.
+"Both Blackhole and its successor Cool have been very popular.
+"Users didn't have to be very technical to operate them - there was a manual that came with them - they just had to get them running and be able to break into a high-profile website, or create a new one from scratch, to install something bad on your computer."

@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108024349/http://www.bbc.com/news/technology-38262907
+
+[SN]TITLE[SN]
+Hackers rewarded for web attacks
+
+[SN]FIRST-SENTENCE[SN]
+A Turkish hacking group has turned web attacks into a game by rewarding people who successfully hit designated targets.
+
+[SN]RESTBODY[SN]
+It is giving loyalty points to hackers for every short-lived attack they mount against a small number of websites.
+Points are logged on a scoreboard and can be cashed in for free access to other hacking tools.
+All the targeted websites are run by organisations that oppose Turkey's government.
+Security firm Forcepoint discovered the site offering the points for attacks. Called "Surface Defence", the site is run from the Tor dark web network and gives hackers access to a web attack tool called Sledgehammer.
+This tool seeks to knock websites offline by bombarding them with more data than they can handle - a type of attack known as Distributed Denial of Service.
+A reward of one point is given for every 10 minutes of an attack directed at one of the targets, said Forcepoint in a report.
+Targets include Kurdish campaign groups and media organisations, opposition political parties and a site detailing the Armenian genocide. Also hit were the websites of Germany's Christian Democratic Union and an Israeli film festival.
+A live scoreboard seen by Forcepoint security researchers showed that hackers from many different groups in Turkey were taking part in the competition. The hacker at the top of the board had accumulated more than 450 points.
+Rewards include more sophisticated DDoS attack tools, click fraud bots and other hacker software.
+"This is the first time hackers have 'gamified' a hacking platform to the extent that participants compete against one another," said Carl Leonard, principal security analyst at Forcepoint in a statement.
+Mr Leonard said the group may have "gamified" hacking in a bid to attract hackers and build a "critical mass" of attackers that can have a real impact on targets.
+However, said Forcepoint in its report, analysis of the Sledgehammer tool suggests there could be another reason behind the competition. The software seems to have a back door built in that lets its creator spy on anyone using it.
+"The author is hacking the hackers," said Forcepoint.

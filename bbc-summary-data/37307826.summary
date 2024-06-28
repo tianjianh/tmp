@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170213130637/http://www.bbc.com:80/news/technology-37307826
+
+[SN]TITLE[SN]
+Blockchain bandits hit crypto start-ups
+
+[SN]FIRST-SENTENCE[SN]
+In early September, developer Stephanie Kent watched the approach of Hurricane Hermine with growing trepidation.
+
+[SN]RESTBODY[SN]
+A hurricane making landfall is never welcome but it looked set to strike Ms Kent's home in Florida at the worst possible time.
+Back then, Ms Kent was fighting hackers seeking to take over her digital cash start-up Krypton - a services firm based around a variant of Bitcoin's underlying technology, the blockchain.
+Ms Kent and her coding team had just recovered from one attack and had seen early signs that another was under way.
+"We were hit by the hurricane during the second attack," she says.
+Then, the savage storm knocked the power out.
+"That really didn't help," she says.
+Undeterred, Ms Kent decamped to a local convenience store, plugged in her laptop and got back to work battling the hackers.
+Krypton defeated them by drawing on some rarely-used features in the blockchain code which helped to thwart the attempted takeover. But that was not before the bad guys got away with virtual Krypton cash worth about $6,000 (Â£4,900).
+Ms Kent wasn't alone in getting hit. A similar attack, probably by the same group, was used against a separate crypto-currency start-up called Swift.
+"There are a lot of malicious actors in crypto-currency right now," says Ms Kent. "It's the gunslinger era."
+The amounts of money involved might be small but the attacks signal a growing interest by hackers in fledgling firms seeking to build businesses around blockchains and digital currencies.
+That is troubling given the current fever of interest in the blockchain. Many see it as the element of the Bitcoin crypto-currency that will have lasting influence.
+Visa has announced plans to launch a blockchain payments service in 2017, central banks are investigating the technology and many finance firms are keen to use it to keep track of the deals they do.
+The blockchain is the open accounting system underpinning Bitcoin. It involves large networks of computers working together to do the complicated cryptography-based maths that verifies who spent which bitcoins and where they spent them.
+For a well-established virtual currency such as Bitcoin, there are huge numbers of people helping crunch numbers via server farms they own and operate. The vast size of the processing pool means there is little chance that any individual will be able to amass enough computer power to subvert the blockchain and effectively print their own money.
+That's not the case with the fledgling crypto-currencies, says Garrick Hileman, an economic historian at the University of Cambridge.
+"More than 600 different crypto-currencies have come out since Bitcoin emerged in 2009," he says. "A lot of the crypto-currency knock-offs have been attacked."
+Many of those attacks are aimed at the wallets where the digital cash is kept, but others have gone after the blockchains they use to keep track of transactions. By their nature, says Dr Hileman, these start-ups do not have many servers verifying who is spending or using what making them vulnerable to an attacker with processing power at their fingertips.
+"It's all about how much computer power you have," he says, adding that there are well-known defences against cyber thieves who try to hijack the system.
+"There are variations in how blockchains are made secure. Some are more vulnerable than others depending on the attack surface that's available."
+Krypton and Swift were targeted because of the particular blockchain variant they used, he says.
+It's one that has proved popular with attackers since it was developed by a firm called Ethereum, which is looking to use the technology as the basis for its own business. One of Ethereum's offshoots, called the DAO, suffered a serious blockchain-based attack earlier this year.
+Ever since, this offshoot has been under repeated attack and last week instituted significant technical changes to thwart the hackers targeting it. It's not clear yet whether it worked.
+Many are tracking its success in defeating the hackers because of the backing Ethereum has won from venture capitalists and other investors. Millions of dollars in development cash is tied up in its crypto-currency network.
+That ability to adapt and change to defeat cyberthieves shows how blockchain technology can be made secure, says Prof Ari Juels, a computer scientist at Cornell Tech and co-director of the Initiative for CryptoCurrencies and Contracts which studies the technology and its uses.
+"Ethereum has showed just how resilient crypto-currencies can be in the way that it has unwound the damage done by the attacker," he says, adding that it, and virtual currencies in general, are still going through some "growing pains".
+Prof Juels insists that the attacks on one variant of the blockchain technology should not scupper all interest in the field.
+To begin with, he says, the types of blockchains that governments, central banks and other financial institutions are planning to use have a fundamental difference that will stymie attempts to attack them.
+Instead of being open to anyone who buys in, these permission-based networks are open only to the organisations involved in the particular financial instrument or sector they serve.
+"It's maintained and run by a set of predetermined and trustworthy partners," he says. "There are huge advantages to the closed systems not only because they are more resilient to attack and not vulnerable to processor-power based attacks."
+But, says Prof Juels, that desire for control and security might limit the ultimate usefulness of blockchains to the banking world.
+"Banks are interested in blockchains but they are using them in a very rudimentary way," he says. "They are just looking to use them as a time-stamping service and that ignores some of the benefits it could bestow on them and their customers."

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720163319/http://www.bbc.co.uk/news/technology-15154014
+
+[SN]TITLE[SN]
+Facebook works with Websense to add phishing safety net
+
+[SN]FIRST-SENTENCE[SN]
+Facebook have stepped up their battle against phishing and malware scammers by partnering with security firm Websense.
+
+[SN]RESTBODY[SN]
+As of next week, users will be warned if they are about to be taken to a malicious website.
+The social network has suffered to date as many of its 700 million users unwittingly click on dangerous links supposedly posted by their friends.
+Such attacks usually trick users into sharing passwords or data.
+Facebook already tells users if they are about to visit an external site, but the current set up makes no distinction between friendly and dangerous sites.
+The new technology will present a warning screen whenever it suspects a page poses a threat to the users, giving details of the risk.
+From here, users are encouraged to return to the previous page.
+If they wish, users can continue to the intended page, albeit very much at their own risk.
+Both Facebook and Websense will hope the extra measures will be enough to deter potential scammers from focusing their efforts on the network.
+Scams regularly catch out hundreds of thousands of users at a time.
+"There's over 700 million users on Facebook," Websense's Spencer Parker told the BBC.
+"As a piece of real estate, it's extremely profitable to be targeted by malware writers."
+The protection will be powered by Websense's "Threatseeker Cloud", a system which stores a database of known malicious URLs.
+The system can also detect unknown dangerous URLs by assessing threats in real-time.
+This means harmful URLs can be blocked even before they are known to the company - cutting off a key tactic used by phishers in which constantly changing URLs fool database-driven protection.
+In addition, the system will "follow" links made using popular URL shorteners - such as bit.ly and ow.ly - to verify their safety.
+Due to the nature of how we interact with our friends, Mr Parker says phishing attacks on Facebook are much harder to prevent than other commonly used techniques.
+"One of the things with Facebook, of course, is that you have that element of trust in a social network. If one of your friends posts something, you automatically trust it more than if it just received as a spam email.
+"As more of these 'friend in the middle' attacks happen, you start to trust your friends less."

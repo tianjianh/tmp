@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170505033004/http://www.bbc.com/news/business-26520013
+
+[SN]TITLE[SN]
+Crime fighting with big data weapons
+
+[SN]FIRST-SENTENCE[SN]
+In the 19th Century, Italian physician Cesare Lombroso won fame for claiming to be able to identify criminals by their looks.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Big data puts the doctor in your pocket
+Helping feed the world with big data
+Bad guys v the data defenders
+Big Data: Are you ready for blast-off?
+Lotus F1 Team looks to tech to win
+For Lombroso, a sloping forehead, large ears, very long arms and any one of a host of other physical characteristics pointed toward their owner's in-born propensity for a life lived on the wrong side of the law.
+If only it were that easy to spot the bad guys. Now, it takes a great deal more effort to spot both the crime and the criminal.
+But big data is helping in a big way.
+Publicly shared information combined with data from local authorities, social services and intelligence gathered by beat officers is helping police forces around the world spot trouble before it starts.
+It's not quite the "pre-crime" scenario featured in the 2002 science fiction film Minority Report, but it's getting close.
+Former policeman Shaun Hipgrave, now a security consultant at IBM, said: "It's about using big data and analytics in a smarter way. You are just giving them access to information that they never used to have before."
+It helps the police be much less reactive, he said, and slowly starts to reveal the real trouble spots and troublemakers in a neighbourhood, estate or street.
+When information like that becomes clear, the police can do something about it long before anyone dials 999. And that counts for people as much as it does for pubs or clubs.
+The data analytics software links up with government initiatives on so-called "troubled families" that can be the nexus of a lot of problems in some towns and cities.
+Spotting people who are orbiting those groups can help head off any future problems.
+"When you use big data you can see the relationships between one family and another troubled family and you see the absences from school," he said. "It creates a fuller, holistic picture."
+"This is ultimately about crime prevention," said Mr Hipgrave, "and part of that is knowing more about a community and seeing ways to change the architecture of it."
+Big data analytics is also increasingly important in the fight against cross-border crime.
+When police were investigating the shooting of Jill Dando in 1999, much time and effort went in to tracing the history of the bullet that killed her, said Babak Akhgar, professor of informatics at Sheffield Hallam University.
+At that time, detectives had to call police forces in other countries individually to find information about the bullet and the type of gun that might have fired it.
+It was a huge task and one that would only have got more difficult as gun crime evolved, said Prof Akhgar.
+"This type of crime now has a very specific multinational element to it," he said. "Our research found that criminals are using guns and bullets as a form of currency."
+As a result, he said, weapons and their ammunition regularly cross borders and pass through the hands of many dedicated and serious criminals.
+Analytics and a database called Odyssey mean information about when which weapon was used, and what was fired, is now much easier to come by.
+Big data was essential to that project because of the wide variety of data types police forces in different European nations use to classify weapons, ammunition, the type of crime, as well as the criminals themselves.
+The inherently multinational nature of another serious crime, the sexual abuse of children, is also being tackled with the help of analytical tools that have to deal with a vast dataset made up of still images, video, HTML and text.
+The problem here, said Johann Hoffman of image forensics firm NetClean, is the sheer amount of data involved.
+Typically, police forces are confronted with gigabytes and sometimes terabytes of data when they arrest a paedophile or raid someone who runs a service that trades in images of child sex abuse.
+"The amount of data is constantly growing," said Mr Hoffman. "The problem is, how as a police officer do you go through that huge amount of data? When you are dealing with terabytes there's no way a human could ever go through it all."
+The situation is complicated by the fact that images and videos of abuse are widely traded. Without big data analytics police officers could spend a lot of time literally retracing the steps of other forces that have already worked out who was behind one set of images or who they depict.
+A cross-European project is helping police forces spot the novel material more quickly, said Mr Hoffman, adding that the analysis has led to a series of successes against abusers.
+"The numbers are not lying," he said. "They are rescuing more people and solving more cases."
+Data analytics is also being used to spot anomalous patterns of behaviour to combat financial fraud.
+Durham police shut down a "cash for crash" scam which involved an organised crime group defrauding insurance companies by claiming several times for the same accident. Many of the accidents were thought to be staged just to generate a claim.
+There were so many accidents that insurance premiums in and around the area were forced far above the national average.
+The analytics was put to work on about 1,800 incidents and quickly identified the core group of dodgy claims. The operation resulted in the arrest of 70 people who received sentences of up to four years in jail.
+In another example, Nationwide Building Society managed to reduce fraud losses by 75% using SAS software, says David Parsons, head of fraud analytics.
+"We now have huge amounts of data and can look at any number of parameters to help us spot anomalous behaviour," he says. "And the speed with which we can do this is phenomenal."
+But Hitesh Patel, forensic investigations partner at KPMG, warns: "With the volume of data doubling every two years, financial fraud is going to get a lot worse before it gets better.
+"We're just running to stand still at the moment."

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160603152941/http://www.bbc.co.uk/news/technology-36434104
+
+[SN]TITLE[SN]
+Russian hacker gang arrested over $25m theft
+
+[SN]FIRST-SENTENCE[SN]
+Russia has arrested 50 people accused of using malware to steal more than 1.7bn roubles ($25m; Â£18m).
+
+[SN]RESTBODY[SN]
+The gang allegedly seeded websites with malware that gave them access to victims' PCs and, from there, their bank accounts.
+Technical tricks used by the hackers made it hard for security software to spot the malicious code once it had compromised a machine.
+It is believed to be the largest ever arrest of hackers in Russia.
+The Russian authorities carried out raids in 15 regions across the country to round up the gang, the FSB internal security service said.
+"As a result of [house] searches a large quantity of computer equipment was confiscated along with communications gear, bank cards in false names, and also financial documents and significant amounts of cash confirming the illegal nature of their activity," the FSB said.
+The gang is believed to have stolen cash using a malicious trojan called Lurk that it hid on some of Russia's most popular websites.
+Anyone visiting a website booby-trapped with Lurk would be infected with the malware. Once on a victim's PC, the malware then downloaded more software modules, giving the cyber thieves remote access to the machine.
+This was used to steal login names and passwords for online bank accounts. In particular, they targeted accounts held at Sberbank - one of Russia's largest banks.
+"Lurk started attacking banks one-and-a-half years ago; before then its malicious program targeted various enterprise and consumer systems," said Ruslan Stoyanov, head of computer incident investigation at Kaspersky Lab that helped uncover the gang's activities.
+Mr Stoyanov said Kaspersky helped police profile the gang's network of computers and servers used to grab cash, and from that information they were able to trace the individuals involved.
+The arrests helped to thwart pending money transfers that would have netted the group a further 2.3bn roubles, the FSB said.
+Russian security firm Group IB, which profiles cyber crime groups in Eastern Europe, said the Lurk gang had been operating since 2011.
+The group initially went after clients of banks but had recently changed focus, said Group IB spokesman Victor Ivanovsky.
+"In recent months we have detected a growing activity in performing Advanced Persistent Threat (APT) attacks on Russian banks by the Lurk group," he said.
+Attacks that use APT techniques are typically the hardest to defend against because they are carefully customised for each target and can exploit formerly unknown vulnerabilities to get around security software.
+The Lurk group switched to APT-based attacks in early 2016 when the source code for the well-known Buhtrap malware was made public.
+The gang used Buhtrap to craft emails that looked like they came from industry groups that certify bank and accounting staff, in an attempt to trick people into opening messages containing Lurk.

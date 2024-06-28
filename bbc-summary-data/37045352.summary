@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160812031833/http://www.bbc.co.uk/news/technology-37045352
+
+[SN]TITLE[SN]
+Dota 2 chat forum hit by hack attack
+
+[SN]FIRST-SENTENCE[SN]
+The official chat forum for Valve's Dota 2 game has been hit by a hack attack, a security company reports.
+
+[SN]RESTBODY[SN]
+Leaked Source said email addresses, user names and passwords for more than 1.9 million people had been stolen in the attack.
+The passwords had been weakly protected by extra security measures, it said, and would be easy to crack.
+The hack was revealed just as Dota 2's global tournament, The International, gets under way in Seattle.
+More than $20m (Â£15m) in prize money is up for grabs for Dota 2 teams taking part in the tournament.
+Leaked Source said the attack, on 10 July, had only now come to light.
+The data taken was protected or scrambled using the MD5 hashing system to which was added a random element - a process known as "salting".
+Despite this, Leaked Source said it had been able to convert more than 80% of the hashed and salted records back to readable text.
+More than one million of the 1.9 million records in the dumped database were for email accounts at Google's Gmail service, it said.
+And a significant proportion seemed to be disposable email addresses simply used to sign up for the forums.
+Game-maker Valve has yet to officially comment on reports of the attack and the theft of credentials.
+Brendan Caldwell, a reporter at the Rock Paper Shotgun news site, urged forum members to change their passwords, even if they did not use the site much any more.
+He also pointed out that the forums for Dota 2 were separate from Valve's larger Steam gaming service.
+"So you've only got a problem with your Steam account if you use the same password for both," he said.

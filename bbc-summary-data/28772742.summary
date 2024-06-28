@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170506035948/http://www.bbc.co.uk/news/science-environment-28772742
+
+[SN]TITLE[SN]
+DigitalGlobe launches super-sharp WorldView-3 Earth imager
+
+[SN]FIRST-SENTENCE[SN]
+The most powerful commercial imaging satellite ever built has just gone into orbit from California, US.
+
+[SN]RESTBODY[SN]
+DigitalGlobe's WorldView-3 spacecraft will return pictures of the Earth's surface down to a resolution of 31cm.
+Until recently, the company was restricted to selling images sharper than 50cm only to the US government.
+DigitalGlobe's products will be familiar to anyone using Google or Bing maps - both run on views captured by the firm's satellites.
+But its pictures also find wide application in areas such as scientific investigations, urban planning, forestry and agricultural monitoring, and in mineral exploration.
+WorldView-3 is an important moment for the Longmont, Colorado-based company, however.
+The market place for commercial Earth imagery is getting increasingly competitive, and being able to go to sub-0.5m resolutions gives DigitalGlobe a stand-out advantage over its rivals.
+"It's important for them to be able to differentiate themselves by being able to say, 'we have the most high-resolution and highest-accuracy data available'," commented Adam Keith, the director of space and Earth observation at industry-watchers Euroconsult.
+"That's a strong statement to make when there are new systems entering the market. It won't necessarily open up new markets for them, but it will certainly allow them to better serve the markets they already have."
+There are still some security concerns over releasing such powerful imagery on to the open market.
+The US Commerce Department, which licenses American commercial satellite imagery providers, says DigitalGlobe must wait six months before putting out any 31cm products.  This will give the authorities time to assess any unforeseen issues or sensitivities.
+The current benchmark is set by DigitalGlobe's GeoEye-1 satellite, which was launched in 2007.
+Its systems can deliver a 41cm capability in the panchromatic mode (essentially black and white images).
+WorldView-3 is another step forward again, says Rob Mitrevski from Exelis Geospatial Systems, which designed the new satellite's optics.
+He tells people to imagine putting WorldView-3 in Los Angeles and then pointing it at San Francisco - a distance greater than 610km (380 miles).
+"If we had that imaging system in the 'o' of the Hollywood Sign, we could count the number of people on the Golden Gate Bridge; we could count the number of cars and the colour of the cars - probably, the year and make of the cars, as well," he says.
+At the core of WorldView-3 is a large telescope with a 1.1m primary mirror.
+This directs the light to instrumentation which senses a total of 29 spectral bands.
+A key innovation on WorldView-3 is its CAVIS instrument, which will monitor the state of the atmosphere.
+This information will be used to correct pictures when the satellite views the Earth in more challenging conditions, such as when it is hazy or there are a lot of particulates (aerosols) in the sky.
+"WorldView-3 by itself can collect 650,000 sq km [of imagery] a day, and if you add in our [existing] constellation - we'll be collecting four million sq km a day. That is almost half the size of the continental United States," says DigitalGlobe's Kumar Navulur.
+"To get that kind of information to the ground, we've had to implement a much higher data rate - 1.2Gbps, which is much faster than wifi networks here on Earth," adds Alex Churnushin from Ball Aerospace, which has built all of DigitalGlobe's satellites.
+The difficulty then is in processing all that data, and DigitalGlobe has developed an array of automated systems to prepare the various imagery products it now sells.
+"When we have the data in the memory, we can actually do millions and trillions of operations very quickly," explains Dr Navulur.
+"We're leveraging gaming technologies and the computing speeds with cloud computing to start extracting information."
+DigitalGlobe operates at the pinnacle of the market.  There is no publicly available imagery that is sharper (some military systems are reputed to deliver 15-20cm resolutions).
+Its main competitor in Europe is Airbus Defence and Space, which has a diverse range of satellite types and can capture 70cm imagery (re-sampled to 50cm) with its Pleiades optical constellation.
+Then there is a raft of smaller operators with systems that generally work at 1m and above, with one or two now providing satellite video as well.
+Today, the image data market is worth about $1.5bn a year.
+Euroconsult expects this to climb to about $3.6bn by 2023.
+Phil Davies, whose company Deimos just launched a 75cm-capable platform, said: "What's interesting is that the market seems to be separating - into very high performance systems, such as WorldView, which are largely serving a US government market; and then other operators who are coming in with much lower-cost systems where the resolution is not as good but you still meet a lot of the market requirements."

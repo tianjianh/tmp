@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150331122716/http://www.bbc.com/news/technology-32115292
+
+[SN]TITLE[SN]
+Cyber-attacks hit British Airways, GitHub and Slack
+
+[SN]FIRST-SENTENCE[SN]
+British Airways' air-miles accounts, the coding site GitHub and the work chat service Slack have all been hit in the latest wave of cyber-attacks.
+
+[SN]RESTBODY[SN]
+The firms have all notified their users of the incidents, which varied in approach and do not appear to be connected.
+In addition, several Uber users have complained of their accounts being hacked.
+However, the car pick-up service said it had "found no evidence of a breach".
+The firms have dealt with the attacks in different ways, and BA has been criticised for how it responded.
+Complaints about points being stolen from the BA's Executive Club scheme date back at least a fortnight.
+One user said their account had been used by someone else to book a hotel room in Spain, while others reported that their list of transactions showed "ex-gratia" deductions that had wiped out their entire credit.
+"I checked my account yesterday and found that the mobile number had been changed to a Russian one. I changed it back and my miles are still there. Passwords now changed," reported another member, who appeared to have had a narrow escape.
+A spokesman for BA said that it believed only "a small number" of its frequent flyers were affected.
+"This appears to have been the result of a third party using information obtained elsewhere on the internet, via an automated process, to try to gain access to some accounts," he said.
+"We would like to reassure customers that, at this stage, we are not aware of any access to any subsequent information pages within accounts, including travel histories or payment card details."
+Security experts have, however, raised concern that BA initially sent out emails asking users to click on a link to reset their passwords.
+"That's a classic trick used by criminals phishing for login credentials," noted security consultant Graham Cluley.
+BA said it had removed the link from subsequent emails and suggested concerned members contact its service centre.
+The attack on San Francisco-based GitHub - which is used by more than 8 million software developers - has involved an attempt to knock its site offline by flooding it with traffic.
+"We are currently experiencing the largest DDoS (distributed denial of service) attack in GitHub's history," systems engineer Jesse Newland wrote on its blog.
+"These include... some sophisticated new techniques that use the web browsers of unsuspecting, uninvolved people to flood GitHub with high levels of traffic.
+"Based on reports we've received, we believe the intent of this attack is to convince us to remove a specific class of content."
+The reports suggest the data barrage was specifically directed at web pages providing China-based users with a way to circumvent local censorship controls.
+"It does look like someone in China is fighting back, as we predicted they would, against those who are trying to circumvent the 'great firewall of China'," commented security consultant Alan Woodward.
+"Ask most developers and they are likely to be using GitHub in some way, so assuming it is China this looks like their censorship attempts are now having global impact."
+When asked about the allegation, a spokeswoman for the Chinese government responded: "It is quite odd that every time a website in the US or any other country is under attack, there will be speculation that Chinese hackers are behind it. I'd like to remind you that China is one of the major victims of cyber-attacks."
+Slack reported it was attacked in February.
+The US firm provides a way for team members to communicate with each other as an alternative to email.
+The service is less than two years old, but was recently valued at being worth $2.8bn (Â£1.9bn). Were businesses to believe the data it held was insecure then its future would be threatened.
+Slack said it believed the hackers had accessed a database that would have allowed them to see user names, email addresses and Skype IDs.
+However, it added that passwords - which give users access to posted information - were encrypted in a form that made it "computationally infeasible" for the hackers to unscramble them.
+"As part of our investigation we detected suspicious activity affecting a very small number of Slack accounts," it added.
+"We have notified the individual users and team owners who we believe were impacted and are sharing details with their security teams."
+The company said that it had introduced two-factor authentication as an additional security step, which requires users to type in a code sent to their mobile phone or tablet to access the app.
+News site Motherboard has also reported that login details for Uber are being offered for sale for as little as $1.
+The BBC was contacted by one London-based user on Sunday who reported that someone else was booking rides in New York using his account without his permission, and had clocked up a $556 bill.
+Others have posted similar stories on Twitter.
+"We take any issue of this nature very seriously and after investigating have found no evidence of a breach at Uber," a spokesman responded.
+"Attempting to fraudulently access and use Uber accounts is illegal and we notify the authorities about such activity.
+"We would like to remind people to use strong and unique usernames and passwords and to avoid reusing the same credentials across multiple sites and services."

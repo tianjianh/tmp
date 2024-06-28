@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161115165936/http://www.bbc.co.uk/news/science-environment-37989169
+
+[SN]TITLE[SN]
+Maths zeroes in on perfect cup of coffee
+
+[SN]FIRST-SENTENCE[SN]
+Mathematicians are a step closer to understanding what makes a perfect cup of coffee.
+
+[SN]RESTBODY[SN]
+Through some complex calculations, they have shone a light on the processes governing how coffee is extracted for grains in a filter machine.
+This could help drinkers optimise their cuppa by applying a more precise - and scientific - approach.
+The work is published in the SIAM Journal on Applied Mathematics.
+Composed of over 1,800 chemical components, coffee is one of the most widely consumed drinks in the world.
+Estimates put the number of cups drunk around the world at more than a couple of billion each day.
+Brewing the perfect cup of coffee is always going to be a subjective endeavour. But the work by Kevin Moroney at the University of Limerick, William Lee at the University of Portsmouth and others offers a better understanding of the parameters that influence the final product.
+While past studies have looked at the maths of coffee extraction, there hasn't been that much work on drip filter machines.
+These make up more than half of the 18 million coffee machines sold yearly in Europe, and involve pouring hot water over a bed of coffee grounds housed in a filter.
+Gravity pulls the water through the filter, extracting soluble compounds from the coffee grains during the flow.
+"Our overall idea is to have a complete mathematical model of coffee brewing that you could use to design coffee machines, rather like we use a theory of fluid and solid mechanics to design racing cars." Dr Lee told BBC News.
+He said this study was a step towards that goal, adding: "We looked at the effect of coffee grain size on the way that coffee comes out of a filter coffee machine.
+"The really surprising thing to us is that there are really two processes by which coffee is extracted from grains. There's a very quick process by which coffee's extracted from the surface of the grains. And then there's a slower tail-off where coffee comes out of the interior of the grains."
+It had previously been known that grinding beans too finely could result in coffee that is over-extracted and very bitter. On the other hand not grinding them enough can make the end result too watery.
+"What our work has done is take that [observation] and made it quantitative," said Dr Lee.
+"So now, rather than just saying: 'I need to make [the grains] a bit bigger', I can say: 'I want this much coffee coming out of the beans, this is exactly the size [of grain] I should aim for."
+This could help coffee drinkers - like Dr Lee - who grind their own beans, to optimise their coffee-making routines.
+Dr Lee says he sets his grinder to the largest setting. By doing so, he says: "The grains are a bit larger than you get in the standard grind, which makes the coffee less bitter. Partly because it's adjusting that trade-off between the stuff coming out of the surface and stuff coming out of the interior. When things are larger, you're decreasing the overall surface area of the system.
+"Also, the water flows more quickly through a coffee bed of large grains, because the water's spending less time in contact with the coffee, helping reduce the amount of extraction too.
+"If it's bitter, it's because you're increasing the amount of surface area in the grains. Also, when the grains are very small, it's hard for the water to slide between them, so the water is spending a lot more time moving through the grains - giving it more time for the coffee to go out of solution."
+But what to one person might seem bitter and tarry, to another might seem like the perfect cup of coffee.
+"For industrial applications, we'd hope you could optimise the coffee machine for a certain size of grains. You could adjust the flow rate so you get the perfect extraction there," said Dr Lee.
+"Or if the coffee machine has an integrated grinder you've got two variables to play around with. You can play around with the grind size and the flow rate."
+The researchers are now looking at the shape of the coffee bed in drip filter machines.
+"The shape of the coffee bed is deformed as you brew the coffee. When it goes in first, it's sitting flat at the bottom of the filter, but at the end of [brewing] it's coating the walls of the filter. This also seems to play a role in how the coffee tastes," said Dr Lee.
+"That would allow us to address another degree of freedom: how exactly you put the water in. Do you put it in as a single jet down the centre, like water pouring out of a tap? Or do you use something more like a shower head, where it's dripping down from lots of places. Those would have different effects in disturbing the coffee bed."
+Follow Paul on Twitter.

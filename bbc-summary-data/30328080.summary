@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160102040158/http://www.bbc.co.uk/news/technology-30328080
+
+[SN]TITLE[SN]
+Raspberry Pi rival unveiled by chipmaker Imagination
+
+[SN]FIRST-SENTENCE[SN]
+British chip designer Imagination has produced a barebones computer to compete with the Raspberry Pi.
+
+[SN]RESTBODY[SN]
+Called the Creator CI20, the board has a more powerful processor than the Pi, more memory and more onboard storage.
+For its graphics, it uses a version of the Imagination chip that is also found inside Apple's iPad tablet.
+The small computer enters a growing and competitive market, with the Raspberry Pi already having sold almost four millions units.
+The CI20 will cost Â£50 ($65) and can be ordered now, though the first units will not be dispatched to customers until January 2015.
+As a chip designer, Hertfordshire-based Imagination is better known for drawing up the plans and specifications for processors that are used to handle graphics in Apple gadgets as well as phones from many other manufacturers.
+With the CI20, Imagination is entering a market that is crowded with small form-factor, barebones computers that are being used by hobbyists and others for small embedded computing projects.
+Anyone looking to buy a small computer can choose from the Raspberry Pi, the BeagleBone Black, Arduino Uno and Intel's Galileo and NUC devices.
+Like its rivals, the CI20 can run many different versions of the open source operating system Linux and it can also run the latest edition of Google's Android mobile operating system.
+It also has built-in wi-fi and Bluetooth for wireless data connections. By contrast, the BeagleBone Black and Raspberry Pi B+ devices have only Ethernet connectors built in.
+Tony King-Smith, a spokesman for Imagination, said the CI20 was aimed at people who wanted a "high-performance" board for their development projects.
+Writing on the Bit-Tech reviews site, Gareth Halfacree said there was no  doubt that the CI20 was seeking to take part of the market that the Pi currently dominates.
+However, he wondered, if the high price and "uncommon instruction set architecture" would limit its appeal.
+One expert who has had time to test the kit also had doubts about its potential.
+"There will be a modicum of pick-up, especially for people trying to develop for Android it could be a very useful low-cost device to have," said Chris Green, principal technology analyst at the Davies Murphy Group consultancy.
+"But do I think it will make much wider impact? The answer is no.
+"It just doesn't have the momentum that the Raspberry Pi has.
+"The Pi was seen as a good cause and had backing from various corporations, the media and even government departments that gave it a good word because of the educational potential it had.
+"The Creator CI20 is just a product, the Raspberry Pi is a movement."

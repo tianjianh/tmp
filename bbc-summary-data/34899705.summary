@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151129171418/http://www.bbc.com/news/technology-34899705
+
+[SN]TITLE[SN]
+Extortion attempt on victims of Patreon site hack
+
+[SN]FIRST-SENTENCE[SN]
+Some members of the crowdfunding website Patreon, which was hacked last month, say they have received emails demanding bitcoin payments in return for the protection of their private data.
+
+[SN]RESTBODY[SN]
+The data listed in the email includes credit card details, social security numbers and tax identification numbers.
+Patreon says the email is a scam and the information is false.
+The site allows people to make regular donations to artists for projects.
+The email, tweeted by cartoonist Steve Streza, says: "Unfortunately, your data was leaked in the recent hacking of the Patreon website, and I now have your information."
+It goes on to ask for one bitcoin (Â£213; $322) in return for not publishing the information online.
+There appear to have been three transactions made to the bitcoin wallet given in the email over the weekend, but each is for a tiny fraction of the virtual currency, amounting to just a few pence, according to the Blockchain, a continuing record of every bitcoin transaction made.
+About 15GB of data, including names, addresses and donations, was published online in October following the hack attack on Patreon.
+At the time, chief executive Jack Conte said card details had not been stolen.
+"We do not store full credit card numbers on our servers and no credit card numbers were compromised," he wrote on the company's blog.
+"Although accessed, all passwords, social security numbers and tax form information remain safely encrypted with a 2,048-bit RSA key."
+Security expert Troy Hunt told the BBC the hack had been made possible by site tests.
+"It looks as though the breach has come about by a fundamental yet very common mistake software developers... make - taking a copy of live production data and placing it in another location that lacks the same rigorous security controls," he said.
+"Often this is done for testing purposes and is a very dangerous shortcut as we've now seen."

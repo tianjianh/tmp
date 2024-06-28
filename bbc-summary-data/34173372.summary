@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150907215841/http://www.bbc.com/news/technology-34173372
+
+[SN]TITLE[SN]
+Porn app took secret photos of users
+
+[SN]FIRST-SENTENCE[SN]
+A malicious Android app that held people to ransom has been discovered by researchers at security firm Zscaler.
+
+[SN]RESTBODY[SN]
+Adult Player appeared to offer pornography, but secretly took pictures of users with the phone's front-facing camera.
+It then locked the user's device and displayed a demand for $500 (Â£330) which was difficult to bypass.
+One security expert told the BBC that ransomware was a lucrative and growing area of cybercrime.
+Apps which demand money from people with a threat to release private information, or wipe a device, are known as ransomware.
+In August, Intel Security said examples of ransomware had increased 127% since 2014 - primarily affecting desktop computers and laptops.
+"One of the reasons for the increase is that it's very easy to make," said Raj Samani, chief technology officer for Intel Security in Europe.
+"There are people you can pay to do the work for you, and it pays really well. One group we tracked made more than $75,000 in 10 weeks.
+"Apps like this rely on the embarrassment factor. If you don't pay, your reputation is on the line."
+Adult Player was the second example of pornography-focused ransomware discovered by Zscaler.
+The app was not available from vetted storefronts such as Google Play, but could be installed directly from a webpage.
+Zscaler said the app's ransom message kept the phone's screen switched on at all times, and reappeared if the handset was restarted.
+"Ransomware is more prevalent on computers than phones, but this could be the start of a trend," said Mr Samani.
+"You can stay safe with some basic common sense. Some ransomware threatens to delete your photos, videos and documents so back up your data. Then if you are targeted you can wipe your system and start over.
+"Only download apps from the proper Google Play store. And if you receive an app download link in an email, don't click it."
+Zscaler said anybody that had downloaded Adult Player should reboot their handset into "safe mode". The exact method varies between handset manufacturers.
+Safe mode loads the operating system without running any third-party apps, allowing people to delete malicious software.

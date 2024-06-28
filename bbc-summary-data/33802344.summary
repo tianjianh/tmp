@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170326040319/http://www.bbc.co.uk/news/technology-33802344
+
+[SN]TITLE[SN]
+Warning after security experts hack Tesla car
+
+[SN]FIRST-SENTENCE[SN]
+Tesla has issued a software update for its model S car after two researchers found a way to subvert its onboard systems.
+
+[SN]RESTBODY[SN]
+It is the second time in a month that a car maker has had to act to solve security problems with its vehicles uncovered by hackers.
+In the latest instance, the researchers were able to shut off the car and force it to stop.
+Tesla said that it had addressed all six vulnerabilities.
+It told the BBC that it had worked closely with the security community to protect its systems.
+Marc Rogers, of security firm Cloudflare, and Kevin Mahaffey, from Lookout, have released information about problems they found in Tesla's Model S vehicle.
+Details of their work will be disclosed at the Def Con hacker conference currently under way in Las Vegas.
+The researchers praised Tesla for the way the vehicle handled the bogus commands and how the car maker responded to their findings.
+In late July, Fiat Chrysler issued a recall for more than 1.4 million vehicles after hackers Charlie Miller and Chris Valasek showed how to use bugs in the onboard software of the Jeep Cherokee to shut it down remotely.
+By exploiting a connection between the car's entertainment system and its onboard controllers, the two researchers were able to issue commands and take over the car.
+Mr Rogers said car makers faced difficulties because they had little control over what was done to vehicles once they were in customers' hands.
+"With embedded systems like you find in cars, you cannot control who has access to it," he said. "Someone can take it home and apply any tool they want to it."
+Tesla said in a statement to the BBC: "Our well-developed safeguards protect every layer of our vehicle and network security system, including for the mobile app, Tesla's servers, and the car itself.
+"Through our responsible reporting process, a dedicated team of top-notch Tesla security professionals works closely with the researcher community to ensure that we continue to protect our systems against vulnerabilities by constantly stress-testing, validating, and updating our safeguards."
+Mr Rogers told the BBC that the research into the latest security weaknesses were "ongoing".
+Their research differed from the loopholes found in the Jeep because exploiting the bugs on the Tesla required them to get physical access to the car.
+However, the pair said Tesla deserved credit for what it had got right about car software security.
+It said the cars in Tesla's fleet could be updated "over the air", which Mr Mahaffey said meant it would be easier to apply patches in the future.
+They also said that because it was designed to cope with non-security-related failures "gracefully", the car would slow down gradually when its engine was turned off and not just come to a sudden halt.
+But they said Tesla had work to do to ensure a strict separation between systems that control the car and those that oversee its entertainment system.
+Although much of the recent work on car software has been carried out in a lab setting, that did not mean the potential threat could be ignored, said Mr Rogers.
+"We cannot afford to have millions of vulnerable cars driving around our cities," he said.

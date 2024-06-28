@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170821132605/http://www.bbc.com/news/technology-36650848
+
+[SN]TITLE[SN]
+AI fighter pilot wins in combat simulation
+
+[SN]FIRST-SENTENCE[SN]
+An artificially intelligent fighter pilot system has defeated two attacking jets in a combat simulation.
+
+[SN]RESTBODY[SN]
+The AI, known as Alpha, used four virtual jets to successfully defend a coastline against two attacking aircraft - and did not suffer any losses.
+Alpha, which was developed by a US team, also triumphed in simulation against a retired human fighter pilot.
+One military aviation expert said the results were promising.
+In the simulation described in the study, both attacking jets - the blue team - had more capable weapons systems.
+But Alpha's red team was able to dispatch the enemy planes after performing evasive manoeuvres.
+In their paper, researchers from the University of Cincinnati and defence company Psibernetix describe Alpha as "a deadly opponent".
+Reporting on simulated assaults against retired US Air Force colonel Gene Lee, the researchers wrote: "Not only could he not score a kill against it, he was shot out of the air by the reds every time after protracted engagements."
+Alpha uses a form of artificial intelligence based on the concept of "fuzzy logic" - in which a computer considers a wide range of options before making a decision.
+Because a simulated fighter jet produces so much data for interpretation, it is not always obvious which manoeuvre is most advantageous or, indeed, at what point a weapon should be fired.
+Fuzzy logic systems can weigh up the significance of these individual pieces of data before making a broader decision.
+The researchers' key achievement here was to do this in real-time with computational efficiency.
+"Here, you've got an AI system that seems to be able to deal with the air-to-air environment, which is extraordinarily dynamic, has an extraordinary number of parameters and, in the paper, more than holds its own against a skilled and capable, experienced combat pilot," said Doug Barrie, a military aerospace analyst at think tank IISS.
+"It's like a chess master losing out to a computer."
+But Mr Barrie also told the BBC  it might not be easy or appropriate to translate the system to real-world combat environments.
+If such a system were ever used in a live setting and decided to attack a non-military target, the results could be dire, he said.
+"The public furore about that would be immense," he said.
+However, at the very least, Mr Barrie said, Alpha had potential as a simulation tool or as a device to help develop better systems for assisting human pilots in the air.

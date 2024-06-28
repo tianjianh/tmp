@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160304012430/http://www.bbc.co.uk/news/technology-23587620
+
+[SN]TITLE[SN]
+Users of hidden net advised to ditch Windows
+
+[SN]FIRST-SENTENCE[SN]
+Legitimate users of the Tor anonymous browsing service are being advised to stop using Windows if they want to keep their identity hidden.
+
+[SN]RESTBODY[SN]
+The advisory comes after an attack on Tor that targeted Windows users sought to gather data that could be used to identify people.
+In addition, Tor warned, people should turn off a widely used web technology that was exploited in the attack.
+It is still not clear who was behind the sophisticated attack.
+The code to exploit the bug was fed into the Tor network via servers owned by Freedom Hosting that ran sites accessible only via Tor. In 2011, Freedom Hosting sites on Tor came under attack by the Anonymous hacktivist collective, which claimed they hosted large amounts of images of child sexual abuse.
+Invented by the US Naval Research Laboratory to help people use the web without being traced, Tor (The Onion Router) aids anonymity in two ways.
+First, it can be used to browse the world wide web anonymously. It does this by routing traffic through many separate encrypted layers to hide the data identifiers that prove useful in police investigations.
+Second, there are hidden sites on Tor that use the .onion domain suffix. These are effectively websites but, as they sit on Tor, are almost impervious to investigation.
+Although many media reports about Tor have focused on how it is used to spread pornography and images of child abuse as well as to sell drugs via sites such as the Silk Road, it is also used for many legitimate means.
+Journalists and whistle-blowers use it to communicate with each other, with the New Yorker magazine's Strongbox being one example of a "dead drop" service based on the technology.
+It is also used by military and law enforcement officers to gather intelligence.
+The project's developers further suggest it be used as a way for people wishing to research Aids, birth control or religion anonymously in areas where information on such topics is restricted.
+Tor has been funded by, among others, the Electronic Frontier Foundation digital rights group, Google, Human Rights Watch and the US National Science Foundation.
+The most recent attack is widely believed to have been carried out in an attempt to identify people viewing or swapping images of abuse via Freedom Hosting.
+The Tor Project's overseers have stressed that it has no connection or affiliation with whoever is in charge of Freedom Hosting.
+Tor advised people to stop using Windows as it feared that the action against Freedom Hosting might compromise the identity of other people who put the anonymous browsing service to legitimate uses.
+Tor, aka The Onion Router, attempts to hide a person's location and identity by sending data across the net via a very circuitous route. Encryption applied at each hop along this route makes it very hard to connect a person to any particular activity.
+On 4 August warnings about the action against Freedom Hosting started to circulate and revealed how it exploited a vulnerability in some versions of the Firefox browser. Versions before release 17.0.7 were open to the attack, which sought to log unique details of machines using Tor.
+While versions of Tor running on any operating system were potentially vulnerable, in practice only those using Windows were being hit, the Tor project said in its latest update about the attack.
+"Really, switching away from Windows is probably a good security move for many reasons," said the security advisory from Tor overseers.
+It added: "... this wasn't the first Firefox vulnerability, nor will it be the last."
+The advisory urged people to upgrade to a newer version of the Tor software bundle, which includes Firefox, that is not vulnerable to the bug. It also suggested people turn off Javascript, the programming language many websites use to add interactive features.
+However, it cautioned, turning off Javascript would change the way many websites worked.
+As an alternative, Tor suggested the Linux open-source operating system, Apple's OSX or more esoteric systems such as Tails.
+The warning comes as security researchers and computer forensics experts try to trace where the unique IDs grabbed by the attack code were being sent.
+Early work showed it was going to a location in the American state of Virginia. Further sleuthing now suggests the web address it is being sent to is run by the US National Security Agency.

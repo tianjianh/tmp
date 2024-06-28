@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170104181001/http://www.bbc.co.uk/news/technology-35778288
+
+[SN]TITLE[SN]
+Minecraft to run artificial intelligence experiments
+
+[SN]FIRST-SENTENCE[SN]
+Minecraft is to become a testing ground for artificial intelligence experiments.
+
+[SN]RESTBODY[SN]
+Microsoft, owner of the popular video game, revealed that computer scientists and amateurs will be able to evaluate and develop AI software using its virtual landscapes from July.
+The company says Minecraft is more "sophisticated" than existing AI research simulations and cheaper to use than building a robot.
+One expert said it had great potential.
+"This is the state-of-the-art," said Prof Jose Hernandez-Orallo from the Technical University of Valencia, one of a small group of academics given early access to the software.
+"At this moment there is nothing comparable, and this is just in its beginnings, so I see many possibilities for it."
+To take advantage of the offer, users will need to install AIX - a software platform that hooks into Minecraft and allows the artificial intelligence code to control a character and get feedback about the consequences of its actions.
+AIX will be open source, meaning the only cost involved will be that of buying a standard licence for the game.
+The experiments will run on the researchers' own computers and be "roped off" from normal players. However, in time the aim is to allow people to interact with the code.
+"People build amazing structures that do amazing things in Minecraft, and this allows experimenters to put in tasks that will stretch AI technology beyond its current capacity," explained Katja Hofmann, who leads the project at Microsoft Research's Cambridge lab in the UK.
+"But eventually, we will be able to scale this up further to include tasks that allow AI agents to learn to collaborate with humans and support them in a creative manner.
+"This provides a way to take AI from where it is today up to human-level intelligence, which is where we want to be, in several decades time."
+Improving AI software by getting it to play video games has been done before. But Microsoft suggests the open-ended nature of Minecraft makes it particularly useful because of the huge variety of situations it can simulate from first-person perspectives.
+"It allows you to have 'embodied AI'," explained Matthew Johnson, the principal software engineer working on AIX.
+"So, rather than have a situation where the AI sees an avatar of itself, it can actually be inside, looking out through the eyes of something that is living in the world.
+"We think this is an essential part of building this kind of general intelligence."
+Microsoft expects one of the most popular types of research will be reinforcement learning, in which an AI agent learns how best to carry out a task via a mix of experimentation and use of prior knowledge, rather than being told what to do.
+This process was recently used by Google's AlphaGo program. Last week, it triumphed against one of the best ever players of the board game Go after having played thousands of games against itself to discover new strategies.
+While that was a specialised task, Microsoft suggests Minecraft provides a way for AI to learn a wide range of concepts.
+"Experimenters could design a task with features such as lava, which might be very dangerous for the agent, and then evaluate how quickly it can learn to interpret the environment," Ms Hofmann told the BBC.
+"But the platform is also open to more general AI research, for example how to make agents integrate language and vision.
+"We see this as a stepping stone to technology that will eventually be applied to robotics, but that we can first explore in a safer environment that we completely control and is very cheap to run."
+Although AI specialists may get the most out of the platform, Microsoft stresses that AIX will also support simple programs that children can create, and the firm has promised to provide a range of teaching materials.
+"We want people of all skills and ages to get involved," said Mr Johnson.
+Prof Jose Hernandez-Orallo commended the idea.
+"Kids could create agents in a world they are already fascinated with, and play with them," he said.
+"This could boost young people's interest in artificial intelligence, and we expect that in the next 10 to 20 years we are going to need more people working in the area."

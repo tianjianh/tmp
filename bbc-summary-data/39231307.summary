@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170312204550/http://www.bbc.com/news/technology-39231307
+
+[SN]TITLE[SN]
+Google develops invisible web security Captcha form
+
+[SN]FIRST-SENTENCE[SN]
+Website security checks that challenge people to prove they are human are likely to "disappear" in favour of a new system developed by Google.
+
+[SN]RESTBODY[SN]
+Captcha checks typically ask people to complete a puzzle that a computer would struggle to complete correctly.
+They are designed to stop automated bots accessing and using websites.
+Google's new system tracks how a person interacts with a website to prove they are real, so the puzzles are no longer necessary for most people.
+Captcha checks are often deployed by concert ticket websites to stop people setting up automated bots to buy all the best tickets. They also appear when somebody is trying to log in to a website with the wrong password, to spot automated attempts.
+The puzzles present challenges that people find simple but computers can find more difficult, such as:
+The puzzles also benefit companies such as Google by helping train artificial intelligence algorithms. For example, if Google's AI can not recognise a house number in a photograph taken by a Streetview car, it may add the photo to its Captcha system to get human input.
+However, genuine users can find the interruption by puzzles a nuisance.
+Google's reCaptcha system has already simplified the process by asking users to tick a check box on the website they are using. The box monitors how each person has interacted with it, to separate natural human clicks from bots.
+For example, an automated script might take just a second to fill in a form on a website, and may not move the mouse at all during the process.
+Google's latest development removes the check box as well, and instead analyses how people have interacted with other elements on a website such as the "submit form" button.
+However, in some cases "suspicious" activity will still trigger a puzzle.

@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151123180424/http://www.bbc.com/news/technology-25653664
+
+[SN]TITLE[SN]
+Yahoo malware enslaves PCs to Bitcoin mining
+
+[SN]FIRST-SENTENCE[SN]
+Adverts on Yahoo's homepage were infected with malware designed to mine the Bitcoin virtual currency, according to security experts.
+
+[SN]RESTBODY[SN]
+Yahoo confirmed that for a four-day period in January, malware was served in ads on its homepage.
+Experts estimate that as many as two million European users could have been hit.
+Security firm Light Cyber said the malware was intended to create a huge network of Bitcoin mining machines.
+"The malware writers put a lot of effort into making it as efficient as possible to utilise the computing power in the best way," Light Cyber's founder Giora Engel told the BBC.
+Bitcoin mining malware is designed to steal computing power to make it easier for criminals to accumulate the virtual currency with little effort on their part.
+"Generating bitcoins is basically guessing numbers," said Amichai Shulman, chief technology office of security firm Imperva.
+"The first one to guess the right number gets 25 bitcoins and if you have a large volume of computers guessing in a co-ordinated way then you have a more efficient way of making money," he added.
+Other than a computer running slower, victims will be unaware that their machine is being used in what could become known as a "bitnet".
+It is a variation on the traditional botnet, networks of malware-infected computers used to churn out spam or bombard websites with requests in order to knock them offline.
+Some experts estimate that such networks could be generating as much as $100,000 (Â£60,000) each day.
+Since bitcoins have risen in value - at its peak one bitcoin was worth $1,000 - making it a lucrative market for online criminals.
+"Bitcoin mining malware is the new frontier as criminal gangs look for new ways to make money," said Mr Engel.
+Yahoo acknowledged the attack in a statement earlier this week.
+"From December 31 to January 3 on our European sites, we served some advertisements that did not meet our editorial guidelines - specifically, they spread malware," the statement read.
+It went on to say that users in America, Asia and Latin America weren't affected but did not specify how many European users were victims.
+Fox IT, the Dutch cybersecurity firm which revealed the malware attack, estimates that there were around 27,000 infections every hour the malware was live on the site.
+Over the period of the attack that could mean as many as two million machines were infected.
+Such attacks may be hard to avoid, said Mr Shulman.
+"For an ad platform it is virtually impossible to guarantee 100% malware free ads."
+"There are many independent stakeholders involved in the process of web advertising, so from time to time any ad platform is bound to deliver malware."

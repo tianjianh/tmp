@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170610055519/http://www.bbc.co.uk/news/technology-23573048
+
+[SN]TITLE[SN]
+Child abuse sites on Tor compromised by malware
+
+[SN]FIRST-SENTENCE[SN]
+A service accused of helping distribute child abuse images on a hidden part of the internet has been compromised.
+
+[SN]RESTBODY[SN]
+Sites using service provider Freedom Hosting to deliver their material have had code added to their pages, which could be used to reveal the identities of people visiting them.
+Freedom Hosting delivered sites via Tor, a network designed to keep net activity anonymous.
+The news has led some to claim that Tor no longer offers a "safe option".
+"This challenges the assumption people have made that Tor is a simple way of maintaining your anonymity online," Alan Woodward, chief technology officer at security advisors Charteris, told the BBC.
+"The bottom line is that is not guaranteed even if you think you are taking the right steps to hide your identity. This is the first time we've seen somebody looking to unmask people rather than just security researchers discussing the possibility."
+Invented by the US Naval Research Laboratory to help people use the web without being traced, Tor (The Onion Router) aids anonymity in two ways.
+First, it can be used to browse the world wide web anonymously. It does this by routing traffic through many separate encrypted layers to hide the data identifiers that prove useful in police investigations.
+Second, there are hidden sites on Tor that use the .onion domain suffix. These are effectively websites but, as they sit on Tor, are almost impervious to investigation.
+Although many media reports about Tor have focused on how it is used to spread pornography and images of child abuse as well as to sell drugs via sites such as the Silk Road, it is also used for many legitimate means.
+Journalists and whistle-blowers use it to communicate with each other, with the New Yorker magazine's Strongbox being one example of a "dead drop" service based on the technology.
+It is also used by military and law enforcement officers to gather intelligence.
+The project's developers also suggest it be used as a way for people wishing to research Aids, birth control or religion anonymously in areas where information on such topics is restricted.
+Tor has been funded by, among others, the EFF, Google, Human Rights Watch and the US National Science Foundation.
+Mr Woodward added that the way the added code had been designed suggested a US law enforcement agency was behind the breach.
+Tor users expressed mixed feelings about the news.
+"This exploit targets kiddie porn viewers only. If that's not you, you have nothing to worry about," suggested one.
+An "exploit" refers to software that makes programs, websites and other code do something they were not originally designed to do.
+But another said: "This week it's child porn, next week it may be a whistle-blower or an activist."
+News of the action was confirmed by an administrator of the Tor Project on its blog.
+It said that over the weekend people had contacted it to say that a large number of sites using Tor, which were hidden from other net users, had gone offline simultaneously.
+"The current news indicates that someone has exploited the software behind Freedom Hosting," it said.
+"From what is known so far, the breach was used to configure the server in a way that it injects some sort of Javascript exploit in the web pages delivered to users. This exploit is used to load a malware payload to infect users' computers."
+Freedom Hosting was previously targeted by the Anonymous hacktivist collective, whose members temporarily forced it offline in 2011 after claiming it was the largest host of material showing child abuse on Tor.
+The Daily Dot news site reports that paedophiles continued to use the hosting service and have been warning each other of the breach since the news emerged.
+They also told each other to stop using TorMail, a service used to allow people to send and receive email anonymously, which used Freedom Hosting's servers.
+Freedom Hosting also provided access to HackBB, a hacking-themed discussion forum, and the Cleaned Hidden Wiki, an encyclopaedia of Tor and other dark nets.
+The hosting service's terms and conditions had stated that illegal activities were not allowed on the sites it supported, but added that it was "not responsible" for its users' actions.
+Tor's developers have stressed that "the person, or persons, who run Freedom Hosting are in no way affiliated or connected to The Tor Project".
+Analysis of the Javascript exploit suggests that it takes advantage of a vulnerability in Firefox 17, which meant that people using that version of Mozilla's browser could be identified, despite the protections built into Tor.
+"It appears to connect the machine using the compromised browser to an address which appears to originate from Reston, Virginia, US, and sends the hostname and MAC [media access control] address of the machine," Mr Woodward said.
+"Unlike IP [internet protocol] addresses, media access control addresses are considered unique to a particular piece of hardware, although they can be spoofed under certain circumstances.
+"It seems unlikely that the malware was written by criminals as the information it is sending back to its masters is of little use to anyone other than law enforcement agencies who are trying to track down machines that are using the Tor network to remain anonymous."
+News of the breach came shortly after the Irish Times reported that a 28-year-old Dublin-based man had been arrested and accused by the FBI of being "the largest facilitator of child porn on the planet".
+It said that Eric Eoin Marques faces allegations that he had aided and abetted a conspiracy to advertise material showing the abuse of prepubescent children.
+The paper reported that the US authorities are seeking his extradition on four charges.
+It said the judge in the case ruled that while Mr Marques was entitled to the presumption of innocence, he should remain in custody pending a further hearing because he posed a flight risk.
+A spokesman for the FBI told the BBC: "An individual has been arrested in Ireland as part of an ongoing criminal investigation in the United States. Because this is matter is ongoing, longstanding Department of Justice Policy prohibits us from discussing this matter further."

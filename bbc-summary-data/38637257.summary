@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170118233631/http://www.bbc.com/news/business-38637257
+
+[SN]TITLE[SN]
+Can your voice reveal whether you have an illness?
+
+[SN]FIRST-SENTENCE[SN]
+Our voices are amazing things.
+
+[SN]RESTBODY[SN]
+We can use them to sing, shout and whisper sweet nothings. We can use them to activate gadgets and prove who we are to banks.
+And now researchers believe they can also reveal whether we're getting ill.
+A US start-up called Canary Speech is developing a way of analysing conversations using machine learning to test for a number of neurological and cognitive diseases, ranging from Parkinson's to dementia.
+The project was born out of a painful personal experience for the firm's co-founder Henry O'Connell.
+"It has been my pleasure to have as a friend for nearly 30 years a dear gentleman who was diagnosed six years ago with Parkinson's disease," says Mr O'Connell.
+"My friend was told when the diagnosis was finally made that it was likely that he had been suffering from Parkinson's for over 10 years."
+As with so many diseases, early diagnosis can play a crucial role in effectively managing the condition, but recent research highlights the difficulties in correctly diagnosing it, with doctors often struggling to distinguish the symptoms.
+And the longer the condition goes undiagnosed, the more severe the symptoms become.
+"During the years before his diagnosis was accurately made, my friend, suffering from muscle and apparent nerve-related pain, was treated in several medical facilities," says Mr O'Connell.
+"The muscle and nerve-related pain were directly associated with a progressing Parkinson's illness. Because it went undiagnosed, proper treatment was delayed and his Parkinson's progressed potentially more rapidly than it would have under proper diagnosis and treatment."
+Canary Speech developed algorithms after examining the speech patterns of patients with particular conditions, including Alzheimer's, dementia and Parkinson's.
+This enabled them to spot a number of tell-tale signs both pre and post-diagnosis, including the kinds of words used, their phrasing, and the overall quality of speech.
+For instance, one symptom of the disease is a softening of the voice - something than can be easily overlooked by those close to us. But Canary Speech's software is capable of picking up such small changes in speech patterns.
+Fellow co-founder Jeff Adams was previously chief executive at Yap, the company bought by Amazon and whose technology subsequently formed the core of the tech giant's voice-activated Echo speaker.
+The overall goal is to be able to spot the onset of these conditions considerably sooner than is currently possible.  In initial trials, the software was used to provide real-time analysis of conversations between patients and their clinicians.
+As with so many machine learning-based technologies, it will improve as it gains access to more data to train the algorithms that underpin it.
+And as more voice-activated devices come on to the market and digital conversations are recorded, the opportunities to analyse all this data will also increase.
+Some researchers have analysed conversations between patients and drug and alcohol counsellors, for example, to assess the degree of empathy the therapists were displaying.
+"Machine learning and artificial intelligence has a major role to play in healthcare," says Tony Young, national clinical lead for innovation at NHS England.
+"You only have to look at the rapid advancements made in the last two years in the translation space.  Machine learning won't replace clinicians, but it will help them do things that no humans could previously do."
+It is easy to see how such technology could be applied to teaching and training scenarios.
+Voice analysis is also being used in commercial settings.
+For instance, tech start-up Cogito, which emerged from Massachusetts Institute of Technology, analyses the conversations taking place between customer service staff and customers.
+They monitor interactions in real time. Their machine learning software compares the conversation with its database of successful calls from the past.
+The team believes that it can provide staff with real-time feedback on how the conversation is going, together with advice on how to guide things in a better direction - what it calls "emotional intelligence".
+These tips can include altering one's tone or cadence to mirror that of the customer, or gauging the emotions on display to try to calm the conversation down.
+It's even capable of alerting the supervisor if it thinks that greater authority would help the conversation reach a more positive conclusion. The advice uses the same kind of behavioural economics used so famously by the UK government's Behavioural Insights Team, also known as the Nudge Unit.
+Early customers of Cogito's product, including Humana, Zurich and CareFirst BlueCross, report an increase in customer satisfaction of around 20%.
+As the internet of things spreads its tentacles throughout our lives, voice analysis will undoubtedly be added to other biometric ways of authenticating ourselves in a growing number of situations.
+Google's Project Abacus, for example, is dedicated to killing passwords, given that 70% of us apparently forget them every month.
+It plans to use our speech patterns - not just what we say but how we say it - in conjunction with other behavioural data, such as how we type, to build up a more reliable picture of our identity. Our smartphones will know who we are just by the way we use them.
+The big - silent - elephant in the room is how all this monitoring and analysis of our voices will impact upon our right to privacy.

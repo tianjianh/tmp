@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151227130024/http://www.bbc.co.uk/news/technology-26263510
+
+[SN]TITLE[SN]
+Lie detector on the way to test social media rumours
+
+[SN]FIRST-SENTENCE[SN]
+A lie detector for social media is being built to try to verify online rumours.
+
+[SN]RESTBODY[SN]
+The system will analyse, in real time, whether a posting online is true.
+It will also identify whether social media accounts have been created just to spread false information.
+The aim is to help organisations, including governments and emergency services, to respond more effectively to events.
+The project grew from research based on the use of social media during the London riots in 2011. The data being analysed will include posts on Twitter, comments in healthcare forums and public comments on Facebook.
+The researchers say that online rumours will be classified into four types:
+"There was a suggestion after the 2011 riots that social networks should have been shut down, to prevent the rioters using them to organise," said Dr Kalina Bontcheva, lead researcher on the project at the University of Sheffield.
+By Rory Cellan-JonesTechnology correspondent
+Jony Ive has resigned from Apple, Justin Bieber is dead and the army has been mobilised to deal with riots in London. No, none of these stories is true, but they are all rumours that have been spread via social media in recent years.
+Twitter, Facebook and other social networks have played an increasingly vital role in breaking stories rapidly, from an earthquake in China to the emergency landing of an aircraft on the Hudson River in New York. But journalists are also learning to their cost that just because it is on Twitter that does not make it true.
+The other big trend is the use of a technique called sentiment analysis to comb through vast amounts of social media output and detect patterns, whether it is predicting which movie will be a hit or determining which candidate has won a presidential debate.
+The record so far has been distinctly mixed - so relying on similar techniques to separate truth from falsehood on social media may be somewhat optimistic.
+"But social networks also provide useful information. The problem is that it all happens so fast and we can't quickly sort truth from lies.
+"This makes it difficult to respond to rumours, for example, for the emergency services to quash a lie in order to keep a situation calm," she said.
+The system will categorise the sources of information to assess their authority. Categories include news outlets, journalists, experts, eye witnesses, members of the public and bots - accounts that automatically generate social media posts.
+It will also examine accounts for a history or background to try to identify whether the account has been created just to spread rumours.
+Conversations on social networks will be studied to see how they evolve and sources will be checked to see if information can be confirmed or denied.
+"Only text will be analysed," said Dr Bontcheva.
+"We will not be doing image analysis, so we won't be looking to see if a photo has been altered - it's too technically difficult."
+The results of the system searches will be displayed on a "visual dashboard" so users can see if a rumour is taking hold.
+The first set of results is expected to be ready in 18 months and will be tested mainly with groups of journalists and healthcare professionals.
+"We've got so see what works and what doesn't, and to see if we've got the balance right between automation and human analysis," said Dr Bontcheva.
+The project, which is named after the Greek mythological character Pheme - famed for spreading rumours - will run for three years. It involves five universities - Sheffield, Warwick, King's College London, Saarland in Germany and Modul in Vienna. Four companies are also taking part - Atos, iHub, Ontotext and swissinfo.
+At the end of the project, it is hoped that a customised tool will be produced for journalists.

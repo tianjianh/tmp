@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170512214648/http://www.bbc.co.uk/news/technology-35880610
+
+[SN]TITLE[SN]
+Three US hospitals hit by ransomware
+
+[SN]FIRST-SENTENCE[SN]
+The IT systems of three US hospitals have been infected with ransomware, which encrypts vital files and demands money to unlock them.
+
+[SN]RESTBODY[SN]
+The systems, at Kentucky Methodist Hospital, Chino Valley Medical Center and Desert Valley Hospital, California, are now running normally again.
+None of the hospitals is believed to have paid the ransom.
+And the cases are now being investigated by the FBI.
+The Kentucky Methodist Hospital had to shut down all of its desktop computers and activate a back-up system.
+A message on its homepage said: "Methodist Hospital is currently working in an internal state of emergency due to a computer virus that has limited our use of electronic web-based services.
+"We are currently working to resolve this issue, until then we will have limited access to web-based services and electronic communications."
+It later said no patient data or care had been affected.
+Fred Ortega, a spokesman for Prime Healthcare Services, which owns Chino Valley Medical Center and Desert Valley Hospital, said: "It did cause significant disruptions of our IT systems.
+"However, most of the systems and the critical infrastructure has been brought back online."
+The attack comes weeks after it was revealed Hollywood Presbyterian Medical Centre in Los Angeles had been attacked by ransomware.
+In that case, it paid $17,000 to get access to files back.
+Kentucky Methodist Hospital information systems director Jamie Reid named the malware involved as Locky, a new bug that encrypts files, documents and images and renames them with the extension .locky.
+The most common way Locky gets itself on machines is via a spam email with an attached document that looks like nonsense and advises readers to enable macros "if the data encoding is incorrect".
+Once the malware is downloaded, it sends a message to desktops with instructions about how users can pay to have files unlocked.
+In November, a report from Intel's McAfee labs said the number of ransomware attacks was expected to grow in 2016.
+Security expert Brian Krebs said: "It's a fair bet that as ransomware attacks and attackers mature, these schemes will slowly become more targeted.
+"I also worry that these more deliberate attackers will take a bit more time to discern how much the data they've encrypted is really worth, and precisely how much the victim might be willing to pay to get it back."

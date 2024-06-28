@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160210181504/http://www.bbc.co.uk/news/technology-34963686
+
+[SN]TITLE[SN]
+Five million customers affected by Vtech database hack
+
+[SN]FIRST-SENTENCE[SN]
+Electronic toy and educational material seller Vtech has confirmed that about five million customers were affected in the data theft reported on Friday.
+
+[SN]RESTBODY[SN]
+They are from all over the world, including the US, UK, France and China.
+Vtech has also suspended 13 websites following the hacking of its Learning Lodge app database.
+The hacked database included a lot of customer data, including some details about children, and the company was told about the breach by a journalist.
+It did not contain any credit card information, Vtech said, but it did store the "name, email address, encrypted password, secret question and answer for password retrieval, IP address, mailing address and download history" of customers.
+"The Vtech breach illustrates one of the major issues facing us today," said Tod Beardsley, security engineering manager at internet security firm Rapid7.
+"With the Internet of Things, companies of all sorts are rapidly morphing into information technology companies, but without the hard-won security learnings that traditional infotech companies now enjoy.
+"It's tough to be both a toy manufacturer and a mature technology company with a robust security program.
+"This is not just a challenge for companies that are just now entering tech, but a challenge for the security industry to communicate effectively, and quickly, to these companies who haven't yet earned their security stripes the hard way."
+Professor Alan Woodward, cybersecurity expert at Surrey University, said it looked like the Hong Kong-based firm may have been subjected to a simple hacking technique known as an SQL injection.
+"These breaches are endemic and we have to stop. If that means focusing the minds of these companies through big fines then so be it. It needs to be taken seriously and those responsible held to account," he told the BBC.

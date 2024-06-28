@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170619221300/http://www.bbc.com/news/technology-40326544
+
+[SN]TITLE[SN]
+Euro MPs back end-to-end encryption for all citizens
+
+[SN]FIRST-SENTENCE[SN]
+A European Parliament committee wants end-to-end encryption to be enforced on all forms of digital communication to protect European Union (EU) citizens.
+
+[SN]RESTBODY[SN]
+The draft legislation seeks to protect sensitive personal data from hacking and government surveillance.
+EU citizens are entitled to personal privacy and this extends to online communications, the committee argues.
+A ban on "backdoors" into encrypted messaging apps like WhatsApp and Telegram is also being considered.
+Encryption involves digitally scrambling a communication to protect its contents, and then using a digital key to reassemble the data.
+End-to-end encryption means the company providing the service does not have access to the key, meaning it cannot "listen in" to what is being shared - giving the sender and recipient added confidence in the privacy of their conversation.
+"The principle of confidentiality should apply to current and future means of communication, including calls, internet access, instant messaging applications, email, internet phone calls and personal messaging provided through social media," said a draft proposal from the European Parliament's Committee on Civil Liberties, Justice, and Home Affairs.
+The proposal seeks to amend Article Seven of the EU's Charter of Fundamental Rights to add online privacy and will require approval by the European Parliament and the European Council before it can be passed into law.
+During the UK's recent election campaign, the Conservative Party said that tech firms should provide the authorities "access to information as required" to help combat online radicalisation, but ministers have also said they do not want to weaken encryption.
+That has led to some confusion among tech industry leaders as to whether the government wants some kind of "backdoor", a way to have end-to-end encryption disabled in specific cases, or some other action.
+However, cyber-security experts warn that criminals can still find a way to protect their communications, even if end-to-end encryption is banned.
+"There are lots of existing techniques law enforcement can use," Dr Steven Murdoch, a cyber-security researcher in the department of computer science at University College London told the BBC News website.
+"One of them is traffic analysis, which is looking at patterns of communications, eg who is talking to who, when and from what location.
+"The other one is hacking - equipment interference in British law - which can happen before data is encrypted and after it's been decrypted, so there are still ways for law enforcement to gain access to information."
+In the Manchester, Westminster and London Bridge terror attacks, the perpetrators were already known to UK security services, Mr Murdoch added.
+"They were not stopped because there were either insufficient resources or the resources were not sufficiently prioritised," he said.
+"The suggestions being considered by the UK government would be worse for computer security. So much of people's lives are now carried out online. We should have privacy online just as we have offline."

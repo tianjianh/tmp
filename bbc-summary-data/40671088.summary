@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170727000202/http://www.bbc.co.uk/news/technology-40671088
+
+[SN]TITLE[SN]
+Shoddy data-stripping exposes firms to hack attacks
+
+[SN]FIRST-SENTENCE[SN]
+Large firms are vulnerable to targeted hack attacks because they do little to strip data from files on their websites, suggests research.
+
+[SN]RESTBODY[SN]
+The data gets added as employees create documents, images and other files as they maintain and update websites.
+The research found user names, employee IDs, software versions and unique IDs for internal computers in the files.
+Attackers could use it to craft attacks aimed at senior staff, said security firm Glasswall which did the survey.
+Banks, law firms, defence contractors and government departments were all found to be leaking data.
+"This is really low-hanging fruit," said Lewis Henderson, a vice-president at Glasswall, which carried out the survey for the BBC.
+To gather the data, Mr Henderson "scraped" target websites for days to ensure he grabbed copies of all the files published by an organisation. Pictures, PDFs, spreadsheets and other documents made public via the sites were all sampled.
+"This was all done from a single IP [internet protocol] address and in broad daylight," he said.
+Mr Henderson said that a significant proportion of the files contained metadata which betrayed key information about the people who created that file, when they did it, and the version of the software and machine which they used. About 99% of one particular document type contained this data.
+In some cases, he added, user names were annotated with internal user IDs and, in one case, he found a detailed guide to a remote login procedure for a law firm's Far Eastern regional office.
+The cache of data gathered would be a perfect starting point for any sophisticated attack that sought to target senior staff or their aides, said Mr Henderson.
+"We did what a malicious actor would do," he said, "which is intelligence gathering on a large scale."
+Armed with the information, Mr Henderson said an attacker would then turn to social media, especially Facebook and LinkedIn, to relate the names found buried in the documents to real people.
+Emails bearing booby-trapped attachments could then be crafted for specific individuals after studying their biographical details and recent activity.
+"The more information you have the more you can customise the package sent to targets," he said.
+The virus code that attackers buried in the malicious attachments could lurk until it hit the machine used by a specific person, he said, guaranteeing it reached a particular target.
+Chief executives and finance heads were rarely targeted directly, said Mr Henderson. Instead attackers tended to go after their aides who are busy, deal with a lot of different people day-to-day and receive a lot of documents.
+"Organisations are always surprised when they get hit by targeted attacks," he said. "They always ask how they found out all that information."
+Cleaning up files to strip out useful data was "simple", said Mr Henderson.
+"All of them will probably have a policy that says this should not happen," he added. "But although there's a policy, there's not necessarily the due diligence and process to do it."
+The techniques used by Glasswall were "absolutely" the same as those seen in sophisticated, customised cyber-attacks, said Rick Holland, vice-president of strategy at security firm Digital Shadows.
+"Anyone doing a targeted attack is going to look at all the documents in a firm's public footprint," he said.
+Any data on user names gathered from that file sweep would then be compared to the logs derived from recent massive data breaches, he said, adding that this was a technique used by security firms who were under contract to test the digital defences of a company or organisation.
+The breach logs might reveal a password associated with a user name that an attacker could use in a bid to take over an account, said Mr Holland.
+The recent slew of "mega-breaches" meant there were a lot of user names and passwords available to attackers, he said. One site that gathers breach data, Have I Been Pwned, has amassed data on almost four billion accounts stolen from more than 226 websites.
+Firms failed to view the files and documents on their websites as a security risk, he said, because they were focused more on internal threats.
+"Many organisations just do not know that the risk is out there," he said. "Few look at the total risk picture of their digital footprint."
+This week BBC News is taking a close look at all aspects of cyber-security. The coverage is timed to coincide with the two biggest shows in the security calendar - Black Hat and Def Con.
+We will have further features and videos on Wednesday, and then coverage from the two Las Vegas-based events over the following days.
+Follow all our coverage via this link

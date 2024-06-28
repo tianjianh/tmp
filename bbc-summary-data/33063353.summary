@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150611081449/http://www.bbc.co.uk/news/technology-33063353
+
+[SN]TITLE[SN]
+TV signals used to track aircraft as alternative to radar
+
+[SN]FIRST-SENTENCE[SN]
+Research carried out by the air traffic control provider Nats and its partners suggests that existing TV signals could be used to track aircraft, providing a cheaper alternative to radar.
+
+[SN]RESTBODY[SN]
+TV signals use different parts of the radio spectrum to radar, but both bounce off solid objects.
+Using special receivers, researchers said they were able to track up to 30 planes simultaneously flying at altitudes of up to 10,000ft (3km).
+But they say more work has to be done.
+"Questions around resilience and service standards need to be answered and we'd need to explore formal agreements with the broadcasters, but this is very exciting and we'll be looking to further develop the concept over the next five years," said Nats engineer Nick Young.
+The study involved a TV signal broadcast by a transmitter at Crystal Palace in London.
+Three specialist receivers were used to measure the directions of the signals that reflected off the aircraft and the differences in time they took to be received compared to the rest of the unimpeded TV signal.
+This "triangulated" information was then used to deduce the various planes' locations.
+A follow-up trial in Liverpool suggested that the TV signal-based system experienced less interference from wind turbines than traditional radar receivers.
+"As the blades rotate they can enter a velocity range that the radar is looking for," explained Mr Young.
+A typical wind farm can contain 30 turbines moving at 300m (984ft) per second which is aircraft speed, he added.
+"The radar detects it and may think it's an aircraft," he said.
+"It can exhibit strange behaviour. But there's a suggestion that using this type of [TV signal]  'radar' might overcome these issues."
+Using TV signals instead could save money and free up valuable radio spectrum for other uses, Mr Young added
+"Radar is big and expensive, it's an effort to procure and maintain.
+"You could almost put this on a phone mast and distribute the signal over a wide area - plus you've got third parties [broadcasters] already transmitting it."
+The research was been carried out in conjunction with the defence firm Thales UK and the R&D lab Roke Manor over the past two years.
+But the idea behind the project is far from new.
+In 1935, radar pioneer Sir Robert Watson-Watt successfully bounced a radio wave from a BBC short-wave transmitter off a Heyford bomber, indicating the technology worked.
+"Increased computer processing power has made this easier," said Mr Young.
+"It's only in the last five or 10 years that we have entered a stage where we can process enough information to make it viable.
+"There are a number of technical and regulatory hurdles to overcome before this could be considered for operational use," he added.

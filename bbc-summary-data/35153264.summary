@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101141523/http://www.bbc.com/news/technology-35153264
+
+[SN]TITLE[SN]
+Apple raises concerns over UK's draft surveillance bill
+
+[SN]FIRST-SENTENCE[SN]
+Apple has raised concerns about the UK's draft Investigatory Powers Bill.
+
+[SN]RESTBODY[SN]
+The proposed law aims to overhaul rules governing the way the authorities can access people's communications.
+The US-based firm has passed on its thoughts to a parliamentary committee scrutinising the legislation.
+It focuses on three issues: encryption, the possibility of having to hack its own products, and the precedent it would set by agreeing to comply with UK-issued warrants.
+The BBC has also learned that Microsoft, Facebook, Google, Yahoo and Twitter have also filed their own responses to the committee, which will publish the details in due course.
+None of the companies have disclosed what they have said.
+However, a spokesman for Microsoft commented: "The legislation must avoid conflicts with the laws of other nations and contribute to a system where like-minded governments work together, not in competition, to keep people more secure. We appreciate the government's willingness to engage in an open debate and will continue to advocate for a system that is workable on a global basis."
+The Home Secretary Theresa May said in November that the new law was needed to fight crime and terror.
+Monday was the final deadline for written evidence. The committee is expected to report in February 2016.
+Apple's submission to the committee runs to eight pages.
+The first issue raised is encryption.
+Apple designs some of its products - including iMessage - using a technique called end-to-end encryption.
+This means only the sender and recipient of a message can see it in an unscrambled form. The company itself cannot decrypt the contents.
+This is something that law enforcement agencies have complained about.
+Apple says that ensuring the security and privacy of customer's information against a range of malicious actors - such as criminals and hackers - is a priority.
+Current legislation demands that companies take reasonable steps to provide the contents of communications on production of a warrant, but that has not been interpreted as requiring firms to redesign their systems to make it possible.
+The government had briefed at the time that the bill was published that the legislation did not constitute any change to existing legislation.
+But Apple appears to be concerned that the bill's language could still be interpreted more expansively and force the creation of a so-called "backdoor" to provide the authorities with access.
+Apple argues that the existence of such a backdoor would risk creating a weakness that others then might exploit, making users' data less secure.
+"A key left under the doormat would not just be there for the good guys. The bad guys would find it too," the company says.
+It notes it still provides metadata - data about a communication - when requested,  but not the actual content.
+A second area of concern relates to the issue of "extra-territoriality".
+Existing British legislation - and the bill - maintain that companies need to comply with warrants for information wherever they are based and wherever the data resides.
+The government argues this is vital when criminals and terrorists often use communications platforms based in other countries.
+US companies have long resisted extra-territoriality on the basis that if they accept they are obliged under UK law, then they fear other countries - they often point to Russia and China - will simply demand the same right, and that such assertions may conflict with the privacy laws of the countries in which the data is held.
+There have been discussions - led by former British Ambassador to Washington Sir Nigel Sheinwald - to try to come to some form of agreement between the US, UK governments and Silicon Valley to overcome some of the concerns and facilitate better sharing of data.
+A third concern from Apple relates to the provisions of the bill relating to "equipment interference".
+This refers to a range of techniques used by police and intelligence agencies, which extend from hacking into devices remotely to interfering with the hardware itself.
+This is one way around the spread of encryption and is one of the areas of activity - along with bulk data collection -  that the UK state has been doing for some time but is aiming to be more transparent about.
+Apple's concerns relate to the possibility that it could be ordered to hack products belonging to its customers and to do so in secret.
+"The bill as it stands seems to threaten to extend responsibility for hacking from government to the private sector," the company's submission states.
+Aspects of these issues have been voiced by Apple and other companies before.
+But one of the key concerns about the new legislation is that it contains ambiguities.
+Previous laws, such as the 1984 Telecoms Act, were stretched and expanded in secret to carry out acts that the public knew little about.
+The stated aim of the current bill is to improve transparency and accountability.
+Apple may well be hoping that it can force the government to clarify what is really intended and possible.

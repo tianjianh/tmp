@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170523114152/http://www.bbc.com/news/technology-36284446
+
+[SN]TITLE[SN]
+Second bank cyber-attack detected by Swift after Bangladesh raid
+
+[SN]FIRST-SENTENCE[SN]
+A cyber-attack, similar to one that saw $81m (Â£56m) stolen from Bangladesh's central bank, has hit a second bank.
+
+[SN]RESTBODY[SN]
+The warning about the second attack came from Swift, which oversees the financial messaging network that underpins global money transfers.
+Swift said the target was a commercial bank but did not name the organisation or reveal if any cash had been taken.
+The attack used techniques and tools resembling those used to steal cash from Bangladesh in February, it said.
+Swift is used by about 11,000 financial institutions around the world to move large amounts of cash.
+The attackers had a "deep and sophisticated knowledge of specific operational controls" at the targeted bank, and could have been aided in their theft by "malicious insiders", said Swift.
+In both attacks the thieves sought to submit fraudulent messages to the Swift network to transfer large amounts of cash to accounts they controlled.
+Analysis of February's attack suggested the gang aimed to steal about $1bn by moving cash from an account held by Bangladesh's central bank at New York's Federal Reserve to other accounts.
+A spelling mistake in one of the transfer orders alerted staff and stopped much of the money going astray.
+The second attack showed that the Bangladesh theft was not an isolated incident but "part of a wider and highly adaptive campaign targeting banks", said Swift.
+It added that its core network remained secure despite the attempts by cyberthieves to manipulate it.
+In April, Swift released software updates that it said would help customers improve security.
+An investigation into February's attack revealed that the cyberthieves won access to the central bank network because of poor security controls.
+The bank had no firewall, which is designed to block unauthorised access requests. It also used second-hand internet routers, which had cost $10, to connect to global financial networks.

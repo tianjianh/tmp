@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720061236/http://www.bbc.co.uk/news/technology-15854327
+
+[SN]TITLE[SN]
+FBI plays down claim that hackers damaged US water pump
+
+[SN]FIRST-SENTENCE[SN]
+US officials have cast doubt over reports that a water pump in Illinois was destroyed by foreign hackers.
+
+[SN]RESTBODY[SN]
+The FBI and the Department of Homeland Security said they had "found no evidence of a cyber intrusion".
+The Illinois Statewide Terrorism and Intelligence Center (STIC) previously claimed a hacker with a Russian IP address caused a pump to burn out.
+A security expert, who flagged up the story, said he was concerned about the conflicting claims.
+Information about the alleged 8 November breach was revealed on Joe Weiss's Control Global blog last week. His article was based on a formal disclosure announcement by the Illinois STIC.
+The report said that the public water district's Supervisory Control and Data Acquisition System (Scada) had been hacked as early as September.
+It claimed that a pump used to pipe water to thousands of homes was damaged after being repeatedly powered on and off.
+It added that the IP address of the attackers had been traced back to Russia.
+The news attracted attention because it could have been the first confirmed case of foreign hackers successfully damaging a US utilities.
+The FBI and the DHS said they had carried out "detailed analysis" and could not confirm the intrusion.
+"There is no evidence to support claims made in the initial Fusion Center report - which was based on raw, unconfirmed data and subsequently leaked to the media - that any credentials were stolen, or that the vendor was involved in any malicious activity that led to a pump failure at the water plant," an email sent to the US Industrial Control Systems Joint Working Group said.
+"In addition, DHS and FBI have concluded that there was no malicious or unauthorised traffic from Russia or any foreign entities, as previously reported."
+The officials added that their analysis of the incident was still ongoing.
+Mr Weiss said he was concerned that the email appeared to contradict the initial report.
+"This begs the question why two government agencies disagree over whether a cyber event that damaged equipment had occurred at a water utility," he wrote on his blog.
+"If the STIC report is correct, then we have wasted precious time and allowed many others in the infrastructure to remain potentially vulnerable while we wait to find out if we should do anything."
+Mr Weiss also notes that a 2010 report by the security company McAfee highlighted the relative vulnerability of the global water system compared with other industries including energy and financial services.
+"The water/sewage sector... had the lowest adoption rate for security measures protecting their Scada/ICS systems," it said.
+The report noted that the low adoption rate might have been linked to the fact that the water and sewage sector, and said that only 55% of its Scada systems were connected to the internet - a lower percentage than most other industries.
+However, it went on to highlight the lower number of managers taking responsibility for the issue.
+"When considering this data, the small number of water sector executives amongst those with Scada/ICS systems responsibilities - only 11 out of 143 - needs to be noted," said the McAfee report.

@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150821082856/http://www.bbc.co.uk/news/technology-33991887
+
+[SN]TITLE[SN]
+Stephen Hawking's speech tech released by Intel
+
+[SN]FIRST-SENTENCE[SN]
+Software that helps Prof Stephen Hawking to speak via a computer has been published online by Intel, the company that created it.
+
+[SN]RESTBODY[SN]
+The program interprets visual signals and translates them into words, which are then "spoken" by a machine.
+Intel originally developed the technology specially for Prof Hawking, but it has been used by other sufferers of motor neurone disease (MND).
+Anyone is now able to download and experiment with the system.
+In the case of Prof Hawking, the Assistive Context-Aware Toolkit (ACAT) interprets sensor data capturing movements in his cheek muscles but other parts of the body may be used.
+Intel hopes that ACAT, which runs on Microsoft Windows 7 or higher, will be used by researchers developing new interfaces for sufferers of diseases like ALS.
+The programme and full source code have been published on code-sharing site GitHub.
+Intel told the BBC that the software can carry out various functions besides sending text to a speech synthesizer.
+"We have contextual menus to access all different parts of your computer," said Lama Nachman, principal engineer. "If you want to use Word, surf the web or speak you can use ACAT for that."
+She added that the team had already experimented with a variety of different sensors, and they are hoping developers will try out other options appropriate to each patient's needs and abilities.
+"We also have an accelerometer [motion] sensor for patients who can use a finger but not much more, and a button system for someone who can push a button," she said.
+The UK's MND Association has praised the move.
+"Helping maintain communication for someone with MND could be as simple as using a pen and paper. But as the disease progresses people often lose the use of their hands too," said Karen Pearce, Director of Care for the MND Association.
+"That's when cutting edge Augmentative and Alternative Communication, or AAC, aids can help but it's vital speech and language therapists look at the best options for families.
+"It will be exciting to see how this open source approach works."
+Euan MacDonald, an MND sufferer who runs a disabled access reviews website called Euan's Guide , said, "AAC is an absolutely fundamental part of my life. Unlike medical research, technology is moving very quickly and it's exciting to see new things emerge every year.
+"The more that technology can help us express what we are thinking, the better," he added.

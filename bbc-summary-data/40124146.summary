@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170604000308/http://www.bbc.co.uk/news/technology-40124146
+
+[SN]TITLE[SN]
+US military data found unprotected on Amazon web server
+
+[SN]FIRST-SENTENCE[SN]
+More than 60,000 sensitive US military files have been found on a publicly accessible Amazon server by a security researcher.
+
+[SN]RESTBODY[SN]
+The files contained passwords for US government systems and the security credentials of a senior engineer at defence contractor Booz Allen Hamilton (BAH).
+They were discovered by Upguard analyst Chris Vickery.
+In a statement, BAH said no classified data had been stored on the server.
+"We have confirmed that none of those usernames and passwords could have been used to access classified information," the contractor added.
+The files were connected to a project for the US National Geospatial-Intelligence Agency (NGA), which deals with satellite and drone surveillance imagery.
+BAH said it believed the incident was the result of "an unintentional mistake".
+"As soon as we learned of this mistake, we took action to secure the areas and alerted our client and began an investigation.
+"Our client has said they've found no evidence that classified data was involved, and so far our forensics have indicated the same", the company said.
+Mr Vickery told the BBC he found the data during "a routine search for publicly accessible Amazon [simple storage service] buckets".
+"I wasn't very surprised at finding yet another publicly exposed bucket until I realised the data it contained was related to a government project".
+He emailed BAH's chief information security officer about the files on 24 May.
+"When I hadn't heard back from him by the following day, I forwarded the same notification email to the NGA", he explained.
+"The email went out at 10:33 PST (17.33 GMT) on 25 May. The bucket was secured at 10:42 PST.
+"The fact that it was closed off nine minutes after I sent the 'escalated' email would be a very big coincidence indeed."
+On 26 May, a US government agency contacted UpGuard to ask that it preserve all the data Mr Vickery downloaded; UpGuard said it had been asked not to reveal which agency made the request.

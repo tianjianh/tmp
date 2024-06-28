@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170626005341/http://www.bbc.co.uk/news/technology-37902613
+
+[SN]TITLE[SN]
+US election: Experts keep watch over 'hack states'
+
+[SN]FIRST-SENTENCE[SN]
+The concern that the 2016 US presidential election may be hacked, by Russia or some other bad actor, could hold the same place in history as the Millennium Bug: a whole load of worry over nothing.
+
+[SN]RESTBODY[SN]
+"Unless the election is extraordinarily close, it is unlikely that an attack will result in the wrong candidate getting elected," suggest Matt Bernhard and Professor J Alex Halderman, security experts from the University of Michigan.
+But they say the risk the election process could be disrupted by hackers should be taken extremely seriously.
+In the run-up to the big day, the US Department of Homeland Security (DHS) has been carrying out "cyber hygiene" tests on voting systems across the country. Officials are confident in the technology, but there are weaknesses that have security professionals standing by on election day ready to step in if irregularities are spotted.
+The task facing any hacker isn’t insignificant. In the US, voting is done via electronic booths, the vast majority of which are not connected to the internet.
+Furthermore, different states, and areas within those states, use different systems - a logistical headache but something of a security godsend, as a fractured system is much harder to attack en masse.
+But any would-be election hacker wouldn’t need to target the whole country, or even an entire state. Instead, finding methods to implant minute differences, in areas which promise to be a close-run battle, could both affect the national picture and be difficult to detect.
+And so just as candidates target swing states that could go either way, so too could hackers be looking at "hack states" to target.
+"Two out of the last four presidential elections were so close that a change of a few counties in one state would have changed the result of the national presidential election," said Andrew Appel, professor of computer science at Princeton University, in an interview with BBC News.
+"It’s not necessary to cheat in 9,000 different jurisdictions. If the election is close in just one state, changing several tens of thousands of votes might be enough."
+Prof Appel is part of a team of cybersecurity experts that will be working together on Tuesday to advise election officials on cybersecurity-related matters - helping to identify genuine attacks from, say, just your bog-standard computer glitch, of which there may be plenty.
+"There may be questions about some piece of machinery that is showing some symptom," he explained.
+"Does that look like a hack or is that normal? That kind of question."
+Any security audit, whether it’s to protect a company or a property, focuses on the points of weakness. And in this election, the points of weakness are the electronic voting booths.
+The greatest concern of the group, which is mostly a mixture of academics and security professionals, is that the security in place on voting machines in some crucial areas just isn't up to scratch.
+For starters, 10 states use touchscreen-only voting machines, an immediate concern.
+"You touch the screen and indicate the candidate you want,” explained Prof Appel.
+"There’s no paper involved, and at the end of the day it indicates how many votes the candidate got. There would be no way to tell if it was done fraudulently."
+Who is ahead in the polls?
+48%
+Hillary Clinton
+44%
+Donald Trump
+Last updated November 8, 2016
+Several security experts have demonstrated how this process can be tampered with, by installing malicious software capable of changing a switching a person's vote once it is in the machine, or by spoofing the smart cards used to identify a voter.
+Other states use what’s known as optical scan voting. That’s when a voter fills in a little oval on a page to cast their ballot. It’s logged by the computer, to make counting much quicker, but also stored as a hard copy. If the computer says the vote goes a certain way and there’s suspicion of shenanigans, it can be crossed checked against the paper copy.
+So where are the “hack states”?
+Verified Voting is an organisation that tracks the use of voting machines, and their security, across the US. It’s a painstakingly put together dataset which gives you an idea of the complexity of the US voting system.
+By using this resource, and combining it with polling data, Mr Bernhard and Prof Halderman were able to isolate key states with both poor voting booth security and a tight race.
+They named the states most at risk as Nevada, Pennsylvania, Ohio, and Colorado.
+"As jurisdictions with close races are most vulnerable to having their results perturbed or cast into doubt, these are the ones to be concerned about,” the researchers wrote.
+Most experts are in agreement that the voting machines provide the biggest risk - the key under the mat for anyone looking for a way in.
+But hackers may look to other means to agitate the process.
+"A well resourced adversary, for instance a foreign government, could do plenty of other things to disrupt the election,” wrote Mr Bernhard and Prof Halderman.
+"Cutting the power to a few key precincts could throw the entire election into chaos."
+Furthermore, Prof Appel pointed to previous incidents in which voter registration databases were breached. In September, the FBI urged districts to work with the DHS to ensure their database systems were secure.
+"The thing that could go wrong is that a voter could show up at the polling place and be told they’re not listed when in fact they should be listed,” Prof Appel explained.
+In concluding their data analysis on the at-risk states, Mr Bernhard and Prof Halderman offered a summary.
+“The 2016 election is less secure than it should be.
+"While we think it’s unlikely that hackers will be able to silently change who wins, attacks that attempt to disrupt or discredit the electoral process in critical states are a distinct possibility."
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

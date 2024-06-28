@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170522073601/http://www.bbc.co.uk/news/technology-38301548
+
+[SN]TITLE[SN]
+Windows update knocks out internet connections
+
+[SN]FIRST-SENTENCE[SN]
+An update to Windows software has caused problems for personal computer users trying to connect to the internet.
+
+[SN]RESTBODY[SN]
+Several European internet service providers (ISPs) have highlighted the problem, which can strike regardless of the type of router box or the particular ISP in use.
+Virgin Media has issued detailed advice to customers on how to reconnect.
+Microsoft has also offered guidance to those experiencing difficulties.
+"Some customers using Windows 10 have reported difficulties connecting to the internet," said a spokeswoman for Microsoft.
+"As a first step, we recommend customers restart their PCs.
+"If this does not resolve the problem, visit our website for further support."
+Computers running Microsoft's latest updates are losing network connectivity essentially because the PCs cannot automatically pick up the addressing systems from their broadband routers, which then cannot connect them to the internet.
+"We're aware that some customers using Windows PCs are having issues getting online following a Microsoft Windows 10 update," said a spokesman for Virgin Media.
+"We're in contact with Microsoft about this issue.
+"In the meantime, we have published advice for our customers online.
+"This issue affects anyone who wants to access the internet from a computer with the downloaded Windows 10 software update, regardless of the ISP."
+This is not the first time a Windows 10 update has created trouble.
+In September, another patch stopped many popular webcams from working.
+Click start, power and restart (not shut down).
+Try the internet connection once it's booted up again.
+If this doesn't work, you need to reset your IP address. To do this, you need to open up the command prompt by following these instructions:
+If this hasn't done the trick, you can also try clearing the DNS settings.
+Update 14 December 2016:
+Microsoft says it has issued a further update to Windows 10 that will automatically install and resolve connectivity problems.

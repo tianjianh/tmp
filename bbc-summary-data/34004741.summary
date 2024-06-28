@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170102032711/http://www.bbc.com/news/technology-34004741
+
+[SN]TITLE[SN]
+Ashley Madison: More data leaks on to dark net
+
+[SN]FIRST-SENTENCE[SN]
+A fresh set of files that appear to be leaked Ashley Madison data has been uploaded to a part of the internet known by some as the "dark web".
+
+[SN]RESTBODY[SN]
+The data dump was accompanied by a note addressed to the infidelity dating website's boss saying: "Hey Noel, you can admit it's real now."
+The name of one of the files indicates that it contains nearly 14 gigabytes worth of data from the chief executive's email account.
+However, there is a problem with it.
+The archive in question has been compressed, and efforts to expand it to normal size bring up an error message,
+"It's in a zipped format, and when I try to decompress the contents a message comes up saying it won't work," Per Thorsheim, chief executive of cybersecurity firm God Praksis, told the BBC.
+"I can't yet say why."
+The BBC has independently verified that the archive appears to be damaged.
+Other files, however, can be viewed.
+Mr Thorsheim said they appeared to contain collections of computer instructions.
+"The one that I opened up - Avid.tgz - looks to me like source code," Mr Thorsheim said.
+"I can't say [for sure] that it's from Ashley Madison, but I wouldn't be surprised if it is."
+Another security firm that has taken a cursory look at these files highlighted the threat they could pose.
+"If this turns out to be legitimate, which it in all aspects appears to be, having full source code to these websites means that other hacker groups now have the ability to find new flaws in Avid Life's websites, and further compromise them more," wrote Dave Kennedy, chief executive of TrustedSec, on his firm's blog.
+Ashley Madison's owner, Avid Life Media, could not be reached for comment.
+News of the latest "leaks" was first reported by the website Motherboard.
+A Twitter user who provided the BBC with details of where the material could be found on the Tor Network later confirmed that it had been uploaded to the same place as the earlier leaks, and included matching encryption keys.
+"Ultimately though the real test is the data they posted in the torrent," the Twitter user added.
+"We'll see once people start to parse it."
+The data dump comes days after 10 gigabytes of data stolen from the site was made public containing 36 million email addresses and other personal information.
+Hackers calling themselves The Impact Team said they committed the act in order to encourage Ashley Madison's users to sue the business.
+The news site Fusion has reported that at least one US law firm is already inviting members of the public to be part of a class action lawsuit against Avid Life Media.

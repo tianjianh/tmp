@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170427224658/http://www.bbc.com/news/technology-39718619
+
+[SN]TITLE[SN]
+Game guide malware 'targeted more than 500,000 users'
+
+[SN]FIRST-SENTENCE[SN]
+App-based guides for games, including Fifa and Pokemon Go, were used to target more than 500,000 Android users with malware, a cyber-security company has said.
+
+[SN]RESTBODY[SN]
+The apps, discovered on the Google Play Store, were designed to take control of devices before downloading malware.
+Unwanted ads could then be displayed to users, for example, according to researchers at Check Point.
+Google did not respond to a request for comment.
+More than 40 guide apps for popular games were found to be capable of delivering the malware to users' devices, Check Point said.
+It is thought that the apps were downloaded between 528,000 and 1.8 million times, though it is not known how many of these downloads resulted in the deployment of malware.
+"Since the actual apps do not contain any malicious code themselves, it's very hard to trace," said Daniel Padon, at Check Point.
+He added that when Check Point had notified Google about the apps they had been removed.
+But the researchers said that they continued to find more examples on the Play Store.
+Some of the apps were made available as long ago as November last year.
+When one is downloaded, it asks users for device admin permission to ensure the software cannot be deleted.
+It then attempts to establish a connection with a command and control server, turning the device into a bot in a botnet - a network of devices controlled from afar.
+Malicious software can then be downloaded.
+Mr Padon told the BBC that this could allow hackers to send illegitimate pop-up ads, use the device as part of a DDoS attack, or snoop on data sent via the device's network.
+He said mobile botnets were becoming more common.
+"We, other security vendors and Google have found different mobile botnets spreading via the Play Store," Mr Padon said.
+"This is a hard thing to stop - it could have a devastating impact."
+The approach could indeed be dangerous, agreed Nikolaos Chrysaidos at cyber-security firm Avast.
+"At the moment, it seems like the cyber-criminals behind the threat are only interested in making money from ads," he said.
+"The threat currently has very basic functionalities [...] However, there is nothing stopping the threat from becoming more sophisticated in the future."

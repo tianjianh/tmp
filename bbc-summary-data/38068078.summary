@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307093100/http://www.bbc.com/news/technology-38068078
+
+[SN]TITLE[SN]
+Tech firms seek to frustrate internet history log law
+
+[SN]FIRST-SENTENCE[SN]
+Plans to keep a record of UK citizens' online activities face a challenge from tech firms seeking to offer ways to hide people's browser histories.
+
+[SN]RESTBODY[SN]
+Internet providers will soon be required to record which services their customers' devices connect to - including websites and messaging apps.
+The Home Office says it will help combat terrorism, but critics have described it as a "snoopers' charter".
+Critics of the law have said hackers could get access to the records.
+"It only takes one bad actor to go in there and get the entire database," said James Blessing, chairman of the Internet Service Providers' Association (Ispa), which represents BT, Sky, Virgin Media, TalkTalk and others.
+"You can try every conceivable thing in the entire world to [protect it] but somebody will still outsmart you.
+"Mistakes will happen. It's a question of when. Hopefully it's in tens or maybe a hundred years. But it might be next week."
+The Investigatory Powers Bill was approved by the House of Lords on 19 November and is due to become law before the end of 2016.
+Now, several virtual private network (VPN) operators have seized on its introduction to promote their offerings.
+VPNs digitally scramble a user's internet traffic and send it to one of their own servers before passing it on to a site or app in a form they can make sense of. A similar process happens in reverse, helping mask the person's online activity.
+As a result, instead of ISPs having a log of everywhere a customer has visited, the only thing they can provide to the authorities is the fact that a subscriber used a VPN.
+"We saw a boom in Australia last year correlated to when its data retention law went into effect," Jodi Myers, a spokeswoman for NordVPN told the BBC.
+"And we are already seeing an increase in inquiries from the UK."
+Ms Myers said her firm had just begun offering UK-based customers extra security measures - including encrypting their data twice and sending it via two servers - to address any concerns that its standard measures were not sufficient.
+"Our biggest advantage is we have a zero log policy," she added.
+"Our headquarters are in Panama, which doesn't have data retention laws, so it allows us to do this.
+"And even in the worst-case scenario that our servers are confiscated, there would be nothing on them because of the way they are configured."
+Another VPN provider said the UK government would find it difficult to prevent the use of such workarounds.
+"The legislation specifically mentions connection service providers and not just ISPs, and the assumption is that VPNs based in the UK will have to give up their logs under this law," said Caleb Chen, a spokesman for Private Internet Access.
+"But as a US-based company, my legal team has advised me that we would not be under any obligation to do so.
+"And even if the government were to try to take it a step further and say no UK citizen could use a VPN that was not compliant with the law, those services would still be available."
+He added that the widespread use of VPNs by businesses to provide staff with remote access to their email and other work-related files would also make it difficult to restrict the technology's use.
+One of the UK's smaller internet providers, Andrews & Arnold, is looking into other ways to help its users circumvent the law.
+"Customers can install a Tor browser, which encrypts traffic to one of thousands of different internet connections throughout the world hiding what they are doing," said  managing director Adrian Kennard.
+"We are also working with a company called Brass Horn, which is planning to sell Tor-only internet access.
+"In addition, we may base some of our own services outside the UK to reduce the amount of information that is logged and recorded. One possible place that we might put equipment is Iceland."
+A spokeswoman for the Home Office declined to discuss ways it might tackle such efforts.
+"The Investigatory Powers Bill provides law enforcement and the security and intelligence agencies with the powers they need to protect the UK and its citizens from terrorists and serious criminals, subject to strict safeguards and world-leading oversight," she said.
+"Terrorists and serious criminals will always seek to avoid detection.
+"To ensure they do not succeed, we do not comment publicly on the methods or capabilities available to the security and intelligence agencies."

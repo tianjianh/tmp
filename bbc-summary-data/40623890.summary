@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170717084428/http://www.bbc.com/news/uk-scotland-scotland-business-40623890
+
+[SN]TITLE[SN]
+Robots with better eyesight and intelligent drones
+
+[SN]FIRST-SENTENCE[SN]
+Researchers in the west of Scotland have developed an artificial intelligence system that can automatically recognise different types of cars - and people.
+
+[SN]RESTBODY[SN]
+Among its many possible applications are robots with better eyesight - and drones to spot defects in buildings before they collapse.
+It is the result of a collaboration between the University of the West of Scotland and the French multinational electrical systems group Thales.
+It is based around the concept of "deep learning" which mimics the way human brains behave to create an artificial intelligence that learns on the job.
+From the distance, a vehicle is approaching. But what kind of vehicle?
+At Thales UK in Glasgow, they have long been able to make systems like this that can see in the dark. But this one can do much more.
+On a display screen there is a moving image.
+Given that what we are "seeing" is heat, it is not exactly HD. But while my eyes may be struggling a bit, it is good enough for the system to know what it islooking at.
+Thales' head of algorithms and processing Andrew Parmley explains what is going on.
+"The image itself is actually quite small, so the deep learning neural network is identifying what it sees."
+A red box appears on screen, surrounding the image of the vehicle. A label alongside says "bus". This is spot on, as what appeared at first to be a van turns out to be a people carrier.
+The bus door opens and a shape emerges. Near-instantaneously that shape is given its own box - this time blue - and the label "person".
+As the person walks around the van, blue box and label follow.
+It is the product of a neural network. As the name suggests it is a digital imitation of the way our own brains work.
+"It is a collection of neurons, synapses, which have been trained - which have been shown a lot of images which are like that van," Andrew Parmley says.
+"You show it maybe a thousand images in different orientations and it has learnt what that van looks like.
+"So when you show it a van from a different viewpoint it says 'I've seen something like that before'."
+It is the result of a collaboration with the University of the West of Scotland.
+Its senior lecturer in signal and image processing Dr Pablo Casaseca explains his side of the partnership: "We brought in a unique aspect of the system, which was trying to enhance the quality of the image using super resolution methods.
+"The problem in this specific project was to detect objects which were very small in the images.
+"So we thought we would need to apply methods to increase the resolution or the quality of the objects in the image."
+The defence applications of the technology are obvious: who is driving that van towards me - and do they mean me harm?
+But it has the potential to go far beyond that.
+It could be trained to spot which person in a crowd is running a fever.
+Mounted on a drone, it could spot cracks and other defects in bridges and buildings.
+The concept underlying this technology is deep learning: a computer's neural networks learning on the job.
+Willie Alexander, the technical director of the optronics business of Thales UK says deep learning is nothing less than a revolution.
+"What deep learning gives us - and gives anybody in the imaging business - is the ability to let the software look at the image and know what it's looking at.
+"If we had an image of this room at the moment, the software would say 'person - table - cup - pen'.
+"It knows what's in the image, and that is a revolution that is driving autonomous cars.
+"It's a revolution that's changing the world and everybody in industry - people who are designing things in Scotland - need to be aware.
+"They need to use it because the world is changing."
+The matchmaker between the university and Thales was CENSIS, Scotland's Centre of Excellence for Sensor and Imaging Systems.
+It is one of eight innovation centres backed by the Scottish Funding Council to foster closer collaboration between academic researchers and industry.
+Craig Fleming, senior business development manager with CENSIS, is proud of what is being achieved here.
+"It's fantastic," he says.
+"This is one of the projects I started when I first joined CENSIS and it's really great to see it come through now.
+"It's really exciting and it tells other companies to engage with the academic community because I think it can really help them and accelerate their own R&D activities and help them grow as a business."
+Having examined potential applications themselves, the team are now finding new ideas are coming to them as potential customers seize on the possibilities.
+We may even see robots become fruit pickers, able to tell the difference between a strawberry and a leaf.
+The system may not be able to do that just yet.  But it will learn.

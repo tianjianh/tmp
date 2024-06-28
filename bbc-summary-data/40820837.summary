@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170804052545/http://www.bbc.co.uk/news/uk-england-40820837
+
+[SN]TITLE[SN]
+NHS cyber-defender Marcus Hutchins charged in US
+
+[SN]FIRST-SENTENCE[SN]
+The British cyber-security researcher who stalled WannaCry cyber-attack that hit the NHS has been arrested and charged in a US cyber-crime case.
+
+[SN]RESTBODY[SN]
+Marcus Hutchins, 23, has been accused of involvement with Kronos - a separate piece of malware used to steal banking logins from victims' computers.
+Fellow cyber-security researchers have expressed surprise at the indictment.
+The UK's National Cyber Security Centre has said that it was aware of the situation.
+WannaCry spread rapidly through computer systems around the world, in an unprecedented outbreak that began on 12 May.
+Shortly afterwards, Mr Hutchins was thrust into the limelight after he found a way to stop it from spreading.
+He had been in Las Vegas attending the Black Hat and Def Con cyber-security conferences, but activity on his Twitter feed - usually highly active - ceased a day ago.
+"Marcus Hutchins... a citizen and resident of the United Kingdom, was arrested in the United States on 2 August, 2017, in Las Vegas, Nevada, after a grand jury in the Eastern District of Wisconsin returned a six-count indictment against Hutchins for his role in creating and distributing the Kronos banking Trojan," the US Department of Justice (DoJ) said in a statement.
+"The charges against Hutchins, and for which he was arrested, relate to alleged conduct that occurred between in or around July 2014 and July 2015."
+Kronos is malware that is designed to steal banking login and other financial data from infected computers.
+The DoJ's indictment is dated 12 July, before Mr Hutchins arrived in the US.
+It alleges that he created and sold Kronos on internet forums, including the AlphaBay dark web market, which was recently shut down after an international law enforcement operation.
+A second defendant is included in the indictment, but their name has not been made public.
+Mr Hutchins tweeted about Kronos shortly after it was reported in the press: "Anyone got a Kronos sample?" he wrote.
+Mr Hutchins' job involves investigating malware. Some who work in the same industry have expressed disbelief at his arrest.
+"It looks like the US justice system has made a huge mistake," said fellow researcher Kevin Beaumont on Twitter.
+He also told the BBC: "His [security] contacts are completely surprised."
+A spokesman for the UK's National Cyber Security Centre said: "This is a law enforcement matter and it would be inappropriate to comment further."
+Mr Hutchins was arrested while at an airport, according to a colleague who wished to remain anonymous.
+"We tried to visit him at [the detention centre], but he was moved before visiting hours," they told the BBC.
+"We've not had any contact with him for 18 hours now."
+The DoJ has said Mr Hutchins' case was investigated by the FBI's cyber-crime unit in Milwaukee, Wisconsin.
+The arrest was first reported by news site Motherboard.
+It is not known where Mr Hutchins is being held in custody.
+The BBC has contacted his family for comment.
+The British Consulate in Los Angeles issued the following statement: "We are in contact with the local authorities in Las Vegas following the arrest of a British man, and are providing support to his family."
+San Francisco-based digital rights group the Electronic Frontier Foundation said it was "deeply concerned" and added it was looking into the matter.
+Kronos is a type of malware known as a Trojan, meaning it disguises itself as legitimate software. It is thought to be named after a mythological god of time.
+Kronos first came to light in July 2014, when it was advertised on a Russian underground forum for $7,000 (Â£5,330) - a relatively high figure at the time.
+It was marketed as way to steal logins for banking websites and other financial data.
+Its vendor boasted it could evade existing anti-virus software and said it worked with the latest versions of the Internet Explorer, Firefox and Chrome web browsers. In an unusual step, the developer promised free upgrades and bug fixes and the option of a $1,000 one week trial.
+After much publicity it faded from view until October 2015, when IBM researchers reported that Kronos had been spotted in attacks on UK and Indian bank websites.
+Kronos then struck again in May 2016, when the cyber-security firm Proofpoint reported that it had been used to target customers of Canadian financial institutions.
+In November the same year, Proofpoint reported it had spotted the Trojan being distributed via emails sent to organisations involved in the financial services, hospitality, higher education and healthcare industries.
+The messages contained attachments and links that claimed to be related to Microsoft Sharepoint documents, but in fact led victims' computers to be infected with other malware, including a credit card number-stealing tool.
+Kronos' primary targets this time appeared to be in the UK and North America.

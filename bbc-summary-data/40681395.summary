@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170722064645/http://www.bbc.com/news/technology-40681395
+
+[SN]TITLE[SN]
+AI demo picks out recipes from food photos
+
+[SN]FIRST-SENTENCE[SN]
+An algorithm created to identify recipes for food just from a photograph has been demonstrated by researchers at the Massachusetts Institute of Technology (MIT).
+
+[SN]RESTBODY[SN]
+The neural network was trained on a dataset of one million photos and one million recipes.
+The trial model worked best on desserts and found smoothies and sushi more challenging, the researchers said.
+The team has released an online trial although it is not a finished product.
+When tested by the BBC, recipes that were generated based on a picture of spaghetti bolognese included "Italian tomato sauce" and "gunk on noodles".
+A photo of a Black Forest gateau yielded "chocolate mocha cake" and "frozen grasshopper squares" - both of which looked similar to the image uploaded - and it successfully identified a hot dog.
+"In computer vision, food is mostly neglected because we don't have the large-scale datasets needed to make predictions," said MIT researcher Yusuf Aytar.
+"But seemingly useless photos on social media can actually provide valuable insight into health habits and dietary preferences."
+The team will be presenting their paper at a conference in Honolulu later this month.
+Previous models by other researchers have not used such a large data bank.
+In the future the system could be developed to include how a food is prepared and could also be adapted to provide nutritional information, MIT said.
+Artificial intelligence expert Calum Chace, author of The Economic Singularity, said the system was an interesting use of deep learning.
+"It's an example of how machines can not only do things that humans cannot, but they perceive the world very differently from us," he told the BBC.
+"Just as AlphaGo showed the world's best Go players whole new ways of looking at the game they had spent their lives mastering, this system will enable us to see the very food we eat in a different way."
+In May 2017 Google's DeepMind AlphaGo artificial intelligence defeated the world's number one Go player Ke Jie, who was reduced to tears.
+Following its success, AlphaGo was retired, with DeepMind founder Demis Hassabis saying it had achieved its objective.

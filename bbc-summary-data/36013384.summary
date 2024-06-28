@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170625201600/http://www.bbc.com/news/business-36013384
+
+[SN]TITLE[SN]
+How monitoring behaviour could unmask the fraudsters
+
+[SN]FIRST-SENTENCE[SN]
+Thieves and fraudsters want to get their hands on our cash and data. And these days they can attack us from all corners of the globe.
+
+[SN]RESTBODY[SN]
+Financial fraud losses totalled Â£755m in the UK last year. Worldwide, the figure runs into billions.
+But there's no one security measure that can keep us safe - we need to have layers of security.
+And the challenge for financial service providers is that if they impose too many layers, we customers get annoyed.
+We don't want to spend ages answering secret security questions, keying in passcodes, or trying  - and failing - to remember personal identification numbers and passwords.
+So the race is on to develop frictionless, invisible security - ways of verifying we are who we claim to be - without holding up our day or taxing our fallible memories.
+For example, voice biometrics - using our unique vocal patterns as a means of authentication - is certainly gaining acceptance amongst banks as its accuracy improves.
+HSBC recently announced it would be rolling out the technology, along with Apple's Touch ID fingerprint recognition, and Barclays already offers it to certain clients. Meanwhile, Atom Bank has launched "authentication by selfie".
+"But whilst biometrics provide great opportunities to deliver frictionless services to customers, there is no silver bullet in banking security," warns Tom Patterson of tech consultancy Unisys.
+We need other layers that go on in the background.
+This is why behavioural analysis is also catching on as a non-intrusive way of establishing identity.
+The UK's Nationwide Building Society has just teamed up with tech partners BehavioSec and Unisys to develop a new layer of behavioural biometric security.
+It is based on the idea that the way we interact with our devices is as unique as those physical biometric attributes - fingerprint, iris, face, voice, even the electrical activity of our heart - that we can now use to authenticate ourselves.
+The way we type, touch, swipe and hold our smartphones can also apparently act like a signature.
+"Behavioural biometrics monitor the patterns and habits that are unique to each mobile banking user - everyone holds and interacts with their mobile device in a different way," says James Smith, Nationwide's head of innovation.
+These are very early days for the approach, however, so it is likely to act as another layer of security rather than a replacement for existing tech.
+But its main advantage is that it is unobtrusive, potentially giving us more security without the usual inconvenience.
+Pindrop, a tech company based in Atlanta, Georgia, specialises in authenticating people who ring call centres - a particularly weak element in a financial services company's armoury. It names three out of the four top US banks as clients.
+The usual security methods when calling in - answers to knowledge-based questions, such as your mother's maiden name or first school, for example - can easily be gleaned by fraudsters from social media or hacking.
+"Even your caller ID can be easily spoofed using VoIP [voice over internet protocol]," says Matt Peachey, Pindrop's general manager for Europe, Middle East and Africa.
+So the firm's automated technology analyses lots of other elements of a phone call - the geographical origin, the device type, the timbre of the sound, to name but a few of the 147 measurables - and creates a risk score for each call.
+"Your phone actually imprints a unique sound into the call which you can't discern with the human ear," says Mr Peachey, "so we can usually tell if a fraudster is pretending to call from a local landline but actually using VoIP."
+The tech also analyses caller behaviour.
+Multiple calls from different devices and networks, but purporting to be from the same customer, will raise alarm bells, for example.
+"Our tech is catching north of 80% of all fraudulent calls," Mr Peachey maintains.
+Pindrop also uses voice biometrics but only for "fraudster blacklisting" - spotting repeat offenders, he says.
+The drawback with voice biometrics is that customers have to enrol for the system and record their unique voiceprint for the database. Not everyone bothers or wants to, meaning you can't rely on voice biometrics alone, argues Mr Peachey.
+In the short term, growing numbers of banks are incorporating two-factor authentication to their online and mobile banking services.
+This usually means logging in to your online account - with those troublesome passwords and numeric codes - then generating an additional one-off, time-limited code on a separate device - your smartphone or another bit of kit.
+The idea is that a thief would have to have guessed or stolen your personal log-in details and to have stolen your phone to gain entry to your account.
+This process may be more secure but it's also fiddly and slows customers down.
+So US tech firm Duo Security aims to make this easier by sending a message to the customer's app which contains a simple green or red button. One tap on either button confirms or cancels the transaction.
+"There's no code to input to a countdown, so logging in is much simpler," says co-founder and chief technology officer, Jon Oberheide.
+"Financial services companies want to improve their security but they don't want to annoy their users with cumbersome security protocols."
+One of Duo's 5,000 customers worldwide is US banking technology firm Computer Services Inc. (CSI), which provides transaction processing and online banking services for about 3,000 financial institutions.
+"Most computers are infected with some kind of malware, so this is why this kind of additional authentication is so important," says Kevin Latta, CSI's vice president, network and security.
+"We give client institutions a choice over whether they use Duo Security. But I've never seen those who do use it suffer incidences of fraud. Thieves always go for the low-hanging fruit."
+While we can play our part in fighting the fraudsters by keeping our computer security software and smartphone hardware up-to-date, banks know that we are also the weak link.
+We're just not very good at choosing non-obvious passwords or keeping our personal details secret.
+So the sooner they can integrate invisible and easier authentication methods, the better.
+Follow Matthew on Twitter here: @matthew_wall

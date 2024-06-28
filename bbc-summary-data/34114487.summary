@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150905193751/http://www.bbc.co.uk/news/technology-34114487
+
+[SN]TITLE[SN]
+Chinese iPhone users hit by 'KeyRaider' malware
+
+[SN]FIRST-SENTENCE[SN]
+Login names and passwords for more than 225,000 Apple accounts have been stolen by cyber-thieves in China.
+
+[SN]RESTBODY[SN]
+The credentials were found by security firm Palo Alto Networks while investigating suspicious activity on many Apple devices.
+It uncovered a malicious software family that targets jailbroken iPhones.
+The majority of people hit by KeyRaider are in China but Palo Alto said iPhone owners in 17 other nations had also been caught out.
+The theft is believed to be the biggest ever involving Apple accounts, said Palo Alto in a blogpost outlining its findings.
+User reports of unauthorised payments being made via iTunes accounts and of apps being installed unexpectedly alerted Palo Alto to a potential problem.
+It found that an attacker had made changes to software used on jailbroken iPhones. A jailbroken iPhone is one that can run apps that are not sourced from the main Apple app store.
+The main purpose of the booby-trapped software was to let people get apps and other Apple content without paying for them. The malicious version of the code, dubbed KeyRaider by Palo Alto, spied on transactions to scoop up login names, passwords and other credentials.
+The stolen data was sent to a remote server run by the malicious hackers behind KeyRaider.
+Apple's phones are the third most popular in China behind Huawei and Xiaomi, suggests research.
+Security firm Symantec said iPhone-owners were taking a risk by jailbreaking their device because this can remove the security checks Apple introduced to thwart malicious apps.
+"Third-party app stores often don't have the same controls and policies in place when it comes to the software they distribute," it said "and may be used to harbour malicious copies of well-known apps or other malware."

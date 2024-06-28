@@ -1,0 +1,18 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170217044551/http://www.bbc.com/news/technology-38992298
+
+[SN]TITLE[SN]
+Microsoft misses regular security fix date
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has delayed the release of a security update that would have fixed a vulnerability cyber thieves are known to be exploiting.
+
+[SN]RESTBODY[SN]
+The fix was to be released as part of Microsoft's regular monthly security update for its Windows software.
+In a blog, it said a "last minute issue" had got in the way of the updates being sent out as usual.
+The delay is thought to be related to changes Microsoft was due to make to the way updates were delivered.
+The February update was scheduled to include a patch for a problem with a part of Windows that handles particular types of file-transfers.
+The bug was first reported to Microsoft in September and code to exploit it is believed to be available to malicious hackers. The flaw is present in most versions of Windows and could leave users open to attacks that let hackers crash vulnerable machines.
+Microsoft has already delayed releasing the file-transfer fix because it wanted to include it with other updates for the same Windows sub-system that it previously planned for February.
+February was also when Microsoft was due to break its security fixes into two - one for Windows and another for its browsers. Getting the separation and testing system to work reliably is believed to have caused the delay.
+No date has been given for when the delayed update will be delivered.

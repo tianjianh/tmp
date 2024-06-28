@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170124040811/http://www.bbc.com:80/news/technology-38664332
+
+[SN]TITLE[SN]
+DNA-testing smartphone aims to tackle drugs resistance
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have built a DNA-analysing smartphone attachment that is a fraction of the cost of lab-based kit.
+
+[SN]RESTBODY[SN]
+The creators of the phone-powered pathology microscope believe it could be mass produced for less than $500 (Â£406) a unit.
+They say it could help doctors treat cancer, tuberculosis and other diseases more effectively than is sometimes possible in the developing world.
+But a UK firm says it is developing a more advanced and cheaper alternative.
+Details of the peer-reviewed project are published in the journal Nature Communications.
+The prototype microscope attachment was 3D-printed and developed as a joint effort by the University of California, Stockholm University and Uppsala University.
+One of the researchers involved said the tech could help medics examine tissue samples without having to send them to what might be a remote laboratory.
+"It can use the information that is carried in our DNA to make diagnoses," Prof Mats Nilsson told the BBC.
+"There are two main areas where this is done today.
+"In cancer, where certain mutations in tumours confer resistance to drugs, it can be used to prescribe the right treatments.
+"And in infectious diagnostics, it's the fastest way to work out if an infection is viral or bacterial, and, if it's bacteria, to figure out if it carries antibiotic resistant genes or not."
+To use the device, a sample of the patient's tissue is put in a container and then placed under a special lens attached to the smartphone's own camera.
+Two laser diodes and a white LED then beam light into the sample in a pre-set sequence, and the resulting images are fed into an algorithm for analysis.
+A Nokia Lumia 1020 was used in the experiment - a model known for its picture quality when it was released, in 2013.
+But Prof Nilsson said the equipment could be adapted for use with newer smartphones.
+And he suggested that an immediate use could be to treat tuberculosis in India and elsewhere.
+"Currently it's a trial and error thing - they start with the first-line drugs even if one knows that only 50% of the patients will respond, since resistance is so widespread," he said.
+"Then it can take three months to follow up, in which the patient can spread the disease.
+"So, one should stop doing that and treat patients with the right antibiotics at the time of diagnosis, and the only way to figure that out in the short-term is an affordable and simple DNA test."
+The charity Cancer Research UK suggested the tech could also have use in developed nations.
+"Revealing the precise make-up of a cancer can help patients get treatments that are most likely to benefit them, but tests can be expensive and time-consuming," said Dr Justine Alford, the organisation's senior science information officer.
+"This early study suggests mobile phone technology could potentially speed up this process and reduce costs, but much more research is needed to find out if it's reliable and accurate enough to make its way into the clinic."
+If the equipment does go into production, it will face competition.
+Oxford Nanopore Technologies has already developed handheld equipment that can analyse long sequences of DNA data and other biological molecules, which it says provides a richer set of information than looking for mutations at a single point.
+The company is in now in the process of adapting this to create a matchbox-sized device that can be plugged into smartphones, which it plans to release before the end of the year.
+Because the forthcoming device will rely solely on electronics-based tests, rather than using camera lenses and lasers, the company believes it will be cheaper to make than the US-Swedish proposal.
+"Nanopore-based electronic devices, including those attached to mobile phones such as SmidgION, allow anybody to sequence anything, anywhere," the company's chief technology officer Clive Brown told the BBC.

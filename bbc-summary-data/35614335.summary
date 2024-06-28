@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307050604/http://www.bbc.com/news/technology-35614335
+
+[SN]TITLE[SN]
+Tor: 'Mystery' spike in hidden addresses
+
+[SN]FIRST-SENTENCE[SN]
+A security expert has noticed an unprecedented spike in the number of hidden addresses on the Tor network.
+
+[SN]RESTBODY[SN]
+Prof Alan Woodward at the University of Surrey spotted an increase of more than 25,000 .onion "dark web" services.
+Prof Woodward said he was not sure how best to explain the sudden boom.
+One possibility, he said, might be a sudden swell in the popularity of Ricochet, an app that uses Tor to allow anonymous instant messaging between users.
+Tor, or The Onion Router, allows people to browse the web anonymously by routing their connections through a chain of different computers and encrypting data in the process.
+On his blog, Prof Woodward noted there had not been a similar increase in .onion sites in the history of the Tor network.
+"Something unprecedented is happening, but at the moment that is all we know," he told the BBC.
+"It is hard to know for certain what the reason is for the jump because one of the goals of Tor is to protect people's privacy by not disclosing how they are using Tor," said Dr Steven Murdoch at University College London.
+Another curiosity described by Prof Woodward was the fact that, despite the rise of hidden addresses, traffic on the network has not seen a comparable spike.
+He said there was a chance the spike was due to a network of computers called a botnet suddenly using Tor - or hackers launching ransomware attacks.
+It could even be the result of malware that might be creating unique .onion addresses when it infects a victim's computer - though there is no evidence yet for this.
+Prof Woodward said that he believed a rise in the use of an anonymous chat app called Ricochet - which has just received a largely positive security audit - is the most likely explanation.
+Dr Murdoch said this was indeed a possibility but added that the spike could also be the result of someone running an experiment on Tor.
+Ricochet uses the Tor network to set up connections between two individuals who want to chat securely.
+The app's website states that this is achieved without revealing either user's location or IP address and that, instead of a username, each participant receives a unique address such as "ricochet:rs7ce36jsj24ogfw".
+Ricochet has been available for some time, but on 15 February reasonably positive results of an audit by security firm NCC Group were published.
+On his blog, Prof Woodward noted that every new user of Ricochet would create a unique .onion address when setting up the service.
+That could account for the surge in services, though he admitted 25,000 new users for the app in just a few days would suggest "spectacular" growth.

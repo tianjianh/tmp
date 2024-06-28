@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170820062419/http://www.bbc.com/news/technology-33442419
+
+[SN]TITLE[SN]
+Finnish teen convicted of more than 50,000 computer hacks
+
+[SN]FIRST-SENTENCE[SN]
+A teenager involved in series of high profile cyber attacks has been convicted for his crimes in Finland.
+
+[SN]RESTBODY[SN]
+Julius Kivimaki was found guilty of 50,700 "instances of aggravated computer break-ins".
+Court documents state that his attacks affected Harvard University and MIT among others, and involved hijacking emails, blocking traffic to websites and the theft of credit card details.
+Despite the severity of the crimes, the 17-year-old has not been jailed.
+Instead, the District Court of Espoo sentenced the youth - who had used the nickname Zeekill - to a two-year suspended prison sentence.
+It also confiscated his PC and ordered him to handover â‚¬6,588 (Â£4,725) worth of property obtained through his crimes.
+Judge Wilhelm Norrmann noted that Kivimaki had only been 15 and 16 when he carried out the crimes in 2012 and 2013.
+"[The verdict] took into account the young age of the defendant at the time, his capacity to understand the harmfulness of the crimes, and the fact that he had been imprisoned for about a month during the pre-trial investigation," said a statement from the court.
+One consultant, who advises Europol and others on cybercrime matters, expressed concern about the sentence.
+"Whilst I'm sure the courts considered all the circumstances surrounding the conviction and the sentence that was warranted, there is a question as to whether such sentences will act as a deterrent to other hackers," said the consultant, Alan Woodward.
+"It is not necessarily the place of the courts to factor in deterrence in their sentences.
+"However, if I were another hacking group, was not that bothered about just having something on my record, and saw someone attract a suspended sentence for over 50,000 hacks, some of which caused significant damage, I don't think it would cause me much concern," he added.
+Kivimaki was able to compromise more than 50,000 computer servers by exploiting vulnerabilities in a software program they ran called ColdFusion.
+By doing so, he was able to install "backdoors" into tens of thousands of the computers, which allowed him to retrieve information stored on them.
+Prosecutors had accused the teenager of adding malware to about 1,400 of the servers.
+They said this let him create a botnet, which he used to carry out denial of service (DoS) attacks on other systems - an action that bombards affected computers with internet traffic causing them to become overwhelmed.
+Chat logs discovered on Kivimaki's PC indicated he had used the botnet to attack the news site ZDNet and the chat tool Canternet.
+Kivimaki was also accused of helping steal seven gigabytes worth of data, sent to and from email addresses ending in @mit.edu - the system used by the Massachusetts Institute of Technology.
+The court was told that MIT's traffic was redirected to a website hosted on a server run by Harvard University, where it could be examined.
+The company that provided MIT's email infrastructure, Educause, said it had incurred more than $213,000 (Â£139,000) worth of costs as a consequence.
+In addition, Kivimaki was accused of obtaining credentials to access accounts belonging to MongoHQ, a Californian website database provider, which allowed him to search billing and payment card information belonging to its clients.
+Kivimaki was said to have subsequently used stolen credit information to successfully make online purchases on 21 occasions as well as to have shared the information with others.
+Evidence shown to the court included orders for champagne and shop vouchers.
+Kivimaki was also accused of being involved in a money laundering scheme involving the virtual currency Bitcoin, which he was said to have used to fund a trip to Mexico.
+He was eventually arrested in September 2013.
+The security blogger Brian Krebs had previously linked Kivimaki to a notorious hacking group called Lizard Squad, which was involved in a separate, later series of attacks on Sony and Microsoft.
+However, Lizard Squad's activities were not mentioned in the court documents.

@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114124100/http://www.bbc.co.uk:80/news/science-environment-12668230
+
+[SN]TITLE[SN]
+UK 'over-reliant' on GPS signals, engineers warn
+
+[SN]FIRST-SENTENCE[SN]
+The UK may have become dangerously over-reliant on satellite-navigation signals, according to a report from the Royal Academy of Engineering.
+
+[SN]RESTBODY[SN]
+Use of space-borne positioning and timing data is now widespread, in everything from freight movement to synchronisation of computer networks.
+The academy fears that too many applications have little or no back-up were these signals to go down.
+Receivers need to be capable of using a variety of data sources, it says.
+Dr Martyn Thomas, who chaired the group that wrote the report, told BBC News: "We're not saying that the sky is about to fall in; we're not saying there's a calamity around the corner.
+"What we're saying is that there is a growing interdependence between systems that people think are backing each other up.  And it might well be that if a number these systems fail simultaneously, it will cause commercial damage or just conceivably loss of life.  This is wholly avoidable."
+Global Navigation Satellite Systems (GNSS) such as the US-operated Global Positioning System (GPS) are hugely popular and are finding more and more uses daily.
+As well as the car dashboard device that provides directions, sat-nav systems are used by cellular and data networks, financial systems, shipping and air transport, agriculture, railways and the emergency services.
+It is not just the excellent positioning that GNSS affords but the very precise timing information these systems deliver that has made them so popular.
+The European Commission, in a recent update on its forthcoming Galileo sat-nav network, estimated that about 6-7% of Europe's GDP, approximately 800bn euros (Â£690bn) annually, was now dependent in some way on GNSS data.
+The RAEng report claims to be the first assessment of just how many applications in the UK now use GPS signals and their like, and their probable vulnerability to an outage of some kind.
+It says sat-nav signals are relatively weak - equivalent to receiving the light from a bright bulb at a distance of 20,000km - and this leaves them open to interference or corruption.
+Possible sources include man-made ones, such as deliberate jamming, and natural hazards, such as solar activity.  Both can introduce errors into the data or simply take it out altogether.
+"The key thing for us is the concept of cascade failures," said report co-author Prof Jim Norton, the president-elect of BCS - the Chartered Institute for IT.
+"This is what we characterise as accidental systems - systems that exist, but people don't recognise they exist because they don't understand the interdependencies.  There will be a single common point of vulnerability and failure, but it's not obvious."
+Dr Thomas added: "We concluded that the UK was already dangerously dependent on GPS as a single source of position, navigation and timing (PNT) data.
+"[We concluded] that the back-up systems are often inadequate or un-tested; that the jammers are far too easily available and that the risks from them are increasing;  that no-one has a full picture of the dependencies on GPS and similar systems; and that these risks could be managed and reduced if government and industry worked together."
+The report makes 10 recommendations.  Three relate to raising awareness of the problems and getting users to assess their own particular vulnerabilities and possible back-up solutions.
+Two cover hardware solutions, including the suggestion of a government-sponsored R&D programme to seek better antenna and receiver technologies to enhance the resilience of systems.  The report also lauds the land-based eLoran radio navigation system as a very worthy back-up technology.
+And five recommendations fall into the policy domain.  Chief among these is the urgent suggestion that mere possession of jamming equipment be made illegal.
+Criminal gangs use this equipment to hide their activity, for example blocking the GPS tracking systems in the lorries or high-performance cars they seek to steal.
+These jammers can be bought off the internet for as little Â£20. Some are capable of swamping all receivers over a wide area.
+"It's already illegal to put GNSS jamming equipment on the market in the UK," said Prof Jim Norton. "The problem is it's not necessarily illegal to hold it, to import or even to advertise it.  It doesn't require legislation; it just requires [the telecoms regulator] Ofcom to place a banning order, and we would strongly recommend they do that."
+Jonathan.Amos-INTERNET@bbc.co.uk

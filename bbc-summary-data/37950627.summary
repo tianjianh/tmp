@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161111180026/http://www.bbc.co.uk/news/technology-37950627
+
+[SN]TITLE[SN]
+Spotify patches 'data gobbling' glitch
+
+[SN]FIRST-SENTENCE[SN]
+Music service Spotify is rolling out a fix to stop its desktop application repeatedly writing huge amounts of junk data to computer users' hard drives.
+
+[SN]RESTBODY[SN]
+Reporters from new site Ars Technica found Spotify was writing up to 10GB of data an hour to their computers.
+Unnecessarily writing and rewriting data to some types of computer hard drive can shorten their life.
+Spotify said it was aware of the issue and was taking steps to address it in its latest version.
+The issue was more likely to be problematic for people using a solid-state hard drive (SSD) in their device.
+Data on SSDs can be read and rewritten a limited number of times before the drive begins to fail.
+A large volume of unnecessary activity by the Spotify player could therefore bring about a drive's failure earlier than expected.
+Ars Technica found that Spotify wrote and rewrote up to 700GB of data - the equivalent of more than 100 movies - over a 24 hour period.
+Many people shared their concerns on social news site Reddit, highlighting that the app even rewrote the data while it was idle and no music was being streamed.
+Ken Munro, from cybersecurity firm Pen Test Partners, said the problem was "either an error or lazy coding", but said more modern SSDs could tolerate more data-writing cycles.
+"SSD 'wear' used to be a very significant issue when they first emerged," he told the BBC.
+"Since then, manufacturers have made significant advances in reducing this and extending lifespans.
+"It would take a long while to wear out an SSD nowadays, but that doesn't really excuse the Spotify bug!"
+The problem affected people using the app on Windows, Linux and Mac OS.
+Spotify said: "We've seen some questions in our community around the amount of written data using the Spotify client on desktop.
+"These have been reviewed and any potential concerns have now been addressed in version 1.0.42, currently rolling out to all users."

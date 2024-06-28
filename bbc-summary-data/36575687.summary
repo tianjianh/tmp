@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170203005945/http://www.bbc.co.uk:80/news/technology-36575687
+
+[SN]TITLE[SN]
+New ransomware strain coded entirely in Javascript
+
+[SN]FIRST-SENTENCE[SN]
+Security researchers have discovered a new strain of ransomware coded entirely in Javascript, which could increase its chances of being activated.
+
+[SN]RESTBODY[SN]
+Unlike executable program files, Javascript documents do not always trigger a security warning on Windows or require administrator access to run.
+Named RAA, the malware is disguised as a document and starts encrypting files immediately when opened.
+One security expert said the approach was likely to fool many victims.
+"It's an interesting approach to ransomware," said Ken Munro of security company Pen Test Partners.
+"Using Javascript as an attachment to an email is likely to result in many victims accidentally installing it."
+The RAA ransomware was discovered by security researchers known as Benkow and JamesWT.
+It is sent to victims by email and if opened on a Windows machine uses the "Windows Based Script Host" to run its code.
+Typically an executable program such as an .exe or .bat file would be automatically screened and blocked by the operating system, but Windows allows .js files to run.
+If opened, the ransomware sets about encrypting the victim's files and displays a ransom note written in Russian. It demands a fee of $250 (Â£171) for the files to be restored.
+In April, Microsoft reported that it had seen an increase in malware being spread through Javascript email attachments.
+"It is interesting to note that an Office attachment with malicious macros typically requires two or more clicks on the document to run it. One click to open the document and another click to enable the macros," the firm said in a blog post.
+"On the other hand, the Javascript attachments only take one or two clicks to start executing."
+Mr Munro said people should avoid opening attachments from unknown sources to stay safe.
+"The .js (Javascript) file type is automatically blocked in some email packages, particularly Outlook," said Mr Munro.
+"But interestingly Gmail doesn't appear to block it. Don't open unknown attachments, particularly those with a .js extension.
+"While we're there, don't open macro enabled Office docs either (such as .docm and .xlsm files) - and keep your anti-virus right up to date."
+Additionally, Windows can be instructed not to start the "Windows Based Script Host" when a .js file is double-clicked.
+Virus blog Bleeping Computer reports that there is currently no way to reverse the RAA encryption without paying the ransom.
+Often, restoring files from a back-up copy is the only way to get files back without paying - although some examples of ransomware have been cracked.

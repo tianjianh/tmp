@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170404201916/http://www.bbc.com/news/business-37776964
+
+[SN]TITLE[SN]
+Could your 'smart' home be a weapon of web destruction?
+
+[SN]FIRST-SENTENCE[SN]
+Do you use a webcam to check on Tiddles the cat or Bonzo the dog while you're at work?
+
+[SN]RESTBODY[SN]
+If so, you could be unwittingly turning your internet-connected "smart" home into a weapon of web destruction.
+That's the unsettling conclusion to be drawn from the recent web attacks that made use of a botnet army of compromised connected devices, from webcams to printers, to knock out a number of popular websites.
+The smart home, it seems, is pretty dumb when it comes to security.
+Wi-fi routers, digital video recorders, controllable lighting, security cameras - all these devices offer a potentially easy way in to your network and then the wider internet.
+As the Internet Society warned last year: "The interconnected nature of IoT [internet of things] devices means that every poorly secured device that is connected online potentially affects the security and resilience of the internet globally."
+Yes, checking on Frou-Frou, your Miniature Schnauzer, via a poorly secured webcam could help break the internet. Forget Kim Kardashian.
+In the good old days, hackers could launch a distributed denial-of-service (DDoS) attack - overloading computer servers with millions of pointless requests for information, thereby knocking them out - using personal computers infected with malware.
+Nowadays, they also have the IoT to play with - the increasingly diverse array of web-connected devices, from industrial sensors to clever fridges, thermostats to baby monitors.
+Research consultancy Gartner forecasts that there will be nearly 21 billion connected things in use worldwide by 2020, up from about seven billion now.
+So the hackers are moving away from better-policed corporations and governments to easier targets -  and they don't come easier than the IoT-connected smart home.
+So what should we be doing to protect ourselves?
+One quick and easy thing we can all do is change default passwords as soon as we buy an IoT gadget.
+"The first rule of security is 'do not use default accounts or passwords'. They are posted on the internet, so the bad guys don't have to scan for credentials of assets to compromise," says Gary Hayslip, IoT specialist and chief information security officer for the City of San Diego.
+Simple tools such as Bullguard's IoT Scanner software can also help spot weaknesses.
+The scanner detects any devices on a smart home network that are publicly exposed using the vulnerability service Shodan, the Google for finding unprotected computers and webcams.
+If the scan identifies any exposed devices specified by the vendor, then you should immediately change log-ins and passwords. BullGuard has also published an IoT manual that gives a checklist on what to check and how.
+Interestingly, the company recently acquired Israeli start-up Dojo-labs and will soon announce a smart network security device that plugs in to a wi-fi router to protect all connected devices on a home network.
+All internet traffic on the home network is routed via Dojo, allowing it to secure the network against cyber-attacks and protect the user from privacy breaches.
+When malicious activity or a privacy breach is detected, Dojo automatically blocks it and notifies the owner through a mobile app, the company says.
+"The recent internet outage caused by the Mirai botnet enhances the fact that IoT security needs to be taken more seriously," says Bullguard chief executive Paul Lipman.
+"The Mirai botnet consists of easily hackable low-end security cameras with no changeable passwords. A home security device such as Dojo has the ability to instantly detect and block an attack such as Mirai."
+And Martin Talks, founder of digital consultancy Matomico, offers this advice for smart home owners.
+"Only point connected cameras where they are really needed. It was Edward Snowden who alerted us to the fact that cameras can be taken over and our presence in our houses monitored. If you don't need a camera active, tape over it.
+"Think about what devices you really need to connect to the internet," he adds. "And if you decide you do need to connect a device, use the connectivity only when you need it... turn it off at night."
+Other ways to increase IoT security including keeping product software and firmware up-to-date and buying from trusted brands and trusted platforms.
+One of the reasons why some electronics are cheaper than others is that manufacturers cut corners on security - like putting cheap tyres on an expensive car.
+So what is the IoT industry doing to improve security? After all, it's their products that are turning our connected homes into new recruits for botnet armies.
+While most agree that common security standards are a good idea, the unhelpful response has been to set up a number of competing associations each developing their own standards: the Online Trust Alliance, the IoT Security Foundation, the Open Connectivity Foundation, and the Industrial Internet Consortium, for example.
+Meanwhile the big tech companies - Apple, Amazon, LG and Samsung primarily - still believe they can create their own closed ecosystems and dominate the smart home market using their own standards.
+Add to this product makers who do things on the cheap and lazy consumers sticking with default passwords, and you have all the conditions for the perfect IoT security storm.
+So until the industry gets its act together, it's up to us to prevent our homes becoming weapons of web destruction.
+Follow Technology of Business editor Matthew Wall on Twitter
+Click here for more Technology of Business features

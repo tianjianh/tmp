@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225042733/http://www.bbc.co.uk/news/technology-35629890
+
+[SN]TITLE[SN]
+How easy is it to hack a home network?
+
+[SN]FIRST-SENTENCE[SN]
+My home is under attack.
+
+[SN]RESTBODY[SN]
+Right now, skilled adversaries are probing its defences seeking a way in. They are swift, relentless and smart. No weakness will escape their notice.
+But I am not without defences. I've tried to harden the most vulnerable devices to stop them being compromised and I've set up warning systems that should alert me if the attackers get inside.
+In the end, all that effort was for nothing because the attackers found so many ways to get at me and my home network. And, they said, even if the technology had defeated them, the weakest link of all - me - would probably have let them in.
+I found out just how severely compromised my home network was in a very creepy fashion. I was on the phone when the web-connected camera sitting on the window sill next to me started moving. The lens crept round until it pointed right at me. I knew that the attackers were on the other end watching what I was doing, and potentially, listening to the conversation.
+It is a gadget my children and I have used to see if any wildlife passes through our garden and one which many people have for home security or as an alternative baby monitor.
+I was lucky that I knew my attackers who, at that moment, were sitting in my living room waiting to show me how straightforward it was to subvert these domestic devices. The picture they took of me via the camera was evidence enough.
+The attackers were Dan Turner and Kyprianos Vasilopoulos from security firm Trustwave who test network defences for a living.
+There were several different devices on my network that looked hackable, said Mr Turner. My router had known, unpatched security issues and the USB-connected back-up drive was also tempting but for him the web-capable camera was "the big red flag".
+A few hours' work uncovered a previously unknown bug in the camera's core software that Mr Turner was able to exploit.
+"It meant we were able to do things with it that we really should not be able to do," he said. "At that point it was pretty much game over."
+The attack the pair developed revealed the internal passwords for the network the camera sat on. Knowing that allowed attackers to join the network with the same privileges as all the members of my family. Maybe that's why my network security system did not spot the intrusion.
+It's a vulnerability that exposes more than me to potential trouble. The Shodan search engine that logs net devices lists about 1.5 million that use the same core software. That's not to say that all are vulnerable but a good percentage are probably unwitting gateways to the networks they sit on.
+It's these often unregarded devices that are a big security issue, said Greg Day, European security chief at Palo Alto Networks.
+Most people overlook them because they seem so mundane, he said. Even though most will be, in effect, a small computer running a cut-down version of the Linux operating system.
+"You should look at the pings going out from your home network," he said. "There might be a lot more outgoing traffic than you think."
+Using a network sniffing tool,  I had a look and I was amazed at how much data was flowing across my home network. Desktops, laptops, tablets and smartphones were all checking in online, many constantly, to get updates or to feed ads and other content to apps.
+I also found two mystery devices - one of which was revealed to be a printer and the other a digital radio I had forgotten I had hooked up to the wi-fi when I got it years ago.
+Increasingly, said Mr Day, it will be the smaller, supposedly smarter devices that will expose people to security risks.
+There are industry efforts to find and fix bugs in gadgets that make up the Internet of Things but not all manufacturers are reacting to reports of problems. The maker of the web-capable camera I use has been informed about the bug but it has no plans to close the loophole.
+Use anti-virus software and a firewall. Keep both updated.
+Update the firmware on your router. Change the default admin names and passwords. Log out when you have finished configuring it. Turn off WPS.
+Make sure the operating systems on PCs, laptops, phones and tablets are kept up to date.
+Be suspicious of emails bearing attachments, even from people you know.
+Check the security of net-connected devices such as IP cameras, network drives and other "smart" devices. If possible, turn off their web interfaces.
+Thankfully, said Mr Vasilopoulos from Trustwave, attacks on those home networks are relatively rare. Instead, cyber-thieves tended to rely on spear phishing campaigns.
+"Everything starts with email," he said. "That's always the easy route."
+These campaigns use carefully targeted emails that look like they have been sent by people a target knows or is likely to respond to. Names for these emails are often grabbed from social media sites such as Facebook or LinkedIn.
+To demonstrate how this worked the Trustwave team faked a message to me from an attractive young woman who works at the BBC. My middle-aged vanity was all too likely to make me open the message, click on the attachment and fall victim.
+If I had opened it, I would have seen an error message that asked me to OK a macro to help display the contents of the attachment. If I had, that would also have meant game over. Anti-virus software would not have spotted the dodgy macro, said Mr Vasilopoulos. Once running it searches for saleable data and steals it.
+"We created a script that can get as much information automatically as it can," he said.
+Suitably chastened by both these experiences, I looked into ways to harden my home network. First off was to turn off the web access to the camera. Then I unhooked the digital radio from the wi-fi.
+I could go further, said Craig Young from security firm Tripwire, who has spent a lot of time studying the security shortcomings of home routers. About 80% of the top-selling routers on Amazon have security bugs, he has found.
+His advice was to update the core software or firmware on a router to the latest version. Alternatively, he said, people could replace the firmware with an open source version. Digital rights group the EFF runs the Open Wireless project that creates such software.
+"You should also disable WPS," he said. WPS, or Wi-fi Protected Setup, was supposed to be an easy way to get devices connected to a router. But the push-a-button-to-connect system came with flaws.
+"It's a technology where the complexity of the wi-fi pass phrase gets reduced to an eight-digit pin," he said. In some cases, he added, the size of the pin is reduced further and some routers use the same default digits.
+"It's a disaster," he said.
+He also advised changing the default admin password and disabling the web interface for the router to make it harder to get at and take over.
+"Most of the attacks on routers that we see target that HTTP service," he said.
+And it did not end there. After I had followed that advice I made sure I updated all the family PCs, laptops, tablets and phones. I used the security software I had installed to scan as many machines as I could. I regularly check online accounts to make sure I'm the only one logging in. Now I'm not sure if I am more secure, or just more paranoid.
+Read more cybersecurity stories in our special index

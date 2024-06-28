@@ -1,0 +1,56 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170520004225/http://www.bbc.co.uk/news/technology-39965545
+
+[SN]TITLE[SN]
+BBC fools HSBC voice recognition security system
+
+[SN]FIRST-SENTENCE[SN]
+Security software designed to prevent bank fraud has been fooled by a BBC reporter and his twin.
+
+[SN]RESTBODY[SN]
+BBC Click reporter Dan Simmons set up an HSBC account and signed up to the bank's voice ID authentication service.
+HSBC says the system is secure because each person's voice is "unique".
+But the bank let Dan Simmons' non-identical twin, Joe, access the account via the telephone after he mimicked his brother's voice.
+The bank said it would "review" ways to make the ID system more sensitive following the BBC investigation.
+HSBC introduced the voice-based security in 2016, saying it measured 100 different characteristics of the human voice to verify a user's identity.
+Customers simply give their account details and date of birth and then say: "My voice is my password".
+Although the breach did not allow Joe Simmons to withdraw money, he was able to access balances and recent transactions, and was offered the chance to transfer money between accounts.
+"What's really alarming is that the bank allowed me seven attempts to mimic my brother's voiceprint and get it wrong, before I got in at the eighth time of trying," he said.
+"Can would-be attackers try as often as they like until they get it right?"
+Separately, a Click researcher found HSBC Voice ID kept letting them try to access their account after they deliberately failed on 20 separate occasions spread over 12 minutes.
+Click's successful thwarting of the system is believed to be the first time the voice security measure has been breached.
+HSBC declined to comment on how secure the system had been until now.
+A spokesman said: "The security and safety of our customers' accounts is of the utmost importance to us.
+"Voice ID is a very secure method of authenticating customers.
+"Twins do have a similar voiceprint, but the introduction of this technology has seen a significant reduction in fraud, and has proven to be more secure than PINS, passwords and memorable phrases."
+"I'm shocked," said Mike McLaughin, a security expert at Firstbase Technologies.
+"This should not be allowed to happen.
+"Another person should not be able to access your bank account.
+"Voices are unique - but if the system allows for too many discrepancies in the voiceprint for a match, then it's not secure.
+"And that seems to be what's happened here."
+Prof Vladimiro Sassone, an expert in cyber-security, from the University of Southampton, said biometrics could, in general, be an effective security layer, but there were dangers if companies put too much faith in something that was not 100% secure.
+"In principle there should be no room for error at all," said Prof Sassone.
+"It should be good at the first attempt."
+"Voice identification is not like a password system."
+"You can't forget your voice or get the wrong one.
+"After two attempts, systems should be able to say whether it's a match or not and alert the bank and user if further attempts are made."
+Prof Sassone said using unique biometric traits as a verifier should make it harder for hackers - but if they should be copied by criminals, users could not then change their voice, face, or fingerprint as they would a password.
+"If you have to prove it wasn't you who accessed your account - that it was either a mimic or computer software - then how are you going to do that?" he asked.
+"Especially if the bank is claiming the system is perfect."
+Security expert Prof Alan Woodward, from the University of Surrey, said it was dangerous to rely on one biological characteristic to authenticate someone, even if it was one unique to that person.
+"Biometric based security has a history of measurements being copied," he said.
+"We've seen fingerprints being copied with everything from gummy bears to photographs of people's hands.
+"Hence, biometrics, just like other aspects of security, will always have to evolve as measures emerge to threaten them.
+"Security is a story of measure and counter-measure."
+He said HSBC probably needed to reassess its technology and ideally add another "factor" alongside the voiceprint check to authenticate identity.
+"As well as requiring something you are, it would require something you know or something you have, like a PIN," he said.
+"That makes it much more difficult to compromise."
+It is not just the ability of humans to fool computers that is worrying some high-tech companies.
+Start-up Lyrebird is working on ways to replicate a voice using just a few minutes of recorded speech.
+Co-founder Jose Sotelo said there was no doubt this had "implications" for voice identification systems.
+"We are working with security researchers to figure out the best way to proceed," he told Click.
+"This is one of the reasons we have not published this to the public yet.
+"It's a scary application but we believe that we should be careful and should not be scared of technology and we should try to make the best out of it," he said.
+"One idea we are considering is to watermark the audio samples we produce so we are able to detect immediately if it is us that generated this sample."
+You can see the full BBC Click investigation into biometric security in special edition of the show on BBC News and on the iPlayer from Saturday, 20 May.
+Get news from the BBC in your inbox, each weekday morning

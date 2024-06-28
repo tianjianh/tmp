@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150614003652/http://www.bbc.co.uk/news/technology-26016802
+
+[SN]TITLE[SN]
+NHS web page error sent users to malicious websites
+
+[SN]FIRST-SENTENCE[SN]
+A "coding error" on the NHS website exposed users to harmful websites rather than health advice.
+
+[SN]RESTBODY[SN]
+More than 800 pages on NHS.uk automatically redirected unsuspecting users to pages that contain either malware or advertising.
+The affected pages were highlighted by a user who posted details of the problem on Reddit.
+In a statement, the NHS said its site had not been maliciously attacked and that it had fixed the problem.
+"An internal coding error has caused an incorrect redirect on some pages on NHS Choices since Sunday evening," a statement explained.
+"Routine security checks alerted us to this problem on Monday morning at which point we identified the problem and corrected the code."
+Reddit user Muzzers said he had stumbled across an infected page while he had been browsing for information about the flu.
+"Digging a bit deeper I found hundreds more pages which redirect to either an advertisement or malware infested page," he wrote.
+Users trying to find details on dementia, pregnancy, vaccinations, mental health and other areas also found themselves sent to the malicious pages.
+The fault occurred due to a typo within the NHS website's source code.
+A developer accidentally wrote "googleaspis.com" rather than "googleapis.com" when creating the site.
+The mistake went unnoticed until the incorrectly-spelt address was registered by someone in the Czech Republic over the weekend, and was then used to capitalise on the error.
+The NHS said the site would not be completely clear of the problem until later on Monday.
+It added: "NHS Choices is treating this issue with urgency and once resolved we plan to undertake a thorough and detailed analysis to ensure that a full code review is undertaken and steps put in place to ensure no reoccurrence."

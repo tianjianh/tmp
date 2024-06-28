@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225080422/http://www.bbc.com/news/technology-33772261
+
+[SN]TITLE[SN]
+Spyware demo shows how spooks hack mobile phones
+
+[SN]FIRST-SENTENCE[SN]
+Intelligence agencies' secretive techniques for spying on mobile phones are seldom made public.
+
+[SN]RESTBODY[SN]
+But a UK security firm has shown the BBC how one tool, sold around the world to spooks, actually works.
+It allows spies to take secret pictures with a phone's camera and record conversations with the microphone, without the phone owner knowing.
+Hacking Team's software was recently stolen from the company by hackers and published on the web.
+Almost any data on a phone, tablet or PC can be accessed by the tool and it is fascinating how much it can do.
+When Joe Greenwood, of cybersecurity firm 4Armed, saw that source code for the program had been dumped online by hackers, he couldn't resist experimenting with it.
+Although he had to fiddle with the code to make it work, it only took a day before he had it up and running.
+The software consists of the surveillance console, which displays data retrieved from a hacked device, and malware planted on the target device itself.
+4Armed was careful to note that using it to spy on someone without their consent would be against the law.
+After testing the software on his own PC, Mr Greenwood soon realised the scope of its capabilities.
+"You can download files, record microphones, webcam images, websites visited, see what programs are running, intercept Skype calls," he told the BBC.
+The software even has some in-built features to track Bitcoin payments, which can be difficult to associate with individuals without additional data about when and how transactions were performed.
+In a live demonstration of the system, Mr Greenwood showed how an infected phone could be made to record audio from the microphone, even when the device was locked, and use the phone's camera without its owner knowing.
+"We can actually take photos without them realising.
+"So the camera in the background is running, taking photos every number of seconds," explained Mr Greenwood.
+It was also possible to listen in on phone calls, access the list of contacts stored on the device and track what websites the phone user was visiting.
+Both Mr Greenwood and 4Armed's technical director, Marc Wickenden, said they were surprised by the sleekness of the interface.
+Both point out, though, that customers could be paying upwards of Â£1m for the software and would expect it to be user-friendly, especially if it was intended for use by law enforcers on the beat.
+For the tracked user, though, there are very few ways of finding out that they are being watched.
+One red flag, according to Mr Greenwood, is a sudden spike in network data usage, indicating that information is being sent somewhere in the background. Experienced spies, however, would be careful to minimise this in order to remain incognito.
+At present, spy software like this is only likely to be secretly deployed on the phones and computers of people who are key targets for an intelligence agency.
+The version of the spyware distributed online is now likely to be more easily detected by anti-virus programs because companies analysing the source code are in the process of updating their systems to recognise it.
+Security expert Graham Cluley said it should be as easy to detect as malware.
+"The danger will be that malicious hackers could take that code and augment it or change it so it no longer looks like Hacking Team's versions, which might avoid detection," he added.
+The best course of action, said Mr Cluley, is to keep operating systems and software as up to date as possible.
+In a statement, a spokesman for Hacking Team said it advised its customers not to use the software once the breach was discovered.
+"As soon as the event was discovered, Hacking Team immediately advised all clients to discontinue the use of that version of the software, and the company provided a patch to assure that client surveillance data and other information stored on client systems was secure.
+"From the beginning Hacking Team has assumed that the code that has been released is compromised," he said.
+The spokesman added that the software would be operated by clients of Hacking Team, not Hacking Team itself, and therefore no sensitive data relating to ongoing investigations had been compromised in the breach.
+"Of course, there are many who would use for their own purposes the information released by the criminals who attacked Hacking Team.
+"This was apparently not a concern of the attackers who recklessly published the material for all online.
+"Compiling the software would take considerable technical skill, so not just anyone could do that, but that is not to say it is impossible," he said.

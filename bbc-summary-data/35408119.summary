@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160326073230/http://www.bbc.co.uk/news/world-asia-35408119
+
+[SN]TITLE[SN]
+How the Moon landing inspired Google Brain
+
+[SN]FIRST-SENTENCE[SN]
+Growing up in a small village in Vietnam, Quoc Le had no electricity till he was nine. A little over 20 years later he has helped design artificial intelligence used by millions everyday.
+
+[SN]RESTBODY[SN]
+The 32-year-old helps lead the Google Brain team, a specialised unit that attempts to give computers the kind of profound neural networks that human beings possess, or at least helps them simulate it.
+It is Google's attempt to build an artificial brain.
+It may not be humanoid-like machine that can think for itself that many will have in mind, but "intelligence" has already been integrated into Google products, the kinds of technology that Mr Le could only imagine as a child.
+Mr Le remembers the humble moments of technological progress in his village of Thuy Dong: the first time the village got a TV, the first car he saw, the first rice cooker his family bought.
+"Back then every single moment of technology introduced to us, suddenly changed our lives," he says.
+But it was a picture of the 1969 Moon landing that inspired him to become a pioneer in artificial intelligence.
+"I was asking the question: we are not the fastest animal on earth, we can't even fly, but somehow we made it to the Moon. What is that single capability that we have that other animals don't have?
+"And I realised it's because of the brain - it's intelligence." He assumed this meant that intelligent machines were commonplace, but later realised they were not.
+"So I decided maybe I should build it," he says with a smile.
+Mr Le began his research into machine intelligence while at university in Australia and later as a PhD candidate at Stanford. He said he was frustrated that software that learned needed a lot of input from humans.
+"The machines we claim to be intelligent we spend a lot of time coding decisions inside them. I want everything to be automatic," he says. So he worked out how to let software learn things itself.
+The field of deep learning - the attempt to make machines learn by creating a set of complex algorithms - was already nascent. But Mr Le wanted to significantly speed it up by building large-scale neural networks that could process much more data.
+In 2012, Mr Le led an experiment for Google where the neural network was shown YouTube videos for a week to see what it might learn.
+One of the artificial neurons, as Me Le puts it, was "very happy" to see a picture of a cat, without ever being told what a cat is or being given any images labelled as a cat.
+It was a significant breakthrough in proving that machines could learn without intense input from humans to a high degree of accuracy.
+Another study showed a conversation between a machine and a human, where the machine was able to provide responses after studying movie subtitles. Although the study admits that a lack of consistency was a common failure of the model.
+A machine was able to come up with replies to questions based on what it had learned from movie scripts, in a study led by Mr Le.
+Human: Who is Skywalker?
+Machine: He is a hero.
+Human: Who is Bill Clinton?
+Machine: He's a billionaire.
+Human: Is sky blue or black?
+Machine: Blue.
+Human: Does a cat have a tail?
+Machine: Yes.
+Human: Does a cat have a wing?
+Machine: No.
+The findings of these experiments and others have been integrated into Google services, providing predictive replies for emails, recognising places and people in images and voice recognition in search.
+While deep learning is thought to be among the most promising areas of study in artificial intelligence, there are many others.
+Even within Google there is a team, created after Google acquired UK company DeepMind in 2014, that has been using machine learning with games.
+Last week, the computer it built beat the world champion of the ancient Chinese game Go, a game that has been very difficult for computers to master because of the huge amount of possible moves.
+And other companies including Facebook, Microsoft and China's Baidu have all announced they are investing in deep learning and other forms of artificial intelligence.
+Eventually, Mr Le wants his technology to converge into artificial intelligence similar to that depicted in the movie Her, where operating systems acts as personal assistants to humans.
+"What I care about is making a machine be able to see, be able to hear and be able to understand us," he says. But we are very far away from that, he admits.
+What he has achieved in the last five years is to help put AI into the hands of people all over the world, including those back in his village in Vietnam.

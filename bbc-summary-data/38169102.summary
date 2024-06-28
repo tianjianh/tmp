@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161201210037/http://www.bbc.co.uk/news/technology-38169102
+
+[SN]TITLE[SN]
+'Fatal' flaws found in medical implant software
+
+[SN]FIRST-SENTENCE[SN]
+Security flaws found in 10 different types of medical implants could have "fatal" consequences, warn researchers.
+
+[SN]RESTBODY[SN]
+The flaws were found in the radio-based communications used to update implants, including pacemakers, and read data from them.
+By exploiting the flaws, the researchers were able to adjust settings and even switch off gadgets.
+The attacks were also able to steal confidential data about patients and their health history.
+A software patch has been created to help thwart any real-world attacks.
+The flaws were found by an international team of security researchers based at the University of Leuven in Belgium and the University of Birmingham.
+While most implants work autonomously, many now use short-range wireless communications systems to make it easy for medical staff to retrieve data about the person the gadget is helping.
+Commands to change the way the devices function can also be sent wirelessly to ensure they are tuned to match an individual's physiology and condition.
+The team reverse-engineered the proprietary wireless signalling systems used by the implants which revealed flaws in the way data was broadcast. The attacks only worked when the researchers' eavesdropping equipment was within five metres of the devices.
+By eavesdropping on the data traffic, the researchers were able to pick out and replay commands that controlled the devices.
+Via this technique, attackers could find out "sensitive information" or send "malicious messages", said the team in a paper detailing its work.
+"The consequences of these attacks can be fatal for patients as these messages can contain commands to deliver a shock or to disable a therapy," it warned.
+All the implants were made by one company and all are currently being used widely, it said.
+The name of the implant maker was not disclosed but the security experts said they had told it about their findings. This had prompted it to update device software to help limit the potential danger to patients.
+"This shows that security must urgently improve," cardiologist Rik Willems, from the University of Leuven, who helped with the study told the Belgian newspaper Dr Tijd.

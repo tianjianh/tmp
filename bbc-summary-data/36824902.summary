@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160718201744/http://www.bbc.co.uk/news/science-environment-36824902
+
+[SN]TITLE[SN]
+Storage device writes information atom-by-atom
+
+[SN]FIRST-SENTENCE[SN]
+The quest for storage devices that pack more information into a smaller space has reached a new limit, with memory that writes information atom-by-atom.
+
+[SN]RESTBODY[SN]
+Dutch scientists developed rewritable memory that stores information in the positions of individual chlorine atoms on a copper surface.
+The information storage density is two to three orders of magnitude beyond current hard disk or flash technology.
+Details of the advance appear in the journal Nature Nanotechnology.
+The 1 kilobyte memory is the work of a team led by Sander Otte at the Technical University of Delft (TU Delft). With each bit of data represented by the position of a single chlorine atom, the team was able to reach a density of 500 Terabits per square inch.
+"In theory, this storage density would allow all books ever created by humans to be written on a single post stamp," said Dr Otte.
+Or, by another measure, the entire contents of the US Library of Congress could be stored in a 0.1mm-wide cube.
+The researchers used a scanning tunneling microscope (STM), in which a sharp needle probes the atoms on the surface one by one.
+This allowed the researchers to push the atoms around in a manner which Sander Otte compares to a sliding puzzle.
+"Every bit consists of two positions on a surface of copper atoms, and one chlorine atom that we can slide back and forth between these two positions," he said.
+"If the chlorine atom is in the top position, there is a hole beneath it - we call this a 1. If the hole is in the top position and the chlorine atom is therefore on the bottom, then the bit is a 0."
+Because the chlorine atoms are surrounded by other chlorine atoms (except near the holes), they keep each other in place.
+For this reason, the team at TU Delft believe their method is much more stable than methods using loose atoms - and more suitable for practical data storage applications.
+As a proof of principle, the team encoded a section of a famous lecture called "There's plenty of room at the bottom" by the physicist Richard Feynman on an area 100 nanometres wide.
+However, despite its future promise, the approach is not ready for the real world just yet. Stable information storage could only be demonstrated at a temperature of 77 Kelvin (-196C) and the speed of single write and read processes is still slow - on the scale of minutes.
+However, said Dr Otte, "through this achievement we have certainly come a big step closer".
+In an article published in the same issue of Nature Nanotechnology, Steven Erwin, from the Naval Research Laboratory in Washington DC, acknowledged the current limitations.
+But he added: "It is important to recognise the significance of this accomplishment â€” a functioning high density atomic-scale memory device that will, at the very least, stimulate our imaginations towards the next such milestone."

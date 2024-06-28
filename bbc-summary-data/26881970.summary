@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170120090707/http://www.bbc.co.uk:80/news/technology-26881970
+
+[SN]TITLE[SN]
+Power plants put at risk by security bugs
+
+[SN]FIRST-SENTENCE[SN]
+The discovery of bugs in software used to run oil rigs, refineries and power plants has prompted a global push to patch the widely used control system.
+
+[SN]RESTBODY[SN]
+The bugs were found by security researchers and, if exploited, could give attackers remote access to control systems for the installations.
+The US Department of Homeland Security said an attacker with "low skill" would be able to exploit the bugs.
+About 7,600 plants around the world are using the vulnerable software.
+"We went from zero to total compromise," said Juan Vazquez, a researcher at security firm Rapid7 who, with colleague Julian Diaz, found several holes in Yokogawa's Centum CS 3000 software.
+First released to run on Windows 98, the Centum CS 3000 software is used to monitor and control machinery in many large industrial installations.
+"If you are able to exploit the vulnerabilities we have identified you get control of the Human Interface Station," said Mr Diaz. "That's where the operator sits or stands and monitors operational details."
+"If you have control of that station as an attacker you have the same level of control as someone standing on the plant floor wearing a security badge," he said.
+Rapid7's work prompted the Computer Emergency Response Team of the US Department of Homeland Security that deals with critical infrastructure to issue an alert about the vulnerabilities.
+In its alert, ICS-Cert said companies using Centum CS 3000 should evaluate whether they were at risk and apply a patch if it was needed.
+"An attacker with a low skill would be able to exploit these vulnerabilities," it said in its alert.
+The Rapid7 researchers alerted Yokogawa about their findings before publicising their work to give the company time to produce a patch that can close the loopholes.
+"Not all Centum CS 3000 users need to apply this patch immediately," said Yokogawa in a statement. "This depends on how their systems are connected to external networks and on the security measures that are in place."
+Yokogawa said it was in the process of contacting customers who might be vulnerable and urging those who were at risk to apply its patch.
+Computer Emergency Response Teams (Cert) in several other nations have helped to spread the word about the findings. The UK's newly formed Cert declined to comment on the issue.
+However, the BBC understands that an alert has been communicated to organisations in the UK running the parts of the UK's critical national infrastructure that might be at risk. Such alerts are believed to be relatively common and many companies have policies and practices in place to handle updates and changes.
+Mr Vazquez said the threat the bugs posed had been proven in the lab but there was no evidence that attackers were seeking to abuse them. He added that anyone who did use them to get access to a control system could still be thwarted because they lacked the specialised knowledge to understand how the power plant, refinery or oil rig worked.
+Mark O'Neill, a spokesman for data management firm Axway, said the need for specialised knowledge was no real defence.
+"Security through obscurity is really no security at all," he said.
+He added that some firms often struggled to update and patch software because of the age of the code and that of the equipment it was helping to keep running. Many were now turning to software "wrappers" that cocooned the old code in another program that was easier to maintain and monitor.
+Mr Diaz said the pair chose the Yokogawa control system because it was "emblematic" of the state of software used to control large industrial installations. Such software, called Scada (Supervisory Control And Data Acquisition) has attracted the attention of security researchers recently worried about its defensibility.
+"Unfortunately for the control systems industries, these type of exploits are becoming more and more common," said Billy Rios, a security researcher at Qualys.
+The poor security of such software was revealed by a project Mr Rios and a colleague undertook in which they sought to find 100 Scada bugs in 100 days.
+"We ended up finding over 1,000 bugs in 100 days," he said. "Scada software security simply hasn't kept up with modern times. The security of software like iTunes is much more robust than the software supporting our critical infrastructure."

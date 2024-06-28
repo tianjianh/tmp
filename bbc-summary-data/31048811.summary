@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160302114600/http://www.bbc.co.uk/news/business-31048811
+
+[SN]TITLE[SN]
+Cybersecurity: Defending 'unpreventable' cyber attacks
+
+[SN]FIRST-SENTENCE[SN]
+Businesses should stop worrying about preventing intruders getting into their computer networks, and concentrate instead on minimising the damage they cause when they do.
+
+[SN]RESTBODY[SN]
+That's the view of James Lewis, a cybersecurity expert at the Washington DC-based Center for Strategic and International Studies (CSIS).
+Mr Lewis says that no company can prevent an attack launched by hackers who have the resources of a nation-state behind them from succeeding.
+He believes the hackers who breached Sony's network in late 2014 and leaked huge amounts of confidential information were backed by the North Korean government.
+"It is simply not possible to beat these hackers," Mr Lewis says. "Criminals want to make money, and if they find it difficult to get into your network they will move on to another target.
+"But the Sony hack was not done for money - it was politically motivated and vindictive."
+Other experts have expressed doubts, though, over whether Pyongyang was really behind the hack, and North Korea has consistently denied involvement in the security breach.
+Government-backed attackers have far greater resources at their disposal than criminal hacker gangs, and if necessary they may be able to make use of "other measures" such as human agents or communications intercepts to successfully bypass any security measures, he explains.
+"Government-backed hackers simply won't give up - they will keep trying until they succeed," Mr Lewis adds.
+This calls for a fundamental rethink in the way the companies calculate security risk and how they mitigate it, he believes.
+"Right now most companies are underestimating risk. So the question they need to be asking is, 'How do I change what I do to take into account this risk?'"
+Many security experts believe the answer to this question is to focus efforts on detecting security breaches as quickly as possible and then responding appropriately to minimise the harm they can do.
+"This is where I would find fault with Sony - not in the breach itself, but in not detecting it quickly, and failing to prevent the exfiltration of large amounts of data," says Rick Holland, a security and risk management analyst at Forrester Research.
+"But this is pretty typical of many companies out there," he adds.
+Effectively many companies have erected high walls to try to deter intruders, but they are failing to post guards on the walls to spot when intruders climb over them.
+Mr Holland believes that minimising the damage hackers do when they inevitably force their way on to corporate networks involves making big changes to the way that those networks are designed.
+"If you look at the way networks are at the moment, most of them are fundamentally insecure," he says.
+"Once an attacker gets into an environment it's like a shopping trolley dash but without the clock - you can just take whatever you like."
+He recommends companies make more efforts to segment their networks. This involves separating one part of the network from another in such a way that if hackers get on to the network they only get access to the data in that segment and no more.
+"What you need is a bulkhead approach like in a ship: if the hull gets breached you can close the bulkhead and limit the damage," Mr Holland says.
+In some industries, such as oil and gas, there is a practice of "air gapping" important computer infrastructure such as control systems - physically disconnecting them from corporate networks so that hackers can't get to them from the rest of the network.
+While this approach can be effective Mr Holland believes it would be impractical for most businesses, because it would be too inconvenient for employees and productivity would suffer. As a result they would probably close the air gap somehow - perhaps by setting up an unauthorised wi-fi link.
+The Sony hackers are likely to have damaged Sony's reputation significantly by leaking some of the confidential email exchanges that they stole.
+One measure that Mr Holland suggests companies adopt to prevent this is to reduce their "embarrassment footprint" by ensuring that unnecessary data is deleted promptly so that there is less for hackers to steal.
+"Companies can certainly have too much data, and they need to identify the data they don't need and kill it," he says.
+This leaves many companies with something of a dilemma, because of the growing popularity of big data analysis. Big data projects require that data is collected and stored rather than deleted so it can be analysed to uncover previously unknown patterns, trends and correlations.
+"The problem with big data infrastructure is that all the data is in one basket," says Mr Holland.
+"In many companies, if a hacker could compromise the big data container they could get everything."
+The use of encryption to protect data from intruders is also important, but Anton Chuvakin, a security expert at Gartner, points out that when hackers get on to a network and aren't detected quickly there's a risk that they will be able to steal the keys required to decrypt any data they steal.
+"The problem is that encryption is very easy, but key management is hard. How do you manage the keys so that they are always available to every legitimate user that needs them, but never available to criminals?"
+Nonetheless, he believes that encryption - and other security measures such as network segmentation - are valuable because they make things harder for hackers. They present obstacles which, while not insurmountable, hamper their progress.
+"What companies need to be doing is switching away from trying to prevent hackers from getting into their networks," Mr Chuvakin says.
+"Thinking about how they can slow hackers down so they can catch them is much more sensible. If hackers steal your encrypted data but then have to spend three days searching for your encryption keys then you have a much better chance of detecting them."
+This begs the question of how companies can detect sophisticated hackers intruding on their networks: current anti-virus and intrusion detection systems are clearly not powerful enough to prevent Sony-style attacks, Mr Chuvakin says.
+But he is optimistic that new, cutting-edge systems that use machine learning and, ironically, big data analysis may give a huge boost to the powers of corporate security teams.
+The bad news for businesses is that new systems cost money, and CSIS's James Lewis says that companies are going to have to invest more in new security infrastructure to have a chance against the new breed of state-sponsored hacker.
+"Having a low perception of risk is cheap," he concludes, "but unfortunately those days are over."

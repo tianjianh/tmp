@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170606012449/http://www.bbc.com/news/technology-36844717
+
+[SN]TITLE[SN]
+Google tests ads that load faster and use less power
+
+[SN]FIRST-SENTENCE[SN]
+Google says it has found a way to make adverts load faster on web pages viewed on smartphones and tablets.
+
+[SN]RESTBODY[SN]
+The company said the ads would also be less taxing on the handsets' processors, meaning their batteries should last longer.
+The technique is based on work it has already done to make news publishers' articles load more quickly.
+But it is still in development, and one expert said Google still had questions to answer.
+The California-based company's online advertising revenue totalled $67.4bn (Â£51.2bn) last year.
+That figure included banners and animations placed via the Google Display Network - which would be affected by this project - as well as other types of ads, such as search result links and YouTube pre-roll clips, which would not.
+Details of the experiments were published on the company's Accelerated Mobile Pages (Amp) project blog.
+The A4A (Amp for ads) initiative's technology is already used by the BBC, the Guardian, the Wall Street Journal and many other news sites to make their stories appear up to 10 times faster than those produced in HTML code.
+The resulting Amp pages currently contain normal adverts, but the ads are made to load after the rest of the content and their animations often do not play smoothly.
+The new A4A ads restricts the use of Javascript, which is commonly used to track users' behaviour and automate which ads should be placed where.
+Instead, Amp provides its own activity measurement tools, which are said to be much more efficient.
+"Amp only animates things that are visible on the screen," Malte Ubl, the project's tech lead, blogged.
+"Being new and special purpose technology, [it] can pinpoint when animations are needed and thus further reduce CPU [central processing unit] usage and battery consumption.
+"Similarly, if Amp is unable to stabilise the frame rate, it will turn off animations.
+"This ensures that every device gets the best experience it can deliver and makes sure that ads cannot have a negative impact on important aspects of the user experience such as scrolling."
+One expert said Google would have to provide more details about how the scheme would work in practice before its chance of success could be weighed up.
+"It has to be a good experience for consumers, but it also has to be a good experience for publishers, linking in with their current advertising systems and giving them the data they need about their viewers," said Ian Fogg, from the consultancy IHS Technology.
+If it does take off, it could help Google reduce the appeal of ad-blockers.
+In addition, the faster that pages load, the more articles and therefore ads are likely to be seen.
+But Mr Fogg added the move could address an even greater threat to the search giant's business.
+"The big risk for Google is that consumers use the mobile web less and less and use apps instead," he said.
+"If you use an app, you are more likely to use the search experience built into that platform - if that's Apple, it's Siri; if it's a Microsoft device, it's Bing; or if it's Amazon, it could be Alexa.
+"If that happens, Google's web search service will eventually get outflanked."

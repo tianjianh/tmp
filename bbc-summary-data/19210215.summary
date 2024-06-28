@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170104110355/http://www.bbc.co.uk/news/technology-19210215
+
+[SN]TITLE[SN]
+Mobile customer uncovers premium rate 'bug'
+
+[SN]FIRST-SENTENCE[SN]
+An unexplained charge on a phone bill has led a mobile user to uncover a loophole in the sign-up system for some premium rate services.
+
+[SN]RESTBODY[SN]
+Consultant Mark Hole found he could sign up anyone for some premium rate services from content maker Buongiorno.
+All he needed to know was a potential victim's mobile number and whether they used the Orange network.
+Buongiorno said it quickly closed the loophole once it was discovered and had no evidence it had been exploited.
+Mr Hole's suspicions were aroused when charges for a premium rate fortune-telling service turned up on the bill for the mobile phones linked to his computer consultancy business.
+"I went online, got the bill up and there were weekly charges coming up on it," he said.
+He complained to operator Orange about the charge but it said he must have signed up for it despite his insistence that he was "scrupulous" about keeping the numbers private and that they were only used for business calls.
+Mr Hole also contacted mobile content firm Buongiorno which ran the iFortune service he was being billed for. It asked him to send details of the disputed charge.
+At the same time Mr Hole looked for ways that the phantom charge could have applied. He discovered that it was possible to convince the iFortune site it was being visited by an iPhone. Using add-ons for the Firefox web browser this let him sign up any Orange customer for the service.
+All he needed to do this was their mobile phone number. Mr Hole demonstrated the loophole by signing up a BBC correspondent's phone for a weekly fortune reading.
+Gareth Maclachlan, head of mobile security firm Adaptive Mobile, said the loophole arose because Buongiorno was not doing a good enough job of checking which net addresses were making sign-up requests.
+"There's a potentially criminal opportunity here," he said. If the loophole became widely known, he said, hi-tech thieves could set up a fake premium rate service, sign people up and then sit back and wait for cash to roll in.
+Information about Mr Hole's findings have been circulated to the GSMA security working group to ensure other operators are aware of the loophole.
+"There was a bug in the system," said a spokesman for Buongiorno. "When that was found out, we very quickly moved to pin it down, find out what happened and stop it from happening again."
+The spokesman added that exploiting the loophole required a "certain amount of technical knowledge". As far as Buongiorno could tell, he said, there had only been one "billed event" that had arisen as a result of the loophole.
+The money wrongly taken for this event had now been refunded, he said.
+What is not clear yet is how many people were at risk of being signed up for premium rate services. Buongiorno said it closed down the bug quickly but Mr Hole's investigations suggest it was open for perhaps as long as 14 days.

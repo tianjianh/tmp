@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160206114827/http://www.bbc.co.uk/news/technology-35491962
+
+[SN]TITLE[SN]
+GPS error caused '12 hours of problems' for companies
+
+[SN]FIRST-SENTENCE[SN]
+Several companies were hit by hours of system warnings after 15 GPS satellites broadcast the wrong time, according to time-monitoring company Chronos.
+
+[SN]RESTBODY[SN]
+The company observed problems last week, after noticing some GPS time signals were 13 microseconds out.
+Such a discrepancy is considered severe and several Chronos telecoms clients faced "12 hours" of system errors.
+Previously, the GPS errors had also been blamed for disturbances with BBC radio broadcasts.
+According to the US Air Force (USAF), which manages the GPS satellite network, problems began when a satellite named SVN 23 was decommissioned.
+A USAF spokeswoman confirmed that the error had been pushed to the satellites by "ground system software".
+"Our support manager was rung at [02:00]," said Chronos chief executive Prof Charles Curry.
+"He was called from his bed by a network operations centre."
+"What we saw was about 12 hours of problems," he told the BBC.
+Prof Curry said telecoms companies relied on the accuracy of time measurements to control the flow of data through their networks.
+The bits and bytes of a telephone call, for example, might be synchronised based on the time as reported by GPS satellite signals.
+That signal was constantly monitored for accuracy.
+And when the 13 microsecond error had been detected, it resulted in thousands of system warnings being activated at some companies.
+"The alarms were escalating," said Prof Curry.
+"One particular network we have, which is a global network, [was] seeing alarms from all over the place, all over the world."
+Prof Curry said he was not aware of any consequences of these problems that would have been apparent to the public - probably thanks to back-up time systems.
+And this kind of issue was extremely rare.
+"Last week was an example of something going wrong in a fairly major way," he said.
+"I don't think it's gone quite that badly wrong since 1 January 2004, when the same satellite vehicle number [SVN], 23, decided to become unhappy."
+The Resilient Navigation and Timing Foundation (RNTFnd) - which advocates the development of dependable timing systems - also had "minor reports" from the telecoms and energy sectors as a result of the GPS issue.
+Dana Goward, the foundation's president, said, "It [had] a very broad and - very fortunately - minor impact on many infrastructure sectors."
+During the decommissioning of SVN 23, an issue in the "Global Positioning System ground software" had been detected, the USAF said.
+In a subsequent statement, the USAF explained that one signal from the satellites had been impacted.
+However, GPS core navigation messages and clock were not affected, the statement said, and added that the issue had been fixed.
+"While the software issue is still resident in the ground system, 2nd Space Operations Squadron has implemented procedures to ensure it does not reoccur," the USAF added.
+This week, Schriever Air Force Base in Colorado published a press release unrelated to the incident, praising the "perfect signal" provided by GPS and pointing out how useful GPS was for military operations.
+Lt Col Matthew Brandt said: "Somebody somewhere is using that signal to put a bomb on a target and kill a bad guy.
+"Somebody is using GPS to pull an extraction or using it to call in an air strike."
+In its original statement, the Air Force noted, "the Joint Space Operations Centre at Vandenberg [Air Force Base] has not received any reports of issues with GPS-aided munitions."

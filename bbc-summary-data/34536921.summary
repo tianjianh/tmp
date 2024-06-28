@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170423140518/http://www.bbc.com/news/technology-34536921
+
+[SN]TITLE[SN]
+Security bugs in global mobile networks exposed
+
+[SN]FIRST-SENTENCE[SN]
+Mobile networks around the world have been penetrated by criminals and governments via bugs in the code that keeps them running, research suggests.
+
+[SN]RESTBODY[SN]
+The bugs could be abused to carry out large scale fraud and unlawful surveillance, security company Adaptive Mobile said.
+It found evidence of compromise in every territory it studied.
+The study builds on work by other security researchers who warned about loopholes in core network code.
+"There's varying rates of activity in every operator we have worked with," said Cathal McDaid, head of Adaptive Mobile's threat intelligence unit, which carried out the research. "They are all being hit by this to one extent or another."
+The security holes have been found in a technology known as Signalling System 7 (SS7), which helps to interconnect mobile networks across the globe.
+"The SS7 technology is a huge pervasive network that spans the world," said Mr McDaid. "More people use it on a daily basis than use the internet."
+The research was prompted by work on SS7 by other security experts who, in a series of separate projects, identified potential problems in the way that it had been implemented on many mobile networks,
+"We've found that this is not just theoretical, this activity is ongoing," Mr McDaid said.
+By abusing the SS7 security bugs, cyber-thieves have been able to defraud mobile operators by tricking billing systems into giving them cheap calls and roaming. The loopholes have also been used to track people closely, home in on their handset and tap into calls and messages.
+In some cases, said Mr McDaid, governments had been found to be abusing the vulnerabilities to carry out unlawful surveillance of targets in other nations.
+In one of these cases, the SS7 flaws were used to redirect sensitive conversations among people on the MTS Ukraine network to a Russian mobile operator. Ukraine's mobile regulator investigated but could not discover who was behind the attack. It also found that two other networks in the country were susceptible to the same redirection attack.
+The GSMA, the industry association for mobile operators, said it not seen the details of Adaptive's findings and could not comment directly on what it found.
+It added; "The GSMA takes the security of signalling networks very seriously and has working groups that follow these developments and offer recommendations and guidance which is incumbent upon the operators and others to implement to safeguard their networks."
+Operators had got guidance on how to spot and combat unauthorised SS7 traffic, it said.
+Philippe Langlois, founder of P1 Security, which regularly surveys protections around SS7 networks globally, said he was not surprised that there was widespread abuse of the ageing technology. The survey found that many operators did a poor job of protecting information about their core network and shared information on customers too freely.
+"Many people have a strong incentive to exploit these vulnerabilities," he said. "There are many different kinds of attackers and end results."
+P1's survey had found evidence that SS7 loopholes were being abused to move credit between mobile accounts or to tap into calls and read text messages.
+He said the work by security researchers had prompted many operators to tighten up their networks and remove some loopholes. Now, monitoring systems were helping to spot when campaigns of attack were getting under way.
+"There are many different ways to defend a network," he said. "It's not a hopeless situation."

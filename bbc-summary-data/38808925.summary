@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170526090333/http://www.bbc.co.uk/news/technology-38808925
+
+[SN]TITLE[SN]
+Ocado trials fruit-picking robot
+
+[SN]FIRST-SENTENCE[SN]
+Online grocer Ocado has shown off a soft robotic hand that can pick fruit and vegetables, without damaging them, in its warehouses.
+
+[SN]RESTBODY[SN]
+The firm has an automated warehouse in Andover, Hampshire, where robots select crates containing specific items that make up customer orders.
+They are currently brought over to a human team for selection but, in future, the hand could replace them.
+Also in development is a humanoid maintenance robot called SecondHands.
+It will work alongside a human colleague to maintain the warehouse.
+The fruit and vegetable picker is part of a five-year research EU-funded collaboration between five European universities and Disney called Soma (Soft Manipulation), said Ocado spokesman Alexandru Voica.
+The demonstration device is an early prototype, he said.
+"People have tried suction cups, robot hands with three fingers... What we are trying to do is to actually mimic the human hand.
+"The gripper is based on air pressure, which controls the movement of the robotic fingers.
+"What we are trying to do is combine computer vision - being able to recognise products by looking at them - with the control aspect which is the gripping aspect."
+At the moment, only the gripper is being demonstrated but ultimately the robot will learn to distinguish fruit ripeness through machine learning.
+It will also be able to pick other items which require different care - such as wine bottles and detergent.
+"Fruit and vegetables are the hardest to pick," said Mr Voica.
+"When the customer gets their bag of bananas or tomatoes, if they see the product is damaged they don't care whether it's a human or a robot that's picked it."
+Prof Chris Melhuish, director of the Bristol Robotics Laboratory, said that building robotic devices - or manipulators - to carry out multiple tasks is difficult.
+"A general purpose manipulator is a really tough thing to build, and certainly understanding and exploiting the way the human hand functions, because it is so flexible and adaptive, makes a lot of sense," he told the BBC.
+"There are lots of groups that are looking at robotic manipulation but often it is for a specific purpose - picking up a concrete block is not the same as doing artificial suturing for example - so the tendency has been to build different types of manipulators for different domains."

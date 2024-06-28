@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161126102816/http://www.bbc.co.uk/news/technology-34356950
+
+[SN]TITLE[SN]
+Porn sites hit by malware hidden in adverts
+
+[SN]FIRST-SENTENCE[SN]
+Security firm Malwarebytes says a campaign of malware hidden inside online ads which hit search engine Yahoo earlier this year has now also appeared on adult websites.
+
+[SN]RESTBODY[SN]
+The advertising, apparently for a service called Sex Messenger, also contained tools for identifying whether the user was genuine rather than a bot.
+It appeared on porn site xhamster, one of the world's most visited domains.
+However the firm said porn sites are no more dangerous than mainstream ones.
+The ad has now been removed.
+The malware, which also made use of the security of cloud-based platforms to hide what it was doing, worked by directing the user to a fraudulent page once it had determined that they were running Microsoft's Internet Explorer and had identified the device's security settings.
+So-called "malvertising" often installs ransomware on to a victim's machine. It loads a page containing false accusations of criminal activity and instructions for paying a fine.
+"These efforts ensure that only real users will get to see the exploit kit landing page therefore excluding honeypots and security researchers alike," wrote Malwarebytes security consultant Jerome Segura in a blog post.
+Although in this case the ad was popping up so often that researchers were able to study it after all.
+Xhamster is currently ranked the 71st most visited website in the world by web analytics firm Alexa and attracts hundreds of millions of monthly users.
+But the online porn industry does invest in security, Mr Segura added.
+"There's this idea that adult sites are more dangerous to visit than 'regular' sites," he told Tech Week Europe.
+"I don't believe it's entirely true especially for the top sites because they do dedicate a lot of resources to fighting fraud and malware.
+"Based on what we have seen in the past months as far as malvertising goes, we have seen just as many top mainstream publishers as pornographic ones."
+The firm that distributed the ad has now taken it down.

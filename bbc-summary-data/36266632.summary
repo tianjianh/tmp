@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160511191048/http://www.bbc.co.uk/news/technology-36266632
+
+[SN]TITLE[SN]
+Malware parasites feed on PerezHilton.com gossip fans
+
+[SN]FIRST-SENTENCE[SN]
+The gossip news site PerezHilton.com has exposed recent visitors to malware, according to a cybersecurity alert.
+
+[SN]RESTBODY[SN]
+California-based Cyphort Labs said that it had detected ads placed on the site being used to spread harmful code on two separate visits during one week.
+The celebrity scandal site has not yet commented but was known to have suffered a similar problem last year.
+Experts suggested users install ad-blocking plug-ins to defend themselves.
+The phenomenon is known as "malvertising", and users do not have to click on the ads to find their device infected.
+PerezHilton.com is far from being the only publisher to have hosted the threat.
+Cyphort identified 1,654 unique domains that had fallen victim to the parasitical attack in 2015, and said it believed it was on course to see more than 2,000 instances this year.
+The New York Times, AOL and BBC.com are among other popular sites thought to have been hijacked in this way. since January.
+"Malvertising is effective because users tend to trust mainstream, high-trafficked "clean" websites," security researcher Nick Bilogorskiy blogged.
+"The attackers abuse this trust to infect them via third-party ad content."
+PerezHilton.com says it is visited by 12 million people every month.
+In the first instance on 30 April, the firm said PerezHilton.com's ads caused users to download the Angler exploit kit, which is used to distribute a range of infections including ransomware.
+Then on 2 May, it said a different type of exploit kit was spread via the site.
+If the users had anti-virus software installed they may have been protected against some of the threats. But in many cases they would not have known they had been exposed.
+Like many sites, PerezHilton.com does not check each advert that appears on its pages but instead relies on third parties to place them, sharing the revenue they generate.
+"The only organisations which understand the full scale of the threat are the advertising networks themselves, and they don't want to draw attention to their own failure to vet their clients," commented Dr Steven Murdoch, a security expert at University College London.
+Cyphort noted that users could protect themselves by installing ad-blocking extensions for their web browser.
+Dr Murdoch concurred but questioned whether this was a long-term solution.
+"Ad-blockers offer a temporary mitigation against these problems but if everyone starts using them the current business model of the web will no longer be sustainable," he said.
+"Other options for keeping the web running include asking users to pay for services - subscriptions - but few websites have been able to make this work."

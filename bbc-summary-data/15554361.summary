@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170330074247/http://www.bbc.co.uk/news/technology-15554361
+
+[SN]TITLE[SN]
+Duqu infection linked to Microsoft Word exploit
+
+[SN]FIRST-SENTENCE[SN]
+The Duqu computer infection was spread with the help of an infected Microsoft Word document, according to a report.
+
+[SN]RESTBODY[SN]
+The research says the Trojan exploited a previously unknown vulnerability embedded in Word files, allowing Duqu to modify computers' security protection.
+The code is believed to have been designed to gather intelligence from industrial control-systems.
+Microsoft says it is preparing a software patch to address the issue.
+The Laboratory of Cryptography and Systems Security (Crysys) at Budapest University made the discovery.
+"We carefully analysed the available forensics data from the original incident where Duqu was uncovered," Dr Boldizsar Bencsath, who led the investigation, told the BBC.
+"We found suspicious files that we further analysed, and in one case, we were able to prove that the file contains the installer of Duqu and it uses a zero-day exploit."
+A zero-day exploit is a computer threat that make use of a previously unknown software error to allow the attacker to gain permissions they should not have.
+Dr Bencsath added that it is possible that Duqu may also be installed by other means, but he had not found any evidence to suggest it.
+The news is being publicised by the internet security firm Symantec.
+It says that it has confirmed the Duqu infection at six different computer networks belonging to unidentified organisations across a total of eight countries. They include Iran, India, France and Ukraine.
+In addition other security firms have reported suspected infections in a further four countries, including the UK.
+Duqu has been compared to last year's Stuxnet worm attack, but Symantec says they operate in two distinct ways.
+"Stuxnet was about spreading as far and as wide as possible to hunt down systems that could pass on control of industrial organisations - such as nuclear power plants," said Greg Day, Symantec's director of security strategy.
+"Duqu has specifically targeted a number of organisations looking to scan across their internal systems, gather intelligence and pass it back out.
+"The sort of things it's collecting are design documents and other information that could be the reconnaissance for a further attack."
+So far neither Symantec nor Crysys have been able to trace who is receiving the data. Efforts to address the exploit are ongoing.
+"Microsoft is working with our partners to provide protections for a vulnerability used in targeted attempts to infect computers with the Duqu malware," a company statement said.
+"We will be providing a security update for customers through our update process."
+Experts say these types of focused attacks appear to be on the rise.
+Earlier this week Symantec reported that 29 chemicals firms had been targeted by a separate Trojan named PoisonIvy.
+"Industrial espionage is the natural evolution from cybercrime," said Mr Day.
+"Cybercrime is like pick pocketing. But these latest threats are like great train robberies, where the attackers have taken time to understand the intended victim and have a carefully constructed plan to rob them."

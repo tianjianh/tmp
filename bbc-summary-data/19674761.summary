@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170317042003/http://www.bbc.com/news/technology-19674761
+
+[SN]TITLE[SN]
+Microsoft releases fix for IE bug
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has released a temporary software fix for a bug in its Internet Explorer web browser.
+
+[SN]RESTBODY[SN]
+Cybercriminals used the flaw to install the Poison Ivy trojan on users' computers.
+This piece of malware can steal data or take remote control of a PC.
+Microsoft said in a blog the Fix It tool was "an easy, one-click solution that will help protect your computer right away" but "not intended to be a replacement for any security update".
+Microsoft said there had been an "extremely limited number of attacks".
+Before releasing the fix, the company had suggested workarounds such as disabling Active X controls and Active Scripting or downloading its Enhanced Mitigation Experience Toolkit.
+Another suggestion had been to change the security-zone settings on the browser to "high" and run IE in a restricted mode.
+So-called zero-day, or newly discovered, vulnerabilities are rare. According to security company Symantec, only eight such bugs were spotted in 2011.
+Symantec research manager Liam O Murchu said their novelty made them dangerous.
+"Any time you see a zero-day like this, it is concerning," he said. "There are no patches available. It is very difficult for people to protect themselves."
+The flaw, present in all versions of Internet Explorer except IE 10, was spotted by Luxembourg-based security expert Eric Romang, when his PC was infected by Poison Ivy last week.

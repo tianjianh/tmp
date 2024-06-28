@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114124055/http://www.bbc.co.uk:80/news/10119492
+
+[SN]TITLE[SN]
+Hack attacks mounted on car control systems
+
+[SN]FIRST-SENTENCE[SN]
+The computer systems used to control modern cars are very vulnerable to attack, say experts.
+
+[SN]RESTBODY[SN]
+An investigation by security researchers found the systems to be "fragile" and easily subverted.
+The researchers showed how to kill a car engine remotely, turn off the brakes so the car would not stop and make instruments give false readings.
+Despite their success, the team said it would be hard for malicious attackers to reproduce their work.
+The team of researchers, led by Professor Stefan Savage from the University of California-San Diego, and Tadayoshi Kohno from the University of Washington set out to see what resilience cars had to an attack on their control systems.
+"Our findings suggest that, unfortunately, the answer is 'little,'" wrote the researchers from the Center for Automotive Embedded Systems Security.
+The researchers concentrated their attacks on the electronic control units (ECUs)scattered throughout modern vehicles which oversee the workings of many car components. It is thought that modern vehicles have about 100 megabytes of binary code spread across up to 70 ECUs.
+Individual control units typically oversee one sub-system but ECUs communicate so that many different systems can be controlled as the situation demands. For instance, in a crash seat belts may be pre-tensioned, doors unlocked and air bags deployed.
+The attackers created software called CarShark to monitor communications between the ECUs and insert fake packets of data to carry out attacks.
+The team got at the ECUs via the communications ports fitted as standard on most cars that enable mechanics to gather data about a vehicle before they begin servicing or repair work.
+The researchers mounted a series of attacks against a stationary and moving vehicle to see how much of the car could fall under their control.
+"We are able to forcibly and completely disengage the brakes while driving, making it difficult for the driver to stop," wrote the researchers. "Conversely, we are able to forcibly activate the brakes, lurching the driver forward and causing the car to stop suddenly."
+In one attack, the team transformed the instrument panel into a clock that counted down to zero from 60 seconds. In the final seconds the horn honks and as zero is reached the car engine shuts off and the doors are locked.
+They found that almost every system in the car, including engine, brakes, heating and cooling, lights, instrument panel, radio and locks was vulnerable.
+The team concluded that the car control software was "fragile" and easy to subvert. In some cases simply sending malformed packets of data, rather than specific control code, was enough to trigger a response.
+The team are presenting a paper on their results at the IEEE symposium on Security and Privacy in California on 19 May.
+"Cars benefit from the fact that they are (hopefully) not connected to the internet (yet) and currently are not able to be remotely accessed," said Rik Fergson, a security analyst at Trend Micro. "So in order to carry out a successful attack you would already need to have physical access to the vehicle, as a break-in or as a mechanic, seem the two most likely scenarios."
+"As cars, and everything else in life up to and including even pacemakers or fridges, become steadily more connected and externally accessible, research such as this should be taken increasingly seriously by manufacturers," he added.
+"This represents an opportunity to head off a problem before it starts, in the not-too-distant future it may represent a real risk to life."

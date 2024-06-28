@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170717014246/http://www.bbc.com/news/business-40575479
+
+[SN]TITLE[SN]
+'Fake news': What's the best way to tame the beast?
+
+[SN]FIRST-SENTENCE[SN]
+Most people seem to agree that "fake news" is a big problem online, but what's the best way to deal with it? Is technology too blunt an instrument to discern truth from lies, satire from propaganda? Are human beings better at flagging up false stories?
+
+[SN]RESTBODY[SN]
+During the run-up to the 2016 US presidential election, we were treated to headlines such as "Hillary Clinton sold weapons to Isis" and "Pope Francis endorsed Donald Trump for President".
+Both completely untrue.
+But they were just two examples of a tsunami of attention-grabbing, false stories that flooded social media and the internet. We were awash with so-called "fake news".
+Many such headlines were simply trying to drive traffic to websites for the purpose of earning advertising dollars. Others though, seemed part of a concerted attempt to sway public opinion in favour of one presidential candidate or the other.
+Commentators heaped opprobrium on Facebook founder Mark Zuckerberg for not doing more to block such content on his influential social media platform, which now has more than two billion users worldwide.
+"Of all the content on Facebook, more than 99% of what people see is authentic," he wrote in defence last November. "Only a very small amount is fake news and hoaxes."
+But a study conducted by news website BuzzFeed revealed that fake news travelled faster and further during the US election campaign.
+The 20 top-performing false election stories generated 8,711,000 shares, reactions, and comments on Facebook, whereas the 20 best-performing election stories from 19 reputable news websites generated 7,367,000 shares, reactions and comments.
+"Due to our tendency as humans to believe in things that already support our opinions, it finds readers who then spread it to like-minded individuals using social media," says Magnus Revang, research director at Gartner.
+The criticism of Facebook obviously hit home, because it has now introduced a range of measures to tackle fake news, including placing ads in newspapers giving tips on how to spot such stories.
+It is also working with independent fact-checking organisations, such as Snopes, to help police its pages.
+"If the fact-checking organisations identify a story as false, it will get flagged as disputed and there will be a link to a corresponding article explaining why," explained Facebook's Adam Mosseri in April.
+Snopes managing editor Brooke Binkowski tells the BBC: "We don't really take directives from Facebook, we have a partnership, which means that if we have already debunked a story we mark it as debunked if it appears in a list of disputed news stories that is provided to us."
+Snopes uses a small editorial team to debunk, myths, urban legends and fake news, but a team of international students thinks an algorithm can do the job.
+They've created FiB, a program that analyses news on Facebook and labels stories as "verified" or "not verified".
+"Many social media giants had rejected the idea that an algorithm could detect fake news," says Anant Goel, FiB's 18-year-old co-founder.
+"We check the authenticity of the link itself for things such as malware, inappropriate content or how often fake news comes from that particular news site," explains Mr Goel, originally from Mumbai, India, now studying computer science at Purdue University in the US.
+"We also cross-check the content of each article across multiple databases to ensure the same thing is mentioned on other sources as well.
+"Depending on both of these factors, we generate an aggregated score. Anything that gets a rating below 70% gets marked as incorrect," he says.
+FiB, which can be added as a Google Chrome extension (in the US only), won a Google "Best Moonshot" award.
+Other Chrome extensions, such as B.S. Detector and Fake News Alert, aim to do similar things.
+But is this labelling-by-algorithm approach the right one? Gartner's Mr Revang has his doubts.
+"The challenge is that we would then be more inclined to believe stories that didn't have the label," he says.
+And this assumption would be "a real danger", he believes. "You would have plenty of stories it didn't detect, and some stories it would falsely detect.
+"The real danger, however, would be that adopting AI [artificial intelligence] to label fake news would most likely trigger fake news producers to increase their sophistication in order to fool the algorithms."
+Last year, Google came under fire after a link to a Holocaust denial site came top of search rankings in response to the question "did the Holocaust happen?"
+Google's response has been to employ its army of 10,000 evaluators to flag up "offensive or upsetting" content.
+So, are people always going to be better than technology at doing this kind of job?
+"I actually think it would be an excellent idea if every social media network hired its own newsroom full of people," says Ms Binkowski.
+"The first network to do it, and to really go all in, would lead the way to the next phase of our social media culture."
+But Google - as you might expect - isn't giving up on technology just yet.
+This month, it awarded researchers at City, University of London £300,000 to build a web-based app called DMINR. The app combines machine learning and AI technologies to help journalists fact check and interrogate public data sets.
+The team will enlist the help of 30 European newsrooms to test the tool, which is aimed at tackling the proliferation of "fake news", as well helping journalist conduct investigations.
+So should social media platforms and search engines be treated like traditional publishers?
+"I don't believe you can put the same responsibility on social media and search engines as we do on newspapers and TV channels," says Mr Revang.
+But it's clear that some governments are losing patience with the "we're not publishers" defence.
+Germany, for example, recently voted to impose fines of up to 50m euros (£43.9m) on social media companies if they fail to remove "obviously illegal" content within 24 hours.
+But perhaps we should also take more responsibility to check out the provenance of stories first before unthinkingly clicking on that "share" button.

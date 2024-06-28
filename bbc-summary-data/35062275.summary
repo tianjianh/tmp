@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151212104709/http://www.bbc.co.uk/news/technology-35062275
+
+[SN]TITLE[SN]
+Facebook security warning over expiring algorithm
+
+[SN]FIRST-SENTENCE[SN]
+Web browsing will get much riskier for millions of people when a key security algorithm stops being used, warns Facebook.
+
+[SN]RESTBODY[SN]
+The algorithm, known as SHA-1, will stop being supported by web browsing programs during 2016.
+Its replacement - SHA-2 - will not be compatible with older web browsers.
+Facebook said many of those exposed when SHA-1 is retired live in regions where web use is closely watched.
+"We don't think it's right to cut tens of millions of people off from the benefits of the encrypted internet," wrote Alex Stamos, Facebook's chief security officer in a blogpost.
+Statistics gathered by Facebook suggest that 3-7% of all web browsers are so old that they cannot use SHA-2.
+SHA-1 is used in a lot of security measures as a guarantee of identity and to conceal what people do online. But the cost of mounting an attack has fallen sharply recently so it has become much more straightforward for attackers to impersonate websites and spy on data.
+Security firm Cloudflare has also issued warnings about the retirement of SHA-1 and drawn up a list of the nations where older browsers that cannot work with the new version are most prominent.
+"Unfortunately, this list largely overlaps with lists of the poorest, most repressive, and most war-torn countries in the world," said Matthew Prince, co-founder of Cloudflare in a blogpost.
+"In other words, after 31 December most of the encrypted web will be cut off from the most vulnerable populations of internet users who need encryption the most," he said.
+Both Facebook and Cloudflare have called for changes to the way that web browsers handle SHA-1 once it is retired. The proposal would mean SHA-1 would still be used for those using a browser that cannot use the updated algorithm.
+Modern browsers that are updated to their most recent version will support SHA-2.
+Both firms have called on the body that draws up browser security standards, known as the CA/Browser Forum, to support its proposal to operate a two-tier system. The CA/Browser Forum has yet to respond.

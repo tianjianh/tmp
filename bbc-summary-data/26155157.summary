@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150506011916/http://www.bbc.co.uk/news/technology-26155157
+
+[SN]TITLE[SN]
+Bitcoin exchange halts withdrawals after cyber-attack
+
+[SN]FIRST-SENTENCE[SN]
+Bitstamp - one of the world's largest Bitcoin exchanges - has halted withdrawals after coming under cyber-attack.
+
+[SN]RESTBODY[SN]
+The Slovenia-based firm said the culprits had exploited a bug in the virtual currency's underlying software to carry out the assault.
+It is the second exchange to suspend operations. Tokyo's MtGox took a similar measure on Friday.
+A third, Bulgaria's BTC-e, has warned that some transactions may be delayed.
+Like Bitstamp, it cited a denial-of-service (DoS) attack as the cause.
+The Bitcoin Foundation - a group of developers who maintain and promote the cryptographic code on which the currency relies - said that it was creating workarounds and fixes to tackle the issue.
+It added that people who had funds stored with the affected exchanges should know that their savings were safe, albeit "tied up" for the time being.
+"This is a denial-of-service attack; whoever is doing this is not stealing coins, but is succeeding in preventing some transactions from confirming," wrote Gavin Andresen, chief scientist at the foundation.
+"It's important to note that DoS attacks do not affect people's Bitcoin wallets or funds."
+Bitcoin is often referred to as a new kind of currency.
+But it may be best to think of its units being virtual tokens rather than physical coins or notes.
+However, like all currencies its value is determined by how much people are willing to exchange it for.
+To process Bitcoin transactions, a procedure called "mining" must take place, which involves a computer solving a difficult mathematical problem with a 64-digit solution.
+For each problem solved, one block of bitcoins is processed. In addition the miner is rewarded with new bitcoins.
+This provides an incentive for people to provide computer processing power to solve the problems.
+To compensate for the growing power of computer chips, the difficulty of the puzzles is adjusted to ensure a steady stream of about 3,600 new bitcoins a day.
+To receive a bitcoin a user must have a Bitcoin address - a string of 27-34 letters and numbers - which acts as a kind of virtual post-box to and from which the bitcoins are sent.
+Since there is no registry of these addresses, people can use them to protect their anonymity when making a transaction.
+These addresses are in turn stored in Bitcoin wallets which are used to manage savings.
+They operate like privately run bank accounts - with the proviso that if the data is lost, so are the bitcoins owned.
+The cause of the problem is an issue called transaction malleability.
+It involves someone changing the cryptographic code - known as a transaction hash - used to create an ID for the exchange of funds before it is recorded in the blockchain - a database of every transaction carried out in the currency.
+On Monday, MtGox had suggested that this technique could be used to fool its systems into repeatedly making a payout because it would seem that it had not occurred.
+The Bitcoin Foundation's initial response was that transaction malleability had been known about since 2011, and that MtGox should have prepared for this when developing its own customised software, which was now proving vulnerable.
+"This is something that cannot be corrected overnight," wrote Mr Andresen.
+But while other exchanges are not complaining about the risk of making unauthorised payouts, it appears their systems can become overwhelmed if they receive too many "mutated versions" of the transaction IDs.
+"This is a denial-of-service attack made possible by some misunderstandings in Bitcoin wallet implementations," said Bitstamp's blog.
+"These misunderstandings have simple solutions that are being implemented as we speak, and we're confident everything will be back to normal shortly."
+The Bitcoin Foundation now says its members and developers from a number of exchanges are working "collectively and collaboratively" to tackle the problem and allow withdrawals to resume.
+One bitcoin is currently trading for about $665 (Â£402). That is well below the $830 level it was at last Thursday, reflecting investors' concern at the news.
+However, one expert said the virtual currency should emerge from the attacks more robust than before.
+"Obviously it's a bit more serious than was initially thought - it was originally believed that it was just a problem at MtGox because of the way they had set up their systems," Emily Spaven, editor of the news site Coindesk, told the BBC.
+"The view from developers is that the exchanges should be processing bitcoin withdrawals again within 48-72 hours, though the wider issue of transaction malleability will take longer to address.
+"It's been a bit of a wake-up call to get this issue fixed. I suppose they previously thought it wasn't that big a deal."

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170503020959/http://www.bbc.com/news/technology-39778568
+
+[SN]TITLE[SN]
+Tinder investigates after 40,000 profile pics snatched
+
+[SN]FIRST-SENTENCE[SN]
+Tens of thousands of dating profile pictures were taken from Tinder by a programmer who then made them publicly available on the web.
+
+[SN]RESTBODY[SN]
+The dataset contained 40,000 images - half of which were of men, half of women - but it is now offline.
+Stuart Colianni wrote a program to compile the cache of photos, intending to use them for machine learning research.
+Tinder accused Mr Colianni of violating its terms of service.
+Tech news site TechCrunch reported that the dataset originally contained many thousands of pictures from Tinder users in the Bay Area, around San Francisco in California.
+Some users had "multiple" photos scraped from their profiles, TechCrunch added.
+"Tinder gives you access to thousands of people within miles of you," wrote Mr Colianni on a web page that previously linked to the data.
+He explained that he was looking for a way of gathering more detailed data on human faces, adding, "Why not leverage Tinder to build a better, larger facial dataset?"
+He had added folders containing the photos to Kaggle, a Google-run service that allows programmers to experiment with artificial intelligence (AI) progams.
+AI algorithms can be trained on large sets of photographs in order to perform facial recognition tasks, but it is not clear what purpose Mr Colianni had in mind for the data.
+However, over the weekend he posted an update saying that he had removed the pictures.
+"I have spoken with representatives at Kaggle, and they have received a request from Tinder to remove the dataset," he explained.
+Tinder said it continued to implement measures "against the automated use" of its API (application programming interface), including steps "to deter and prevent scraping".
+"This person has violated our terms of service (Sec. 11) and we are taking appropriate action and investigating further," the statement added.
+The firm also noted that all profile images are available to anyone using the app.
+Programs that scrape data from the web - to compare prices on e-commerce websites, for example - are very common, noted Glenn Wilkinson, an independent security researcher.
+"People would have an assumption that their profile is quite private," he explained, but added that getting access to such data is not usually very difficult, even if it is prohibited - as in Tinder's case - by the terms and conditions of the service.
+There were potential privacy threats that could result from this, said Mr Wilkinson, pointing out that it might be possible to use profile pictures to connect people's identities on separate social media sites.
+"People do like to keep their dating and work life separate - but if you use the same photo on Tinder and LinkedIn, those things could get linked together," he told the BBC.

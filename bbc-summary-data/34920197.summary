@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151126181547/http://www.bbc.co.uk/news/technology-34920197
+
+[SN]TITLE[SN]
+Dell faces fresh security questions as new issue found
+
+[SN]FIRST-SENTENCE[SN]
+Dell is facing further questions after admitting to a second security issue with its computers this week.
+
+[SN]RESTBODY[SN]
+The new problem - similar to the first - could leave users' personal information vulnerable, researchers backed by the US government said.
+Dell said it had again released a fix, after doing the same for the first problem earlier this week.
+The repeated issues raised concerns about the company's attitude towards security, one expert told the BBC.
+In a statement, Dell said that the second problem affected users who downloaded its Dell System Detect product between 20 October and 24 November 2015. It said the second issue was not pre-installed on computers - as the first was.
+It said the product was removed from its site once the issue was spotted and a replacement application was made available.
+Earlier this week, Dell said it had inadvertently opened up a security hole in its computers when it pre-installed software on them. A self-signed root certificate authority (CA), which is used to identify trustworthy websites, was "implemented as part of a support tool and intended to make it faster and easier for our customers to service their system", Dell said.
+But the CA it installed, called "eDellRoot", allowed hackers to intercept a Dell user's internet traffic, while the private key that came installed with it could be used to trick the computer into thinking that unsafe websites were safe, security researchers pointed out.
+The second vulnerability, another CA called "DSDTestProvider", worked in much the same way, according to the Germany-based journalist who reported it to US Department of Homeland Security-backed researchers at Carnegie Mellon University: Hanno BÃ¶ck.
+In their subsequent report, the researchers wrote: "An attacker can generate certificates signed by the DSDTestProvider CA. Systems that trusts the DSDTestProvider CA will trust any certificate issued by the CA.
+"An attacker can impersonate web sites and other services, sign software and email messages, and decrypt network traffic and other data.
+"Common attack scenarios include impersonating a web site, performing a [man-in-the-middle] attack to decrypt HTTPS traffic, and installing malicious software." Such an attack involves the hacker intercepting internet traffic between the user's browser and the site they are accessing.
+The Surrey University security expert Prof Alan Woodward said: "To paraphrase Oscar Wilde, to have one self-signing certificate installed could be a mistake; to have two looks like carelessness.
+"The fact that there appears to be a second self-signing certificate does make you wonder what else might be lurking on the machine."
+A Dell spokesman said: "When we became aware of eDellRoot earlier this week, we immediately dug into all our applications that get loaded on Dell PCs. We can confirm we have found no other root certificates on the factory-installed PC image.
+"What we did find was that the Dell System Detect application and its DSDTestProvider root certificate had similar characteristics to eDellRoot.
+"The application was removed from the Dell support site immediately and a replacement application without the certificate is now available."

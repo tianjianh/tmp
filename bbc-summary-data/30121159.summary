@@ -1,0 +1,58 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160622195630/http://www.bbc.com/news/technology-30121159
+
+[SN]TITLE[SN]
+Breached webcam and baby monitor site flagged by watchdogs
+
+[SN]FIRST-SENTENCE[SN]
+The public is being warned about a website containing thousands of live feeds to baby monitors, stand-alone webcams and CCTV systems.
+
+[SN]RESTBODY[SN]
+Data watchdogs across the world have drawn attention to the Russian-based site, which broadcasts footage from systems using either default passwords or no log-in codes at all.
+The site lists streams from more than 250 countries and other territories.
+It currently provides 500 feeds from the UK alone.
+They include what appear to be images from:
+The site's database shows listings for 4,591 cameras in the US, 2,059 in France and 1,576 in the Netherlands.
+Smaller numbers of feeds are also identified as being available from developing economies including Nicaragua, Pakistan, Kenya, Paraguay and Zimbabwe.
+Some of the feeds showed a static image but did not otherwise appear to be working.
+The privacy watchdogs have provided the name of the site to the media, however the BBC has opted not to publish it.
+The administrator of the site told the BBC via email that he was not Russian. He added that he did not consider himself a hacker as the cameras featured on the site had extremely weak password protection.
+As well as setting hard-to-guess passwords instead of the default one that came with the device, camera owners are also being advised to check their equipment and turn off remote access if they do not need it.
+One wireless camera maker, Foscam, reiterated this advice pointing out that it has altered the software it uses to force customers to choose a new password in place of the default one.
+The company condemned what it called "a gross violation of people's privacy."
+"An analogy best describing this would be just because someone leaves their window open it does not give permission for an unauthorized individual to set up a camera outside their window and broadcast the feed worldwide," said chief operating officer, Chase Rhymes in a statement.
+UK Information Commissioner Christopher Graham said he wanted to "sound a general alert", warning "there are people out there who are snooping".
+He told BBC Breakfast: "It's got more than 500 UK webcams where there is a facility for remote access to check what's going on in the shop, what's going on at home, how's the baby."
+If the site was actually trying to alert people to the security breach - as it claims - then "now we all know and please will they take it down," he added.
+When asked about a feed that appeared to show a child in its bedroom, Mr Graham said: "It is spooky. But after all, it is the responsibility of the parents to set a proper password if you want remote access."
+He said he would work with the Russian authorities and others to have the website shut down, adding that such a site would be illegal in the UK.
+Those whose webcams and baby monitors had been breached cannot be contacted due to the Data Protection Act and the Computer Misuse Act, said the commissioner.
+The ICO acknowledged that some parts of the press might now identify the site, driving traffic to it.
+"The bigger risk for ourselves is that people continue to use unsecure passwords," an ICO spokesman added.
+The site in question lists the feeds both by country and by device manufacturer.
+The kit has not been "hacked", rather software and search tools have been used to scan the net for feeds that can be accessed using the cameras' default settings.
+China-based Foscam was the most commonly listed brand, followed by Linksys and then Panasonic.
+"We are still trying to determine which Linksys IP cameras are referenced on the site," said a spokeswoman from the US firm.
+"We believe they are older Linksys IP cameras which are no longer being manufactured.
+"For these cameras we do not have a way to force customers to change their default passwords. We will continue to educate consumers that changing default passwords is extremely important to protect themselves from unwanted intruders.
+"Our newer cameras display a warning to users who have not changed the default password; users receive this warning whenever they log into the camera, until they set a new password."
+Panasonic added that its CCTV kit was also designed to encourage users to set their own log-in credentials.
+"Every time a user logs on to our system, they are prompted to change their default password," said Sean Taylor, a security executive aT the firm.
+"We would urge all users to change passwords regularly, in order to maintain the integrity of the system."
+Foscam added that its current range of products also requested owners set their own passwords.
+This is not the first time problems with Foscam cameras have been highlighted. In 2013, a family based in Houston, Texas revealed that they had heard a voice shouting lewd comments at their two-year old child coming out of their Foscam baby monitor.
+The company provided a software fix the same year that prompted owners to revise default login credentials, but many owners are unlikely to have installed it.
+For now, the ICO said it was unable to halt the Russian website or others like it beyond the UK's borders.
+"If a website in the UK did this we would take action against it because firstly it's a breach of the Data Protection Act because you are accessing people's information and you shouldn't be, and secondly there are also issues around the Computer Misuse Act as well," the spokesman added.
+The University of Surrey's Prof Alan Woodward is among security experts who have suggested internet users should now update their login details.
+He suggests the following rules should be observed when picking a new password.
+Don't choose one obviously associated with you
+Hackers can find out a lot about you from social media so if they are targeting you specifically and you choose, say, your pet's name you're in trouble.
+Choose words that don't appear in a dictionary
+Hackers can precalculate the encrypted forms of whole dictionaries and easily reverse engineer your password.
+Use a mixture of unusual characters
+You can use a word or phrase that you can easily remember but where characters are substituted, eg Myd0gha2B1g3ars!
+Have different passwords for different sites and systems
+If hackers compromise one system you do not want them having the key to unlock all your other accounts.
+Keep them safely
+With multiple passwords it is tempting to write them down and carry them around with you. Better to use some form of secure password vault on your phone.

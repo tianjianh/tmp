@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150924001320/http://www.bbc.com/news/technology-29241563
+
+[SN]TITLE[SN]
+eBay redirect attack puts buyers' credentials at risk
+
+[SN]FIRST-SENTENCE[SN]
+EBay has been compromised so that people who clicked on some of its links were automatically diverted to a site designed to steal their credentials.
+
+[SN]RESTBODY[SN]
+The spoof site had been set up to look like the online marketplace's welcome page.
+The US firm was alerted to the hack on Wednesday night but removed the listings only after a follow-up call from the BBC more than 12 hours later.
+One security expert said he was surprised by the length of time taken.
+"EBay is a large company and it should have a 24/7 response team to deal with this - and this case is unambiguously bad," said Dr Steven Murdoch from University College London's Information Security Research Group.
+The security researcher was able to analyse the listing involved before eBay removed it.
+He said that the technique used was known as a cross-site scripting (XSS) attack.
+It involved the attackers placing malicious Javascript code within product listing pages. This code in turn automatically redirected affected users through a series of other websites, so that they ended up at the page asking for their eBay log-in and password.
+Users only had to click the original listing to have their browser hijacked.
+"The websites the user is being redirected to are almost certainly compromised by the attacker to hide his or her traces," Dr Murdoch explained.
+He added that the fake page the users were ultimately delivered to contained code that had the potential to carry out further malicious actions.
+"EBay is pretty competent, but obviously it has been caught out here," he said.
+"Cross-site scripting is well within the top 10 vulnerabilities that website owners should be concerned about."
+A spokesman for eBay played down the scope of the attack.
+"This report relates only to a 'single item listing' on eBay.co.uk whereby the user has included a link which redirects users away from the listing page," he said.
+"We take the safety of our marketplace very seriously and are removing the listing as it is in violation of our policy on third-party links."
+However, the BBC identified that a total of three listings had been posted by the same account involved.
+At least two of them produced the same redirect behaviour. The third was removed by eBay, along with the other two, before it could be checked.
+The issue was originally identified by Paul Kerr, an IT worker from Alloa in Clackmannanshire who is also an "eBay PowerSeller".
+He called the firm shortly after he had clicked on a listing for an iPhone and been redirected.
+"The advert had been up for 35 minutes," he told the BBC.
+"When I spoke to the lassie on the phone, she said: 'I'm going to report that to the highest level of security to get it looked into.' And she did emphasise that.
+"They should have nailed that straight away, and they didn't."
+Mr Kerr identified the problem because the web address of the page he was sent to was unusual. He screen-grabbed a video of the attack, which he uploaded to YouTube as evidence.
+He added that other less tech-aware users might not have realised the danger they were in.
+"It's guaranteed - you can bet your bottom dollar that somebody's going to click on that and be redirected to a third-party site and they're going to enter their details and be compromised," he said.
+"You don't know how many of the hundreds of thousands of people who use eBay will have done that."
+This is not the first technical setback eBay has suffered in recent months.
+The site has experienced several periods when members have been unable to sign into their accounts and have received incorrect password alerts.
+In May, the firm made users change their passwords after revealing that a database containing encrypted passwords and other non-financial data had been compromised.
+In addition, it announced in July that 1,600 accounts on its StubHub ticket resale site had been broken into resulting in a scam that defrauded the service of about $1m (Â£600,000).

@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161001123340/http://www.bbc.co.uk/news/technology-37527719
+
+[SN]TITLE[SN]
+Has the US just given away the internet?
+
+[SN]FIRST-SENTENCE[SN]
+A judge in Texas has put the kibosh on a last-minute legal attempt to block the controversial decision for the US to give up control of one of the key systems that powers the internet.
+
+[SN]RESTBODY[SN]
+It's a move being breathlessly described by some as the US "giving up the internet" to the likes of China, Russia and the Middle East.
+It’s the weekend, so if you’re keen to save yourself several hundred words and get on with whatever you like to do with your free time, then here we go: No, the US hasn’t given away the internet. Don’t be absurd.
+The long answer, naturally, is more complicated than that - and one mired in mistrust of one of the internet’s key organisations, the detail of which I’ll dig into in a moment.
+Let’s start with the basics.
+For starters, while they can take the credit for inventing the underlying technology, the US never “had the internet” to begin with. Nobody did. It’s a, duh, network. Decentralised. That’s what makes it so powerful.
+But there are bits of internet infrastructure that some people and governments do have control over, and that’s what this row is all about.
+One of them is the DNS -  Domain Name System. This is the system for looking after web addresses. Thanks to the DNS, when you type bbc.com, you’re taken to the correct servers for the BBC website. It saves you the grief of having to remember a string of numbers.
+That pairing of names and numbers is kept in one great big master file, the land registry of the web. The only organisation that can make changes is Icann, the Internet Corporation for Assigned Names and Numbers.
+As of Saturday 1 October 2016, Icann will no longer be under US government oversight.
+Instead, it’s now a fully “multi-stakeholder” non-profit that will take on board the views of companies, experts, academics and, yes, nation states, in how the naming system of the web is run.
+Here’s a crucial bit: as a user of the internet, you won’t notice any difference whatsoever. And that’s because Icann isn’t a new entity. It’s been doing precisely this job since 1998 before the vast majority of us were even online.
+The switch ends a transition that has essentially been in the works for around two decades, removing a dominate power the US had by circumstance rather than intention, and one which was causing friction in the international community.
+Back when there were only a handful of websites, a man named Jon Postel - nicknamed “god of the internet” - was in control of DNS.
+His task was assigning the easy-to-remember names to those bothersome numbers. It was a crucial step in accelerating the popularity of the world wide web.
+When it became clear this was clearly not a job for one man, however godly, a new body was set up to take over the task. They called it the Internet Assigned Numbers Authority, IANA.
+In 1998, control of IANA was given to the newly-formed Icann. It was given the power over internet naming globally. Experts saw Icann as a good blend of interests and expertise. One which they felt would keep the internet as open and useful as possible.
+One quirk of this set-up, though, was that all the while the US’s National Telecommunications and Information Administration (NTIA), part of the Department of Commerce, kept its final say over what the IANA did.
+In short, if Icann did something the US government didn’t like, it could step in and knock it on the head.
+With the handover, that power is lost -  though it was very sparingly used.
+As with most political tussles in the US, both sides say they are fighting for freedom.
+Opponents of the plan, the likes of which include presidential candidate Donald Trump and his former rival Ted Cruz, say giving up the power amounts to handing it over to countries like China and Russia.
+In one hearing, Senator Cruz asked if Icann - an international organisation - was bound by the First Amendment to the US constitution defending freedom of speech. No, came the reply from Icann's chief executive, Goran Marby.
+Evidence enough, the senator argued, that by giving Icann complete complete control over the internet’s naming system, it could use that power to disrupt and censor communications online.
+And so this week, at the eleventh hour, district attorneys representing four US states filed a legal challenge in Texas.
+They had hoped to argue that the root file, the big directory of domain names and their associated servers, was US government property - and therefore required congressional approval before being "given away".
+In court documents filed on Thursday, they also argued that without US control, well established domains like .gov and .mil (for government and military-related websites, respectively) could be tampered with.
+In other words, a fully independent Icann could not be trusted and may act unpredictably once free of US oversight.
+But others, including some of the web’s founding fathers, believe blocking the handover is a far bigger risk to the internet’s long term well-being.
+Because if the US didn’t handover its power to Icann, it may have been cornered into doing something far riskier.
+Unnerved by US power, many countries, particularly Russia and China, have pushed for the DNS to be looked after by the International Telecommunications Union (ITU), which is part of the UN.
+This came to a vote in 2012, but failed. The US, UK, Canada and Australia were the dissenters, refusing to back a new treaty on the grounds it could be abused to affect internet governance, and by extension, content.
+In other words, the four countries were worried by sharing out ownership of the internet’s core systems, more states could act like China and clamp down on internet use on their own countries - and all would be fair under the UN.
+The US opposition drew heavy criticism - as it was essentially saying no countries can be trusted to look after the internet. Except the US. That didn’t go down well.
+That said, given the US was responsible for creating the internet, it did have a valid argument in taking its time in handing over DNS. But it knew time was running out - ownership of the internet’s naming system was fast becoming a diplomatic headache the US needed to solve sooner rather than later.
+The handover to Icann is a compromise that appears to suit the country very nicely, and not just because Icann will remain in Los Angeles.
+It has the backing of many influential experts who, to counter the likes of Senator Cruz and Mr Trump, argue those opposed to it simply have no clue what they’re talking about.
+On Friday, an amicus brief was filed to the Texas court by the Information Technology Industry Council (ITI), a group which represents the tech industry en masse. Its president, Dean Garfield, said: “This effort by a small number of attorneys general is misguided and inconsistent with the founding values of the Internet.
+“It is an ironic endeavor because the transition will actually keep the internet an open and flourishing engine of innovation and open global communication.”
+The judge agreed.
+So when it comes to domain names, it's true. The US no longer has the keys to the kingdom.
+But the important thing to remember is: neither does anyone else.
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

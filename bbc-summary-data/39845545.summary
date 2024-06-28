@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170621191710/http://www.bbc.com/news/technology-39845545
+
+[SN]TITLE[SN]
+Google Docs phishing email 'cost Minnesota $90,000'
+
+[SN]FIRST-SENTENCE[SN]
+A phishing email that targeted Gmail users is estimated to have cost the state of Minnesota $90,000 (Â£69,400).
+
+[SN]RESTBODY[SN]
+About 2,500 state employees received the email, according to the state chief information security officer.
+Around the world, people have reported getting multiple copies of the email, while others have received the message from trusted organisations.
+One million Gmail users, which Google says is "fewer than 0.1%", were affected.
+The cost to the Minnesota state government was mainly the result of employees dealing with the attack rather than carrying out their normal jobs, said state chief information security officer Christopher Buse.
+"I estimated three minutes of time per employeeâ€¦ it may be much more than that in many cases," he told ABC News.
+"It's important for people to understand not only that the attacks are happening but also to understand how costly they are."
+Mr Buse said that the cost could have been much higher but Minnesota state government agencies generally did not use Gmail or Google Docs.
+"Most of these scams are done using Office documents like Word and Excel spreadsheets", Ken Munro, of Pen Test Partners, told the BBC.
+"But a lot of big companies have moved away from traditional office software packages, and an increasing number are moving towards using Google."
+Besides the Minnesota state government, a large number of other Gmail users were affected.
+Jacquelyn Piette, who is studying for an MBA at Boston College, tweeted that she had just received warning of the phishing scam when the message arrived in her inbox.
+Users who received the email were told a contact of theirs had shared a document with them on Google Docs.
+If they clicked on the "Open in Docs" button, they were taken to a genuine Google page that required them to log in with their account credentials.
+Once logged in, a service called "Google Apps" would ask them for permission to access their email account data.
+By agreeing to share their data, users were potentially giving the hackers access to their email account, contacts and online documents.
+The malware used this access to send copies of the phishing email to everyone in the recipient's contacts list.
+"As companies get better at security, scammers will start looking for connections between personal email accounts and professional accounts, which might sidestep some of the company's security," Mr Munro said.
+He said that introducing "layers of separation" - such as not checking personal email on the office computer - could help prevent such phishing campaigns spreading.
+"Companies could say they might not want you to check personal email on your work computer, but they don't mind you checking it on your mobile."
+Google said it had stopped the attack "within approximately one hour" and fewer than 0.1% of its users had been affected - about one million people.
+Those who did click on the link have been advised to log into their accounts and revoke access to Google Apps, then change their password.

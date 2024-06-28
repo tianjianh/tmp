@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150426032915/http://www.bbc.co.uk/news/technology-32429477
+
+[SN]TITLE[SN]
+Samsung S5 fingerprint flaw exposed
+
+[SN]FIRST-SENTENCE[SN]
+Hackers can take copies of fingerprints used to unlock the Samsung Galaxy S5 phone, claim security researchers.
+
+[SN]RESTBODY[SN]
+A flaw in Android makes it possible to steal the personal information so it can be used elsewhere, said the experts from security firm FireEye.
+Other Android-based phones that also use fingerprint ID systems could also be vulnerable, they said.
+Samsung said it took security "very seriously" and was investigating the researchers' findings.
+Fingerprint ID systems are being used more and more in smartphones to unlock the devices or as a way to check who is authorising a transaction. Paypal and Apple already accept fingerprints as an ID check and a growing roster of firms that are members of the Fido Alliance are keen to use them in the same way to remove the need for passwords.
+Android phones typically store sensitive data such as fingerprint information in a walled-off area of memory known as the Trusted Zone.
+However, Yulong Zhang and Tao Wei found it was possible to grab identification data before it is locked away in the secure area. This method of stealing data was available on all phones running version 5.0 or older versions of Android provided the attacker got high level access to a phone.
+They also found that on Samsung Galaxy S5 phones, attackers did not need this deep access to a phone. Instead, they said, just getting access to the gadget's memory could reveal finger scan data.
+Using this information an attacker could make a fake lock screen that makes victims believe they are swiping to unlock a phone when they are actually authorising a payment.
+In addition, they found, it was possible for attackers to upload their own fingerprints as devices did not keep good records of how many prints were being used on each device.
+Mr Zhang and Mr Wei are due to present their findings at the RSA security conference in San Francisco on 24 April.
+In an interview with Forbes magazine, Mr Zhang said the flaws they uncovered were likely to be widespread throughout handsets running Android 5.0 and below. Updating to the latest version of Android, version 5.1.1, should remove the vulnerabilities, he said.
+The flaw is the latest in a series of problems uncovered with fingerprint ID systems on phones.
+In April last year, hackers discovered a way to fool the print sensor on the S5 by taking a photograph of a print left on a smartphone screen, making a mould from the image and using that to make a replica fake finger.
+In 2013, a German hacker group used a similar method to bypass the fingerprint reader on Apple's iPhone 5. Hackers from the Chaos Computer Club used a picture of a person's fingerprint left on a glass surface to make a fake finger that unlocked the phone.

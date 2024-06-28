@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307050521/http://www.bbc.com/news/technology-36203043
+
+[SN]TITLE[SN]
+IBM allow free access to quantum processor online
+
+[SN]FIRST-SENTENCE[SN]
+IBM has made a functioning quantum processor available to the public over the internet.
+
+[SN]RESTBODY[SN]
+Quantum computing is widely seen as an evolution of computer technology, which may allow for much faster calculations than today's machines.
+The technology is still in its infancy, but one expert said it was a "small step" towards a useful quantum computer.
+IBM said it hoped to see processors up to 20 times larger in the next decade.
+Traditional computers process all their information using bits - information stored in tiny transistors that can either be on or off - interpreted as values of one and zero.
+Quantum computing instead takes advantage of a mechanic called superpositioning that allows quantum bits - or "qubits" - to have values of one, zero, or both at the same time.
+Researchers believe this core difference will eventually lead to powerful devices with processing power that will exceed the limits of classic computers.
+IBM's quantum processor is located in its TJ Watson Research Centre in New York. Quantum processors are notoriously sensitive, so it is being kept at supercooled temperatures in a cryogenic refrigerator.
+It has just five qubits that can be manipulated, but the company expects processors of 50-100 qubits to emerge within the next decade. General-purpose machines, which IBM calls "universal" quantum computers, will eventually use more than 100,000 qubits.
+IBM's cloud solution allows users to drag and drop logic gates - a core principle of processors - on to the individual qubits to form algorithms or experiments. Those can then be sent to a simulator, or added to a queue for the real quantum processor to work on.
+People wishing to access the processors must request an invitation through a web form that asks for a user's institution details and level of computing experience.
+A spokesman for IBM said the invite system was to prevent bots from swarming the system, and told the BBC that anyone would be granted access regardless of experience.
+The complexity of quantum computing means that most users are likely to have a basic background in the subject.
+"IBM has made a small but very significant step towards a useful quantum computer," said Chris Ford, Professor of Quantum Electronics at Cambridge University.
+"This will only be useful for experts who know what they are doing, but the very idea that it's available to all may bring quantum computing to the attention of the general public, and encourage more people to be interested in how physics makes this new form of computing possible."
+The potential power of quantum computing to perform advanced calculations is also a concern for the security industry, as it may make it possible to easily crack existing encryption methods.
+Current security standards rely on the extreme complexity of encryption - something advanced quantum processing may be able to handle.
+The US National Institute of Standards and Technology has announced it will hold a public competition for new encryption standards that will be more difficult to crack - hoping for a quantum-proof standard by 2023.

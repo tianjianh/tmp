@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170124082919/http://www.bbc.com/news/technology-38181158
+
+[SN]TITLE[SN]
+Fake news detector plug-in developed
+
+[SN]FIRST-SENTENCE[SN]
+As pressure mounts on firms such as Google, Facebook and Twitter to do more to tackle fake news, some are taking things into their own hands.
+
+[SN]RESTBODY[SN]
+Technologist Daniel Sieradski has developed a plug-in - known as BS Detector - that flags up "questionable" websites on Facebook and Twitter.
+The plug-in has appeared in dozens of news feeds, leading some to think it was an official Facebook feature.
+It appears Facebook is currently blocking links to the site.
+BS Detector is a plug-in that uses a list of fake news sources as its reference point. It can be added to Chrome and Mozilla browsers and when it spots a potentially false story, flags it with a red banner reading: "This website is considered a questionable source."
+It was created, Mr Sieradski said, "in about an hour" as a "rejoinder to Mark Zuckerberg's dubious claims that Facebook is unable to substantively address the proliferation of fake news on its platform".
+It has had over 25,000 installs since launch. "I and other open source contributors have spent many more hours improving its functionality," Mr Sieradski told the BBC.
+Website TechCrunch mistakenly reported that the plug-in was a new Facebook feature, leading Mr Sieradski to tweet about it.
+Since that article was published, Facebook appears to have blocked anyone from posting a link to the BS Detector website.
+"Facebook now provides a security warning and disallows you to do so," Mr Sieradski told the BBC.
+Facebook said that it was "looking into the matter".
+The plug-in is currently a proof-of-concept tool rather than a solution to the issue and some users have reported it has caused their browser to crash.
+Facebook faces growing criticism for what some see as a failure to tackle fake news.
+In a blogpost in mid-November, founder Mark Zuckerberg said: "Our goal is to connect people with the stories they find most meaningful, and we know people want accurate information.
+"We do not want to be arbiters of truth ourselves, but instead rely on our community and trusted third parties."
+He said that the firm was doing more to allow people to report stories as fake as well as directing people to fact-checking organisations, adding: "We are exploring labelling stories that have been flagged as false by third parties or our community, and showing warnings when people read or share them."
+He also announced plans to stop fake news organisations from making money by cutting off their advertising funding.
+There has also been much scrutiny on the role played by fake news in influencing the outcome of the US presidential election.
+A report from BuzzFeed found that, in the final three months of the US presidential campaign, the top-performing fake election news stories on Facebook generated more engagement than the top stories from major news outlets such as the New York Times, Washington Post, Huffington Post, NBC News and others.
+Sally Lehrman, founder of the Trust Project - an organisation set up to re-establish trust in mainstream media - told the BBC: "We don't know enough yet to know how it affected the election but we do know that fake news travels rapidly and it can change the conversation, not just by misinforming people but by focusing attention on something that may not be the issue.
+"It is a real danger to democracy."
+Ms Lehrman is not convinced that it is the job of platforms such as Google and Facebook to flag up fake news though.
+"I would be concerned if we relied on Google, Facebook and Twitter to solve the problem of trust - we have to do that for ourselves," she said.
+News organisations, especially in the US, needed to regain the trust of communities who felt that their voices "are not heard".
+"People lose trust if they feel that the media does not accurately reflect the world they live in," she said.
+The Trust Project, in partnership with BBC News Labs, recently hosted a hackathon in London, aimed at getting legitimate news outlets thinking about ways to increase trust among readers.
+Mirror Group executive editor of digital Ann Gripper, who attended the event, told the BBC that the onus was on Facebook, Twitter and Google to tackle the issue.
+"They have a huge amount of power and it is where people access news, so without them, it is an uphill battle," she said.
+The hackathon teams, representing a range of news organisations, came up with the following ideas:

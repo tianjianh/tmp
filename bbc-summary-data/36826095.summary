@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719061425/http://www.bbc.co.uk/news/technology-36826095
+
+[SN]TITLE[SN]
+What is ARM and why is it worth £24bn?
+
+[SN]FIRST-SENTENCE[SN]
+ARM Holdings has been often described as the UK's leading technology company. And while it might not be a household name, many products that qualify rely on the Cambridge company's brainpower.
+
+[SN]RESTBODY[SN]
+Samsung's Galaxy smartphones, Apple's iPad tablets, Amazon's Kindle e-readers, Nest's smart thermostats, Ford's cars, DJI's drones, Canon's EOS cameras and Fitbit's fitness trackers barely scratch the surface.
+So, news that the business has accepted a £24.3bn offer from Japan's Softbank has wide-ranging ramifications.
+No.
+ARM doesn't actually manufacture computer processors itself, but rather licenses its semiconductor technologies to others.
+In some cases, manufacturers only license ARM's architecture, or "instruction sets", which determine how processors handle commands. This option gives chip-makers greater freedom to customise their own designs.
+In other cases, manufacturers license ARM's processor core designs - which describes how the chips' transistors should be arranged. These blueprints still need to be combined with other elements - such as memory and radios - to create what's referred to as a system-on-chip.
+As a result, when you hear talk of a device being powered by a Samsung Exynos, Qualcomm Snapdragon or Apple A8 chip, it is still ARM's technology that is involved.
+Intel is often described as its chief competitor because it makes processors based on a different architecture, known as x86.
+ARM's reputation for power-efficiency has helped prevent Intel from making much headway with smartphones, but most Windows devices rely on the US company's chips.
+Another UK-based chip designer, Imagination, attempted to popularise another chip design called Mips, but has had limited success.
+Hardly.
+The company's origins can be traced back to the success of the BBC Microcomputer in the 1980s.
+When its developer, Acorn Computers, sought to make a follow-up, it initially considered using chips made by others.
+But eventually, the company decided to make its own processors, whose name ARM stood for Acorn RISC (reduced instruction set computing) Machines.
+The resulting computers - the Acorn Archimedes series - struggled to sell. So, Acorn came up with a different business plan.
+It created a joint venture with Apple, called ARM Holdings, to make a chip for the American company's first handheld computer, the Newton, which launched in 1993.
+It also flopped. But there was, eventually, a silver lining.
+When Apple sold its 43% stake in ARM, it used part of the proceeds to buy Next, which led to the return of its co-founder Steve Jobs.
+Although Mr Jobs shut down the Newton division, he would later use ARM-based chips as the basis for first the iPod, then the iPhone and next the iPad.
+ARM benefited from the i-products' huge success. But its focus on low-power usage also meant it had success elsewhere.
+Nokia built phones using ARM-based chips made by Texas Instruments. And other licensees included Sony, HP, IBM, Philips and Qualcomm.
+ARM has also been making in-roads elsewhere.
+It reckons its designs now account for about a quarter of all microcontrollers  - a term used to refer to small computer chips typically dedicated to one specific task.
+These feature in a wide variety of products including:
+ARM's technology is also increasingly being used in data centres and networking equipment - such as mobile base stations and routers - so, it should benefit from the imminent shift to 5G.
+In addition, the company has itself recently taken over several "internet-of-things" related businesses.
+Although the sector is still relatively small, there are forecasts there will be a boom in demand for sensor-laden, internet-connected components that will be built into our homes, streets, clothes - and ultimately, even our bodies.
+All in all, ARM says about 15 billion chips based on its designs were shipped last year, representing about a third of all chips used in smart electronic devices.
+And it thinks that number represents a fraction of its potential market in a few years time.
+The danger has always been that if one of the technology giants bought ARM, then it might discourage others from using its designs or, possibly, provoke a larger counter-offer.
+So, Apple, Samsung and Huawei - for example - are all happy to use ARM's designs, but would probably not have wanted each other to have owned it outright.
+Intel had long been rumoured to have been a potential bidder, but such a merger would be difficult to clear with competition watchdogs.
+As one of Japan's biggest mobile networks, Softbank's business has little overlap with most of ARM's customers - which may mean they won't see the takeover as a threat.
+Even so, there would be concern if there were any hint that ARM's fees might be set to rise as a result.
+Softbank is paying a 43% premium over ARM's closing share price last week and is financing the deal by taking on more debt.
+Presumably, the Tokyo-based company believes our appetite for smart products to be very large indeed.

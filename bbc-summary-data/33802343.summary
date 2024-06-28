@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170120090707/http://www.bbc.co.uk:80/news/technology-33802343
+
+[SN]TITLE[SN]
+Are hackers helping or harming us?
+
+[SN]FIRST-SENTENCE[SN]
+Every week, almost every day, hackers are poking holes in the devices we carry, drive and use. Over the past couple of weeks the numbers and severity of the flaws these technical wizards have found have hit fever pitch.
+
+[SN]RESTBODY[SN]
+They brought to light a security bug in almost one billion Android phones.
+Then there was the car hack that led to 1.4 million vehicles being recalled for a software upgrade.
+Don't forget the vulnerability found in an obscure bit of software that, if exploited, could have shut down big chunks of the net. We've also have emergency patches for Windows and Flash.
+Nope. There's more. At least 32 previously unknown vulnerabilities will be aired at the Black Hat hacker conference in Las Vegas. More will come from the other big hacker conference, Def Con, that is also held in Vegas this week. Some of those bugs have been found in control systems for factories, power plants and other key installations.
+Rather than just fret, it would be good to do something about it. Update your phone. Update your browser and operating system. If you drive a Chrysler car affected by the bug, take it to be updated. The basic advice is: update everything you can.
+But that does not protect you against the bugs found in factories or bits of parts of a nation's critical infrastructure. Nor against the attacks on the online services we use. In those situations the advice is to do as much as you can to protect yourself (choose hard-to-guess passwords as a minimum) and think about what you would do if such a breach affected you.
+It can pay well. Increasing numbers of firms run bug bounty schemes that reward hackers, in one way or another, for finding the vulnerability.
+Payment is a good reward for work that can be time-consuming, technically challenging and dull. Some vulnerability researchers spend weeks pursuing a hunch only to find out that it leads nowhere.
+Others use loads of different computers, running scripts for days, battering away at software to see how it reacts when given different kinds of input. It might take tens of thousands of tries to get a result.
+In those cases, more often than not, finding the problems makes sites and services more secure. They are definitely helping.
+It is. Many smart software engineers would, as the saying goes, prefer to light a candle than curse the darkness. In this case the candle is the discovery of a loophole that the real bad guys can slip through. Having more people look over software is a good way to find its flaws.
+And, it has to be said, the last thing many security researchers do is publicise their work. Most work to a "responsible disclosure" ethic that gives the firm that made the software a chance to fix it before public knowledge about it spreads. Though there have been cases when they researchers publish first and inform afterwards.
+In those cases, yes. But sometimes researchers get paid for bugs that are never publicly disclosed. There are stories of huge sums being paid by governments for vulnerabilities they can use to spy on rival and even friendly nations.
+There are also cyber-crime groups that pay for vulnerabilities that they then roll into exploit kits. These help produce malware that can exploit the loopholes, infect a PC and be used to steal data and cash.
+It is. But the software holes put to nefarious uses might also be found by the white-hat hackers too. And, once the holes are known about, thanks to whistle-blowers or other investigations, the ethical hackers can patch them, produce defences or close the hole.
+There are also more information groups that attempt to make hackers put their technical skills to good use. Initiatives such as I Am The Cavalry recruit security folks and get them to spread the word about making secure software. It's much easier to write code that is full of holes than it is to make it hard to hack.
+And then there are the numerous groups who spend time fiddling with the kit we have in our homes and then tell the makers of it what they need to do to fix it. One has set up a testing centre for firms making gear that will form the Internet of Things so that can be improved.
+They are. And that's just as well because a lot of other people aren't. They are our allies against the relentless, well-motivated and well-funded criminal hackers who want to steal your credit cards and login names, extort cash when they encrypt your hard drive, get you to click on a booby-trapped link or fall for a phish.

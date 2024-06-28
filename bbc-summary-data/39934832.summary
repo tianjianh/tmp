@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170519072644/http://www.bbc.com/news/technology-39934832
+
+[SN]TITLE[SN]
+DocuSign users sent phishing emails after data breach
+
+[SN]FIRST-SENTENCE[SN]
+Electronic signature service provider DocuSign has admitted customer emails were accessed in a data breach.
+
+[SN]RESTBODY[SN]
+The addresses were then targeted in a series of phishing emails from "a malicious third party".
+The messages invited recipients to click on a link to a Microsoft Word document containing malware.
+DocuSign says that no other information was accessed in the incident, and the e-signature service remained secure.
+"No names, physical addresses, passwords, social security numbers, credit card data or other information was accessed," the company said in a statement.
+"DocuSign's core e-signature service, envelopes and customer documents and data remain secure."
+The company has advised people to delete any suspicious messages immediately.
+The breach came to light when the company noticed an increase in phishing emails sent to some of their account holders last week.
+According to a statement published on DocuSign's website, "a malicious third party gained temporary access to a separate, non-core system that allows us to communicate service-related announcements to users via email".
+The emails included the DocuSign branding and appeared to come from addresses ending "docus.com", a lookalike domain.
+The subject line referred to either a wire transfer or an accounting invoice, saying: "Document Ready for Signature".
+A full copy of the email has been published on the TechHelpList website, which reported that the malware contained in the attachment could be used to steal passwords and banking credentials.
+"Phishing is almost the default way of tricking people into giving away that information," Keith Martin, professor of information security at Royal Holloway, University of London, told the BBC.
+"Where it's targeting a bank, for example, the senders are going to use headers and language that'll make customers believe it's their bank.
+"With a generic phishing trawl, the message will go out and the more people who click the better - it's literally like fishing, hoping to get some bites, chucking a message out there speculatively.
+"With most, you don't need a very high success rate to make money."

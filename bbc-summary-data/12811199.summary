@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170506124255/http://www.bbc.co.uk/news/science-environment-12811199
+
+[SN]TITLE[SN]
+Quantum computing device hints at powerful future
+
+[SN]FIRST-SENTENCE[SN]
+One of the most complex efforts toward a quantum computer has been shown off at the American Physical Society meeting in Dallas in the US.
+
+[SN]RESTBODY[SN]
+It uses the strange "quantum states" of matter to perform calculations in a way that, if scaled up, could vastly outperform conventional computers.
+The 6mm-by-6mm chip holds nine quantum devices, among them four "quantum bits" that do the calculations.
+The team said further scaling up to 10 qubits should be possible this year.
+Rather than the ones and zeroes of digital computing, quantum computers deal in what are known as superpositions - states of matter that can be thought of as both one and zero at once.
+In a sense, quantum computing's one trick is to perform calculations on all superposition states at once. With one quantum bit, or qubit, the difference is not great, but the effect scales rapidly as the number of qubits rises.
+The figure often touted as the number of qubits that would bring quantum computing into a competitive regime is about 100, so each jump in the race is a significant one.
+"It's pretty exciting we're now at a point that we can start talking about what the architecture is we're going to use if we make a quantum processor," Erik Lucero of the University of California, Santa Barbara told the conference.
+The team's key innovation was to find a way to completely disconnect - or "decouple" - interactions between the elements of their quantum circuit.
+The delicate quantum states the team creates in their qubits - in this case paired superconductors known as Josephson junctions - must be manipulated, moved, and stored without destroying them.
+"It's a problem I've been thinking about for three or four years now, how to turn off the interactions," UCSB's John Martinis, who led the research," told BBC News.
+"Now we've solved it, and that's great - but there's many other things we have to do."
+The solution came in the form of what the team has termed the RezQu architecture. It is basically a blueprint for a quantum computer, and several presentations at the conference focused on how to make use of it.
+"For me this is kind of nice, I know how I'm going to put them together," said Professor Martinis.
+"I now know how to design it globally and I can go back and try to optimise all the parts."
+RezQu seems to have an edge in one crucial arena - scalability - that makes it a good candidate for the far more complex circuits that would constitute a quantum computer proper.
+"There are competing architectures, like ion traps - trapping ions with lasers, but the complexity there is that you have to have a huge room full of PhDs just to run your lasers," Mr Lucero told BBC News.
+"There's already promise to show how this architecture could scale, and we've created custom electronics based on cellphone technology which has driven the cost down a lot.
+"We're right at the bleeding edge of actually having a quantum processor," he said. "It's been years that a whole community has blossomed just looking at the idea of, once we have a quantum computer, what are we going to do with it?"
+Britton Plourde, a quantum computing researcher from the University of Syracuse, said that the field has progressed markedly in recent years.
+The metric of interest to quantum computing is how long the delicate quantum states can be preserved, and Dr Plourde noted that time had increased a thousand fold since the field's inception.
+"The world of superconducting quantum bits didn't even exist 10 years ago, and now they can control [these states] to almost arbitrary precision," he told BBC News.
+"We're still a long way from a large-scale quantum computer but it's really in my eyes rapid progress."

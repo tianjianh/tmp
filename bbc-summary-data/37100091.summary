@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170512112154/http://www.bbc.co.uk/news/business-37100091
+
+[SN]TITLE[SN]
+How long will you wait for a shopping website to load?
+
+[SN]FIRST-SENTENCE[SN]
+How long will you wait for a website to load before you give up and go somewhere else? Ten seconds? Twenty seconds?
+
+[SN]RESTBODY[SN]
+Apparently, nearly half of us won't wait even three seconds.
+If a shopping website doesn't load its content within that time, many of us are so impatient we'll immediately jump ship.
+And that means a lot of lost business for the online slowcoaches.
+According to research from digital performance measurement firm Dynatrace, just a half second difference in page load times can make a 10% difference in sales for an online retailer.
+Yet retail websites around the world have actually been getting slower over the last year, not faster, says Dynatrace, despite the general increase in connectivity speeds.
+Why?
+"It's mainly because of all the third-party connections to Google, Facebook and Twitter," says Dave Anderson, the tech firm's vice president of marketing. "These, and chat functionality, are slowing things down, particularly for Australian sites."
+This is because data travelling between the US and Australia have to cover huge distances, causing a delay, or latency.
+Australian retail websites have seen average load times increase from 5.4 seconds in 2015 to 8.2 seconds in 2016, says the tech firm - a debilitating time-lag for impatient shoppers.
+In the US, the very home of e-commerce, average homepage response times have increased by half a second over the last year, from 3.4 to 3.9 seconds.
+And globally, the average page load time has gone up by 7% compared to last year - from 4.2 to 4.5 seconds.
+So, ironically, retailers who have been trying to offer a more interactive, personalised multimedia online experience for their customers have been shooting themselves in the foot.
+All these add-ons have got in the way of the main aim - to sell stuff. Fast.
+"With consumers used to lightning-fast speeds through the use of tools such as Google search, expectations are higher than ever, meaning even the slightest glitch or delay can leave them feeling disgruntled," says John Rakowski, director of technology strategy at AppDynamics, a performance monitoring firm.
+"The level of choice at the fingertips of today's consumers means they will simply go to a competitor to complete the transaction, causing the sale to be lost forever. And convincing them to come back for another purchase will be an uphill struggle."
+But can fractions of a second really make that much of a difference?
+In a word, yes. North American fashion retailer Nordstrom saw online sales fall 11% when its website response time slowed by just half a second, says Gopal Brugalette, who was the retailer's senior applied architect in performance engineering at the time.
+When you have total annual sales in the region of $14bn (Â£10.6bn) across 121 stores in the US and Canada, that's tens of millions being lost.
+"The pages had been getting richer, with 360-degree images and video, for example, which added to their complexity," he says.
+The bigger the size of a digital file, the longer it will take to load on the page.
+An innovative online "dressing room" seemed like a great way to impress customers, he says, but it didn't work because it slowed the website down too much and sales dropped.
+Page load times will vary depending on the type of products customers are looking at, the speed of the networks and devices they're using, and how far they are from the retailer's web servers, says Mr Brugalette.
+"There's a lot we can't control. No two customers will have the same web experience at the same time, because an image of a multi-coloured dress will take longer to load than a plain one," he explains.
+Nordstrom believes a page load time of 2.5 seconds or below strikes the right balance between functionality and speed.
+But the bottom line is that "if our site goes slow, our sales will drop, which is why we monitor our performance 24/7".
+Conversely, the faster you make your website or app, the more likely it is you'll make more sales. Office stationery retailer Staples, for example, saw its online sales increase 10% after speeding up its website by a second.
+Retailers face the almost impossible task of offering a fast, stable, easy-to-use website or app that is also visually rich and integrated with social media.
+"Personalisation requires the use of scripts, images and integrations with other applications and systems, and this can take its toll on performance, especially during busy retail periods such as Black Friday or the Christmas season," says Mr Rakowski.
+To make things more difficult for them, many don't even know that their sites are running slowly because their IT teams are concentrating more on keeping the service up and running than on speed and performance, says Mr Brugalette.
+But website architects are now getting very clever at fooling customers into thinking pages are loading faster than they really are, he says.
+"Say you Google search for 'brown shoes' then click on a link. If brown shoes are the first thing you see on the page you feel that the page has loaded fast, so it's important to make sure the page loads in a particular sequence."
+So online shoppers want speed, simplicity, and reliability all wrapped up in a fun, multimedia experience. Retailers that can offer all this - however technically difficult - will be on to a winner.
+Follow Matthew on Twitter
+Click here for more Technology of Business features

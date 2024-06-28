@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170110230030/http://www.bbc.co.uk/news/technology-29125204
+
+[SN]TITLE[SN]
+Home Depot admits hack attack dates back to April
+
+[SN]FIRST-SENTENCE[SN]
+US DIY store Home Depot has confirmed its payment systems have been hacked in what could turn out to be one of the biggest data breaches ever.
+
+[SN]RESTBODY[SN]
+Home Depot has 2,200 stores in the US and Canada.
+The company has not revealed how many people were affected, but said the hack of its systems dated back to April.
+Security blogger Brian Krebs was the first to reveal the hack, which he said targeted credit and debit cards used on malware-infected cash registers.
+In a press release, the firm apologised "for the frustration and anxiety this causes our customers".
+"I want to thank them for their patience and support as we work through this issue," said chairman Frank Blake.
+Mr Krebs said a number of banks had told him about a steep increase in fraudulent ATM withdrawals on customers accounts since the hack was made public.
+"Experts say the thieves who are perpetrating the debit card fraud are capitalising on a glut of card information stolen from Home Depot customers and being sold in cybercrime shops online," he wrote.
+Card data from Home Depot customers is available for sale on underground crime shops such as Rescator.cc and includes both the information needed to counterfeit cards and the cardholder's full name and city, state and postcode of the store it was stolen from.
+"The zip code data is important because it allows the bad guys to quickly and more accurately locate the social security number and data or birth of cardholders using criminal services in the underground that sell this information," said Mr Krebs.
+Armed with this information, thieves can call automated bank systems and change the PIN on cards.
+Mr Krebs also broke news of the Target breach, which saw up to 40 million debit and credit card numbers stolen and the personal information of up to 70 million customers potentially exposed.
+According to the blogger, the Home Depot credit and debit card breach was aided by a new variant of the malicious software program that stole data from cash registers in Target stores around the US last December.
+The malware, known as BlackPOS, siphoned data from cards when they were swiped at infected cash registers running Windows.
+Security experts say the US is more vulnerable to credit card hacks than many other countries because it still relies on payment terminals that scan the magnetic stripe on the back of cards, giving malware an opportunity to copy the data.
+Home Depot has said that it will begin using chip-and-pin and chip-and-sign systems by the end of the year.

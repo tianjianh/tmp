@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150528073747/http://www.bbc.com/news/uk-scotland-32612928
+
+[SN]TITLE[SN]
+Dexterous robot gets to grips with folding clothes
+
+[SN]FIRST-SENTENCE[SN]
+A three-year research project has produced a robot that can sort and fold clothes.
+
+[SN]RESTBODY[SN]
+It can discriminate between different types of fabric by looking, touching and listening, in the latter case by using ears in its fingers.
+The robot has been built in a laboratory at Glasgow University.
+The project has reached the end of its first three years of EU funding. It involves researchers from Scotland, the Czech Republic, Italy and Greece.
+The technology could lead to household robots and more jobs for the Scottish textile industry.
+It has taken years to get the robot, nicknamed Dextrous Blue, to do the sort of things we humans take for granted.
+While robots are now able to take solids and liquids in their stride, fabrics have proved more of a challenge. Until now.
+Dextrous Blue stands about 8ft high.
+He (the consensus among the research team is that he's male) has a pair of huge, blue, mechanical arms of the kind that may have built your car.
+The arms are attached to a strong, swivelling base which is bolted through the concrete floor of the lab to stop him going walkabout. He's a big lad.
+At the end of the arms two specially-designed and surprisingly delicate grippers are ready to do the sorting and folding.
+Two electronic eyes in the form of digital cameras look down.
+And behind all that a massive amount of computing and programming which combines robotic intelligence, sensing and coordination to enable Dextrous Blue to sort wool from cotton from polyester and more.
+Research associate Dr Gerardo Aragon said: "The most difficult aspect was to understand the dynamics and the interaction with these type of materials.
+"Because they are not completely solid.
+"They are very floppy and very difficult to understand what's going on."
+Dextrous Blue goes about its chores in a methodical way.  It looks at a pile of clothes, has a good long think about how to sort them out, then the big blue arms swing into action.
+Dr Paul Siebert, reader in computing science at Glasgow University, told me the advances the project had produced.
+"The key innovations behind this machine are the use of vision and how we understand the scene in terms of providing very, very high accuracy in our depth sensing," he said.
+"So we treat the clothing as a sort of mountain range and then parse that range into its different shapes, which allows the machine to build up a picture of what state the clothing is in.
+"This sounds very trivial, the sort of thing a person could do instantly.
+"But to get a machine to do this is a phenomenally difficult task."
+How can Dextrous Blue tell the different fabrics apart? Dr Siebert says that among other innovations are those ears in his fingers.
+"These grippers are special in that they are a particular shape to allow clothing materials to be picked up.
+"Inside that module is an array of sensors that detect pressure.
+"So roughly, as we can feel the texture of clothing so the machine can feel the texture.
+"But it also has an ear inside there - a microphone - so that it picks up the sound of the texture.
+"The gripper is designed so it can rub and therefore we can determine the material type by tactile sensing and listening to the sound of it rubbing."
+Dextrous Blue makes his own decisions as he goes along.  There's no-one wielding a joystick.
+Doctoral student Kevin Li Sun told me that means the robot must work out the most basic things for itself.
+He said: "The most difficult part was to design a fully autonomous system.
+"To let it know when to start, and how to make the solution for the situation.
+"And after the task has finished he will know when the task is finished."
+Kevin said there had been a lot of what he called "fine theory" in his work.  But it has had its upsides too.
+"People say doing a PhD is boring and very difficult", he said.
+"But I have the chance to play with this robot.
+"It really gave me a lot of fun."
+The official name for the project is CloPeMa, short for Clothes Perception and Manipulation. It may one day lead to household robots that can sort your socks or make sure the reds don't get in with the whites.
+But Dr Siebert hopes it could also bring textile jobs back home.
+He said: "Perhaps the most immediate and serious application is onshoring - how to be able to produce perhaps small runs of custom clothing affordably without having to send it to the other side of the world.
+"So you reduce carbon footprint, you increase profitability and you bring textile manufacturing back to Scotland."
+There is another possibility which looks likely to win the hearts and minds of even the most convinced Luddites.
+It may be only a matter of time before the research creates a robot that can do the ironing.

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20111220012551/http://www.bbc.com/news/technology-16247659
+
+[SN]TITLE[SN]
+Windows 8 to feature image sign-on system
+
+[SN]FIRST-SENTENCE[SN]
+Using Windows 8 devices could involve signing on by tapping, circling or touching images.
+
+[SN]RESTBODY[SN]
+Microsoft has revealed details of a login system for the next version of Windows based around pictures a user stores on a touchscreen device.
+Only when parts of an image are tapped or touched in the right order will a user be able to access a device.
+Experts said it might stop people using weak passwords but could lead to other loopholes that are harder to solve.
+Microsoft aired the idea of using images to sign on to a device via a blog written by engineers working on Windows 8 - the next version of the Windows operating system expected to be released in late 2012.
+Windows 8 is designed for touchscreen devices such as tablets and the novel sign-on systems makes use of the sensitive displays they are likely to sport.
+The familiar process of getting to use a desktop PC or laptop by typing in a password made of up lower and upper case letters as well as numbers was felt to be too "cumbersome" for tablets,wrote Microsoft engineer Zach Pace on the blog.
+The replacement system proposed by Microsoft employs a picture chosen by a user from their collection of images on a device.
+On this image, users are encouraged to tap on, underline or circle the parts that are important to them. The sequence of gestures, including start and end positions and orientation act as a key to unlock the device.
+User-testing suggests that the image-based system can grant access to a portable gadget far faster than was possible through text-based passwords, wrote Mr Pace.
+He stressed that the system would work alongside text-based passwords rather than replace them. If a user failed to properly reproduce the correct gestures fives times in a row they would be prompted for the password they set up when they first used the device.
+The permutations of taps, touches and circles that could be drawn on a picture was likely to be far higher than those available from text-based passwords, said Prof Alan Woodward from the department of computing at the University of Surrey.
+That was especially true, he said, when one considered the limited number of words from which most people picked their passwords.
+"The initial calculations show that it is likely to provide a level of security that is at least as strong as a password, and frankly, stronger than most passwords chosen by users," he added.
+Graham Cluley, senior security researcher at Sophos, said the research was "interesting and cute" but may introduce other security problems.
+It could, he said, make people vulnerable to "shoulder surfing" - a practice better known from cash machines where crooks try to spot a victim's Pin as they tap it into a number pad.
+"With normal password entry, what you're doing is asterisked on the screen," said Mr Cluley. "With this gesture input, folks may find it easier to see the movements you are making."
+There might be more value in operating systems encouraging people to use stronger passwords by refusing to let them use dictionary words or ones that are easy to crack, he added.

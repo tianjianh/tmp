@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107195709/http://www.bbc.com/news/technology-37859678
+
+[SN]TITLE[SN]
+Hack attacks cut internet access in Liberia
+
+[SN]FIRST-SENTENCE[SN]
+Liberia has been repeatedly cut off from the internet by hackers targeting its only link to the global network.
+
+[SN]RESTBODY[SN]
+Recurrent attacks up to 3 November flooded the cable link with data, making net access intermittent.
+Researchers said the attacks showed hackers trying different ways to use massive networks of hijacked machines to overwhelm high-value targets.
+Experts said Liberia was attacked by the same group that caused web-wide disruption on 21 October.
+Those attacks were among the biggest ever seen and made it hard to reach big web firms such as Twitter, Spotify and Reddit.
+The attacks were the first to send overwhelming amounts of data from weakly protected devices, such as webcams and digital video recorders, that had been enrolled into what is known as a botnet.
+A botnet variant called Mirai was identified by security firms as being the tool used to find and compromise the insecure devices.
+The source code for Mirai has been widely shared and many malicious hacker groups have used it to seek out vulnerable devices they can take over and use to mount what are known as Distributed Denial of Service (DDoS) attacks.
+"There're multiple different botnets, each with a different owner," security researcher Kevin Beaumont told the BBC. "Many are very low-skilled. Some are much better."
+'This feels serious' - BBC Africa's Jonathan Paye-Layleh in Liberia
+For more than two weeks, my internet has not been working properly. At first I thought it was a problem with my internet provider, which often suffers from slow speeds. But this feels more serious.
+Even when you do get online, the connection repeatedly cuts out. I've spent the past week trying to upload some photos and audio to send to London, without success.
+A woman who runs a computer club for young people in the capital, Monrovia, tells me that they have been having trouble getting on to Facebook and that their connection has slowed in recent weeks.
+The hotel I am staying at in the north-eastern town of Ganta is right next to the network tower of a company that provides my internet service, but the connection is still coming in and out.
+The hackers behind the "huge" network that attacked Liberia, dubbed botnet#14, were "much more skilled", Mr Beaumont said.
+"The attacks are extremely worrying because they suggest a Mirai operator who has enough capacity to seriously impact systems in a nation state," he wrote in a blogpost.
+Network firm Level 3 confirmed to tech news site ZDNet that it had seen attacks on telecoms firms in Liberia making access to the web spotty. Other reports suggested mobile net access was affected too.
+The attacks varied in length with some lasting only 30 seconds and the longest being sustained for a few minutes. At times the amount of data being funnelled towards Liberia exceeded 600 gigabits per second.
+Net access in Liberia comes via an undersea cable whose capacity is shared with many other nations in West Africa.
+"They're trying a number of different techniques for short bursts, against the companies who own the submarine cable to Liberia," said Mr Beaumont, adding that commands to botnet#14 seemed to originate in the Ukraine.
+Mr Beaumont said the controllers of botnet#14 were refining their control of the attack system but it was not yet clear who it would be turned against next.
+A Twitter account, called #Miraiattacks has been set up by a security company to monitor the many different attack targets hit by Mirai botnets. Earlier targets included computer security firms, schools, food-ordering services and gaming sites.

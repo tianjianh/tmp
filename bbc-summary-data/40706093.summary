@@ -1,0 +1,67 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170727013226/http://www.bbc.com/news/technology-40706093
+
+[SN]TITLE[SN]
+Ukraine braces for further cyber-attacks
+
+[SN]FIRST-SENTENCE[SN]
+When the attack came, it took hold quickly and brought a screeching halt to many businesses across Ukraine.
+
+[SN]RESTBODY[SN]
+"None of the computers or machines worked except for the General Electric-powered machines like the MRIs [magnetic resonance imaging]," recalled Mykhailo Radutskyi, president of the Boris Clinic - Kiev's largest medical clinic.
+His radiologists decided to turn off the body scanners anyway as a precautionary measure after the building's IT system went down at two o'clock in the morning in late June.
+Doctors across the centre had to resort to taking records solely by paper and pen for the first time since the mid-1990s.
+"The main problem for us was that Ukrainian law requires us to keep all our patient info for 25 years, and we lost that medical documentation for the 24 hours when our systems were down," Mr Radutskyi divulged.
+"But thankfully we keep back-ups, so we didn't lose any information."
+All in all, Mr Radutskyi reckons his clinic's damage tally totalled $60,000 (Â£46,000).
+Others have been unwilling to reveal how badly they were hit. Oschadbank - one of the country's biggest lenders - was among those that declined an interview with the BBC.
+Even now, almost a month after the so-called NotPetya strike, some companies inside and outside the nation are still facing disruption.
+Ukraine's top cyber-cop disclosed that some of the nation's largest companies were still too scared to share the full scale of the fallout with his investigators.
+And Sergiy Demedyuk - head of Ukraine's ministry of internal affairs' cybercrime division - added he has come to believe there are aftershocks still to come since the hackers appear to have compromised their targets for some time before they pounced, and might still be sitting on data they could yet exploit.
+NotPetya initially appeared to be a ransomware attack, but many now suspect its blackmail demands were a cover for something more ominous.
+Experts who have spoken to the BBC are seemingly sure of two things: first, Ukraine was the target, and second, it was not about money.
+Despite denials, suspicion has fallen on Ukraine's eastern neighbour, Russia.
+"Cyber-attacks are just one part of Russia's wider efforts to destabilise the country," Nato's former chief civil servant Anders Fogh Rasmussen told the BBC.
+"In my time as secretary general we agreed that a cyber-attack could trigger Nato's mutual defence clause.
+"The Alliance has been assisting Ukraine especially with monitoring and investigating security incidents. However... more support is also needed for prevention."
+One cybersecurity veteran has been investigating how a local software developer's program, MeDoc, came to be hijacked to spread the malware.
+"It wasn't just [a case of] take over MeDoc's update server and push out NotPetya," explained Nicholas Weaver from University of California, Berkeley.
+"Instead, they had previously compromised MeDoc, made it into a remote-control Trojan, and then they were willing to burn this asset to launch this attack," he added, referring to the fact the servers have since been confiscated by the police.
+"That really is huge."
+MeDoc's tax filing services were used by more than 400,000 customers across Ukraine, representing about 90% of its domestic firms.
+Although it was not mandatory for local companies to use it, by virtue of its ubiquity, it's almost as if it were.
+"This was gold they had, basically a control point in almost every business that does business in Ukraine," said Mr Weaver.
+"And they burned this resource in order to launch this destructive attack."
+Mr Demedyuk said his police force had concrete evidence that MeDoc was hacked a long time ago and had been used to spy on economic activity within Ukraine.
+"The [developers] claimed on their website that it was certificated, that it had been examined with international audit and it's 100% safe. In fact, it wasn't true," he added.
+One ex-US Army cyber-expert said the hackers might have felt forced to carry out their attack through fear that MeDoc's computer servers were about to slip out of their control.
+"If you read [security firm] ESET's report, you see that they gained and lost access repeatedly as legitimate MeDocs updates were pushed," Jon Nichols said.
+"It is possible that the actors just wanted to cause as much damage as they could before they lost control again."
+This theory is backed up by another US expert.
+"It's not unheard of if you think you'll lose your position to launch prematurely," said Beau Woods deputy director of the Atlantic Council's Cyber Statecraft Initiative.
+He added that if the perpetrators had, indeed, gathered financial data about most of Ukraine's companies, they might still find ways to cause further damage.
+Mr Demedyuk said that although only four police officers had been assigned to his NotPetya investigation full-time, he had about 300 people across Ukraine supporting the inquiry.
+Furthermore, he has met with Interpol to discuss ways to share information with other international authorities.
+While they try to unravel how the attack was carried out, others are preparing for follow-up cyber-assaults.
+In particular, the chief executive of Ukraine's state-owned energy giant Ukrenergo is concerned it will be a target.
+"All our life as an independent country in the last 25 years, we've been connected to the Russian power grid and they've balanced us," Vsevolod Kovalchuk told the BBC.
+However, he explained, an agreement his firm has struck with European electricity transmission operators to modernise Ukraine's power grid might have put the firm in Moscow's cross-hairs.
+It might sound like paranoia, but Ukrenergo had already been hit by two cyber-attacks prior to NotPetya.
+One occurred just before Christmas.
+"That virus worked in our local network for over one year," Mr Kovalchuk said.
+"It collected information and after collecting the information, the hackers put another malware specific for our northern substation and switched it off for 15 minutes. It was only a test but they tried and it was successful."
+Before that Ukrenergo was caught up in the infamous Black Energy attack, in December 2015. It took down half a city's power for three hours in the dead of winter.
+The two incidents meant the firm was already battle-hardened when it was infected by NotPetya.
+"A dispatcher called me and said they couldn't do anything because all of their screens had turned black and were asking for money," recalled Mr Kovalchuk.
+"That was at 11:02 EET [Eastern European Time], and then several minutes later, other computers were in the same situation so I called to my chief IT officer and asked what is this, is this WannaCry or something similar?" he said referring to a ransomware attack that disrupted the NHS and others in May.
+"We disconnected our networks, switched off our computers, and then we used our protocols from the past, using paper standards, phones and continued to operate without any computers, without databases, without any systems."
+This time round, the electricity grid was unharmed and power flowed uninterrupted. But the company was left without secondary functions for 10 days.
+For Ukraine, the most important questions from here on seem to be: How bad does an attack have to be before serious international attention is paid to it? And: At what point does it become a war crime?
+"I think that every six months, we'll see attacks," predicted Prof Michael Schmitt, lead author of the Tallinn Manual - the definitive international legal guide to cyber-conflict.
+"Even though I'm not 100% sure that it's Russia, I don't understand which other country could attack Ukraine. It's the only logical answer."
+And Ukrainian cybersecurity experts like Alexey Yankovski believe every single business is at risk.
+"Ukraine is a playground for attacks, and a large part of the cyber-security community here believes that most of the companies have already been infected," he told the BBC.
+"Every company here should be prepared for the fact that it will be hacked sooner or later."
+This week BBC News is taking a close look at all aspects of cyber-security. The coverage is timed to coincide with the two biggest shows in the security calendar - Black Hat and Def Con.
+We will have further features and videos on Wednesday, and then coverage from the two Las Vegas-based events over the following days.
+Follow all our coverage via this link

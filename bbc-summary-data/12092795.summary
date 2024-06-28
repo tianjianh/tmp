@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20120730025622/http://www.bbc.com/news/technology-12092795
+
+[SN]TITLE[SN]
+Skype crash: Software bug and server overloads blamed
+
+[SN]FIRST-SENTENCE[SN]
+Server overloads and a bug in Skype for Windows caused the two-day outage for the net phone firm.
+
+[SN]RESTBODY[SN]
+Details of what caused the service to be unusable for millions of users prior to Christmas have been posted on the firm's blog.
+The two events combined to create a cascade of problems that managed to knock out much of the network underpinning the phone service.
+Skype is assessing how its network is built to stop the problem recurring.
+Writing on the Skype blog, Lars Rabbe, chief information officer at the company, said the problems started on 22 December, when some of its servers that handle instant messaging started getting overloaded.
+This meant that the responses they sent to Windows machines running Skype were slightly delayed. Unfortunately, a bug in one version of Skype for Windows meant this delay caused the program to crash.
+About 50% of all Skype users ran the buggy 5.0.0.152 version of the software, said Mr Rabbe.
+This caused problems for Skype because of the way the network supporting it is organised. Some of the data travelling round Skype's network are passed through all those machines logged on to the service.
+Skye video calls on test
+Those participating machines act as what Skype calls "supernodes" and carry out some of the administrative tasks of the global network and help to ensure calls get through.
+With a huge number of these machines offline because of the crash, the rest of the network quickly became overloaded.
+Mr Rabbe wrote that the disappearance of the supernodes meant the remaining ones were swamped by traffic.
+"The initial crashes happened just before our usual daily peak-hour and very shortly after the initial crash," wrote Mr Rabbe, "which resulted in traffic to the supernodes that was about 100 times what would normally be expected at that time of day."
+Traffic levels were so high that they blew through the safe operating specifications supernodes usually use. As a result, more supernodes shut down.
+The "confluence of events", said Mr Rabbe, led to Skype being offline for about 24 hours as engineers put in place hundreds of dedicated supernodes and gradually brought the service back to life.
+To ensure the outage does not happen again, Mr Rabbe said Skype would look at its update policy, to see if it should automatically move users to newer versions of its software.
+A version of Skype for Windows that is free of the bug already exists, but is not automatically given to users.
+It said it would also look at its network to improve capacity and get on with an investment programme that would boost this resilience.
+Mr Rabbe apologised again on behalf of the company and added: "We know that we fell short in both fulfilling your expectations and communicating with you during this incident."
+Skype has offered compensation to customers in the form of vouchers for pre-pay users and a free week of service for subscribers.

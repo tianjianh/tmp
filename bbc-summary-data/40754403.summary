@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170729055330/http://www.bbc.com/news/technology-40754403
+
+[SN]TITLE[SN]
+Hackers 'could make car wash attack'
+
+[SN]FIRST-SENTENCE[SN]
+Researchers say they have found a way to hack an internet-enabled carwash and make it "attack" users.
+
+[SN]RESTBODY[SN]
+They warned criminals could easily exploit the Laserwash car washes, making their doors close too early or their roller arms crush the tops of cars.
+They also claimed the manufacturer PDQ ignored warnings about the risks for two years.
+PDQ said it was urgently investigating the issues.
+Laserwash installations can be remotely monitored and controlled by their owners via a web-based user interface.
+However, in a presentation at the Black Hat conference in Las Vegas, Billy Rios of security firm Whitescope and Jonathan Butts from the International Federation for Information Processing showed how easily the system could be hijacked.
+Firstly, they warned that Microsoft no longer supported the washers' Windows control systems, so hackers might be able to exploit hidden loopholes.
+More worryingly, they managed to hack into an actual carwash by using the default password "12345".
+Once logged in they found they could control it in a dangerous way.
+"We've written an exploit to cause a car wash system to physically attack; it will strike anyone in the car wash," Mr Rios said.
+In their talk the pair showed how they would be able to close carwash doors on a car entering the washer.
+They also showed how they could make the roller arms "come down much lower" and crush the roof of a car, provided there were no mechanical barriers in place.
+The pair shared their findings with PDQ in February 2015, but the firm only replied to their emails this year.
+In an email to The Register website, PDQ spokesman Todd Klitzke said the firm had alerted its customers.
+"As we have advised, all systems - especially internet-connected ones - must be configured with security in mind.
+"This includes ensuring that the systems are behind a network firewall, and ensuring that all default passwords have been changed."

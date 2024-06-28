@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307050604/http://www.bbc.com/news/technology-39152326
+
+[SN]TITLE[SN]
+IBM's online quantum machine gets faster
+
+[SN]FIRST-SENTENCE[SN]
+IBM has made its quantum computing system commercially available to businesses and beefed up an existing system used by the research community.
+
+[SN]RESTBODY[SN]
+The firm is hoping to boost the numbers of people able to use such computers.
+The machine, based in New York, has been available via the internet since May last year.
+Future applications include the discovery of new materials and medicines as well as making artificial intelligence much more powerful.
+Since the system went online last year, more than 40,000 users have run over 275,000 experiments on it.
+While the system it has made publicly available is currently only as powerful as a standard laptop, it is an important first step, said IBM scientist Dr Jerry Chow.
+"It is about growing an eco-system of users, developing a community that can grow and define the software that will run it," he explained.
+He added that the system now includes an interface which allows programmers to launch instructions for the machine using traditional programming languages.
+Traditional computers process all their information using bits - information stored in tiny transistors that can either be on or off - interpreted as values of one and zero.
+Quantum computing instead takes advantage of a mechanism called super-positioning that allows quantum bits - or "qubits" - to have values of one, zero, or both at the same time.
+But the real power of quantum computing lies in a concept known as entanglement - whereby bits can interfere and interact with each other, creating many states.
+Qubits are, by their nature, massively unstable and maintaining even one is tricky.
+Most agree that when quantum computing hits 50 qubits - more powerful than the most powerful supercomputers currently available - that will be something of a magic number.
+IBM's quantum computer will now offer simulation of 20 qubits, up from its original five.
+"Classical computers are extraordinarily powerful and will continue to advance and underpin everything we do in business and society," said Tom Rosamilia, senior vice president of IBM Systems.
+"But there are many problems that will never be penetrated by a classical computer. To create knowledge from much greater depths of complexity, we need a quantum computer."
+One computing expert who has used IBM's technology said it showed promise.
+"Whilst it is still relatively limited, it is allowing many of us to gain practical experience of running quantum algorithms," said Prof Alan Woodward from the University of Surrey.
+"The recent improvements are a natural consequence of the community of users expanding and resulting demand for such improvements.
+"It is important to note that quantum computers have the potential for extraordinary speed increases but only in certain types of algorithms.
+"The correct time to commercialise such a facility is still open to debate, but there is a market developing with other companies such as DWave already selling their form of quantum computer. So, it's not surprising for IBM to want to capitalise on its progress."

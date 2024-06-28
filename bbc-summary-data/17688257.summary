@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170506124255/http://www.bbc.co.uk/news/science-environment-17688257
+
+[SN]TITLE[SN]
+Quantum computing: Is it possible, and should you care?
+
+[SN]FIRST-SENTENCE[SN]
+What is a quantum computer and when can I have one? It makes use of all that "spooky" quantum stuff and vastly increases computing power, right? And they'll be under every desk when scientists finally tame the spooky stuff, right? And computing will undergo a revolution no less profound than the one that brought us the microchip, right?
+
+[SN]RESTBODY[SN]
+Well, sort of.
+That is broadly what has been said about quantum computers up to now, but it's probably best to pause here and be clear about what is, at this stage, most likely to come.
+First things first, though: just what do they do? Many media outlets have dived into the academic literature sporadically to shed some light on the effort.
+BBC News has reported that quantum computers "exploit the counterintuitive fact that photons or trapped atoms can exist in multiple states or 'superpositions' at the same time", and "quantum computing's one trick is to perform calculations on all superposition states at once" - plus, other quantum weirdness means the whole business "can then be done 'in the cloud' completely securely".
+This week has seen two more advances in the field. In one, a team reporting in Nature describes the first fully quantum network, in which "qubits" - quantum bits, the information currency of quantum computers - were faithfully shuttled between two laboratories.
+In another, a team writing in Science says they have "entangled" two qubits - representing the simplest core of a quantum computer - within a semiconductor, materials that standard computer makers are already familiar with manufacturing.
+(It has been truly busy recently; the largest ensemble of working qubits was reported on Arxiv in January, and the biggest quantum computer number-crunching feat was published in Physical Review Letters in late March.)
+It is all a bit bewildering, so to sum up the state of the field: very small-scale, laboratory-bound quantum computers that can solve simple problems exist; most researchers say the idea of massively scaled-up versions looks perfectly plausible on paper; but making them is an engineering challenge that practically defies quantifying.
+Scott Aaronson, an expert in the theory of computation at the Massachusetts Institute of Technology, is one believer in the scaled-up quantum computer. He recently offered a $100,000 prize for a convincing proof that such a device could not be made.
+Scott Aaronson, MIT
+You frequently hear that quantum computers "try all the possibilities in parallel" - that's a very drastic oversimplification.
+We talk about a 30% chance of rain tomorrow - we'd never say there's a negative 30% chance. But quantum mechanics is based on "amplitudes", which can also be negative. If you want to find the probability that something will happen, you have to add up all the amplitudes.
+With a quantum computation you're trying to choreograph things such that for a given wrong answer there are all these different paths that could lead to it, some with positive amplitude and others with negative amplitude - they cancel each other out.
+For a given right answer, the paths leading to that should all be positive or all negative, and amplitudes reinforce. When you measure it, the right answer should be measured with high probability.
+But he has no illusions that it is just around the corner.
+"I get kind of annoyed by all the (popular media) articles reporting every little experimental advance," he told BBC News.
+"The journalists have to sell everything, so they present each thing like we're really on the verge of a quantum computer - but it's just another step in what is a large and very difficult research effort.
+"It was more than 100 years between Charles Babbage and the invention of the transistor, so I feel like if we can beat that, then we're doing well - but that's a hundred years for people to say 'works great on paper, but where is it?'"
+More than that, though, even the most optimistic researchers believe that quantum computers will not be a wholesale replacement for computers as we now know them.
+The only applications that everyone can agree that quantum computers will do markedly better are code-breaking and creating useful simulations of systems in nature in which quantum mechanics plays a part.
+Martin Plenio, director of the Institute for Theoretical Physics at the University of Ulm, Germany, said that "it might never happen that it will be a device that sits here under my desk".
+"A quantum computer can do all the things that a classical computer can do, and some of those things it can do much better, faster, like factoring large numbers," he told BBC News.
+"But for many questions it's not going to be superior at all. There is simply no point to use a quantum computer to do your word processing."
+Others are more sanguine about the utility of what will come out of the current research efforts.
+Alan Woodward, a professor of computing at the University of Surrey, cites a couple of recent advances that, to his mind, signify a significant push toward a computer that might sit under his or Prof Plenio's desk.
+Most quantum computers to date have been designed to tackle a single problem, unlike the general-purpose computers we use now. But Prof Woodward says that a report in Nature Photonics in December represents the first "programmable" quantum computer.
+And, he said it is significant that an industry giant like IBM is getting into the game; at a meeting of the American Physical Society in March, IBM researchers reported significant advances in just how long they could preserve the quantum information in their qubits.
+"Are you going to have a purely quantum computer in five years? No - what you'll have is elements of these things coming out, you always do with technology," he told BBC News.
+"In the same way you have a graphics processor card along with a main processor board in a modern computer, you'll see things added on; people will find a means of using quantum computing and the quantum techniques, and that's how I think it'll move forward.
+"And those I can definitely see in the five-year period."
+Prof Woodward is in the minority in thinking that the consumer market will benefit widely from quantum computers; the problem of course is making predictions about a technology that has, since its inception, always seemed possible but even now is not incontrovertibly achievable.
+Dr Aaronson concedes that perhaps the long term may bear out a greater desire and use for it.
+"It's hard for me to envision why you'd want a quantum computer for checking your email or for playing Angry Birds. But to be fair, people in the 1950s said 'I don't see why anyone would want a computer in their home', so maybe this is just limited imagination.
+"Maybe quantum video games will be all the rage 100 years from now."

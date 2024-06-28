@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160809205910/http://www.bbc.com/news/technology-30145265
+
+[SN]TITLE[SN]
+Security firms uncover 'sophisticated' Regin spyware
+
+[SN]FIRST-SENTENCE[SN]
+An "extremely complex" and "stealthy" spying program has been stealing data from ISPs, energy companies, airlines and research-and-development labs, a security company has said.
+
+[SN]RESTBODY[SN]
+With a "degree of technical competence rarely seen", Regin had probably taken years to develop, Symantec said.
+And a nation state may have written it to serve its spying agencies' needs.
+The program had been used in "systematic spying campaigns" over the past six years, Symantec said.
+Aimed at Windows users, Regin slowly infiltrated its targets, taking care at each stage to hide its tracks, the company said.
+"Many components of Regin remain undiscovered and additional functionality and versions may exist," it added.
+"Its design makes it highly suited for persistent, long-term surveillance operations against targets."
+Jason Steer, director of technology strategy at security firm FireEye, said: "These types of toolkits have existed for a few years now."
+He added: "It's a challenge to the whole security industry as to how they find these malicious and sophisticated pieces of code,"
+Security firms were better at spotting such things even though Regin and its ilk were built to fool modern-day tools that look for malicious programs and monitor activity to spot anything suspicious. The techniques Regin used to sneak on to a network and communicate with its creators were very complicated, he said.
+"It's clearly been written by someone that has much more than making money in mind," he said.
+Mr Steer said the tip-offs about Regin and similarly sophisticated threats often came from government agencies who kept an eye on the cyber spying capabilities of both friendly and hostile nations.
+Victims had been infected via spoofed versions of well-known websites and by exploiting known vulnerabilities in web browser software, said Symantec in a detailed analysis.
+In a blogpost, security company F-Secure said it had first encountered Regin in 2009 after investigating what was making a server on the network of one of its customers crash repeatedly. Closer investigation revealed the culprit to be Regin which was attempting to insert itself into the heart of the software controlling the server.
+Chief research officer Mikko Hypponen said: "Finding malware of this calibre is very rare.
+"We're still missing big parts of the puzzle."
+"Nevertheless, it's obvious this is a very complicated malware written by a well-equipped nation-state." He added that the malware did not look like it originated in China or Russia - the places suspected of creating many other stealthy, spying programs.
+Security firm Kaspersky Lab said it too had spotted Regin being used to infiltrate networks and steal data. In one attack, Regin was used to gather administrative details for a mobile phone network in the Middle East that, if used, would have given attackers control over the system.
+Symantec said it had captured the first copies of Regin in a small number of organisations between 2008 and 2011.
+Soon after, the malware had appeared to have been withdrawn, but a new version found in 2013 was now being actively used.
+Only about 100 Regin infections have so far been identified.
+It is believed to provide the ability to:
+Symantec said that Regin had a lot in common with other malicious programs such as Flame, Duqu and Stuxnet, also thought to be written by nation states to aid their spying efforts.

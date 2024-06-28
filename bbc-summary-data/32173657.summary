@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150404163056/http://www.bbc.com/news/technology-32173657
+
+[SN]TITLE[SN]
+YouTube hack 'threatened' Justin Bieber videos
+
+[SN]FIRST-SENTENCE[SN]
+A Russian coder has revealed how he discovered a way to delete any video on YouTube.
+
+[SN]RESTBODY[SN]
+A demonstration of Kamil Hismatullin's technique, posted online, shows that once he had copied part of a video's web address he could use it to wipe the clip within half a minute.
+Rather than exploit the hack, he instead reported it to parent company Google, which gave him a reward.
+He joked, however, that he was tempted to wipe Justin Bieber's music videos.
+"I spent six to seven hours [on] research, considering that [for a] couple of hours I've fought the urge to clean up Bieber's channel, haha," wrote Mr Hismatullin.
+"Although it was an early Saturday's (sic) morning in San Francisco when I reported [the] issue, Google's security team replied very fast, since this vulnerability could create utter havoc in a matter of minutes in the bad hands.
+"This vulnerability [might have been used] to extort people or simply disrupt YouTube by deleting massive amounts of videos in a very short period of time.
+"It was fixed in several hours, Google rewarded me $5,000 and luckily no Bieber videos were harmed."
+Mr Hismatullin wrote that he discovered the flaw while investigating YouTube Creator Studio, a service that lets video creators see analytics data about the clips they have uploaded via an app.
+The facility allows any clip to be deleted if you type in both its event ID - which can be found in its web address - and a long string of letters and numbers known as an authentication token, which is supposed to act as a kind of password.
+The problem the coder discovered was that the service was accepting any token for a takedown request, rather than requiring one that belonged to the account of the person who had uploaded the clip.
+This meant Mr Hismatullin could simply copy a token from his own account and use it to delete others' videos.
+The developer said that he had spent time searching for vulnerabilities in Google's products after previously having been given a $1,337 (Â£902) grant by the firm.
+The search giant gives such payouts as part of a programme to encourage people who have previously reported flaws to hunt out more.
+The scheme puts a cap on subsequent payments, limiting the bounty Mr Hismatullin received for his findings.
+"To be honest I expected $15,000 to $20,000," he commented.
+"I wanted to write a kind of 'complaint' to Google, but first I re-read [its] rules and understood that Google could not pay me more.
+"Facebook has not got a boundary for maximum reward, so they can pay as much as they want."

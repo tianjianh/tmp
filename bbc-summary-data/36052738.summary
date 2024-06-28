@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160415201317/http://www.bbc.co.uk/news/technology-36052738/
+
+[SN]TITLE[SN]
+Microsoft's new bot 'still learning'
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft's latest bot, designed to describe the contents of photographs, says it is "still learning" after receiving mixed reviews online.
+
+[SN]RESTBODY[SN]
+The BBC found "Captionbot" was able to recognise James Bond actor Daniel Craig but not an Apple watch.
+A bot is a computer program that is able to communicate with humans using artificial intelligence.
+The tech giant's Twitter chatbot Tay had to be taken offline after it began tweeting abuse.
+"The more you chat with Tay the smarter she gets," the firm said when it launched, but people soon found they were able to teach the Twitter account to tweet extreme views and inappropriate remarks.
+Tay's successor, Captionbot, has a stable of "siblings" including a bot which matches faces with celebrities, one which guesses the age of the person in a photograph and another which guesses dog breeds.
+Built by Microsoft's Cognitive Services division, it uses the developer's' computer vision API (application programming interface) which extracts information from images from input such as tags.
+It also uses the firm's Emotions API which analyses facial expression for a range of "universally communicated" emotions including anger, disgust, happiness and surprise.
+While bots such as Captionbot may seem trivial they showcase the potential of the technology, Dr Aleks Krotoski told BBC Radio 4's Today programme.
+"If you think about all the stuff we do cognitively, to identify an image and put it in its context, trying to get a bunch of ones and zeros to do that is actually incredibly difficult," she said.
+"Captioning looks to identify the context as well as the subject in each picture - that's very important for things like mapping and driverless cars."
+The tech giants are excited by the potential of bots - Facebook announced big plans for the AI programmes at its annual developer conference earlier this week.
+One of the first to launch on its platform will be Spring, an AI concierge.
+"Spring is actually going to build an experience where everything is automated except customer service," Facebook's head of messaging David Marcus told the BBC.
+"It's bot for 99.9%, but then if you have a problem, a human can actually jump in and sort out your problem.
+"That's the best of both worlds."

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223163627/http://www.bbc.co.uk:80/news/technology-36993107
+
+[SN]TITLE[SN]
+Push to tackle online 'booter' services
+
+[SN]FIRST-SENTENCE[SN]
+Teenagers are behind many of the web attacks that cripple websites and knock people offline, suggests an FBI study.
+
+[SN]RESTBODY[SN]
+Presented at the Black Hat security conference the study scrutinised so-called "booter" services that carry out denial of service attacks.
+The study investigated how attacks were carried out and sought to identify their operators.
+It comes soon after work by payment firms and security researchers to make it harder to run booters.
+The services got the name of "booter" because initially they were used by gamers to knock opponents off line who had bettered them in an online battle, said FBI special agent Elliott Peterson. Since then, he said, many had diversified to offer "stresser" services that attempt to overwhelm a target website with data in what is known as a distributed denial of service (DDoS) attack.
+While many large-scale DDoS attacks are run by cyber crime gangs in Eastern Europe, the people behind booters and stressers tend to be located elsewhere, he said.
+"I have yet to encounter a service that is not in North America or Western Europe or is based in Israel," he said.
+The FBI study involved paying many of the services to attack a target website and then observing whether that booter did what it claimed to be able to do. Prices vary but the lowest tier of attacks typically cost less than $20 (Â£15).
+Often, said Agent Peterson, there was a significant gap between the claims made for a service and what it delivered.
+"A lot of the booter services have a very slick front end that's great at taking your money but then nothing happens afterwards," he said.
+In addition, he said, none of the booters actually lived up to their claim to be able to bombard a site with hundreds of gigabits of data per second. Rates of 20-30 gigabits per second were more likely, he said, adding that this was more than enough to swamp a home net link or overwhelm a website for a small or medium-sized business.
+Thankfully, he said, the attacks tended to be short-lived and few managed to maintain the stream of data for long periods.
+Many services advertise on forums where hackers gather but few were good at concealing key information for investigators.
+"Booter operators are heavy users of social media and it's not difficult to find out who they are and where they are from," said Agent Peterson. Operators ranged in age from 16-26 but most services were run by people in their teens, he said.
+"Even though the operators are younger and not very sophisticated they are still causing a lot of damage," said Professor Damon McCoy from the New York University, who has also researched these services.
+"They have a lot of paying customers and we see hundreds of thousands of attacks from these services each year," he told the BBC in an interview carried out before Black Hat.
+Payment for booter and stresser attacks were often collected via Paypal, he said, which opened up one avenue for disrupting the way they work.
+Prof McCoy has collaborated with Paypal in an attempt to stop one service getting paid via the payment firm's network. Paypal confirmed to the BBC that it had worked with Prof McCoy on cutting off payments to one booter service and said it was always looking at ways to stop abuse of its service.
+"We demonstrated that they were vulnerable to that type of economic disruption," said Prof McCoy. "It caused them grief and pain and we're still exploring the different ways to put pressure on them," he said.

@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170705225734/http://www.bbc.com/news/technology-40497020
+
+[SN]TITLE[SN]
+Google NHS deal rebuked again by DeepMind panel
+
+[SN]FIRST-SENTENCE[SN]
+An independent panel set up to oversee the activities of Google's DeepMind has agreed that its initial deal with a UK hospital was "illegal".
+
+[SN]RESTBODY[SN]
+The Information Commission (ICO) ruled on Monday that the Royal Free NHS Foundation Trust had not done enough to safeguard patient data.
+The controversy is over an app DeepMind developed to identify patients at risk of kidney disease.
+The NHS shared 1.6 million patient data records with the company.
+Dr Julian Huppert, who chairs the DeepMind Health Independent Review Panel, said that the initial data-sharing contract signed with the Royal Free Hospital Trust had had "deficiencies" and that a revised version, written after the controversy hit the media, needed "a lot of changes".
+The panel also acknowledged that this first contract had differed from the standard ones the NHS signed with third-parties despite the fact that DeepMind had said its deal was "no different" from the multitude of other data-sharing deals done within the NHS.
+Although most of the ICO's criticism was of the Royal Free, which controlled patient data, the panel had the following advice for DeepMind.
+"It would be well-advised to remind partners of their responsibilities," said Dr Huppert.
+"People are concerned about the power of big technology firms, and we felt that we should hold DeepMind to a very high standard because of its link to Google," he said, as the panel released its first annual report.
+It concluded that DeepMind itself had not broken any laws over the data agreements.
+DeepMind is an artificial intelligence company with a health division and a division exploring how to use AI in other walks of life.
+But it has previously said that no element of artificial intelligence was used in the development of the Streams app.
+On this, Dr Huppert said: "DeepMind could use AI to help with healthcare, but I think that it found that the state of data in the NHS was not as good as it had hoped so it had to step back from this."
+The panel did not look at DeepMind's business model, saying it was something to consider for the next report, but, when questioned by journalists, Dr Huppert said that the app was currently offered to the NHS for free.
+"It is not sustainable to offer the app for free, and I suspect DeepMind intends to make money but whether that is in the UK or not we don't know," he said.
+DeepMind has previously said that it wanted to be paid on the outcomes it delivers.
+The panel also appointed a team of experts to look at the security of the patient data being held by DeepMind, and they concluded that there were 11 data vulnerabilities, most of them low risk.
+These included a flaw in the data centre that meant anyone with access to the system could overwrite data and potentially introduce malware.
+And the the experts suggested devices used by healthcare professionals to access patient data could be more locked down.
+DeepMind said that it was addressing the vulnerabilities.
+They also found that the data being kept by DeepMind was completely separate from Google.
+In a blogpost, DeepMind acknowledged its mistakes.
+"Ultimately, if we want to build technology to support a vital social institution like the NHS, then we have to make sure we serve society's priorities and not outrun them," said DeepMind co-founder Mustafa Suleyman.
+"There's a fine line between finding exciting new ways to improve care, and moving ahead of patients' expectations. We know that we fell short at this when our work in health began, and we'll keep listening and learning about how to get better at this."

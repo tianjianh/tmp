@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20121204103552/http://www.bbc.com/news/technology-16047098
+
+[SN]TITLE[SN]
+IBM scientists unveil Racetrack memory chip prototype
+
+[SN]FIRST-SENTENCE[SN]
+Details of the first real-world test of a new memory chip technology have been revealed by IBM scientists.
+
+[SN]RESTBODY[SN]
+The demonstration involved Racetrack memory - a system which stores information as magnetic patterns on tiny wires.
+IBM said the technology promised faster data access speeds than were possible using hard drives or flash disks.
+However it faces a challenge from other next-generation memory technologies being explored by other companies.
+The team - based in New York, California and Taiwan - has been working on the process since 2008.
+The prototype chip consists of 256 Racetrack cells.
+Each cell consisted of a single magnetic nanowire, 60-240 nanometres wide and 15-20 nanometres thick. A nanometre is a billionth of a metre.
+Electric pulses are applied to the wires creating "domain walls" with "regions" between them.
+These regions pass over a magnetic read/write head which faces them in one direction or another, representing the 0s and 1s of computer data.
+The small magnetic regions can be "raced" at speed along the wires - giving the technique its name.
+Advocates of Racetrack claim it could potentially read and write data hundreds of thousands of times faster than is possible on commercial hard disks.
+That would put access speeds at roughly the rate offered by DRAM (Dynamic Random Access Memory) chips. These are already used in current PCs to run programs, but "forget" data as soon as the computers' power supplies are switched off.
+"This breakthrough could lead to a new type of data-centric computing that allows massive amounts of stored information to be accessed in less than a billionth of a second," said a statement from IBM.
+The scientists noted that the circuitry involved was created using IBM's standard microchip-making technologies, highlighting its potential as a realistic replacement to existing memory storage techniques.
+Racetrack may also prove more durable. IBM aims to create a device that can be wiped and rewritten millions of times. By contrast many flash memory drives can become unreliable after any single bit has endured about 100,000 writes.
+However, the researchers acknowledge that more work needs to be done to optimise their process and improve "cell operation repeatability".
+That means there is still time for Samsung, Hewlett Packard, Micron Technologies and other IBM researchers to complete work on alternative memory storage techniques that they hope will become future standards.
+More details of the Racetrack technology are due to be discussed at the Institute of Electrical and Electronics Engineers' annualInternational Electron Devices meetingin Washington DC on Wednesday.

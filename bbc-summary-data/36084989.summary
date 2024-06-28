@@ -1,0 +1,63 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170629001550/http://www.bbc.co.uk/news/technology-36084989
+
+[SN]TITLE[SN]
+Tech support scams target victims via their ISP
+
+[SN]FIRST-SENTENCE[SN]
+A new scam, in which fraudsters pose as legitimate internet service providers to offer bogus tech support, either via the phone or on the net,  is on the rise, the BBC has found.
+
+[SN]RESTBODY[SN]
+It is a twist on an old trick which involved cold-calling a victim - often claiming to represent Microsoft - and charging for fake tech support.
+The new variants have been spotted in the UK and US.
+BT said that it was investigating the issue.
+The online version of the scam involves a realistic pop-up that interrupts a victim's normal browsing session with a message that appears to be legitimate and seems to come from the victim's real ISP.
+US security firm Malwarebytes has spotted several from US and Canadian ISPs, including ComCast and AT&T. It has also seen webpages created for UK ISPs, including TalkTalk and BT.
+The pop-up contains a message saying that the ISP has "detected malware", and urging victims to call a number "for immediate assistance".
+Jerome Segura, a consultant at security firm Malwarebytes, has been investigating tech support scams for years but when he came across the latest iteration, he nearly fell for it.
+"It caught me by surprise and I almost thought that it was real. It was a page from my ISP telling me my computer was infected. It was only when I looked in closer detail that I saw it was a scam," he told the BBC.
+He is not surprised scammers have found new methods to fool people.
+"Cold calls are very wasteful and after years of being told, people are starting to realise it is a scam so the scammers have to find new ways to make it personalised and legitimate. It is more cost-effective and efficient than cold-calling," said Mr Segura.
+How do scammers know your ISP?
+In the case of cold calls it may just be a lucky case of guessing a common ISP but in the case of pop-ups, there is an altogether cleverer way for fraudsters to glean information that can help them.
+How it works
+Fraudsters do still use cold-calling but their methods here have also become more sophisticated -  instead of a vague description of themselves as a Windows Support agent, many are now claiming to represent legitimate ISPs, with very believable answers when they are challenged.
+Take David from the Midlands, who falls into the category of a typical victim, being older and not entirely tech-savvy. He is, coincidentally, related to a Malwarebytes employee.
+He recently received a phone call from someone claiming to represent the BT Rescue centre.
+The fact that the call had come up as an international number aroused David's suspicions.
+"We get inundated periodically with international calls and we know that they are either trying to sell us something or are up to no good," he told the BBC.
+The caller tried to persuade David that he had been monitoring his BT broadband service for some time and had become aware of a number of viruses that needed immediate attention.
+David was not sure - he had fallen for a similar scam a few years ago and was not ready to do so again. He asked for the caller's telephone number and address and told him he would check with BT and get back to him.
+The number the man gave him to call back on looked like a London one (with a 0203 prefix) and the address he gave was the actual address of BT's London headquarters.
+After several unsuccessful attempts to get through to BT's genuine helpline number to verify the call, David decided to ring back.
+"I got through to what sounded like a call centre and a young lady said 'this is BT Support and I will put you through to a technician'. It all sounded very believable.
+"The technician, who I think was a different person to the original caller, said he was from the BT rescue team and had been monitoring the use of my BT broadband and had been getting signals that it had been hacked into," David told the BBC.
+He asked David to type Alureon into Google, to show him the virus he was claiming had infected his computer. Alureon is a real virus that buries itself deep inside the Windows operating system.
+After scaring him with the possible dangers, he asked David to visit a website and enter a code which gave the technician remote access to his computer.
+He showed him a range of programs on his computer that looked as if they could have a problem - one of the issues with the Windows operating system is that it shows a lot of errors that can look suspicious to the untrained eye.
+Malwarebytes has recently seen a lot more cases of scammers targeting Mac computers but Microsoft remains the main method because it is fair bet that many older users will have a computer that runs a Windows operating system.
+The software giant is well aware of the tech support scam and since May 2014, has received over 200,000 customer complaints regarding them. This year alone, an estimated 3.3 million people in the United States will pay more than $1.5bn to scammers, according to its figures.
+David was starting to believe that the call he had received was genuine but when the "technician" asked him to log into his banking site, he felt something was wrong and hung up.
+He is angry that he fell for the scam and even more angry with BT.
+"When I needed to get through to them, I couldn't," he said.
+In a statement BT told the BBC: "BT takes the security of our customers' accounts very seriously. We have recently been proactively warning our customers to be on their guard against scams. Fraudsters use various methods to 'glean' your personal or financial details with the ultimate aim of stealing from you.
+"Our advice is that customers should never share their BT account number with anyone and should always shred bills. Be wary of calls or emails you're not expecting. Even if someone quotes your BT account number, you shouldn't trust them with your personal information."
+Older, less tech-savvy individuals like David tend to be the main targets of such scammers and, once they fall for it, are called again and again by fraudsters, Courtney Gregoire, a senior lawyer at Microsoft, told the BBC.
+"Some lose hundreds of thousands of dollars," she said.
+"80% of what we see are cold callers but we are now seeing traffic for the new type of pop-up fraudsters," she added.
+As well as seeing examples of fraudsters using bogus ISP pop-ups, the cybercrime unit at Microsoft has also seen pop-ups which lock a computer and demand a fee.
+The firm has begun talks with ISPs, including US-based ComCast and the UK's BT on the issue.
+In December 2014, in its first big strike against technical support scamming companies, Microsoft's Digital Crimes Unit filed a civil lawsuit in a federal court in the Central District of California against Omnitech Support for unfair and deceptive business practices and trademark infringement.
+The case was settled out of court under a confidential agreement.
+According to Ms Gregoire, Microsoft has tracked many of the call centres from which the scams are run back to India and is now working with Indian law enforcement to crack down on them.
+Raids on such call centres are starting to shed light on the operation behind the scam.
+"We will find out whether the employees know that they are engaged in a scam or whether they were just reading from a script," she said.
+The pop-up scam seems to be mainly focused in the US at the moment, with Verizon, AT&T and TimeWarner all being impersonated but Malwarebytes also discovered fake pages set up for BT, PlusNet, Sky and TalkTalk.
+Security firm Symantec told the BBC it had seen a 200% rise in tech support scams this year - with 100 million malware exploits related to them.
+Consultant Sian John said the firm had seen more and more scammers using pop-ups, in a reversal of the traditional cold call.
+"The scammers are trying to get people to call them - people are literally paying to be scammed."
+There are two main ways that the scammers make money from tech support scams.
+Users are either persuaded to download software that will install malware - this could be banking trojans that will offer direct access to all your financial information or malware that joins your computer to a botnet.
+In other cases, people are persuaded to sign up for bogus tech support services, giving credit card details that provide the scammers with a one-off payment of around $200.
+In November the FBI shut down several tech support scammers going under the name of Click4Support operating in Philadelphia and Connecticut.
+It is believed that the scammers had been in operation since 2013 and during those two years had made more than $17m.

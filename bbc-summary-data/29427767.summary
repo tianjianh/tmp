@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310114602/http://www.bbc.co.uk/news/technology-29427767
+
+[SN]TITLE[SN]
+Voice-activated devices pose security threat
+
+[SN]FIRST-SENTENCE[SN]
+Voice-activated smartphones and other devices can be a significant security risk, warn researchers.
+
+[SN]RESTBODY[SN]
+An expert at security firm AVG found some voice-activated systems responded just as well to fake voices as they did to that of the owner.
+Clever fraudsters could subvert this to send bogus messages or compromise gadgets in the future, said AVG.
+Voice-activated systems needed to do a better job of checking who is talking, said a security expert.
+Problems with voice-activated systems were found by Yuval Ben-Itzhak, chief technology officer at anti-virus firm AVG who managed to turn on and control a smart TV using a synthesised voice. The attack worked, he said, because the gadget did nothing to check who was speaking.
+Voice-activated functions on Apple and Android smartphones were also vulnerable to the same attack, he found. In one demonstration, he used the synthesised voice to send a bogus message via an Android smartphone telling everyone in the device's contacts book that a company was going out of business.
+Mr Ben-Itzhak also wondered if children could exploit the flaw and use it to turn off safety features that stop them seeing or using inappropriate content.
+In the future, when homes and offices are peppered with more and more devices that are controlled via voice, attackers might well be tempted to abuse them, he warned.
+"Utilising voice activation technology in the Internet of Things without authenticating the source of the voice is like leaving your computer without a password, everyone can use it and send commands," he wrote in a blog about the research.
+Mr Ben-Itzhak said AVG undertook its research purely as a demonstration and there was no evidence of voice-based attacks being used.
+Independent security expert Graham Cluley said there was no doubt that voice-activated systems could be more secure.
+"It would obviously be preferable if devices were to learn our voices, and ask for some form of authentication if they determined that an unauthorised user might be giving commands," he told the BBC.
+However, he wondered why attackers would use voice-based attacks rather than the more tried-and-tested techniques that currently work so well.
+"If malware can get on an Android device to speak a command and order the Android to send an unauthorised email, it could just as easily do that without using speech," he said.

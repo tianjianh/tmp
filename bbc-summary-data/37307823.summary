@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170428002344/http://www.bbc.co.uk/news/technology-37307823
+
+[SN]TITLE[SN]
+'Benign' worm seeks out vulnerable smart devices
+
+[SN]FIRST-SENTENCE[SN]
+A "benign" worm is scouring the net seeking out poorly protected smart gadgets.
+
+[SN]RESTBODY[SN]
+CCTV systems, routers, digital video recorders and other internet-of-things (IoT) devices are now believed to be harbouring the Hajime worm.
+The fast-moving worm is currently outpacing malicious equivalents seeking the same vulnerable gear.
+Security researchers say they do not know who created Hajime or how it might ultimately be used.
+Hajime was first discovered in October 2016 and, said security researchers, had been hunting down IoT devices with security vulnerabilities that could be exploited by a different worm, called Mirai.
+Earlier the same month, a network of devices compromised by Mirai was responsible for knocking offline high-profile websites including Twitter, Spotify and Reddit.
+Modest estimates suggested Hajime was now present on "tens of thousands" of devices, wrote Symantec researcher Waylon Grange in a blog.
+Programs such as Hajime and Mirai must keep scouring the net for victims, because switching off a vulnerable device generally cleans out the infection.
+Mr Grange noted that Hajime currently had no attack code built in so could not be used to mount the kinds of attacks Mirai had been implicated in.
+The only action taken by Hajime is to regularly display a message from the worm's author on the internal interface for each device.
+The message says, among other things: "Just a white hat, securing some systems."
+The term "white hat" is typically applied to those hackers seeking to secure rather than exploit vulnerabilities.
+Malicious or criminal hackers are known as "black hats".
+"There is a question around trusting that the author is a true white hat and is only trying to secure these systems, as they are still installing their own backdoor on the system," wrote Mr Grange.
+He added if the author's intentions changed they could "potentially" turn the infected devices into a "massive" attack network.

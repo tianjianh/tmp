@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151024134526/http://www.bbc.com/news/technology-19207276
+
+[SN]TITLE[SN]
+Blizzard Battle.net hack attack hits millions
+
+[SN]FIRST-SENTENCE[SN]
+Account details for millions of players have been stolen in a hack attack on Blizzard, the maker of World of Warcraft, StarCraft and Diablo.
+
+[SN]RESTBODY[SN]
+Blizzard revealed details of the breach in a message posted to its Battle.net account management service.
+Players in North America should change their login details for the account management service, said Blizzard.
+So far, it said, there was no evidence that credit card numbers and other personal details had been taken.
+In the message, Blizzard boss Mike Morhaime said it discovered on 4 August that there had been "unauthorized and illegal access" to its internal network.
+Its investigation into the breach revealed that whoever broke in got a copy of a list of all email addresses for Battle.net users outside China.
+Battle.net is the overarching account management and login service gamers use to play Blizzard games including World of Warcraft, StarCraft 2 and Diablo 3.
+Also accessed was information about the security questions and account authenticators used by players on North American servers. As well as players in the US and Canada this includes people in Latin America, Australia, New Zealand, and Southeast Asia.
+The attackers also stole a cryptographically scrambled list of the passwords used on North American Battle.net accounts. The technique Blizzard used to conceal these passwords, said Mr Morhaime, made it hard to unscramble them.
+Blizzard said that, as far as it knew, the information stolen would not be enough for attackers to gain unauthorised access to Battle.net accounts.
+Despite this, it urged players on North America servers to change their passwords, especially if that secret phrase or character combination was used on other services.
+It said it had begun an automatic process to force players to change their secret questions and get those who use authenticators to update their devices.
+It said it had found "no evidence" that credit card numbers, billing addresses or real names had been exposed.
+"We are truly sorry that this has happened," said Mr Morhaime.
+Paul Ducklin, a researcher at security firm Sophos, said the breach was "painful but probably not too bad" in a blogpost about the attack. He said the way Blizzard stored and managed login and password data was "sensible" and should reduce the theft's impact.
+Commenting on the breach at games news site Rock Paper Shotgun, Nathan Grayson said it showed up the shortcomings of Blizzard's decision to make formerly offline titles, such as Diablo, only playable if people login via Battle.net.
+"No one (except maybe the hackers) is happy about this," he wrote, "but I imagine people who just wanted a single-player experience with no muss or fuss are the angriest of all."

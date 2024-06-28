@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170213050905/http://www.bbc.co.uk/news/technology-31088908
+
+[SN]TITLE[SN]
+Raspberry Pi 2 unveiled with faster processor and more memory
+
+[SN]FIRST-SENTENCE[SN]
+A new budget-priced Raspberry Pi computer has been unveiled, offering child coders and others a faster processor and more memory than before, but at about the same price.
+
+[SN]RESTBODY[SN]
+The Raspberry Pi 2 Model B is roughly six times more powerful than the prior version, the Model B+, according to the British charity behind it.
+Previous versions of the kit have been widely adopted by schools and enthusiasts across the world.
+But the Pi faces increased competition.
+Another UK-based firm, Imagination, recently released a bare-bones computer of its own, and the Arduino, Intel Galileo, Gizmo 2, BeagleBone Black and Hummingboard also form part of a growing list of rivals.
+The Raspberry Pi 2 makes two major changes to the previous version, while leaving other components unchanged:
+As before, owners will need to add their own keyboard, a MicroSD card containing a copy of an operating system, and television/monitor-connecting cables in order to start programming. Enclosures bought for the previous Model B+ computers will also fit the new one.
+"We think it's about six times more powerful for most applications," Eben Upton, founder of Raspberry Pi, told the BBC.
+"This means this is really a PC now.
+"You can do most of the things with this that you can do with a PC. You can surf the web, you can watch videos, you can play games like Minecraft. But we also bundle it with the tools that children need in order to learn how to program.
+"The great thing is - apart from those two changes - that we've managed to keep everything else the same.
+"So, all of those tutorials that people have developed over the last few years will carry on working with this device. It just kind of broadens out the range of interesting stuff kids can do."
+Existing software will need to be recompiled - meaning converted into a language the CPU understands - to take best advantage of the switch to the new multi-core processor.
+The Raspberry Pi 2 can run a variety of Linux-based systems out-of-the-box, but its makers have also promised it will be able to support Microsoft's next operating system at a later date.
+"For the last six months we've been working closely with Microsoft to bring the forthcoming Windows 10 to Raspberry Pi 2. Microsoft will have much more to share over the coming months," said a statement on the Raspberry Pi blog.
+"The Raspberry Pi 2-compatible version of Windows 10 will be available free of charge to makers."
+Microsoft itself has blogged on the topic.
+"We see the maker community as an amazing source of innovation for smart, connected devices that represent the very foundation of the next wave of computing, and we're excited to be a part of this community," wrote Windows executive Kevin Dallas.
+"Raspberry Pi has quickly become one of the maker community's favourite platforms because their highly-capable, low-cost boards and compute modules enable developers to bring their vision to life."
+The new kit - most of which is manufactured at Sony's factory in Bridgend, South Wales - costs Â£22.85 excluding VAT, or $35.
+One industry watcher was optimistic it would repeat the success of its predecessors.
+"Its success is guaranteed - there's a great user-base already out there, but more importantly the Raspberry Pi has a level of name recognition that nobody else has been able to match yet," said Chris Green, principal technology analyst at the Davies Murphy Group Europe consultancy.
+"Its makers seem to have a really good handle on what makes these devices really popular, both for the hobbyists as well as people wanting to use them in education.
+"The improvements also address what people had been wanting - for graphics-intensive tasks the extra memory will help a lot. It's also quite handy for media streaming, you'll get a smoother experience when playing high definition video, with less buffering."
+About 4.5 million units of the Raspberry Pi have now been sold, according to Mr Upton. But he added he didn't believe the market was close to being saturated.
+"We're selling about 200,000 a month now," he said.
+"The surprise to us is that people don't buy just one Raspberry Pi.
+"There are a lot of people with five or six. And we think those people are naturally going to want this.
+"We are very very close to it being the bestselling British computer. I think another half a million and we will go past the Sinclair Spectrum as the bestselling British computer."
+The lower-specced Model A+, with just one - rather than four - USB socket, remains on sale costing about Â£7 less.

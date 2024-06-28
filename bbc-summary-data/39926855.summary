@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170516044825/http://www.bbc.co.uk/news/technology-39926855
+
+[SN]TITLE[SN]
+WannaCry ransomware cyber-attack: Your questions answered
+
+[SN]FIRST-SENTENCE[SN]
+After a cyber-attack disrupted IT services across the globe, many people have written to the BBC with questions about why it happened, how you can protect your computers and smartphones, and if the attackers will be caught.
+
+[SN]RESTBODY[SN]
+BBC Technology reporter Chris Foxx and security expert Prof Alan Woodward provide some answers.
+WannaCry ransomware cyber-attacks slow but fears remain
+"Practically speaking, it's not possible to completely isolate the NHS network," said cyber-security expert Prof Alan Woodward.
+"The NHS sends emails to patients who have email addresses outside of the NHS network.
+"People in the NHS also use the internet heavily for research, just like academics.
+"Even a private network can be compromised, especially in an organisation with thousands of people using it daily.
+"Once [a virus] has managed to enter the larger network, it can then use vulnerabilities to spread," said Prof Woodward.
+Since serving customers online is now part of banks' bread and butter, you would expect cyber-security to be at the very top of their priorities.
+Cyber-security is a game of cat and mouse, with criminals always thinking of new ways to attack systems, so no organisation is totally impenetrable.
+This ransomware outbreak is mostly likely to affect your finances if you get infected and pay the ransom, which security experts say you should not do.
+There is absolutely no guarantee the criminals would give your files back.
+If you run a business, there is detailed guidance on the National Cyber Security Centre website you can follow to make sure your company is protected.
+Microsoft has already identified the way this specific strain of ransomware spread from device to device, and has issued a issued a fix.
+As long as your operating system is up-to-date, you should be protected from this strain of ransomware.
+Always make sure you are running the latest version of your operating system with the latest security fixes installed - and run up-to-date anti-virus software from a trusted company.
+Although this strain of ransomware was not spread by email, always beware suspicious emails asking you to click links or download attachments.
+Criminals will often use a widely publicised virus outbreak to send scam emails, pretending to offer help.
+To prevent heartbreak, if the worst comes to the worst you should keep a backup copy of important files, photos and videos on an external hard drive.
+Make sure to disconnect the drive from your computer after making your backup, so ransomware can't access it if your computer is infected.
+"The bottom line is that all you can really do is keep your software, including your virus checker, up to date. Ideally have updates set to automatic," said Prof Woodward.
+The purpose of a ransomware attack is to extort money from victims.
+It is a powerful attack because people may fear losing their documents and photographs and so may be more likely to pay.
+When it hits businesses and hospitals, there is extra pressure to get rid of the ransomware quickly.
+The government has said the ransomware outbreak at the NHS was not a targeted attack on the UK's health service.
+It may be that the attackers created their virus without knowing exactly how far it would spread.
+No. This strain of ransomware was spread from device to device by taking advantage of an old security hole in some versions of Microsoft's Windows operating system.
+The hole is fixed in the latest versions of Windows.
+However, ransomware can be spread in rogue email attachments, so do not click links or open attachments in unsolicited emails.
+"Practice ABC - assume nothing, believe no-one, check everything," says Prof Woodward.
+Yes, every operating system could theoretically be attacked. Criminals tend to target systems such as Windows or the Android mobile operating system, because they are more widely used, increasing the chance of people falling victim.
+In the same way that a burglar breaking into a home can cover their tracks, cyber-criminals can go to great lengths to hide their identity.
+However, many cyber-criminals have been caught and brought to justice - and the UK's National Crime Agency, Europol and the FBI are already investigating.
+Other times BBC journalists have answered your questions:

@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160919205151/http://www.bbc.com/news/technology-37407047
+
+[SN]TITLE[SN]
+Hardware hack defeats iPhone passcode security
+
+[SN]FIRST-SENTENCE[SN]
+IPhone passcodes can be bypassed using just £75 ($100) of electronic components, research suggests.
+
+[SN]RESTBODY[SN]
+A Cambridge computer scientist cloned iPhone memory chips, allowing him an unlimited number of attempts to guess a passcode.
+The work contradicts a claim made by the FBI earlier this year that this approach would not work.
+The FBI made the claim as it sought access to San Bernardino gunman Syed Rizwan Farook's iPhone.
+Farook and his wife killed 14 people in the California city last December before police fatally shot them.
+The FBI believed his iPhone 5C contained information about collaborators, but its security system prevented easy access.
+The agency pressured Apple to give it a software backdoor into the phone, and, when it refused, reportedly paid $1m to a security company to retrieve data from the phone.
+Now, Dr Sergei Skorobogatov, from the University of Cambridge computer laboratory, has spent four months building a testing rig to bypass iPhone 5C pin codes.
+In a YouTube video, Dr Skorobogatov showed how he had removed a Nand chip from an iPhone 5C - the main memory storage system used on many Apple devices.
+He then worked out how the memory system communicated with the phone so he could clone the chip.
+And the target phone was modified so its Nand chip sat on an external board and copied versions could be easily plugged in or removed.
+In the video, Dr Skorobogatov demonstrated locking an iPhone 5C by trying too many incorrect combinations.
+He then removed the Nand chip and substituted a fresh clone, which had its pin attempt counter set at zero, to allow him to keep trying different codes.
+"Because I can create as many clones as I want, I can repeat the process many many times until the passcode is found," he said.
+Known as Nand mirroring, the technique is one FBI director James Comey said would not work on Farook's phone.
+Finding a four-digit code took about 40 hours of work, Dr Skorobogatov said.
+And finding a six-digit code could potentially take hundreds of hours
+Using a slightly more sophisticated set-up should make it possible to clone memory chips from other iPhones, including more recent models such as the iPhone 6.
+However, Dr Skorobogatov said, more information was needed about the way Apple stored data in memory on more recent phones.
+The different techniques could make it "more challenging to analyse and copy", he added.
+Apple has not responded to a request for comment on Dr Skorobogatov's research.
+Susan Landau, on the Lawfare news blog, said the work showed law enforcement agencies should not look for software backdoors to help their investigations but should develop or cultivate hardware and computer security skills.
+"Skorobogatov was able to do what the FBI said was impossible," she said.

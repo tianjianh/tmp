@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170519060925/http://www.bbc.com/news/39960721
+
+[SN]TITLE[SN]
+App maker's code stolen in malware attack
+
+[SN]FIRST-SENTENCE[SN]
+The Mac and iOS software developer Panic has had the source code for several of its apps stolen.
+
+[SN]RESTBODY[SN]
+Panic founder Steven Frank admitted in a blog post that it happened after he downloaded an infected copy of the video encoding tool Handbrake.
+He said there was no sign that any customer data was accessed and that Panic's web server was not affected.
+Users have been warned to download Panic's apps only from its website or the Apple App Store.
+Panic is the creator of web editing and file transfer apps Coda and Transmit, and the video game Firewatch.
+On 2 May Handbrake was hacked, with the Mac version of the app on one of the site's download servers replaced by a malicious copy.
+The infected app was discovered and removed on 6 May.
+In what Mr Frank called "a case of extraordinarily bad luck", he downloaded the malicious version of Handbrake and launched it "without stopping to wonder why Handbrake would need admin privilegesâ€¦ when it hadn't before".
+"And that was that, my Mac was completely, entirely compromised in three seconds or less."
+The attacker then used his password to access other private files and copy the source code for several of Panic's products stored on the infected computer.
+The theft was confirmed when Panic received an email containing some of the files and demanding a ransom for the return of the complete code.
+"We're working on the assumption that there's no point in paying," Mr Frank wrote, saying that "the attacker has no reason to keep their end of the bargain".
+The FBI is investigating the incident and Panic has been working with Apple to make sure that no malicious or fake versions of the apps get into the App Store.
+"I feel like a monumental idiot for having fallen for this," Mr Frank admitted.
+"It's a good reminder though â€” no matter how experienced you might be with computers, you're human and mistakes are easily made."

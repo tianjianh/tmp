@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150924175517/http://www.bbc.co.uk/news/technology-34338646
+
+[SN]TITLE[SN]
+VW: Calls to let car software be examined by experts
+
+[SN]FIRST-SENTENCE[SN]
+Car-makers' should not be protected from independent scrutiny of their software by copyright laws, say campaigners.
+
+[SN]RESTBODY[SN]
+The call follows the discovery that Volkswagen coded some of its diesel cars to cut nitrogen oxide emissions when tested in lab conditions.
+The Electronic Frontier Foundation suggests the deceit could have been uncovered earlier had researchers been able to look at the source code.
+But one expert said the idea was risky.
+VW's chief executive Martin Winterkorn has resigned after admitting his company had fitted computer-controlled "defeat devices" to more than 11 million vehicles.
+In the US, the Digital Millennium Copyright Act prohibits people from circumventing "technological protection measures" that restrict access to copyrighted works.
+This includes reverse-engineering many products' machine code to turn it into a lower-level computer language that can be understood by humans.
+The EFF has long campaigned for automobile security researchers to be granted an exemption to the rule.
+But the lobby group notes that the US's Environment Protection Agency - the watchdog that  is holding Volkswagen to account - had opposed the proposal in a letter earlier this year.
+"[We have previously] taken enforcement action against third-party vendors who sell or install equipment that can 'bypass, defeat or render inoperative' software designed to enable vehicles to comply with Clean Air Act regulations," the EPA's lawyer wrote to the US Copyright Office on 17 July.
+"Any benefit in exempting motor vehicle technological protection measures... is exceeded by the risk that lawful owners could, intentionally or not, modify that software in a way that would increase emissions."
+The EFF suggested that VW's case demonstrated the approach had undermined the regulator's own goals.
+"When you entrust your health, safety, or privacy to a device, the law shouldn't punish you for trying to understand how that device works and whether it is trustworthy," blogged Kit Walsh, the foundation's staff attorney.
+In the UK, security researchers face similar restrictions.
+"You're certainly not allowed to go digging into source code without permission," Jeremy Harris, from the law firm Kemp Little, told the BBC.
+"Copyright law does allow legal users to decompile machine code if it's to get two programs to work together, but you are not allowed to do it to go searching for flaws or other issues in someone else's product."
+He noted, however, that car manufacturers and others could waive their rights in the wake of VW's scandal, to restore confidence.
+The Open Rights Group said it too had concerns about the status quo.
+"There is a need for car manufacturers to be more open about the technology they use," said spokeswoman Pam Cowburn.
+"We need to make sure that laws are not being used by corporations to prevent research that could make our society safer."
+The Society of Motor Manufacturers and Traders declined to comment.
+But one industry analyst said there were good reasons for the industry to resist pressure to share its code.
+"Modern cars are heavily computer-controlled," said Chris Green, a tech consultant at Davies Murphy Group.
+"The computer code may well be controlling emissions, but it's also controlling safety features like when your air bags fire and anti-lock braking systems.
+"There is an argument for stopping people fiddling with those systems, because if you don't know what you are doing - or even worse do know and have malicious intent - you could create genuine safety issues."
+One security researcher added that manufacturers might be worried about losing a competitive advantage.
+"Speaking personally, I don't think it should be illegal to reverse-engineer the code," said Ken Munro, from Pen Test Partners.
+"That said, I understand why manufacturers are reluctant to allow it.
+"There's a lot of effort, time and money put into creating the code, so they have a huge vested interest in keeping their proprietary tech locked down."

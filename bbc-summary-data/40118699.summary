@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170602231415/http://www.bbc.co.uk/news/technology-40118699
+
+[SN]TITLE[SN]
+Password manager OneLogin hit by data breach
+
+[SN]FIRST-SENTENCE[SN]
+Encrypted information has been accessed during a data breach at the password management service, OneLogin.
+
+[SN]RESTBODY[SN]
+It affects "all customers served by our US data centre" and perpetrators had "the ability to decrypt encrypted data", according to The Register.
+Those affected have been advised to visit a registration-only support page, outlining the steps they need to take.
+Security experts said the breach was "embarrassing" and showed every company was open to attack.
+OneLogin is a single sign-on service, allowing users to access multiple apps and sites with just one password.
+In 2013, the company had 700 business customers and passed 12 million licensed users.
+Apps and sites integrated into the service include Amazon Web Services, Microsoft Office 365, Slack, Cisco Webex, Google Analytics and LinkedIn.
+"We have since blocked this unauthorized access, reported the matter to law enforcement, and are working with an independent security firm to determine how the unauthorized access happened," chief information security officer Alvaro Hoyos said on the company's blog.
+"We are actively working to determine how best to prevent such an incident from occurring in the future."
+Users who log in to the site have been given a list of steps designed to minimise the risk to their data. These include:
+Some customers have criticised OneLogin for requiring users to log in to see the list.
+The company has not yet responded to a BBC request for comment.
+In its email to customers, OneLogin told them that "because this is still an active investigation involving law enforcement, there are certain details we can't comment on at this time.
+"We understand how frustrating this might be and thank you for your patience while we continue the investigation."
+"Companies need to understand the risks of using cloud-based systems," Professor Bill Buchanan of Edinburgh Napier University told the BBC.
+"Increasingly they need to encrypt sensitive information before they put it within cloud systems, and watch that their encryption keys are not distributed to malicious agents.
+"It is almost impossible to decrypt data that uses strong encryption, unless the encryption key has been generated from a simple password," he said.
+IT security consultant Ben Schlabs told the BBC it was likely the compromised data included passwords protected using "hashing" - converting the data into fixed-length strings of characters or numbers.
+"The security of data would then depend on the strength of the passwords, and of the password hashes," he said.
+"I would happily store my properly encrypted password safe in any cloud service, because you don't know my password for that safe and I trust encryption."
+The strongest encryption system "hasn't been broken yet, and there's no sign that it should be," he said.

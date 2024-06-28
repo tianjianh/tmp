@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170613184945/http://www.bbc.co.uk/news/technology-40261693
+
+[SN]TITLE[SN]
+Apple Mac computers targeted by ransomware and spyware
+
+[SN]FIRST-SENTENCE[SN]
+Mac users are being warned about new variants of malware that have been created specifically to target Apple computers.
+
+[SN]RESTBODY[SN]
+One is ransomware that encrypts data and demands payment before files are released.
+The other is spyware that watches what users do and scoops up valuable information.
+Experts said they represented a threat because their creators were letting anyone use them for free.
+The two programs were uncovered by the security firms Fortinet and AlienVault, which found a portal on the Tor "dark web" network that acted as a shopfront for both.
+In a blog, Fortinet said the site claimed that the creators behind it were professional software engineers with "extensive experience" of creating working code.
+Those wishing to use either of the programs had been urged to get in touch and provide details of how they wanted the malware to be set up. The malware's creators had said that payments made by ransomware victims would be split between themselves and their customers.
+Researchers at Fortinet contacted the ransomware writers pretending they were interested in using the product and, soon afterwards, were sent a sample of the malware.
+Analysis revealed that it used much less sophisticated encryption than the many variants seen targeting Windows machines, said the firm.
+However, they added, any files scrambled with the ransomware would be completely lost because it did a very poor job of handling the decryption keys needed to restore data.
+"Even if it is far inferior to most current ransomware targeting Windows, it doesn't fail to encrypt victim's files or prevent access to important files, thereby causing real damage," wrote the researchers.
+The free Macspy spyware, offered via the same site, can log which keys are pressed, take screenshots and tap into a machine's microphone.
+In its analysis, AlienVault researcher Peter Ewane said the malicious code in the spyware tried hard to evade many of the standard ways security programs spot and stop such programs.
+Mr Ewane said Mac users needed to start being more vigilant as malware creators targeted them.
+"As OS X continues to grow in market share we can expect malware authors to invest greater amounts of time in producing malware for this platform."
+Statistics gathered by McAfee suggest that there are now about 450,000 malicious programs aimed at Macs - far fewer than the 23 million targeting Windows users.
+Aamir Lakhani from Fortinet said Mac users should make sure their machines were kept up to date with the latest software patches and be wary of messages they receive via email.
+"Mac ransomware is definitely becoming bigger," he told EWeek. "Although market share is still small, hackers know that there is valuable data on the Mac."
+Apple declined to comment on the developments.

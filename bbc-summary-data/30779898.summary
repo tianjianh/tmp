@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160201160247/http://www.bbc.com/news/technology-30779898
+
+[SN]TITLE[SN]
+Microsoft hits out at Google team over bug report
+
+[SN]FIRST-SENTENCE[SN]
+Google has been criticised by Microsoft after the search giant publicised a security flaw in Windows - which some said put users at risk.
+
+[SN]RESTBODY[SN]
+Microsoft reacted angrily when Google posted details of the bug online before a patch to fix the issue was released.
+The disclosure was part of Google's Project Zero initiative that seeks to pressure firms into dealing with security problems more quickly.
+Several security researchers disagreed with Google's actions.
+"I feel sorry for the users, who could be impacted by Google's schoolyard antics," tweeted expert Graham Cluley, who noted the company had been criticised for similar behaviour in the past.
+Discussion on Google's bug reporting site was divided on the matter.
+"Google was wrong with what they did," wrote one developer.
+"They don't have all of the OS code so they have no idea how much other code would have to be rewritten to correct the problem.
+"That extra coding takes time to ensure that something else doesn't get broken in the process."
+But another said: "Google is not evil. Microsoft just slept and did not fix the vulnerability in time. Good job Google."
+Google has not yet responded to the BBC's request for comment.
+Google's Project Zero seeks to find bugs in popular software and then give the manufacturers responsible 90 days to fix the problem.
+This bug, which affects Windows 8.1, was revealed by Google to Microsoft on 13 October 2014.
+On 11 January, Google publicised the flaw. Microsoft said it had requested that Google wait until it released a patch on 13 January.
+"We asked Google to work with us to protect customers by withholding details until Tuesday, January 13, when we will be releasing a fix," Microsoft's senior director of research Chris Betz said in a blog post.
+"Although following through keeps to Google's announced timeline for disclosure, the decision feels less like principles and more like a 'gotcha', with customers the ones who may suffer as a result.
+"What's right for Google is not always right for customers. We urge Google to make protection of customers our collective primary goal."

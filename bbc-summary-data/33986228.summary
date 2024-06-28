@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150820032353/http://www.bbc.co.uk/news/technology-33986228/
+
+[SN]TITLE[SN]
+What's in the Ashley Madison dump?
+
+[SN]FIRST-SENTENCE[SN]
+It appears that hackers have released 10 gigabytes of data stolen from Ashley Madison, a dating website for married people.
+
+[SN]RESTBODY[SN]
+Hackers claim to have distributed the personal information on 33 million accounts via the dark web and it is now being pored over by security researchers, among others.
+Many, including security expert Brian Krebs, believe the dump is genuine.
+What data has been released?
+The BBC has not independently verified the authenticity of the dump, but those who have investigated it so far have said it contains users' names, addresses, phone numbers, encrypted passwords, and 36 million email address. Online security magazine CSO is also reporting that the leak contains over 15,000 government or military email addresses (ending .mil or .gov).
+However, having a personal email address linked to an account doesn't mean that person is really a user of Ashley Madison. Users are able to sign up to the site without responding to an email verification, meaning anyone's email address could have been used to create an account.
+Indeed, an SNP MP whose email address appears in the list has denied ever using the site.
+Are credit card details included in the dump?
+Per Thorsheim, a Norwegian security expert, told the BBC that he was contacted by an anonymous Norwegian who asked him if his credit card details were part of the released data. Mr Thorsheim found some identifiable details were present, in unencrypted form, and he says these were subsequently confirmed by the anonymous contact. The data did not include full credit card information like the expiry date and three-digit security code on the reverse of a card. But transaction history for some users going back as far as 2009 was present.
+"I am surprised that they have transaction history going back in time by so many years and that no encryption has been used," said Mr Thorsheim.
+Mr Krebs said his sources indicated that only the last four digits of credit cards were included in the leaked database, rather than the complete account numbers.
+However, a spokesman for Avid Life has told Reuters: "We can confirm that we do not - nor ever have - store credit card information on our servers."
+Should users be worried about stolen passwords?
+One good piece of news for Ashley Madison users affected by the breach is that passwords remain encrypted via a modern encryption standard called bcrypt.
+However, it is possible to "reverse engineer" those passwords, according to Alan Woodward - although it would take a long time. Also, knowing a user's email address might allow hackers to try to get access to other accounts by testing lists of common passwords.
+It is probably a good idea, therefore, to change any Ashley Madison account passwords and also update login details at other websites just to be safe.
+How has the company responded to this news?
+In a statement, Ashley Madison explained that it was working with the FBI and various Canadian law enforcement bodies in an effort to investigate an attack on its systems. The company also says forensic and security experts are on board to better understand the origin and scope of the breach. However, the company has not confirmed the validity of the latest dump.
+"We have now learned that the individual or individuals responsible for this attack claim to have released more of the stolen data," the company said. "We are actively monitoring and investigating this situation to determine the validity of any information posted online and will continue to devote significant resources to this effort."
+How can I check whether my data has been compromised?
+The stolen data cannot easily by accessed by the public as it has been released onto the dark web, reachable only via encrypted browsers. However, some of the content is now being distributed more widely. Some individuals have already asked security researchers who have access to the data if their information is present.
+Because of the sensitive nature of the information, Microsoft security expert Troy Hunt has decided not to allow the data to be discoverable by anyone, including those trying to find out if an individual had ever used Ashley Madison. Instead, Hunt has set up a notification website which can alert users when their email address is found in a confirmed batch of leaked data.
+Why leak to the dark web in the first place?
+Security expert Graham Cluley told the BBC that the hackers were probably wary of legal steps by Ashley Madison to get leaked information removed from any public websites. "If they can't identify the sites that are hosting the content, they haven't got a snowball's chance in hell of getting them shut down," he said.
+What other consequences might there be?
+While some may be worried that spouses will discover instances of infidelity, another concern is that the data will be used by scammers. Such a large list of email addresses will probably be seized upon by those launching phishing attacks, according to security firm Blue Coat.
+Phishing attacks involve the delivery of malicious links or attachments containing malware in seemingly innocuous emails. Blue Coat is also warning that personal information could be used to impersonate victims and gain access to, for example, corporate networks.
+In addition, Mr Cluley has published a blog in which he warns, "It's easy to imagine that some people might be vulnerable to blackmail, if they don't want details of their membership or sexual proclivities to become public.
+"Others might find the thought that their membership of the site - even if they never met anyone in real life, and never had an affair - too much to bear, and there could be genuine casualties as a result."
+Cybersecurity firm CyberAngel has also noted that about 1,200 people on the leaked list had emails based in Saudi Arabia, where adulterers face the death penalty.
+It added that 15,000 had addresses linked to the US military or government, which it suggested could put the owners at risk of blackmail.

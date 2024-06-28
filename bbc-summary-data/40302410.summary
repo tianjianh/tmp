@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170701234210/http://www.bbc.co.uk/news/technology-40302410
+
+[SN]TITLE[SN]
+Programmers who use spaces 'paid more'
+
+[SN]FIRST-SENTENCE[SN]
+Computer programmers who use spaces as part of their coding earn $15,370 (Â£12,000) more per year than those who use tabs, a survey of developers has revealed.
+
+[SN]RESTBODY[SN]
+The survey found the salary difference stretched across different languages, countries and experience levels.
+The debate over whether it is better to use spaces or tabs to indent code has raged among programmers for years.
+Indents act like paragraph markers and help define how programs work.
+The result was "surprising," said David Robinson, data scientist at Stack Overflow which carried out the survey of 12,400 developers.
+He at first thought it was just a quirk of the survey rather than a real phenomenon and said he could not explain why the difference emerged.
+He even encouraged others to go through the data themselves to see if they could find a factor he had missed.
+"Spaces versus tabs is the Pepsi or Coke question for developers," said Jordan Poulton, a spokesman for London's Makers Academy that teaches people to code.
+"It's almost impossible to draw an objective conclusion about which is the best," he said.
+Mr Poulton said there were some computer languages, such as Python, in which indenting was essential but in others, such as Ruby, it only helped to make it easier to work out the structure of the code.
+Whether tabs or spaces were used could have an impact, he said, when hand-written code was turned into working software. This process is handled by a separate program called an interpreter or compiler. Some of these can crash if they encounter something, such as a tab, when they were only expecting spaces.
+Professional developers typically set up their coding editor to use either tabs or spaces to show the relationships between functional elements, he said. Code can get harder to read if viewed in an editor expecting tabs and getting spaces or vice versa.

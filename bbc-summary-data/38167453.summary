@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107000006/http://www.bbc.co.uk/news/technology-38167453
+
+[SN]TITLE[SN]
+TalkTalk and Post Office routers hit by cyber-attack
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of TalkTalk and Post Office customers have had their internet access cut by an attack targeting certain types of internet routers.
+
+[SN]RESTBODY[SN]
+A spokeswoman for the Post Office told the BBC that the problem began on Sunday and had affected about 100,000 of its customers.
+Talk Talk also confirmed that some of its customers had been affected, and it was working on a fix.
+It is not yet known who is responsible for the attack.
+Earlier in the week, Germany's Deutsche Telekom revealed that up to 900,000 of its customers had lost their internet connection as a result of the attack.
+It involves the use of a modified form of the Mirai worm - a type of malware that is spread via hijacked computers, which causes damage to equipment powered by Linux-based operating systems.
+Mirai was also involved in an earlier attack that caused several of the world's leading websites to become inaccessible, including Spotify, Twitter and Reddit.
+Several models of router are vulnerable to the latest cyber-assault, including the Zyxel AMG1302, which is used by the Post Office.
+"We would like to reassure customers that no personal data or devices have been compromised," said the Post Office's spokeswoman.
+"We have identified the source of the problem and implemented a resolution which is currently being rolled out to all customers.
+"For those customers who are still having problems, we are advising them to reboot their router."
+Doing so causes the machine to make use of updated software.
+The same router is also used by Kcom, an internet service provider (ISP) based in Hull, whose customers have also been affected.
+"The vast majority of our customers are now able to connect to and use their broadband service as usual," the firm said in a statement.
+"Our core network was not affected at any time and we have put in place measures to block future attacks from impacting our customers' routers and their ability to access the internet."
+TalkTalk also confirmed that its D-Link DSL-3780 routers were affected but said only a small percentage of its customers used them.
+"Along with other ISPs in the UK and abroad, we are taking steps to review the potential impacts of the Mirai worm," a spokeswoman said in a statement.
+"We have deployed additional network-level controls to further protect our customers."
+Security researchers had previously suggested that the routers were vulnerable to the Mirai malware.
+One expert warned there could be worse to come.
+"The next step for attackers could be to hack into other home devices once they gain access to the router, like web cams, smart TVs, or thermostats," said Pavel Sramek from the cybersecurity firm Avast.

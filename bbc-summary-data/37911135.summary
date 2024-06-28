@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170318013731/http://www.bbc.co.uk/news/technology-37911135
+
+[SN]TITLE[SN]
+AI that lip-reads 'better than humans'
+
+[SN]FIRST-SENTENCE[SN]
+Scientists at Oxford University have developed a machine that can lip-read better than humans.
+
+[SN]RESTBODY[SN]
+The artificial intelligence system - LipNet - watches video of a person speaking and matches the text to the movement of their mouths with 93% accuracy, the researchers said.
+Automating the process could help millions, they suggested.
+But experts said the system needed to be tested in real-life situations.
+Lip-reading is a notoriously tricky business with professionals only able to decipher what someone is saying up to 60% of the time.
+"Machine lip-readers have enormous potential, with applications in improved hearing aids, silent dictation in public spaces, covert conversations, speech recognition in noisy environments, biometric identification and silent-movie processing," wrote the researchers.
+They said that the AI system was provided with whole sentences so that it could teach itself which letter corresponded to which lip movement.
+To train the AI, the team - from Oxford University's AI lab - fed it nearly 29,000 videos, labelled with the correct text. Each video was three seconds long and followed a similar grammatical pattern.
+While human testers given similar videos had an error rate of 47.7%, the AI had one of just 6.6%.
+The fact that the AI learned from specialist training videos led some on Twitter to criticise the research.
+Writing in OpenReview, Neil Lawrence pointed out that the videos had "limited vocabulary and a single syntax grammar".
+"While it's promising to perform well on this data, it's not really groundbreaking. While the model may be able to read my lips better than a human, it can only do so when I say a meaningless list of words from a highly constrained vocabulary in a specific order," he writes.
+The project was partially funded by Google's artificial intelligence firm DeepMind.

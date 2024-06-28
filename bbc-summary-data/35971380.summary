@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170512042039/http://www.bbc.co.uk/news/technology-35971380
+
+[SN]TITLE[SN]
+How to make big bucks hunting cyber bugs
+
+[SN]FIRST-SENTENCE[SN]
+This month the US government is launching its first-ever bug bounty programme - a 20-day scheme for cybersecurity savvy citizens to have a go at finding flaws in the Department of Defense's public websites before the illegal hackers do.
+
+[SN]RESTBODY[SN]
+There is a $150,000 (£106,000) pot for rewarding the finders of significant bugs.
+Unauthorised hacks make headlines and can have catastrophic consequences for the organisation that suffers a breach, so many seek to crowdsource their security in addition to employing their own in-house experts, offering financial rewards  - known as bounties - as an incentive.
+Bugs are officially big business.
+Last month Uber announced that it too was entering the bug bounty arena with a scheme of its own, while firms like Facebook and Microsoft have been running them for years.
+Microsoft's top reward is currently up to $100,000 (£70,699) for "truly novel exploitation techniques against protections built into the latest version of our operating system" -  or anything that bypasses all the security systems on the Windows platform.
+Generally a bug bounty programme will pay a reward based on how significant the find is.
+Facebook has so far paid out nearly $1m in bounties but the average pay-out in 2015 was $1,782 per bug - and its most prolific bug hunters were in India, Egypt, and Trinidad and Tobago, the social network says.
+"By having bug bounty programmes, companies make sure the best hackers look at their code," says computer scientist Gianluca Stringhini, assistant professor at University College London.
+"The more eyes look at the programme, the more bugs they find.
+It's also a way for these companies to identify talent."
+There's no doubt that if you're a successful part-time bug hunter you might even get a job out of it - security researcher Chris Vickery got his current role after doing just that.
+"When I found one of the databases of [software firm] MacKeeper, they turned around and said 'OK, we want to hire you to give us tips about data breaches'," he said.
+"That was an awesome response."
+So how do you go about it?
+Belgian bug hunter Arne Swinnen is currently ranked number two in Facebook's so-called white hat hall of fame - a surprisingly long list of the people who have helped it make its various platforms more secure by finding and telling it about vunerabilities before the cybercriminals exploit them.
+Mr Swinnen has a day job but in his spare time has netted around $15,000 (£10,604) finding system weaknesses in the last few months.
+"Some bugs that I've found they took me a couple of days, others only take five minutes. My biggest bug so far got me $2,500 (£1,767) and only cost me five minutes of my time."
+He started out by looking at Facebook-owned Instagram after researching bugs online and identifying that fewer bug bounty hunters appeared to have it in mind.
+"I looked to see what it had - website, mobile apps - I looked at their functionalities, and then started to look for vulnerabilities," he explains.
+Mr Swinnen admits it isn't exactly his girlfriend's idea of a holiday - but it can be lucrative.
+"It's my hobby, I like hunting, if you find something it's really a thrill," he told the BBC.
+Of course many companies without designated schemes will generally be appreciative of some security support.  There are a few issues to be aware of though if you plan to fish in the wild, as it were - not least that unauthorised access of a system is illegal in many countries.
+"In the UK, under the Computer Misuse Act, unauthorised access is a criminal offence - even if the door is wide open," says cybersecurity expert Prof Alan Woodward from Surrey University.
+"You have to understand the law and how far you can push it. You also need to understand how the industry works because there are what you might think of as best practice [guidelines] - it's what responsible disclosure is all about."
+Prof Woodward also warns about the responsibilities associated with handling any data you might find floating around, that perhaps isn't as encrypted or secure as it should be.
+"You have a duty of care to whoever that data belongs to or is about," he adds.
+"Some hackers perhaps feel they are above that but they are not.
+"You have to be careful, it is a minefield - there is a fine line between probing for vulnerabilities and unauthorised access."
+It is also a minefield for companies, especially small businesses who may well lack both the expertise and the resources to manage this global army of white hats - and the hackers hot on their heels.
+"In general the problem is that when someone designs a programme they expect the user to play nicely.
+"But an attacker could present an input that nobody thought about and that could make the programme play completely differently," says Gianluca Stringhini.
+His basic advice to all firms is simple.
+"Keep up with the news, see what new attacks are out there, make sure that whenever a new vulnerability is disclosed they update their systems - and keep an eye for general weird activity," he says.
+Members of staff should also take note, he adds.
+"You have systems you might develop but they might have holes - system administrators need to keep that in mind but so do end users, their data may not be safe."
+Click here to listen to the BBC World Service Business Daily Programme about white hats and bug bounties.

@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170415161154/http://www.bbc.co.uk/news/technology-36129370
+
+[SN]TITLE[SN]
+Bangladesh hack 'targeted bank system software'
+
+[SN]FIRST-SENTENCE[SN]
+British defence contractor BAE Systems has claimed bank hackers in Bangladesh targeted software from Swift, a key part of the global financial system.
+
+[SN]RESTBODY[SN]
+According to a report from the Reuters news agency, BAE made the discovery after investigating the theft of $81 million (Â£56m) from the Bangladesh central bank in February.
+Swift has released a software update to assist customers with security.
+The group said its network and core messaging services were not affected.
+BAE has published a blog on its findings.
+The hackers were discovered - thanks to a spelling mistake in one transfer order - before they could transfer $1bn (Â£690m) as they had planned.
+A cheap internet router with no firewall has been blamed for the thieves being able to gain access to the Bangladesh bank's computers.
+Using this access, the thieves allegedly transferred funds from Bangladesh's account at the Federal Reserve Bank of New York into other bank accounts.
+Now, BAE says it believes part of the hack involved gaining access to the Bangladesh central bank's Swift payment system.
+Swift, or the Society for Worldwide Interbank Financial Telecommunication, is used by 11,000 banks and other institutions.
+In its blog, BAE described some of the features of tools that it believes were used during the attack on the Bangladesh central bank.
+The blog adds: "This malware appears to be just part of a wider attack toolkit and would have been used to cover the attackers' tracks as they sent forged payment instructions to make the transfers."
+Such an approach would target Swift's Alliance Access software specifically.
+In a statement, Swift said: "This malware has no impact on Swift's network or core messaging services.
+"We understand that the malware is designed to hide the traces of fraudulent payments from customers' local database applications and can only be installed on users' local systems by attackers that have successfully identified and exploited weaknesses in their local security."
+Natasha Deteran, a spokeswoman for Swift, told Reuters the software update was intended "to assist customers in enhancing their security and to spot inconsistencies in their local database records".

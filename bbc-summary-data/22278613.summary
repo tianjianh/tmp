@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112131401/http://www.bbc.co.uk/news/technology-22278613
+
+[SN]TITLE[SN]
+Exploding the urban myths about how to stay safe online
+
+[SN]FIRST-SENTENCE[SN]
+Are we wising up to the dangers lurking online? Or are phishing, spam and hacking just words that we still do not understand and we hope will not happen to us.
+
+[SN]RESTBODY[SN]
+Ofcom recently revealed that one in four British people still use the same password for all their activities online, suggesting we still have some way to go to fully understand computer security.
+Here Prof Alan Woodward explores some of the misconceptions about how we stay safe online.
+While there is still a long way to go in raising awareness of the risks inherent in surfing the net, word is spreading.
+Unfortunately, some urban legends have arisen that are leading to a false sense of security.
+Probably the most common of these myths is that your computer cannot be infected simply by visiting a website containing malicious code. The story goes, that you are only going to get malware on your machine if you actively agree to download software.
+As with many myths it contains a grain of truth. However, you may not recognise that you are giving your permission, and often hackers rely upon the fact that your computer is set to give permission by default to certain types of download. This has led to the phenomenon of "drive-by downloads".
+These downloads can happen in several ways, with hackers developing new methods all the time.
+Possibly the most insidious technique relies upon what are known as inline frames or "IFrames".  The intention of IFrames was to allow webpages that have a mixture of variable and static content to be constructed so that they used computer resources more efficiently.
+First introduced in 1997, IFrames essentially allow you to embed "active" material that is brought in from elsewhere.
+When misused, IFrames can secretly download another webpage - one you will not see because they can be as small as a single pixel - which redirects you to a page containing an exploit.
+If your browser and system are vulnerable to this exploit then the malware is downloaded on to your computer. And, you did not agree to anything, did you?
+A variant of this first great myth is that webpages cannot download to your computer without you clicking on an "OK" button.
+You may have to click but that click might not be doing what you think.  A typical trick is for a compromised site to pop up a box - usually an advert - which you simply have to close if not interested.  The act of closing the advert can be the very click that initiates a download.
+Things are not always what they seem online.
+This leads to the second great myth: that only disreputable sites contain malware.
+Yes it is true that some less salubrious sites are affected in this way, but many well-known sites find themselves compromised too.  A classic example is where a site allows comments to be posted and the web forms have not been secured in quite the right way.  Someone can post a comment containing code and that code can contain an IFrame.
+With webpages often being an amalgamation of content drawn from various sources, it is very difficult for webmasters to close all the loopholes.
+The New York Times found this out in 2009 when they were tricked into running an advert which encouraged readers to download fake antivirus software. On the web you are trusting not just the webpage provider but their entire content supply chain.
+The third myth is more personal. Most of us believe we are too insignificant to be attacked because hackers are interested only in the big fish.
+Well, yes some hackers will invest a great deal of time trying to break into some high-value target. However, most criminals have long since realised that their return on investment is much higher by targeting many smaller value targets, like you and me.
+With automation and the global reach of the internet you need only have a tiny fraction of your targets respond in order to reap a very handsome reward.
+Research has shown that the reason scammers persist with age-old ploys such as the Nigerian scam emails is because, as extraordinary as it might seem, they still work. The criminal invests relatively little time and money but the numbers responding are still high enough to make it worth their while.
+The delusion involved in the fourth myth may shock many - my computer contains nothing of value.
+Sorry to disappoint, but your computer is a treasure trove for criminals. What about something as simple as your address book? Criminals love contact lists as they give them valid email addresses and someone who they can pretend to be - you.
+And, of course, who does not log into some bank, shop, government site or similar with their computer?
+In doing so you leave your digital identity on your computer, and there is nothing criminals love more than a valid online identity.
+How many people clear the memory, delete cookies and temporary files when they close down their browser?
+Quite the opposite is true - for convenience many store their digital identities in their browsers so they do not have to log on every time they wish to use an online service.
+It is rather like leaving your car keys on the hall table in full view of the letterbox. A fishing rod is all the criminal needs to steal your car.
+The final myth is the one that leads to the most pronounced false sense of security - that my make of computer or operating system is not vulnerable to security problems.
+Some people think that being behind a firewall makes them safe. I am afraid that this could not be more wrong.
+You may find that you are using a less popular computer brand which has yet to attract the attention of criminals, and your firewall may keep out some intruders, but all computers, if connected to the internet, are vulnerable.
+Alan Woodward is a visiting professor at the University of Surrey's department of computing. He has worked for the UK government and currently advises several FTSE 100 companies about issues including cybersecurity, covert communications and forensic computing through the consultancy Charteris where he is chief technology officer.

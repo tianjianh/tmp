@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170119235119/http://www.bbc.co.uk:80/news/science-environment-38664225
+
+[SN]TITLE[SN]
+Galileo satellites experiencing multiple clock failures
+
+[SN]FIRST-SENTENCE[SN]
+The onboard atomic clocks that drive the satellite-navigation signals on Europe's Galileo network have been failing at an alarming rate.
+
+[SN]RESTBODY[SN]
+Across the 18 satellites now in orbit, nine clocks have stopped operating.
+Three are traditional rubidium devices; six are the more precise hydrogen maser instruments that were designed to give Galileo superior performance to the American GPS network.
+Galileo was declared up and running in December.
+However, it is still short of the number of satellites considered to represent a fully functioning constellation, and a decision must now be made about whether to suspend the launch of further spacecraft while the issue is investigated.
+Prof Jan Woerner, the director general of the European Space Agency (Esa), told a meeting with reporters: "Everybody is raising this question: should we postpone the next launch until we find the root cause, or should we launch?
+"You can give both answers at the same time. You can say we wait until we find the solution but that means if more clocks fail we will reduce the capability of Galileo. But if we launch we will at least maintain if not increase the [capability], but we may then take the risk that a systematic problem is not considered. We are right now in this discussion about what to do."
+Each Galileo satellite carries two rubidium and two hydrogen maser clocks. The multiple installation enables a satellite to keep working after an initial failure.
+All 18 spacecraft currently in space continue to operate, but one of them is now down to just two clocks.
+Most of the maser failures (5) have occurred on the satellites that were originally sent into orbit to validate the system, whereas all three rubidium stoppages are on the spacecraft that were subsequently launched to fill out the network.
+Esa staff at its technical centre, ESTEC, in the Netherlands are trying to isolate the cause the of failures - with the assistance of the clock (Spectratime of Switzerland) and satellite manufacturers (Airbus and Thales Alenia Space; OHB and SSTL). It is understood engineers have managed to restart another hydrogen clock that had stopped.
+Esa is also in contact with the Indian space agency which is using the same clocks in its sat-nav system. So far, the Indians have not experienced the same failures.
+A statement issued by the agency late on Wednesday gave additional details.
+It appears the rubidium failures "all seem to have a consistent signature, linked to probable short circuits, and possibly a particular test procedure performed on the ground".
+The maser clock failures are said to be better understood, with two likely causes, the second of which has caused most grief.
+The Esa statement said this second scenario was "related to the fact that when some healthy [hydrogen maser] clocks are turned off for long periods, they do not restart due to a change in clock characteristics".
+Actions are being taken to try to prevent further problems. These involve changing the way clocks are operated in orbit. Clocks about to fly are also likely to be refurbished, and future devices yet to be made will have design changes, the agency says.
+Esa is hopeful it can still launch the next four satellites in the constellation before the end of the year.
+Precise timing is at the core of all satellite-navigation systems.
+Atomic clocks generate the time code that is continuously transmitted to users on the ground to help them fix a position.
+The passive hydrogen maser clocks in Galileo are determined to be accurate to one billionth of a second per day, or one second in three million years.
+This performance ought to contribute to giving users fixes that have errors of a metre or less - significantly better than the standard open service from GPS.
+A fully operational Galileo system is regarded as a constellation of 24, split across three orbital planes in the sky. But spares are required also, and with one very early satellite in the constellation already considered very close to complete failure - for different reasons - there needs to be near-continuous production of spacecraft.
+The four latest satellites went up as a quartet in November; more are set to follow later this year.
+Galileo is a project of the European Commission, the EU's executive branch. The EC employs Esa as its technical and procurement agent.
+The development path to a "European GPS" has been a tortuous one. The project is years late, and the completion cost - expected to be some 7bn euros by 2020 - is substantially higher than that originally foreseen by EU member states.
+Galileo's atomic clocks by the numbers
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

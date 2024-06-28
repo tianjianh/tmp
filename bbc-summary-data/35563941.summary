@@ -1,0 +1,60 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310062547/http://www.bbc.co.uk/news/science-environment-35563941
+
+[SN]TITLE[SN]
+Snake walk: The physics of slithering
+
+[SN]FIRST-SENTENCE[SN]
+"This is the Mojave shovel-nosed snake," says Perrin Schiebel as she hands me a 40cm reptile. It is vibrantly patterned, apparently harmless, and quickly wraps itself around my fingers.
+
+[SN]RESTBODY[SN]
+"They're native to deserts of the American south-west. This is a full-grown adult."
+Ms Schiebel is studying for a PhD in physics at the Georgia Institute of Technology in Atlanta, US. She has spent many months putting 10 of these snakes through their slippery paces in a sand-filled aquarium.
+Why is a team of physicists playing with snakes in a custom-built sand pit? Because, I am told, the way they move is a marvel. (The snakes, not the physicists.)
+Innumerable critters have evolved superb ways to scuttle and slither - or even burrow and "swim" - across the most unhelpful of terrains: those that flow.
+If you've ever tried to walk up a sand dune, then you are familiar with the problem: unstable ground makes a mission out of locomotion. Now, imagine doing it on your belly.
+"One of the things that's really interesting about snakes is that their entire body is, in this type of locomotion, in sliding contact with the ground," Ms Schiebel explains.
+"So they have to be able to push off things in their terrain effectively, to overcome the fact that they've got these frictional drag forces on their stomach all the time."
+And these denizens of the desert - including my new shovel-nosed friend - make it look easy.
+In fact, as soon as this particular snake lands back in the glass tank, it vanishes.
+"They can travel fairly substantial distances completely submerged," Ms Schiebel says. "We think this body shape is an adaptation to that."
+Some of her colleagues have used X-rays to peer beneath the sand and study the snake's swimming in detail. But she is more interested in how they get around on the surface.
+Ms Schiebel has "tens of thousands of frames" of high-speed video showing the shovel-nosed snake navigating the tank, both with and without obstacles.
+"That's what I'm interested in - how they can use these this flowing sand and these obstacles, and push off them to travel."
+This laboratory has sand-based experiments down to a fine art. For one thing, the snake is not slithering on any old sand.
+"These are 300-micron (0.3mm) glass beads," says Ms Schiebel. "So it's sort of a laboratory physics version of desert sand. That's very similar to the size and composition in their natural habitat."
+Also in the name of precision, a remarkable routine unfolds in between trials. A pump blasts air through a mesh beneath the sand, to "fluidise" it; the artificial dune bursts into roiling movement.
+"If you want to do controlled, repeatable experimentsâ€¦ you need some way to control the initial state of the media.
+"With a fluidised bed you're guaranteed that the entire bed will be in the exact same state. And it lets you control things like the compaction very precisely."
+One thing these controlled experiments have revealed is a surprising simplicity in the snake's slither. It arranges its body into a very regular, flat "S" shape - no matter what.
+"I've studied 10 of these snakes and they always make the same shape," Ms Schiebel says. "That was somewhat surprising. With their long body, they're very flexible - you can imagine they could make all sorts of shapes.
+"But there's this very specific, stereotyped waveform that they all seem to use."
+This observation was in stark contrast to what the team expected - which was, in short, tortuous complexity.
+"What I've found... is that the snake is using a waveform that is beneficial for travelling quickly at the surface - and that all of these complex things, like the grains flowing away, or the tracks the snake makes, may not be important."
+It also marks out the Mohave shovel-nosed snake as rather different from other species, which the team has observed in a nearby zoo adopting much more irregular and complicated shapes.
+One such snake with a famously baffling way of getting around is the sidewinder rattlesnake. Another member of the lab, Henry Astley, has been unravelling its secrets for some time.
+"Sidewinding is famously confusing," he tells me as we look through some videos of real and simulated sidewinders in action. "There's actually a saying in herpetology, that if you want to go mad, watch sidewinders."
+I can see his point. The hypnotic ripples of movement that propel these snakes - sideways - flow up-and-down along their bodies, as well as side-to-side.
+"During sidewinding, portions of the snake are lifted and lowered cyclically, in order to allow them to lift themselves over the sand and place their body in a new location," Dr Astley explains.
+Working with a lab at Carnegie Mellon University in Pittsburgh, he and colleagues have already unpicked how the sidewinder climbs steep, sandy slopes by copying its movement with a robotic replica.
+"Sidewinders are fantastic at locomoting - they're the real deal, they've got sensory systems and brains and muscles. But with that come the consequences of behaviour; they do what they want to do.
+"With the robot, we can program it to do what we want it to do."
+Using a similar approach - combining video footage of real snakes at Zoo Atlanta, with the programmable Pittsburgh robot - Dr Astley recently reported, for the first time, how sidewinders turn corners. He discovered two contrasting techniques.
+First, there is the lazy "differential" turn, which works much like a car.
+"One side of snake - or one set of wheels on the car - moves further than the other, and as a result, the whole animal rotates and you get this large, gradual turn over many, many cycles," he says.
+The second option is more of a handbrake turn: the snake instantly reverses its body wiggle and jack-knifes its overall progress by anywhere from 70 to 180 degrees.
+"The key is that in differential turning, the sidewinder continues with its head on the left or the right, throughout the turn," Dr Astley says.
+"However in reversals, they instantaneously switch from head-on-the-right to head-on-the-left, or vice versa, allowing them to rapidly change and take off in a whole new direction."
+When the team applied these findings to the sidewinder robot, which is ultimately aimed at search-and-rescue missions in tricky terrains, they managed to navigate a small maze with a combination of these turns.
+But the research is not all about building better robots - though negotiating sandy landscapes will be crucial, for example, as humans continue to explore Mars.
+Dan Goldman, who runs the lab at Georgia Tech, says he is most powerfully driven by pure intellectual curiosity.
+"I'm interested in how nature works, in how living systems manage to do such beautiful and seemingly elegant behaviours in their natural environments."
+The robots fill a gap, Prof Goldman explains, between mathematical simulations and real-world animal actions. Both the animals themselves and natural terrain - from leaf litter to sand dunes - are difficult to model accurately with computers.
+"We don't have all the mathematics. There's a lot of parameters and it's also not clear how the biological subsystems are put together to effect interesting locomotor feats."
+So a robot is a "physical model" that recreates certain elements of the interaction, in a programmable way.
+"It's certainly not a faithful reproduction of an organism - but at least the leg of a robot, or the body of a snake robot, is interacting with a somewhat realistic material."
+And therein, Prof Goldman concludes, lies a fruitful two-way street between his team of biology-focused physicists and the robotics engineers with whom they collaborate.
+"It just turns out that the animals we study, and the physics we study... turn out to have some relevance for making better robots."
+He and nearly 10,000 other physicists will be presenting their latest findings next week as the 2016 March Meeting of the American Physical Society.
+You can hear an interview with Perrin Schiebel on Thursday's BBC Inside Science on Radio 4, or Science in Action on the BBC World Service.
+Follow Jonathan on Twitter

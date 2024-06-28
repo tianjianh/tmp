@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160201103054/http://www.bbc.com/news/technology-30726631
+
+[SN]TITLE[SN]
+Netflix: VPN crackdown claims 'false', says executive
+
+[SN]FIRST-SENTENCE[SN]
+Netflix has criticised "false" reports it has been cracking down on customers using a work-around to watch media blocked in their area.
+
+[SN]RESTBODY[SN]
+The company denied reports it had stepped up its attempts to block access via virtual private networks (VPNs).
+Netflix said its existing policy against the use of VPNs to circumvent geographical content barriers remained unchanged.
+But it said its service would still work via some VPNs.
+"The claims that we have changed our policy on VPN are false," said Netflix's chief product officer Neil Hunt.
+Speaking at this year's Consumer Electronics Show (CES) in Las Vegas, he said: "People who are using a VPN to access our service from outside of the area will find that it still works exactly as it has always done."
+He was speaking in response to widespread claims that the popular media streaming firm had begun a crackdown on customers who used VPNs at the behest of studios unhappy at their licensing arrangements being ignored.
+They followed complaints by Netflix users on Reddit that their normal VPN setups were no longer working.
+Netflix said it did routinely block the work-arounds using "industry standard" techniques, but there was no special effort being undertaken to block more of them than usual.
+According to Cnet, Mr Hunt said that the company had added a "failsafe" on its Android app to help users whose DNS provider was unreliable.
+"It's not intended to steer people away from VPN, it's intended to make the application more robust when your own DNS provider is failing," he said.
+"The reality is we blacklist known VPNs in accordance with our content contracts - Foxtel, for example, owns House of Cards in Australia so they kind of like us to block them. But we are not changing our policy. It remains the same as it ever was."
+The BBC verified his comments with Netflix, which added: "Our terms of service state that you are not allowed to virtually cross borders because of content licensing systems."
+A spokesman told the BBC that the firm used industry standard technology to stop users doing so and that, contrary to the reports, it had not recently changed the way it did that.
+Netflix is believed to favour the end of the traditional system, under which film and television rights are sold by geographical region.
+In order to ensure the limits of those licences are respected, blocks must be installed. For example, items of hardware such as DVD players were designed only to be compatible with media designated to the same geographical region.
+But, as such forms declined, studios began to rely more and more heavily on geographic blocks using the customer's IP address.
+However, VPNs make the user appear to be in the country they wish, helping them get around such a barrier.

@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170620162309/http://www.bbc.co.uk/news/technology-35344843
+
+[SN]TITLE[SN]
+Government urged to use Bitcoin-style digital ledgers
+
+[SN]FIRST-SENTENCE[SN]
+The UK's chief scientific adviser has urged the government to adopt the technology that powers crypto-currency Bitcoin to run various public services.
+
+[SN]RESTBODY[SN]
+Bitcoins are powered by blockchains - digital ledgers that record information from Bitcoin transactions to DNA.
+Sir Mark Walport has argued that they could be used by government departments as a more secure way of managing data.
+They could be used to help with tax collection, benefits or the issuing of passports, he has said.
+Blockchains consist of "blocks" of data in a digital ledger.
+Copies of these ledgers are shared by all the computers that access them, meaning they are distributed across the network.
+Because blockchains act as permanent records of every time that data is added to them - and because private blockchains allow access to specific users only - they are thought to be highly resistant to malicious tampering.
+Sir Mark's recommendation comes in the form of a new report which advocates the use of blockchains for a variety of services.
+"Distributed ledger technologies have the potential to help governments to collect taxes, deliver benefits, issue passports, record land registries, assure the supply chain of goods and generally ensure the integrity of government records and services," the report says.
+"In the NHS, the technology offers the potential to improve health care by improving and authenticating the delivery of services and by sharing records securely, according to exact rules."
+Sir Mark added that existing approaches to data management in government departments typically involved large centralised systems with "a high cost single point of failure".
+These systems may also be more vulnerable to hacking or errors, he wrote.
+Using distributed ledgers and storing multiple copies of them is something that has helped been made possible by the improvement in computing technology, according to Dave Birch, at consultants Consult Hyperion.
+"I think the report is really interesting," he told the BBC.
+However, Mr Birch added that he was initially unsure of why blockchains - specific types of ledgers that require users to agree on the state of their contents - would be useful.
+"When you say 'blockchain', that's a very specific kind of consensus protocol and one of the key reasons for using that is because there may be people trying to subvert [the data]," he said.
+"I can see the report talks about distributed ledger technology in general. The issue is, can distributed ledgers help in certain kinds of government ledgers - the answer is almost certainly yes."
+The report suggests that the British government should begin trials of distributed ledger technology to see how usable it is.
+Some countries have already taken the step.
+Texas-based firm Factom announced last year that it was working with Honduras to build a blockchain record of land registry titles - though the project later appeared to be on hiatus.
+The report notes another example, Estonia, which already uses distributed ledger technology for citizens to check the integrity of their records on government databases.

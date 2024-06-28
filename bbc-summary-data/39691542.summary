@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170425022107/http://www.bbc.co.uk/news/technology-39691542
+
+[SN]TITLE[SN]
+Uber 'tracked iPhones to stop fraud'
+
+[SN]FIRST-SENTENCE[SN]
+Uber reportedly used a tactic called fingerprinting to track iPhones in order to fight fraud - despite Apple banning the practice.
+
+[SN]RESTBODY[SN]
+The New York Times reports that in 2015 Apple discovered that the ride-sharing company had broken its privacy rules by collecting iPhone serial numbers.
+Boss Tim Cook told Uber founder Travis Kalanick to remove the "fingerprinting" code or he would  ban the app from the Apple Store, the paper claims.
+Apple declined to comment.
+Uber said the practice of fingerprinting deterred criminals from installing its app on stolen phones, using stolen credit cards to book journeys, then wiping the phone and doing it again.
+"Being able to recognise known bad actors when they try to get back on to our network is an important security measure for both Uber and our users," it said.
+Security researcher Will Strafach told news site Tech Crunch that the coding in the iPhone version of the app from 2014 revealed that it was noting the device's serial number.
+The New York Times also claimed Uber ringfenced Apple's Cupertino headquarters so that employees using the app there would not notice.
+Cyber-security expert Prof Alan Woodward, from University of Surrey, said the act of fingerprinting is fairly common and generally not blocked by other operators - for example, if you sign into a service from a different device and get an email warning you about it, it's because there is a device ID linked to your account.
+"Digital fingerprinting can be effective in tracking who goes where on the web, and it can be used to prevent fraud, but also it has the potential to invade your privacy," he said.
+"Whether it should be allowed ultimately will be a matter for the legislators and not all jurisdictions will necessarily agree."
+The practice is still banned by Apple.

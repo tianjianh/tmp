@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170704100152/http://www.bbc.co.uk/news/technology-39115001
+
+[SN]TITLE[SN]
+Children's messages in CloudPets data breach
+
+[SN]FIRST-SENTENCE[SN]
+An open database containing links to more than 2 million voice messages recorded on cuddly toys has been discovered, cybersecurity researcher Troy Hunt has revealed.
+
+[SN]RESTBODY[SN]
+The messages were created by owners of CloudPets soft toys.
+At one point, the data was even held to ransom, Mr Hunt says.
+The animals are advertised as being toys that enable people to record and send greetings via a phone app and the toy itself.
+The creatures are marketed as cuddly devices to connect children to working parents or grandparents.
+They are currently on sale for a heavily discounted Â£6 in UK children's store The Entertainer but are listed at $29.99 on the CloudPets US website.
+In a statement, California-based Spiral Toys, which makes the animals, said it was notified about a potential breach in February and "took immediate and swift action".
+"When we were informed of the potential security breach we carried out an internal investigation and immediately invalidated all current customer passwords to ensure that no information could be accessed.
+"To our best knowledge, we cannot detect any breach on our message and image data, as all data leaked was password encrypted."
+It added that it is now requiring users to choose "new, increased security passwords" and has sent out emails informing customers of the potential compromised login data.
+The website NetworkWorld reports that the firm denied voice data had been stolen.
+Troy Hunt wrote on his blog that the voice recordings were stored in the cloud and the database, which was left exposed on the net, reveals their exact location.
+He also expressed concern that there were no password rules at all, meaning lots of people had selected passwords that were extremely easy to crack.
+"Because there were no rules, lots of people created bad passwords," he told the BBC.
+"I did an exercise and found it was really easy to create them. Lots of people were using the password Cloudpets because that's what people do."
+There appeared to be around 820,000 accounts visible.
+Both Mr Hunt and British security researcher Ken Munro said the toy showed similar vulnerabilities to the Cayla doll, an internet-connected toy that was found to be easily breached and could even be hacked to spy on its owners.
+German watchdog the Federal Network Agency (Bundesnetzagentur) has now advised parents who own a Cayla doll to destroy it.
+Like Cayla, there is no Pin number required to sync CloudPets with other devices, Ken Munro explained.
+"If you have a CloudPets bear, switch it off," he said.
+"It might be a good idea for people to try to delete their accounts - it's possible that the recorded data might go.
+"Try to remember what password you set for the account - and if you used it anywhere else, change it."

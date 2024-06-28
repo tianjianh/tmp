@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150605005005/http://www.bbc.com/news/technology-28707117
+
+[SN]TITLE[SN]
+Personal data stores found leaking online
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of Britons could be inadvertently sharing their digital secrets with anyone who knows where to click, suggests a BBC investigation.
+
+[SN]RESTBODY[SN]
+At risk are photographs, home videos and music collections as well as scans of documents such as passports, tax forms and other sources of personal data. In some cases, back-up files are being made available that, if downloaded and restored, could let attackers take over a victim's online life.
+Security firms suggest that attackers have already found out about this easy-to-access source of saleable data and are starting to actively seek it out and share it.
+Those at risk are people who use home data storage devices known as Network Attached Storage (NAS). Correctly configured, these devices act as a common data store accessible by any other device connecting to that home network.
+However, many people have set them up incorrectly and have accidentally made this data accessible not just to their home network but to the internet at large. Visiting this data is as easy as visiting any other webpage.
+To find out how many people are accidentally sharing their data online, the BBC turned to the Shodan search engine. While Google, Bing and others seek out data on the net, Shodan looks for devices.
+In the past, security researchers have used Shodan to expose insecure and poorly protected computers controlling industrial plants, power plants, heating and ventilation systems and CCTV streams.
+A search via Shodan turned up tens of thousands of NAS systems in UK homes.
+Working out which ones of these are sharing personal data is difficult because British computer misuse laws do not allow the BBC to visit them to see which are happy to share data with anyone.
+An idea of how many are exposed to the net can be gleaned by examining the information that Shodan collects about the NAS boxes. This gives a strong hint that many are making public huge amounts of private data.
+Independent corroboration of the BBC's findings has been given by security firm Digital Shadows. Among other things, the firm helps large businesses find out how much information about them is being shared online. As part of this work, Digital Shadows carries out surveys that seek places where internal data leaks out on to the net.
+Domestic NAS boxes are regular sources of these leaks, said James Chappell, chief technology officer at Digital Shadows.
+"We've seen tens of thousands that are available online," said Mr Chappell. "We've also definitely seen an increase in the number of devices in the last six months.
+"The most worrying part is that it's getting worse."
+Mr Chappell has no doubt that a lot of the data available via these NAS boxes is deeply personal.
+"For me, the most worrying part of this is that consumers are just trusting the device manufacturer to make smart choices about how they defend the security of their devices," he said. "They  need to be aware that the manufacturer may not be as diligent as they hope."
+Owners of NAS boxes should check to ensure that they are configured to surrender data only to devices within their home network, he said.
+The default state of many of the devices is to share widely, he said, and often owners have to make a specific choice to restrict access.
+There was evidence that attackers were starting to realise that home NAS boxes could be a good source of saleable data, said Mr Chappell.
+The net scans that Digital Shadows carried out regularly revealed links to domestic NAS boxes on the Google index, he said.
+"That means it will have to have been shared somewhere else to make it crop up on a search engine."
+That "somewhere else" could well be a place where cyberthieves gathered or swapped data, he said.
+Criminals were certainly starting to take more interest in home networking devices, said Craig Young, a researcher from Tripwire who has studied the security shortcomings of both NAS boxes and home routers.
+"It does seem like large-scale attacks on these devices are coming more frequently," said Mr Young.
+One such attack took place in February when Poland's Computer Emergency Response Team reported details of an attack on routers that installed snooping software on vulnerable devices. This software watched data traffic passing out of the device, grabbed any that related to online banking and passed it back to the gang behind the attack.
+Unfortunately, he said, the poor security on many routers meant that success was almost guaranteed for attackers that targeted home hardware.
+"Manufacturers could make them better but it would cost them development time and money," he said. "I have not seen any that do things like encrypt passwords and all are designed to use just rudimentary security controls."
+Mr Young helped to organise a competition at the recent Defcon hacker conference that tried to see how well widely used home routers withstood attacks. All nine routers used in the contest were comprehensively compromised and the event found a series of hitherto unknown vulnerabilities in the software used to control them.
+Similarly Jacob Holcomb from Independent Security Evaluators has found a large number of easy-to-exploit vulnerabilities in many popular NAS boxes. Many hand over data when hit by the most basic attacks, he said.
+Getting known faults on routers fixed could be frustrating, said Mr Young.
+"I've worked with several vendors and I'll report that there's an authentication bypass in Model X and after a bit of pushing I get that fixed on the model," he said.
+"However," he added, "they then don't fix the same bug on other devices, even if the change to the firmware is the same for all of them."
+Given this lackadaisical attitude, it was worth consumers taking a little time to protect themselves.
+"They tend to have very common flaws that people really need to be paying more attention to," he said. "Change the IP address, change the default password, upgrade the firmware once in a while.
+"It's really pretty straightforward," he said.

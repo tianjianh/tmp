@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150503034755/http://www.bbc.com/news/science-environment-32534763
+
+[SN]TITLE[SN]
+Step forward for quantum computing
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have made progress towards correcting the errors that are expected to affect quantum computing.
+
+[SN]RESTBODY[SN]
+Quantum computers could offer a massive performance boost over conventional types, but progress toward commercially useful machines has been slow.
+Now, scientists from IBM's Watson Research Center have successfully demonstrated a new method for correcting errors on a quantum circuit.
+Details are published in the journal Nature Communications.
+The basic units of information in classical computers are called "bits" and are stored as a string of 1s and 0s. But their equivalents in a quantum system - qubits - can be both 1s and 0s at the same time.
+In theory, this should give quantum machines much greater computational power than conventional types.
+But quantum information is fragile, and errors in calculations carried out in a quantum system can creep in through interference from factors such as heat, electromagnetic radiation and defects in materials.
+Controlling or removing such errors is one of the great challenges for harnessing the power of quantum computing.
+The IBM team was able to detect and measure two key types of quantum error (called bit-flip and phase-flip) that will occur in any real quantum computer.
+"Up until now, researchers have been able to detect bit-flip or phase-flip quantum errors, but never the two together," said co-author Jay Gambetta.
+The team demonstrated its error-protection protocols on a quantum circuit consisting of a square lattice of four superconducting qubits on a chip roughly one-quarter inch square.
+IBM claims the square shape of the circuit makes it more scalable than the linear arrays that have been used by other groups.
+Prof Alan Woodward, a computing expert from the University of Surrey, UK, said the work represented a step forward, but was a "significant evolution" rather than a "revolution".
+"We all know that error correction is very important in quantum computing because of the inherent errors that are caused by the way qubits tend to operate, but this isn't the first time it's been addressed," he told BBC News.
+For example, an American team of physicists published a separate protocol for quantum-error detection just last month.
+But Prof Woodward said: "What we're seeing is the move from the drawing board to actual implementation.
+"This is the first time we have seen groups actually implementing real hardware which is then proven experimentally to have significant error correction properties."
+"Which architecture, if any, actually wins out remains to be seen. Each has pros and cons but at the moment there isn't really an obvious winner."
+But he said the "dark horse in the race" was topological quantum computing, an architecture that is intrinsically more fault-tolerant. A team at the University of California, Santa Barbara, has been working on this method, and is being backed in its efforts by Microsoft.
+Follow Paul on Twitter.

@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160316090157/http://www.bbc.co.uk/news/technology-26049448
+
+[SN]TITLE[SN]
+Snowden leaks: GCHQ 'attacked Anonymous' hackers
+
+[SN]FIRST-SENTENCE[SN]
+GCHQ disrupted "hacktivist" communications by using one of their own techniques against them, according to the latest Edward Snowden leaks.
+
+[SN]RESTBODY[SN]
+Documents from the whistle-blower published by NBC indicate UK cyberspies used a denial of service attack (DoS) in 2011 to force a chatroom used by the Anonymous collective offline.
+A spokeswoman for GCHQ said all the agency's activities were authorised and subject to rigorous oversight.
+But others say it raises concerns.
+Dr Steven Murdoch, a security researcher at the University of Cambridge, said using a DoS attack to overwhelm a computer server with traffic would have risked disrupting other services.
+The UK government's communications-focused intelligence agency, employing about 5,000 people.
+It stands for Government Communications Headquarters.
+The agency is based in Cheltenham, Gloucestershire, and also operates two smaller sites in Cornwall and North Yorkshire.
+Its two key roles are:
+The foreign secretary is answerable in Parliament for GCHQ's work.
+"It's quite possible that the server was used for other purposes which would have been entirely unrelated to Anonymous," he said.
+"It's also likely that most of the chat that was going on about Anonymous was not to do with hacking because the people who join Anonymous are fairly wide-ranging in what they think it is legitimate to do.
+"Some have gone into criminality but many others just go out and organise protests, letter-writing campaigns and other things that are not criminal."
+Campaign group Privacy International is also worried.
+"There is no legislation that clearly authorises GCHQ to conduct cyber-attacks," said head of research Eric King.
+"So, in the absence of any democratic mechanisms, it appears GCHQ has granted itself the power to carry out the very same offensive attacks politicians have criticised other states for conducting."
+The UK government's Cyber Security Strategy document, published in 2011, says officials should take "proactive measures to disrupt threats to our information security", but also notes that any such action should be consistent with freedom of expression and privacy rights.
+The latest documents are published alongside an article part-written by Glenn Greenwald.
+The journalist is one of only two people reported to have access to all whistle-blower Edward Snowden's leaked documents.
+The article highlights that the Joint Threat Research Intelligence Group (JTRIG) is the division identified as being responsible for the DoS attack  - a unit whose existence had not previously been publicly disclosed.
+The documents indicate the unit also spied on and communicated with chatroom users to identify hackers who had stolen information.
+In one case, agents are said to have tricked a hacker nicknamed P0ke who claimed to have stolen data from the US government. They did this by sending him a link to a BBC article entitled: "Who loves the hacktivists?"
+"Sexy," P0ke is alleged to have commented.
+But when he clicked the link it is reported that JTRIG was able to bypass measures he had taken to hide his identity, although it is not clear how.
+NBC reports that P0ke - a Scandinavian college student - was never arrested despite GCHQ learning his true name.
+But the leaks indicate others were imprisoned as a result of JTRIG operations.
+One paper highlights the case of Edward Pearson - a hacker known as GZero - who was sentenced to two years in jail in 2012 for illegally acquiring credit and debit card details registered with PayPal.
+A transcript of a chatroom conversation indicates that Pearson had contacted GCHQ agents claiming he knew a hacktivist they were investigating, unaware of the agents' true identity.
+In addition to Anonymous, the documents list LulzSec, the A-Team and the Syrian Cyber Army as hacktivist groups GCHQ was concerned about.
+In one case it appears simply warning activists that carrying out their own DoS attacks was illegal had the desired effect.
+NBC reports that the notice was posted via Facebook, Twitter, email, instant messenger and Skype.
+One alleged GCHQ document states that one month later 80% of those contacted had stopped using a hacktivist chatroom.
+But the documents also indicate that GCHQ was willing to use DoS attacks itself as part of an operation codenamed Rolling Thunder, which prevented hacktivists using a chatroom for 30 hours in September 2011.
+GCHQ has a longstanding policy of not commenting on specific intelligence-gathering procedures, but a spokeswoman said all its work was "carried out in accordance with a strict legal and policy framework".
+Even so, one cybersecurity expert said he had mixed feelings about the latest leaks.
+"We have to remember that cyberspooks within GCHQ are equally, if not more, skilled than many black-hat hackers, and the tools and techniques they are going to use to fight cybercrime are surely going to be similar to that of the bad guys," said Andrew Miller, chief operating officer at Corero Network.
+"Legally, we enter a very grey area here; where members of Lulzsec were arrested and incarcerated for carrying out DoS attacks, but it seems that JTRIG are taking the same approach with impunity."

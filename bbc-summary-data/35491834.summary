@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170322113123/http://www.bbc.com/news/technology-35491834
+
+[SN]TITLE[SN]
+Auction site eBay 'fixes' bug but only partially
+
+[SN]FIRST-SENTENCE[SN]
+EBay says it has partially fixed a vulnerability on its online auction site that could have allowed hackers to trick users into downloading malware.
+
+[SN]RESTBODY[SN]
+In December, a security company told eBay it had found a flaw in its active content, which allows store owners to offer users pop-ups and other content.
+But, Check Point said, on 16 January eBay had replied it "had no plans to fix the vulnerability".
+Now, eBay has told the BBC it has "implemented various security filters based on" Check Point's findings.
+"While not fully patched, given that we allow active content on our marketplace, it's important to understand that malicious content on our marketplace is extraordinarily uncommon, which we estimate to be less than two listings per million that use active content on the eBay marketplace," it said.
+EBay added it took security "very seriously" but "we have not found any fraudulent activity stemming from this incident."
+The vulnerability meant any attacker could set up a store and insert the malicious code.
+Check Point research manager Oded Vanunu said: "This vulnerability allows attackers to bypass eBay's code validation and control the vulnerable code remotely to execute malicious Java script on targeted eBay users.
+"If this flaw is left unpatched, eBay's customers will continue to be exposed to potential phishing attacks and data theft."
+Large corporations are increasingly being warned about vulnerabilities on their websites.
+Last week, the BBC reported a bug spotted by security researcher Paul Moore in the Asda website had remained live for two years.
+Following the report, the retailer acted to fix the issue.
+"Sadly many firms turn a blind eye to security problems on their websites until the media get a whiff that something bad is going on," said security expert Graham Cluley.
+"I don't think it is necessarily the case that websites are more bug-ridden than ever before, but rather that more and more vulnerability researchers are hunting for flaws on popular websites, and knowledge regarding bad practices and sloppy security is growing in the tech community," he added.

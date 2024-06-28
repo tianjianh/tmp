@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160628201452/http://www.bbc.co.uk/news/technology-36639981
+
+[SN]TITLE[SN]
+US Healthcare records offered for sale online
+
+[SN]FIRST-SENTENCE[SN]
+Three US healthcare organisations are reportedly being held to ransom by a hacker who stole data on hundreds of thousands of patients.
+
+[SN]RESTBODY[SN]
+The hacker has also put the 650,000 records up for sale on dark web markets where stolen data is traded.
+Prices for the different databases range from $100,000 (Â£75,000) to $411,000.
+Buyers have already been found for some of the stolen data, the hacker behind the theft told news site Motherboard.
+No information about the size of the ransom payment sought by the data thief has emerged, although he did say it was "a modest amount compared to the damage that will be caused to the organisations when I decide to publicly leak the victims".
+The organisations that data was stolen from are known to be based in Missouri, Georgia and the midwest. The attacker told Motherboard that he would not name the organisations, to give them a chance to pay up.
+The news site said it had checked 30 records on patients from Georgia and in most cases the information listed was confirmed by the people it reached.
+Data in the files includes names, addresses and phone numbers as well as social security numbers, insurance information and detailed medical histories.
+The information is believed to have been stolen via a vulnerability in software that uses a technology known as the remote desktop protocol (RDP) - many firms use this to let staff log in from home or to let support workers fix IT problems from afar.
+Poorly configured RDP systems let the attacker get access to the networks of the healthcare groups, and then he searched within those networks for saleable information.
+Security expert Graham Cluley said it had become a "sad truth" that attackers were no longer just interested in credit card data. Instead, he said, they were after as much information about people's lives as they could get.
+"With that information, the hackers could take out credit, open bank accounts, make bogus insurance claims or simply sell the valuable data on to other criminals to monetise as they wish," he said.
+"2016 is proving to be the year of online extortion," he said. "We're likely to see more and more attacks like this."

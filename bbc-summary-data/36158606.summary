@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160428230324/http://www.bbc.co.uk/news/technology-36158606
+
+[SN]TITLE[SN]
+German nuclear plant hit by computer viruses
+
+[SN]FIRST-SENTENCE[SN]
+Computer viruses have infected PCs used at a German nuclear power plant.
+
+[SN]RESTBODY[SN]
+The viruses were found on office computers and in a system used to model the movement of nuclear fuel rods.
+Power firm RWE said the infection posed no threat to the plant because its control systems were not linked to the internet, so the viruses could not activate.
+German federal cyber investigators are now analysing how the  Gundremmingen plant became infected.
+The viruses were found on the fuel rod modelling system and on 18 USB sticks used as removable data stores on office computers.
+Staff found the viruses as they prepared to upgrade the computerised control systems for the plant's Block B, which is currently not producing power while it undergoes scheduled maintenance.
+More than 1,000 computers have now been checked for infection and cleaned up, an RWE spokesman told newspaper Die Zeit. The plant has also improved its security controls.
+No system directly involved with the control of the nuclear reactors was infected, RWE said, and there was no danger to the public as a result of the infection.
+"All sensitive plant areas are decoupled and designed with redundancy and protected against manipulation," added RWE in a statement.
+Among the viruses were two well-known malicious programs - W32.Ramnit and Conficker.
+Ramnit debuted in 2010 and is a remote access tool that its creators use to steal data. Conficker dates from 2008 and aims to grab login names and financial data.
+Because the infected systems were isolated from the net, neither Ramnit nor Conficker were able to activate, update and steal data, said RWE.
+Mikko Hypponen, chief research officer at F-Secure, said power plants and other chunks of a nation's critical infrastructure were often infected by viruses but such compromises did little damage.
+"The most common viruses spread without much awareness of where they are," he told Reuters.
+Gundremmingen is about 120km (75m) northwest of Munich and the plant is Gemany's highest output power station.

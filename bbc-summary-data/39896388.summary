@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170725130932/http://www.bbc.com/news/technology-39896388
+
+[SN]TITLE[SN]
+Staging security at the National Theatre
+
+[SN]FIRST-SENTENCE[SN]
+Step through the stage door of the National Theatre on London's South Bank and you will find yourself in a corridor with a bright yellow floor.
+
+[SN]RESTBODY[SN]
+"We call it the 'yellow brick road'," said George Tunnicliffe, the theatre's head of IT operations, who could be considered the wizard at the heart of this venerable institution.
+But Mr Tunnicliffe has little else in common with the man behind the curtains in Oz, who was all show and no substance. He leaves the showboating to the actors, producers, directors, stage hands and support staff who put on about 30 different productions a year.
+"We want those guys to work without having to think about cyber-security and things like that, their job is to put on an awesome production," he said during a backstage tour of the theatre.
+Mr Tunnicliffe organises its defences against not only the kind of cyber-attacks faced by other companies, but theatre-specific ones like touts trying to grab tickets to popular shows.
+"We do see a lot of attacks and they are getting more sophisticated," he said.
+At the heart of the security stance is a much greater knowledge of who is doing what on the theatre's network - no matter where they are.
+"We've spent a lot of time understanding how everyone works," he said. "We have a monitoring board in the IT office so we can see minute-by-minute what's going on and where issues are happening."
+That's key, he said, because it can expose ongoing attacks and the reconnaissance many hackers carry out before they strike.
+"Every device has information on it that could be useful to an attacker," said Mr Tunnicliffe.
+"With drive-by and phishing attacks that's what people are looking to do - build up a picture of an organisation," he said. "Especially with something like whaling and the social engineering element of that."
+Whaling is a very tightly-focused form of phishing which plays on a close knowledge of an organisation's internal structure to forge emails from executives that make finance staff speed up the payment of a fictitious invoice or bill.
+Millions of pounds has been lost by organisations that have fallen victim to that kind of scam.
+The monitoring board helps spot when data is going astray or a machine is visiting a site with a reputation for being involved in a scam.
+Complementing this is work to segment internal systems so staff working for different bits of the theatre only see a small part of the whole organisation.
+That helps with some of the unique challenges faced by an organisation like the theatre which, although it has its headquarters in London, has a mandated role to bring art and drama to as wide an audience as possible.
+It has units staging productions around the UK and the world - War Horse is currently on tour in China. It also runs workshops for schools and, via its Connections programme, lets drama groups for younger people enjoy a taste of professional theatre.
+During an average year it stages 3,000 performances seen by a total audience of about 2.5 million people - 700,000 of whom see them live.
+Productions work to a six-week rehearsal and staging schedule which means there is a constant flow of temporary staff through the building.
+"Organisations that do have a high turnover of staff usually have a high risk of insider threat," said Neil Thacker from security firm Forcepoint, which helps the theatre secure its digital borders. "That can be because they are learning new systems and making mistakes and data is lost accidentally."
+The strict divisions among staff who work together limits the information that could be leaked and helps investigate what caused data to go astray, said Mr Thacker. That can be critical to help understand the nature of a threat - whether it was malicious or a mistake.
+"We know where data is and then, if it leaves, we know where it has gone," said Mr Tunnicliffe.
+Alongside this goes an active programme of testing that tries to prepare staff for the bad day when disaster strikes. It is inevitable that it will, he said, because no defence is ever going to be 100% proof against the barrage of threats it, and every other organisation, is hit with every day.
+"We have spent a lot of time creating disaster recovery scenarios," he said. "We've practiced viruses taking down the network, ransomware outbreaks and things like that."
+Carrying out the drills means that staff should be able to react more quickly and effectively when they need to, said Mr Tunnicliffe.
+"We repeat these scenarios and test them at different points in time," he said.
+For many of the most likely security disasters, the NT has created tools that can quickly fix a problem, such as a till in a restaurant failing, or that can diagnose and repair a key part of the theatre's infrastructure.
+"We've built push button stuff so the engineers do not have to think about what to do when they need to solve a problem," he said. "We have a good sense of where our kit is and what it is linked to, so if something happens we know what is going to be affected."
+The ideal is when the directors, actors and support staff can get on with what they do without having to be an expert on the intricacies of cyber-security or changing practices distilled over decades.
+It is a situation the National Theatre is steadily working towards, said Mr Tunnicliffe.
+"They are here to do the art and I am here to make it safe," he said.
+This week BBC News is taking a close look at all aspects of cyber-security. The coverage is timed to coincide with the two biggest shows in the security calendar - Black Hat and Def Con.
+We will have further features and videos on Wednesday, and then coverage from the two Las Vegas-based events over the following days.
+Follow all our coverage via this link

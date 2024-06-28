@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170705015406/http://www.bbc.co.uk/news/technology-22795074
+
+[SN]TITLE[SN]
+FBI and Microsoft take down $500m-theft botnet Citadel
+
+[SN]FIRST-SENTENCE[SN]
+The FBI and Microsoft have broken up a huge network of hijacked home computers responsible for stealing more than $500m (Â£323m) from bank accounts.
+
+[SN]RESTBODY[SN]
+The Citadel network had remotely installed a keylogging program on about five million machines to steal data.
+About 1,000 of the 1,400 or so networks that made up the Citadel botnet are believed to have been shut down.
+Co-ordinated action in 80 countries by police forces, tech firms and banking bodies helped to disrupt the network.
+"The bad guys will feel the punch in the gut," Richard Boscovich, a spokesman for Microsoft's digital crimes unit said.
+The cybercriminals behind Citadel cashed in by using login and password details for online bank accounts stolen from compromised computers.
+This method was used to steal cash from a huge number of banks including American Express, Bank of America, PayPal, HSBC, Royal Bank of Canada and Wells Fargo.
+Citadel emerged after core computer code for a widely used cybercrime kit, called Zeus, was released online.
+Underground coders banded together to turn that code into a separate cybercrime toolkit that quickly proved popular with many malicious hackers.
+In a blogpost detailing its action, Microsoft said Citadel had also grown because malicious code that could take over a PC had been bundled in with pirated versions of Windows.
+The millions of PCs in the criminal network were spread around the globe, but were most heavily concentrated in North America, Western Europe, Hong Kong, India and Australia.
+Despite the widespread action, which involved seizures of servers that co-ordinated the running of Citadel, the identity of the botnet's main controller is unknown.
+However, Microsoft has started a "John Doe" lawsuit against the anonymous controller, believing him to use the nickname Aquabox and be based in Eastern Europe.
+In addition, the FBI is working with Europol and police forces in many other countries to track down and identify the 81 "lieutenants" that helped Aquabox keep Citadel running.
+Microsoft has also started action to help people clean up an infected computer.
+Typically, it said, machines compromised by Citadel were blocked from getting security updates to ensure those computers stayed part of the botnet.
+With the network disrupted, machines should be free to get updates and purge the Citadel malware from their system.

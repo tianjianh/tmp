@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151224230408/http://www.bbc.co.uk/news/technology-30505970
+
+[SN]TITLE[SN]
+Google considers warning internet users about data risks
+
+[SN]FIRST-SENTENCE[SN]
+Google is proposing to warn people their data is at risk every time they visit websites that do not use the "HTTPS" system.
+
+[SN]RESTBODY[SN]
+Many sites have adopted the secure version of the basic web protocol to help safeguard data.
+The proposal was made by the Google developers working on the search firm's Chrome browser.
+Security experts broadly welcomed the proposal but said it could cause confusion initially.
+The proposal to mark HTTP connections as non-secure was made in a message posted to the Chrome development website by Google engineers working on the firm's browser.
+If implemented, the developers wrote, the change would mean that a warning would pop-up when people visited a site that used only HTTP to notify them that such a connection "provides no data security".
+The team said it was odd that browsers currently did nothing to warn people when their data was unprotected.
+"The only situation in which web browsers are guaranteed not to warn users is precisely when there is no chance of security," they wrote.
+HTTPS uses well-established cryptographic systems to scramble data as it travels from a user's computer to a website and back again.
+The team said warnings were needed because it was known that cyber thieves and government agencies were abusing insecure connections to steal data or spy on people.
+Rik Ferguson, a senior analyst at security firm Trend Micro, said warning people when they were using an insecure connection was "a good idea".
+"People seem to make the assumption that communications such as HTTP and email are private to a degree when exactly the opposite is the case," he said.
+Letting people know when their connection to a website is insecure could drive sites to adopt more secure protocols, he said.
+Currently only about 33% of websites use HTTPS, according to statistics gathered by the Trustworthy Internet Movement which monitors the way sites use more secure browsing technologies.
+Paul Mutton, a security analyst at web monitoring firm Netcraft, also welcomed the proposal, saying it was "bizarre" that an unencrypted HTTP connection gave rise to no warnings at all.
+"In the short term, the biggest headache is likely to be faced by website operators who will feel forced to migrate unencrypted HTTP websites to encrypted HTTPS," he said. Many may resent the cost in time and money required to adopt the technology, he said, even though projects exist to make it easier and free for website administrators to use HTTPS.
+"It will seem like a lot of hassle in the short term, but it will be a good thing for the whole web in the long run," he said.
+The Google proposal was also floated on discussion boards for other browsers and received guarded support from the Mozilla team behind the Firefox browser and those involved with Opera.
+Many large websites and services, including Twitter, Yahoo, Facebook and GMail, already use HTTPS by default. In addition, since September Google has prioritised HTTPS sites in its search rankings.

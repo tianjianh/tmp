@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170716141003/http://www.bbc.co.uk/news/technology-35427685
+
+[SN]TITLE[SN]
+Java browser plug-in to be retired, says Oracle
+
+[SN]FIRST-SENTENCE[SN]
+The technology company Oracle is retiring its Java browser plug-in.
+
+[SN]RESTBODY[SN]
+The software is widely used to write programs that run in web browsers. But Oracle said modern browsers were increasingly incompatible with it.
+Oracle said it would begin winding the plug-in down with the release of its latest development kit software but its demise would not be immediate.
+Java has been criticised by many online security experts, who have said it is vulnerable to hackers.
+"By late 2015, many browser vendors have either removed or announced timelines for the removal of standards based plug-in support, eliminating the ability to embed Flash, Silverlight, Java and other plug-in based technologies," Oracle said, announcing the decision on Wednesday.
+"With modern browser vendors working to restrict and reduce plug-in support in their products, developers of applications that rely on the Java browser plug-in need to consider alternative options such as migrating from Java Applets (which rely on a browser plug-in) to the plug-in free Java Web Start technology."
+"Oracle plans to deprecate the Java browser plug-in" in the next release of its Java Development Kit, JDK 9, it said. The technology would be removed from future software releases, it added.
+"By 'deprecate', Oracle doesn't mean that the Java plug-in will be killed stone dead. Instead they will increasingly hide it, and not encourage users to install it. In due course, the software will be entirely removed," said the security consultant Graham Cluley.
+In a blog post for online security company Tripwire, Mr Cluley said: "Of course, Oracle isn't dropping support for Java entirely - but with the demise of the unpopular web browser plug-in, it hopes users will be happy to switch over to its replacement."
+He said that, while the number of reported problems had fallen in recent years, Java remained notorious for its vulnerabilities.
+"Many users have found it hard to muster... love for the technology," he said.
+"And yet, the Java browser plug-in has plodded on, shrugging off the brickbats and abuse, and doggedly providing support for the odd, ageing website and bespoke applications relied upon by corporations."
+Mr Cluley said browser manufacturers were making the Java plug-in irrelevant.
+He added: "Oracle isn't the only company having to recognise that the world is changing. Adobe, developers of the often-attacked Flash plug-in, recently made clear that it was moving away from the platform to an HTML5-based future."

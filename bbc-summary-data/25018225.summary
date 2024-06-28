@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170110213504/http://www.bbc.com/news/technology-25018225
+
+[SN]TITLE[SN]
+LG investigates Smart TV 'unauthorised spying' claim
+
+[SN]FIRST-SENTENCE[SN]
+LG is investigating allegations that some of its TVs send details about their owners' viewing habits back to the manufacturer even if the users have activated a privacy setting.
+
+[SN]RESTBODY[SN]
+It follows a blog by a UK-based IT consultant who detailed how his Smart TV was sending data about which channels were being watched.
+His investigation also indicated that the TVs uploaded information about the contents of devices attached to the TV.
+It could mean LG has broken the law.
+The Information Commissioner's Office told the BBC it was looking into the issue.
+"We have recently been made aware of a possible data breach which may involve LG Smart TVs," said a spokesman.
+"We will be making enquiries into the circumstances of the alleged breach of the Data Protection Act before deciding what action, if any, needs to be taken."
+When the consultant - Hull-based Jason Huntley - contacted the South Korean company he was told that by using the TV he had accepted LG's terms and conditions, and that any remaining concerns should be directed to the retailer who had sold him the screen.
+But when the BBC contacted LG, it indicated it was looking into the complaint.
+"Customer privacy is a top priority at LG Electronics and as such, we take this issue very seriously," said a spokesman.
+"We are looking into reports that certain viewing information on LG Smart TVs was shared without consent.
+"LG offers many unique Smart TV models which differ in features and functions from one market to another, so we ask for your patience and understanding as we look into this matter."
+Mr Huntley said he had first come across the issue in October when he had begun researching how his Smart TV had been able to show his family tailored adverts on its user interface.
+Digging into the TV's menu system, he had noticed that an option called "collection of watching info" had been switched on by default, he said.
+After switching it off, he had been surprised to find evidence that unencrypted details about each channel change had still been transmitted to LG's computer servers, but this time a flag in the data had been changed from "1" to "0" to indicate the user had opted out.
+"That's a terrible implementation of the idea," Mr Huntley told the BBC.
+"It still sends the traffic but labels it saying I didn't want it to be sent.
+"It's actually worse, I think, than if they'd not offered the opt-out in the first place since it allows the user to believe nothing is being sent."
+He had then attached an external hard drive to the TV's USB slot, expecting that the screen might simply report that he had been watching material from an external device, he said.
+Instead he had found the name of each media file stored on the drive - including photos labelled with his children's names -  had been sent back to LG.
+He had confirmed this had been the case by creating a mock video clip that he had named "midget porn", which had then showed up in unencrypted traffic sent back to LG, he said.
+Mr Huntley suggested that even if LG had never inspected the data, it could still pose a security risk as hackers could take advantage of the practice.
+"I can't prove that this was being actively logged by LG, but nevertheless it was being transmitted in the clear across the internet's backbone to wherever the servers are located," he said.
+A spokesman for LG said the company intended to comment further "shortly".

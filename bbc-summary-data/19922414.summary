@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170609125755/http://www.bbc.com/news/technology-19922414
+
+[SN]TITLE[SN]
+Restoration award for love letter writer
+
+[SN]FIRST-SENTENCE[SN]
+An art project that helps an ageing computer write love letters has won an award for the best computer conservation project.
+
+[SN]RESTBODY[SN]
+The LoveLetters project recreated a program that allowed the 1951 Ferranti Mark I to compose amorous notes.
+LoveLetters creator Dr David Link received the inaugural Tony Sale award for his conservation work.
+The award was created in memory of Tony Sale, who led UK computer conservation efforts until his death in 2011.
+"I'm extremely moved to step into the footsteps of a colossus such as Tony Sale," said Dr Link after receiving his award.
+Tony Sale was the brilliant engineer who rebuilt the Colossus computer, established The National Museum of Computing at Bletchley Park and founded the Computer Conservation Society.
+The original LoveLetters program was written by pioneering software engineer Christopher Strachey in the early 1950s. Mr Strachey, along with Alan Turing, was one of the first to write software for the Manchester Mark I - one of the first stored-program computers.
+Jewel Darling, you are my covetous infatuation. My lovely infatuation. You are my precious sympathy. My precious desire impatiently adores your fancy. You are my avid fancy.
+The Ferranti Mark I was based on the Manchester machine and was the first commercially available general purpose computer.
+Typically the machine was used to perform complex mathematics but Mr Strachey put it to more whimsical use by writing a program that generated texts that were intended to arouse emotion. It composed the letters by following grammatical rules and using words randomly plucked from a small lexicon.
+Dr Link said recreating Strachey's program was a formidable task because modern programming techniques are so different to those done in the early days of the computer industry. The notations used to illustrate written records of the software's code were very hard to decipher, said Dr Link.
+"At times," he said, "it seemed almost impossible to remotely understand how the program worked."
+Jewel moppet. You are my loving rapture. My heart breathlessly adores your desire. You are my beautiful adoration. My precious charm. My sympathy impatiently tempts your yearning.
+Dr Link wrote an emulator that mimicked the operation of the Ferranti machine to test his recreation of the LoveLetters code. Unfortunately it did not run because a key part of the program, that printed the Love Letters, was missing.
+As there was no trace of this in the original records Mr Strachey kept of his work, Dr Link wrote a new chunk of code to print the letters and get the program running. Soon after, the original turned up and proved to be utterly different to the one Dr Link wrote.
+The final stage of the project was the building of a console that resembled the control panel of the original Ferranti. This console running the LoveLetters code was turned into an art installation so gallery visitors can get it to compose letters on their behalf.

@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170427225740/http://www.bbc.co.uk/news/technology-39563965
+
+[SN]TITLE[SN]
+Microsoft patches serious Word bug 'targeted by scammers'
+
+[SN]FIRST-SENTENCE[SN]
+A bug in Word apparently targeted by scammers trying to steal banking logins will be patched, Microsoft has said.
+
+[SN]RESTBODY[SN]
+The previously undetected, or "zero-day", vulnerability had been reported over the weekend.
+Then, on 10 April, cybersecurity firm Proofpoint announced it had discovered an email campaign targeting the bug that aimed to distributed Dridex malware.
+Dridex is designed to infect a victim's computer and snoop on banking logins.
+In 2015, it was cited as the means by which cyber-attackers stole more than Â£20m from British bank accounts.
+The flaw discovered in many versions of Microsoft Word for Windows could allow malicious software, including Dridex, to be installed, according to cybersecurity researchers.
+Microsoft did not confirm whether Mac versions of Word were also affected.
+A scam email campaign was found to be distributing Microsoft Word RTF [Rich Text Format] documents to recipients that contained Dridex.
+"During our testing (for example on Office 2010) the vulnerable system was fully exploited," wrote Proofpoint researchers in a blog.
+"We plan to address this through an update on Tuesday April 11, and customers who have updates enabled will be protected automatically," said a Microsoft spokesman.
+"Meanwhile we encourage customers to practise safe computing habits online, including exercising caution before opening unknown files and not downloading content from untrusted sources to avoid this type of issue."
+Proofpoint also urged Microsoft Word users to install the security updates quickly.
+"Because of the widespread effectiveness and rapid weaponisation of this exploit, it is critical that users and organisations apply the patch as soon as it becomes available," the firm said.

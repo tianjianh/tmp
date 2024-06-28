@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160821044059/http://www.bbc.co.uk/news/business-36854285
+
+[SN]TITLE[SN]
+Social Media: A hunting ground for cybercriminals
+
+[SN]FIRST-SENTENCE[SN]
+Do you ever hesitate to click on a post shared by a friend on Facebook? Not because it's a boring picture of their dinner, but because you're suspicious it might not actually have been posted by them?
+
+[SN]RESTBODY[SN]
+The interconnectivity of social media means it is a perfect hunting ground for illegal activity, and increasingly people are realising that their "friend" many not actually be their friend.
+Cybercrime on social networks can be broken down into three categories:
+The first category is the most widespread.
+"The problem with social media is that people have an inherent trust," explains Mark James, security specialist with IT security firm ESET. "And that is what is being tapped into by those cybercriminals."
+"People still believe that you have to click on something and download a file to be infected," he says.
+"This really isn't the case anymore. There are things like drive-by-downloads, infected adverts and things like that. It's very easy to be compromised on your machines."
+In many cases the initial malware is just a gateway into the system. It doesn't do any real harm, yet. But once a back door is established to the infected computer, that access may then be put up for sale.
+A package of data offering, of access to thousands of infected computers, will be snapped up by another criminal for use in a variety of ways.
+With access to the computers received, criminals may then install software which, say, hijacks the victim's online banking, or reads usernames and passwords.
+One of the most profitable scams is installing ransomware, malicious software that encrypts the data on a victim's computer and then asks for payment before restoring the system to its original state.
+Social media is also an ideal hunting ground for anyone who has a clear target to attack, be it an individual or a company.
+If you want to see who works in which company and in which position, or who they are friends with professionally and privately, this information can often be easily picked up on social media.
+Any attack on a specific individual will be much easier if the target has made a lot of private information publicly available on their profiles.
+If the target is a corporation, it is easy to single out an individual or a group of employees, and then target their machines in a focused attack. And once one machine in a network is affected, getting access to the entire structure is not difficult.
+"There's such a big crossover between your personal social media accounts and the impact you can cause within a corporate environment," warns Michael Sentonas, vice president of technology strategy at cybersecurity firm Crowdstrike.
+"Most organisations allow their users to connect to Facebook, to Instagram, to Twitter and other platforms and that's where an attack - even if it was targeted at a home user - can have a significant impact on the workplace."
+"Our only effective protection is a multilayered approach," Mr James of ESET explains. "There's no single protection anymore, there's no magic bullet or single piece of software that's going to protect us."
+While security software is important, it's only a first step. It is a cat and mouse game where the bad guys produce the malware and the good guys try to produce the means to stop it.
+Traditional anti-virus software is "signature-based", comparing whatever it encounters to a database of signatures. If it's a match, it's a virus. But that means the "good guys" are always one step behind the attackers.
+"From a business perspective, my advice is to challenge that normal thinking and look for technologies that rely less on signatures but rather on technologies like machine learning, that look for patterns of behaviour in order to detect an attack," advises Mr Sentonas.
+Such software looks for suspect behaviour. Any suspicious event will be treated as potential threat, even if there's no matching signature.
+It's an approach that security experts hope will put them one step ahead of the attackers.
+Mr James says: "In a corporate structure, it's important to make people understand that they themselves are an important part of the security structure.
+"We are not going to stop the end user from clicking on a video or following a particular link. But if we can protect them for 80-90% of what they do, then hopefully with their education and common sense, we'll get that to a 98-99% success rate," he says.
+Social media, though, is not just an arena where criminals can steal information. It is also used for trading compromised data.
+"Anybody is just two clicks away from finding compromised financial data in social media," says Gabriel Guzman, head of cyber intelligence at RSA, the security division of tech firm EMC.
+"Information is easily accessible - and a massive amount of criminals are in fact doing this out of their own real profiles."
+On Facebook, for example, a quick search for certain credit card details will within minutes take you to people offering stolen information.
+Social networks provide the perfect infrastructure to contact like-minded individuals, say experts. "Most social networks have no identity verification process and policing them is very hard," explains Bryce Boland, chief technology officer for Asia Pacific of FireEye.
+Setting up a fake profile to avoid detection takes a matter of minutes, and social media sites have the inherent interest in keeping access simple. After all, they want to attract as many users as possible.
+Most social networks try to be rigorously vigilant against such activity.
+But the inherently open nature of these sites means that the battle between disclosure and security may be only just beginning.
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

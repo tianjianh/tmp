@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112164708/http://www.bbc.com/news/technology-17076670
+
+[SN]TITLE[SN]
+Google cookies 'bypassed Safari privacy protection'
+
+[SN]FIRST-SENTENCE[SN]
+Google has been accused of bypassing the privacy settings of users of the Safari web-browser.
+
+[SN]RESTBODY[SN]
+The Wall Street Journal said Google and other companies had worked around privacy settings designed to restrict cookies.
+Cookies are small text files stored by browsers which can record information about online activity, and help some online services work.
+However Google says the story "mischaracterises" what happened.
+Advertisers can use cookies to track online behaviour, helping them to target the commercials they show to internet users.
+Some think this use of cookies erodes online privacy. In May, European Union laws are due to come into force which will restrict the use of advertising cookies.
+But cookies are also essential to some web services like those Google offers.
+The Safari browser is produced by Apple, and is the browser used by the iPhone.
+By default Safari only allows cookies to be stored by the web page a user is visiting, not from third parties such as advertisers.
+However, Stanford University researcher Jonathan Mayer found that advertisers were still able to store cookies on the computers of internet users browsing with Safari.
+It was his discovery that formed the basis of the Wall Street Journal's story.
+Many Google services use cookies, for example to remember when someone is signed in to a service, but they are also used by the firm to help personalise advertising.
+It was when Google attempted to find a way to enable some of its services and personalised advertising to work on Safari  that, Google says, it inadvertently stored cookies.
+In a statement, senior vice president Rachel Whetstone said that last year the company had decided to "enable features for signed-in Google users on Safari who had opted to see personalised ads and other content".
+She added: "To enable these features, we created a temporary communication link between Safari browsers and Google's servers, so that we could ascertain whether Safari users were also signed into Google, and had opted for this type of personalisation."
+Ms Whetsone said the company had created new systems to make sure the information it collected was anonymous, but this had led to unintended consequences:
+"The Safari browser contained functionality that then enabled other Google advertising cookies to be set on the browser.
+"We didn't anticipate that this would happen, and we have now started removing these advertising cookies from Safari browsers.  It's important to stress that, just as on other browsers, these advertising cookies do not collect personal information."
+The Wall Street Journal reported that Google "disabled the code after being contacted by the paper".
+Google declined to provide further comment to the BBC.
+Online privacy advocates were highly critical of Google's actions.
+The Electronic Frontier Foundation wrote: "It's time for Google to acknowledge that it can do a better job of respecting the privacy of web users."
+Although much of the criticism has been directed at the search giant, the Wall Street Journal said that in addition to Google, a number of advertising companies had been using the work-around which had been known about for some time.
+An Apple spokesman said in a statement: "We are aware that some third parties are circumventing Safari's privacy features and we are working to put a stop to it."

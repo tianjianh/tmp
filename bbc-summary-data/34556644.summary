@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151017035622/http://www.bbc.com/news/technology-34556644
+
+[SN]TITLE[SN]
+Target stores attacked by pornographic pranksters
+
+[SN]FIRST-SENTENCE[SN]
+Gina Young was shopping at US superstore Target on Thursday morning - when she and the other shoppers suddenly heard a surprising announcement over the loudspeaker.
+
+[SN]RESTBODY[SN]
+Explicit audio from a pornographic film was blasted out for all to hear. And it kept playing. And playing. For 15 minutes.
+Young, who was shopping with her three-year-old twin boys, uploaded the clip to Facebook. (Obvious warning: it has rude audio.)
+"People were up in arms," she wrote. "Some people threw their things down and walked out. Others were yelling at employees."
+As pranks go, it's fairly low-grade. But Target has a problem. Staff at the store in Campbell, a small city just south of San Jose, were all but powerless to stop it due to how the PA system is designed.
+And it's not an isolated incident. According to local media, it's at least the fourth time this prank has happened since April. In one instance, a store had to be evacuated.
+So what's going on? Are mischievous staff causing trouble? Have Target's systems been hacked?
+Well not quite - but the cause is interesting, and yet another example of how systems are left with vulnerabilities by creators who never imagined people might have malicious intent.
+An email obtained by the BBC, sent by company bosses to Target store managers across the US on Friday afternoon, outlines a weakness in the store's PA system being used to carry out the prank.
+I've removed a key detail for obvious reasons.
+"Non-Target team members are attempting to access the intercom system by calling stores and requesting to be connected to line [xxxx]," it reads.
+"If connected, callers have control of the intercom until they hang up.
+"We are actively working to limit intercom access to the Guest Services phone only. In the meantime, inform all operators to not connect any calls to line [xxxx]."
+So in other words, if you ring up Target and ask to be put through to a certain extension, you're suddenly live on the PA system for as long as you like.
+Hardly the hack of the century, granted, but a reminder that there are people out there that will find even the most obscure vulnerabilities and exploit them.
+Target's spokeswoman Molly Snyder would not confirm the authenticity of the email, but told the BBC: "We are actively reviewing the situation with the team to better understand what happened and are taking steps to help ensure this doesn't happen again.
+"Because this is an active investigation, I'm unable to share additional details, but we want our guests to know that we take this very seriously."
+Target should be acutely aware of weak systems. The retailer was at the centre of a huge hack attack storm last year.
+Some 40m shoppers had their banking details stolen, and the company ended up paying out $10m (Â£6.5m) in compensation.
+There is little danger of any repercussions over this porn prank - just a few red faces. And perhaps some suddenly very inquisitive children.
+Follow Dave Lee on Twitter @DaveLeeBBC

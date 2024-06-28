@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151027133212/http://www.bbc.co.uk/news/business-34636751
+
+[SN]TITLE[SN]
+Six things firms should do to improve cybersecurity
+
+[SN]FIRST-SENTENCE[SN]
+Last week's cyber-attack on UK telecoms provider TalkTalk has once again highlighted the critical importance of cybersecurity.
+
+[SN]RESTBODY[SN]
+TalkTalk joins a lengthening global list of companies that have suffered major data breaches, including Ashley Madison, eBay, AOL, Target, Home Depot, Sony, Anthem and JPMorgan Chase.
+Google and McAfee estimate there are 2,000 cyber-attacks every day around the world, costing the global economy about Â£300bn ($460bn) a year.
+Yet more than two thirds of firms say they feel inadequately protected against increasingly sophisticated hackers looking to extort money through blackmail or steal data to sell on the black market.
+So what should businesses be doing to improve their security? Technology of Business canvassed cybersecurity experts for their views.
+Our ideas about corporate cybersecurity are out-of-date, many experts warn.
+Concentrating on shoring up the castle walls is not enough, yet 87% of security budgets is still spent on firewall technology, says Tim Grieveson, chief cyber strategist at Hewlett-Packard.
+Forget the gate and drawbridge idea, there are now hundreds of potential entrances to the castle because businesses are connected to customers, suppliers, and employees over the internet. Not only that, but it's as if everyone who comes in and out of the castle has a key to unlock all the doors as well.
+Breaches are inevitable, comes the stark warning, so protect the data that matters.
+"The bottom line is, CIOs [chief information officers] need to accept their company will be breached and shift their security strategy from 'breach prevention' to 'breach acceptance'," says Jason Hart, chief technology officer at digital security specialist, Gemalto.
+Tom Patterson, general manager of global security solutions for IT services firm Unisys, calls this new approach micro-segmentation - building lots of little walls around those parts of your business containing data you can't afford to lose.
+This involves cryptographically signing each bit of digital information - the packet data - with a code unique to each segment of the business. So if hackers break in, all they get access to is the data specific to that community or segment.
+"A small breach is easier to manage - they may steal a little bit, or disrupt a little bit, but they don't take down the whole corporation," says Mr Patterson.
+But the challenge, says Mr Grieveson, is "knowing what data to prioritise."
+But many businesses don't even know what data they have stored on their systems, let alone how important it is, such is the complexity of their legacy computer systems and the recent proliferation of digital data from mobile and "internet of things" devices.
+According to a recent survey by information management firm Veritas, 59% of the data in UK IT systems is unclassified "dark data".
+Yet knowing what you have is key to any security strategy, says Mr Grieveson. "Businesses need to understand the risk of different types of data being lost."
+Once you've done this you can then employ "best practice data protection - attaching security directly to the data itself, using multi-factor authentication and data encryption, as well as securely managing encryption keys," says Mr Hart.
+"That way, if the data is stolen, it is useless to the thieves."
+It's all too easy to concentrate on the attacks coming from outside and ignore the risks posed - wittingly or unwittingly - by people inside your organisation.
+And insider attacks can also be more difficult to detect and deal with. "In reality it takes about 70 days to remediate an insider cyber-attack," says Mr Grieveson.
+Employees clicking on email attachments they believe are from trusted sources is "the number one threat for organisations", says Gary Steele, boss of Proofpoint, a secure email specialist.
+"A company can spend millions on investments in security solutions, but all it takes is one click on one link by one employee, and the company is compromised," he says.
+Hackers are becoming very clever at using personal information gleaned from social media and other sources - so-called social engineering - to convince employees that emails are from people they know. Educating staff about this threat should be a priority, experts advise.
+When it comes to employees in the pay of criminal gangs, predictive analytics tools can try to spot anomalies in their behaviour on a corporate network, but such tools can be expensive and time-consuming to manage.
+Companies can achieve a lot simply by monitoring their systems more effectively, says Gavin Millard, technical director at Tenable Network Security.
+This includes the "patching of easily exploitable bugs, robust filtering of inbound and outbound communications, up-to-date malware defence, encryption of sensitive information, and a good password policy," he summarises.
+At the very least, firms should make sure network security certificates and antivirus and firewall software is up-to-date.
+"Investing in monitoring controls to detect when an attack occurs is probably of most importance from a technology perspective," says AlienVault's Javvad Malik. "From a non-technology perspective, security training for staff can go a long way."
+If staff use their own mobile devices for work purposes, firms should at the least restrict access to critical data and systems, the IT professionals say.
+At best, firms should switch to a centrally-controlled system giving IT departments the ability to wipe devices remotely if they are lost or stolen.
+"Organisations need to embrace a zero-trust philosophy," says Jason Garbis of security company, Cryptzone.
+Cybersecurity firms with products and services to sell would say this, wouldn't they? But even TalkTalk chief executive Dido Harding admitted that she would be "spending more money and more time on cybersecurity because it is the number one risk".
+Big companies with sensitive consumer data to protect are increasingly appointing chief security officers, often to board level positions, in an acknowledgement that cybersecurity has to be built in to all business processes.
+Cybersecurity is everyone's problem, not just the responsibility of IT departments.
+Follow Matthew on Twitter here: @matthew_wall

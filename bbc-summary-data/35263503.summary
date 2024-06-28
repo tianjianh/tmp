@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170307044937/http://www.bbc.co.uk/news/technology-35263503
+
+[SN]TITLE[SN]
+Tech giants raise concerns over UK draft surveillance bill
+
+[SN]FIRST-SENTENCE[SN]
+Facebook, Google, Microsoft, Twitter and Yahoo have expressed concerns to the UK Parliament over the draft Investigatory Powers Bill (IP Bill).
+
+[SN]RESTBODY[SN]
+The firms are worried about the phrasing of proposals on encryption, bulk collection of data and openness.
+The submission joins another, from Apple, which challenges the reach of the draft legislation.
+If passed, the IP Bill would overhaul rules on how authorities access people's communications.
+The five firms form part of a coalition called Reform Government Surveillance (RGS) which aims to promote a series of principles on how governments should collect communications data on their citizens.
+"There are many aspects of the Bill which we believe remain opaque," the RGS companies state in their written evidence, citing the wording on judicial authorisation, encryption and technical requirements on tech firms among other things.
+Their comments come in the form of written evidence submitted to a parliamentary committee considering the scope of the bill.
+Currently, several of the corporations involved are standing by the provision of end-to-end encryption in some of their products - such as Apple's iPhones.
+This allows people to communicate privately in a form that cannot be decoded, even by the company which makes the device.
+The IP Bill would not outlaw encryption, but it would strengthen the power to force firms to give up decryption keys so that coded messages might be read.
+On this issue, the tech firms rally behind comments made to the committee by Apple.
+"We reject any proposals that would require companies to deliberately weaken the security of their products via backdoors, forced decryption, or any other means," the companies say.
+There has been some question over whether companies could or should be compelled to insert "back doors" in their software - allowing intelligence agencies to access data which they transmit or store.
+One key issue raised is that of extraterritorial jurisdiction - the extent to which UK authorities can compel foreign companies to comply with their laws.
+"We have collective experience around the world of personnel who have nothing to do with the data sought being arrested or intimidated in an attempt to force an overseas corporation to disclose user information," state the RGS firms in their written evidence.
+"We do not believe that the UK wants to legitimise this lawless and heavy-handed practice."
+The submission notes that other countries around the world are likely to be influenced by what sort of laws are laid down in the UK and warns against "an increasingly chaotic international legal system".
+There is also a comment on how surveillance might be made more transparent.
+"As a general rule, users should be informed when the government seeks access to account data," the companies say.
+"It is important both in terms of transparency, as well as affording users the right to protect their own legal rights."
+If it is deemed necessary to delay notice in exceptional cases, the firms argue that the burden should be on the government to show that there is an overriding public safety case for doing so.
+"I think it's very interesting how strongly the 'big players' of the internet have responded to the UK government's surveillance plans," said Paul Bernal, a legal expert at the University of East Anglia who also submitted evidence to the committee.
+"The breadth of the intervention is remarkable - they haven't kept to purely technical matters, but talk about judicial authorisation, transparency and so forth," he told the BBC.
+"This breadth shows how seriously they are taking the issue."
+Dr Bernal also pointed out that the firms had raised the issue of "technical impositions" - the requirements that would be placed on communications companies by the bill should it become law.
+Vodafone, in a separate submission, also commented on the obligation to obtain and generate data, saying: "There is nothing within the draft bill to indicate what this might mean, and could be used to require an operator to make changes to its networks and services simply to get more data â€” even relating to other companies' services â€” and to hold on to it for law enforcement."
+Alongside the silicon valley firms expressing some anxiety over the draft IP Bill is the UK's own Information Commissioner's Office (ICO).
+In an 11-page submission to the parliamentary committee, the ICO praises some of the bill's proposals while questioning the reach of others, including the retention of internet connection records (ICRs).
+ICRs are the domain names of websites visited by internet users, but not records of specific pages.
+"Although these are portrayed as conveying limited information about an individual they can, in reality, go much further and can reveal a great deal about the behaviours and activities of an individual," the ICO says.
+Among other concerns, the ICO also highlights a clause in the draft bill which enables the secretary of state to force the removal of electronic protections on communications data.
+The consequences of this clause could be "far-reaching" and have "detrimental consequences to the security of data", the ICO warns.
+"The Information Commissioner's comments will carry particular weight since he is a government-appointed official whose job it is to protect the public's information," commented the BBC's security correspondent, Gordon Corera.
+"His concerns echo some of those of the tech companies that some of the language in the act - for instance on encryption and equipment interference - is unclear and could have a real impact on the security and privacy of individuals' data."

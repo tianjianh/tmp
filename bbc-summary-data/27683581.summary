@@ -1,0 +1,57 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160530225312/http://www.bbc.co.uk/news/business-27683581
+
+[SN]TITLE[SN]
+Big data: Should it come with a big health warning?
+
+[SN]FIRST-SENTENCE[SN]
+Pick a number between 1 and 100.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+World Cup 2014 to be most hi-tech ever
+Battery technology playing catch-up
+Councils 'wasting millions' on IT
+Tech promises sustainable healthcare
+Mobile brightening Africa's future
+Got one? Good. Congratulations. Chances are that by plucking that number out of the ether you have done a better job than Google of predicting the percentage increase in the number of flu-like illnesses that will strike Americans over the next few weeks.
+That's right. You, armed only with your puny brain, can outdo a multi-billion dollar corporation that employs some of the smartest people in the world.
+This example might seem trivial, but many think it matters because of the status of Google Flu Trends (GFT), once seen as the shining example of the power of so-called big data.
+The data it uses to make predictions about how many will be sneezing and wheezing a week or so ahead is drawn from search terms, blog entries and messages shared via social media - so-called unstructured data.
+This is very different to the structured and slow stream of information gathered from forms filled in at surgeries and hospitals that, before the rise of big data, were how predictions were made.
+And the problem is, GFT turned out not to be terribly accurate.
+In a run of 108 weeks, GFT wrongly predicted the number of flu cases 100 times, revealed a recent study.
+Sometimes its estimate was double the number of actual flu cases recorded by US doctors. Hence the reason anyone can do better by plucking a number out of thin air.
+Yet this unstructured data humans put online is exactly the type of stuff that companies want to analyse when they kick off their own big data projects.
+Many corporations are keen to use those garbled knots of human sentiment to monitor how their brands are faring online, and to tweak their operations accordingly when they spot commercial opportunities or potential PR disasters.
+Before now, those giant data sets had been hard to unpick. GFT seemed to suggest that with the right tools it could unlock all kinds of useful predictions.
+Not only that, but those predictions could be uncovered quickly and cheaply.
+Why did GFT go so wrong and what implications does this have for other big data projects?
+"There's no such thing as clean and stable data," said statistician Kaiser Fung who has written extensively about the pitfalls that can dog big data projects.
+What he means by "clean and stable" is that it is a mistake to think that the data Google gathered for GFT today is the same as it gathered last week, last month or last year.
+Google regularly tweaks the algorithms it uses to index online life and, as a result, may be sampling very different things month to month, adding a degree of instability - spots of dirt as it were - to that dataset.
+The same is true of any big data set gathered by anyone, he said.
+All will be tainted in some way as they will miss out something simply because of the quirks of the underlying code used to parse and index web pages, social media messages and blog posts.
+That will be particularly true if companies buy in their data from different sources and then treat it as all one corpus.
+"I have never come across a complete data set," he said. "Often times the only reason why people believe their data is clean is because they have never looked at it."
+Companies in possession of a huge corpus of data can assume that all the information they need is in it. Sadly, he said, this "N=all" assumption is wrong.
+"It is much better to assume that the data has holes and flaws than it is to assume it is complete."
+Any company starting a big data project would do better to look at the data they have gathered and clean it up before any analysis starts.
+There are other good reasons for scrutinising that mass of information about customers, says Patrick James, a partner in consultancy Ernst and Young's consumer practice.
+"There's a customer backlash about to happen," he says. "It's against the big part of big data."
+More and more people are getting less and less happy about simply surrendering information and getting nothing in return, he maintains.
+Increasingly, consumers and customers will attempt to hold back their data, limit what they share online or simply give the wrong answers when they sign up for a service or are quizzed about their life and habits, he believes.
+The tens of thousands of people who filled in a form to make Google expunge their data from its index was evidence of that growing desire to disappear, says Mr James.
+If this trend grows, it could mean data sets get skewed and become less useful for those big projects.
+These early days of big data might prove to be its golden age.
+"Data has never been cheaper than it has been today and it's only going to get more expensive," says Mr James.
+So, if data is not the key to a good project, what is?
+"Too many big data projects are started by the IT departments in companies that want to play with new technologies like Hadoop," says Dr Laurie Miles, head of analytics at big data specialist, SAS.
+"That's led to scepticism, because in the history of IT projects a lot of them have been failures."
+Instead of the technology coming first, anyone embarking on a big data project needs to know why they are doing it before they sign off on any expenditure by the IT folks, he argues.
+"A big data project is not going to deliver any benefit unless you focus on a specific problem."
+That focus can stop a project running away with itself and ensure it produces results that impinge on a real business issue, he says.
+Spotting fraudulent credit card use requires a very different approach to analysing the performance of elite rowers - SAS is helping with both.
+"We analyse credit card data at the point of sale, and you need that quickly," says Dr Miles. "With British Rowing we have a couple of weeks to to give them answers."
+Knowing the response can help define the technology needed to underpin that big data project.
+"Often you do not need to spin up a massive IT infrastructure to make this work," he says. "That's just as well, as real time results are really expensive."

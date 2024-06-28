@@ -1,0 +1,54 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170116082822/http://www.bbc.co.uk:80/news/technology-30794953
+
+[SN]TITLE[SN]
+Can the government ban encryption?
+
+[SN]FIRST-SENTENCE[SN]
+Whenever the terrorist threat is increased, as it has been since the tragic events in Paris last week, so too are the calls from politicians to increase the powers of the people they employ to protect the public from such threats.
+
+[SN]RESTBODY[SN]
+Those agencies can only do their job, the argument goes, if they have full access to the online chatter of those planning terrorist atrocities.
+As the UK's Prime Minister David Cameron put it in a speech this week - there should be no "means of communication" which "we cannot read".
+But in an era when communication takes many forms, and with the added problem that much of this communication is encrypted, how easy is it to turn this sound bite into reality?
+For Mr Cameron the answer lies in a new "comprehensive piece of legislation" that will close the "safe spaces" used by suspected terrorists.
+So what are those safe spaces?
+Although Mr Cameron doesn't name any, it is likely he is referring to new apps such as WhatsApp and Snapchat which allow people to chat with relative anonymity by keeping their services encrypted.
+But the battle is much more wide-ranging as established names such as Google and Apple promise to do more to ensure that encryption is used as default on their services. After the revelations from whistle-blower Edward Snowden about mass surveillance programs, firms are determined to be seen to be putting the control of their data back in the hands of consumers.
+In the past, governments with the appropriate warrants could go to firms such as Apple and ask them to unlock the communications on phones.
+No more. Apple has changed its infrastructure to make it impossible for it to hand over any data from the iPhone 6's iMessage service, for example.
+Such military-grade lock-down of devices inevitably terrifies governments so it should come as no surprise that they are fighting back with new legislation.
+Although, it should be noted, that the new legislation Mr Cameron referred to in his speech is probably just a resurrection of an old law.
+The Draft Communication Bill of 2012, dubbed the "snoopers' charter" by critics, aimed to extend the range of data that communication companies had to store for 12 months.
+It would have included, for the first time, details of messages sent on social media, webmail, voice calls over the internet and gaming. Officials would not have been able to see the content without a warrant but the bill was blocked by the Liberal Democrats.
+Politics continues to dog attempts to revive it with Deputy Prime Minister Nick Clegg saying after Mr Cameron's latest speech that his party will continue to oppose any such legislation.
+At the heart of the debate is the question about how the government deals with the fact that communication data is increasingly being encrypted.
+As Prof Alan Woodward, a security expert from the University of Surrey, puts it: "You can have all the legislation in the world but you still might not be able to read what you've got."
+Encryption has long terrified governments.
+The so-called crypto-wars began in the 1970s when the US government attempted to classify encryption as munition.
+The Clinton administration in the 1990s tried to get industry to adopt the so-called Clipper chip - an encryption chip for which the government had a backdoor.
+The US government also tried to introduce something called key escrow - a policy that all encryption systems should leave a a spare key with a trusted third party.
+When software developer Phil Zimmermann developed PGP, a free mass-market encryption product for emails and files, the US government attempted to prosecute him because someone had exported his software from the US without government permission.
+And, however outrageous this may sound now, those two options remain the only ones for the government as, two decades later, they grapple with exactly the same issues.
+So does the idea of a golden key, a backdoor for the security service, make any more sense now than it did in the 1990s?
+Certainly the threat from terrorism is greater and few would argue with the sentiment that, if you are in danger and a police officer turns up at your backdoor - you are going to let them in.
+But the analogy implies that someone has control over who uses the backdoor and, of course, in the software sense this is impossible.
+A backdoor in software is not just something for the security service. Anyone - including the criminals - may discover it and exploit it.
+"A UK cryptographic backdoor would become the number one global target for cybercriminals. The UK government would not be able to keep it secure for long, particularly if it needed to give access to police and security services," said Matthew Bloch, managing director of internet hosting firm Bytemark.
+All of this has been debated before, of course.  Ahead of the controversial Regulation of Investigatory Powers Act, which came into force in 2000, both options of a backdoor and the idea of a key stored by a third party were considered and rejected by lawmakers.
+They opted instead for a third way - that someone in possession of an encryption key should be forced to hand it over to the authorities.
+That too is fraught with complexities.
+Often the person simply doesn't know the key.
+"It comes down to passwords on laptops and you can't force someone to hand these over," said Prof Woodward.
+And encryption technology is evolving.
+"Now there is a way of protecting secret information into the future so if a key is compromised the key agreed for a particular session changes," he explained.
+"There are even technologies emerging that can give a false key which makes the system aware that the key was given under duress and wipes the data."
+The technology industry tends to have a knee-jerk reaction to attempts from government to interfere in its processes.
+Don't mess in things that you don't understand, they warn. The technology genie is out of the bottle and cannot be put back.
+In this particular case, some have interpreted Mr Cameron's words as meaning that the government is seeking to ban, in effect, a technology that underpins the global economy.
+SSL (Secure Sockets Layer) and TLS (Transport Layer Security) encryption protects financial details when people shop or bank online while so-called end-to-end encryption such as PGP (Pretty Good Privacy) help keep personal messages private.
+"Encryption is mathematics, not technology. It can't be suppressed by law," Mr Bloch told the BBC.
+Whatever route the government elected in the UK in May decides to go, Prof Woodward hopes that it will listen carefully to the technology industry.
+"The government will need to take a lot of wide-ranging advice as this has the potential to go spectacularly wrong."
+It is also worth noting, he added, that the men involved in the Paris shootings were known to the authorities and had been under surveillance until it was deemed that the threat from them had lessened.
+"The security forces need better resources not more powers."

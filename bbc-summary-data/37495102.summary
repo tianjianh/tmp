@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108010525/http://www.bbc.co.uk/news/technology-37495102
+
+[SN]TITLE[SN]
+Europol warns of Android tap-and-go thefts
+
+[SN]FIRST-SENTENCE[SN]
+Law authorities have warned they believe criminals are using Android phones to trigger fraudulent tap-and-go payments.
+
+[SN]RESTBODY[SN]
+The alert comes in Europol's annual Internet Organised Crime Threat Assessment report.
+Experts had previously said that the rollout of smart wallet systems could raise such a threat.
+However, the police are unsure exactly how the attacks are being carried out and how common they are.
+"The possibility of compromising NFC [near field communication] transactions was explored by academia years ago, and it appears that fraudsters have finally made progress in the area," the report says.
+"Several vendors in the dark net offer software that uploads compromised card data on to Android phones in order to make payments at any stores accepting NFC payments."
+The report's authors add that one consequence of the novel crime is that shops might not know how to react even if they detect the deceit.
+"Currently, when merchants detect a fraudulent transaction, they are requested to seize the card," the report says.
+"However, the confiscation may not be feasible when the compromised card data are recorded on the buyer's smartphone."
+The report concludes that smartphone and touchless payment terminal manufacturers should "take action to design out security flaws".
+Europol is the EU's law enforcement agency, which helps members states' police forces co-ordinate operations and intelligence.
+Its report is intended to flag emerging cybercrime threats.
+One of the body's advisers acknowledged that investigators were still unclear whether the payments were triggered being by customised apps or via Google's own Android Pay software.
+"It's anecdotal evidence at the moment - it could be either or both," said Prof Alan Woodward, from Surrey University.
+"But whatever the case, evidence that it is happening is mounting."
+Prof Woodward said the criminals were probably using Android handsets rather than iPhones because Google did not prevent third-party apps using a device's NFC chip, but Apple did.
+"Apple systems are locked down, but you can typically write code to get at NFC, wi-fi and Bluetooth on Android-based devices," he said.
+"It's just easier to write things on there if what you are doing is pretending to be a contactless card or otherwise sending communications to a contactless payment terminal."
+Prof Woodward added that the threat did not mean people should stop using Android Pay, but rather that all members of the public should remain vigilant against unusual transactions.
+A spokeswoman for Google said: "Security is at the centre of Android Pay; we verify cardholders' identities with banks before enabling them on Android Pay, and we work closely with our banking and payments partners to suspend fraudulent cards."

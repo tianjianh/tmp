@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150801081209/http://www.bbc.co.uk/news/technology-27597358
+
+[SN]TITLE[SN]
+Spotify latest to be hit by hack on users
+
+[SN]FIRST-SENTENCE[SN]
+Music-streaming service Spotify has become the latest high-profile technology company to be hit by a security breach.
+
+[SN]RESTBODY[SN]
+The Swedish firm said no financial data had been accessed, and there was no "increased risk".
+A portion of its 40 million users will need to re-enter, but not change, their log-in credentials.
+Furthermore, all users of its Android mobile app would be forced to upgrade "over the next few days".
+"We've become aware of some unauthorised access to our systems and internal company data," chief technology officer Oskar StÃ¥l wrote on the firm's website.
+"Our evidence shows that only one Spotify user's data has been accessed and this did not include any password, financial or payment information.
+"We have contacted this one individual. Based on our findings, we are not aware of any increased risk to users as a result of this incident."
+While the breach was small in scale, Dwayne Melancon, chief technology officer at security firm Tripwire, said it could hint towards a troubling problem for the streaming firm.
+"Had this been as simple as one user over-sharing their login credentials, it would not warrant an all-user notification," he said, in an email.
+"Given that Spotify claims that only one user's data has been compromised, I suspect this was achieved via a re-usable, broadly applicable attack method perhaps affecting older versions of the Spotify app.
+"My guess would be that someone demonstrated a proof-of-concept attack for the Spotify team and that constitutes the single known affected user."
+News of the breach comes a week after auction site eBay told all of its users to change their passwords.
+Again, no financial data was believed to have been taken - but other personal data, such as home addresses, was accessed.

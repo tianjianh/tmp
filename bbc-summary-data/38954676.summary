@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170721050157/http://www.bbc.com/news/business-38954676
+
+[SN]TITLE[SN]
+Can we safely pack even more planes in to our skies?
+
+[SN]FIRST-SENTENCE[SN]
+You're tired and stiff after a long flight and you can't wait to land.
+
+[SN]RESTBODY[SN]
+But then the captain says there'll be a delay because there aren't any landing slots available. So you circle the airport in a holding pattern for what seems like ages - groans all round.
+Well, such annoyances may become a thing of the past if a new air traffic management (ATM) system works as well as promised.
+Nats - the UK's air traffic control provider formerly known as National Air Traffic Services - is rolling out a new £600m ($747m) computer system known as iTec that could result in more flights, fewer delays and a cleaner airspace for all.
+Chief architect Simon Daykin describes it as "one of the biggest transformations" in the organisation's 56-year history. The project should be complete by 2020, he says.
+Managing the 2.2 million flights that cross UK airspace each year is complicated enough, but with that number forecast to rise to three million by 2030, it became clear that the current system - which dates back 40 years - would need an overhaul, explains Mr Daykin.
+Perhaps the most significant change - although travellers are unlikely to notice it - will be the abandonment of the network of invisible "roads" in the sky - the routes which all aircraft currently follow.
+Now air traffic controllers, using predictive analytics software called iFacts, will be able to predict the path of aircraft as much as 18 minutes in advance, says Mr Daykin.
+"In effect we can get an earlier view of where congestion will be in the sky and tweak flight paths, which means less re-routing," he says. "We can now slow traffic down en route so you don't get stuck in a holding pattern over London."
+Adding time management to the mix means controllers will be operating in four dimensions, not just the usual three of latitude, longitude and altitude.
+The European Space Agency, satellite company Inmarsat and others are also testing how this "4D" air traffic management could help squeeze more planes into our skies whilst also reducing congestion.
+Another benefit of applying clever analytics to the skies is that flights can be made more energy efficient.
+At the moment, planes have to stagger their ascents and descents, climbing or dropping to set altitudes at certain points throughout the journey.
+"At the moment current air traffic management systems limit the efficiency of aircraft," explains Prof Andrew Rae, engineering professor and aviation expert at the University of the Highlands and Islands.
+Replacing these hops and jumps with smooth, curving ascents and descents will be more efficient both in terms of fuel and noise, he says.
+"You can save just under 10% fuel burn that way, but it means not flying at constant height or speed," he says. "That's saving both emissions and cost."
+The new system will have to handle a huge increase in real-time data, so Nats is building its own private cloud.
+"We'll be using much more computing and processing power than we ever needed before," says Mr Daykin.
+"We'll be creating more big data, which we will be storing to mine and dive into, to learn more about how to be better."
+As mornings tend to be much busier than afternoons when it comes to flights, "we can use cloud technology to flex our resources depending on operational needs," he adds.
+All the data will be held in dedicated UK-based data centres.
+"There will be huge cybersecurity," he says. "It's a safety-assured cloud. There will also be a back-up system."
+Mr Daykin is so conscious about information security that he has an "enterprise-grade" firewall in his own home.
+As part of the improvements, air traffic controllers will work for the first time on touch screens and use Voip [voice over internet protocol] communications to talk to their colleagues and counterparts.
+The upgrade is part of the Europe-wide Single European Sky (SES) project, which involves all 28 member states,
+By 2020, the SES aims to have tripled the number of planes in the sky; made air travel 10 times safer; reduced the environmental impact by a factor of 10; and halved navigational service costs.
+Achieving all this is "unlikely" in the time frame, says Aimee Turner, editor of Air Traffic Management magazine.
+But Nats is ahead of the game, she argues - the new system has already been successfully tested at Nats' Prestwick base in Scotland, and in Germany.
+"Nats is adopting a strategic approach through significantly changing its fundamental ATM [Air Traffic Management] system," she says.
+As flights pass across different airspaces, the other national air traffic organisations will have to pass their data on in real time to allow the predictive analysis to continue.
+This means that "each member state still has to develop its own ATM system so it's fit for purpose to meet not only the technological vision of the SES, but also manage the forecast traffic growth which all EU nations will experience," says Ms Turner.
+But Prof Rae is not convinced that the new system will entirely eliminate delays for travellers.
+"In practice things like passengers arriving late, or unexpected service needs, will mean complications will still disrupt travel," he says.
+"It also means different airspace controllers have to talk to each other - so if the French call a strike the whole thing will fall to pieces."
+Follow Technology of Business editor Matthew Wall on Twitter and Facebook
+Click here for more Technology of Business features

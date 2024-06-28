@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170721045533/http://www.bbc.com/news/technology-37974776
+
+[SN]TITLE[SN]
+Dark web hackers boast of Tesco Bank thefts
+
+[SN]FIRST-SENTENCE[SN]
+Hackers boasted of thefts from Tesco Bank months before the company reported losing Â£2.5m in an attack.
+
+[SN]RESTBODY[SN]
+Cybersecurity company Cyberint said it had discovered posts on a variety of dark web forums whose members had described the lender as being a "cash milking cow" and "easy to cash out".
+It is not clear, however, whether there is any link between these claims and the money stolen just over a week ago.
+The bank has repeatedly declined to give details of the crime.
+It says it is unable to do so while a criminal investigation is being carried out.
+Elsewhere, the Sunday Times suggested that the raid had involved the use of contactless payments triggered by smartphones.
+And a second cybersecurity company said it had warned Tesco of problems with several of its mobile apps four months ago, but had been ignored.
+The Financial Times was first to report that Cyberint had carried out its own probe of hidden web pages following the thefts over the weekend of 5-6 November.
+The Israeli company said it had found discussions about a tool that "brute forced" access to Tesco's accounts by testing thousands of login and password combinations until one was found to work.
+It said the bank had repeatedly taken steps to prevent such attacks, but the hackers had apparently bypassed the measures.
+"It was a cat and mouse game, but we saw indicators starting from September - so two months before the actual attack - of quite a few threat actors saying, 'We've been successfully getting into accounts and cashing out through various means.'" Elad Ben-Meir, Cyberint's vice-president of marketing, told the BBC.
+"This was on the AlphaBay forum, Hacking Forum and some lesser known places - and there was plenty of proof.
+"One of the guys said, 'I used to cash out Â£1,000 every week without anyone ever noticing.'"
+Mr Ben-Meir said his company had attempted to pitch for business with Tesco Bank earlier in the year, but the talks "didn't proceed anywhere".
+Mobile app specialist Codified Security said it had not received any response when it had contacted the supermarket Tesco and its subsidiary Tesco Bank four months ago by email.
+"We were doing research into mobile apps across the UK market and found some problems with various apps that they have and reached out to try and warn them," the London-based company's chief executive, Martin Alderson, told the BBC.
+Mr Alderson is not making public what the flaws involved, but said Tesco Bank was not the only lender his company had contacted.
+"The top tier banks are really good with their mobile security - so, NatWest, Barclays et cetera are fantastic," he said.
+"But the second-tier banks and some of the financial tech companies can struggle with this.
+"They are pressured to bring out a coherent mobile strategy because their customers are demanding it.
+"But often I'm not sure they have the understanding of all the technical aspects to make them secure."
+Mr Alderson said roughly half of the companies Codified Security wrote to never responded, so Tesco's handling of the matter was not unusual.
+The bank has not officially commented on this, but a source at the company told the BBC: "Tesco Bank regularly receives promotional information from consultancies, but in all areas we have first-class colleagues working hard to serve our customers."
+The Sunday Times says the attack was carried out by thieves using mobile phones that used stolen Tesco Bank data to set up contactless payment accounts.
+It says fraudulent purchases of thousands of low-priced goods were made at Best Buy electronics stores in the US as well as other American and Brazilian retailers.
+The paper does not credit a source for this information.
+However, it might tie in to an alert from Europol two months ago that criminals had begun using Android phones to trigger fraudulent tap-and-go payments.
+"The possibility of compromising NFC [near field communication] transactions was explored by academia years ago, and it appears that fraudsters have finally made progress in the area," the organisation's Internet Organised Crime Threat Assessment said.
+"Several vendors in the dark net offer software that uploads compromised card data on to Android phones in order to make payments at any stores accepting NFC payments."
+A spokesman for Tesco Bank said that "none of our systems were breached" and no personal data had been lost, but would not comment further.

@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151224031307/http://www.bbc.co.uk/news/technology-35167192
+
+[SN]TITLE[SN]
+Hello Kitty security leak 'corrected'
+
+[SN]FIRST-SENTENCE[SN]
+A security loophole on the Hello Kitty website that exposed millions of people's personal data has been "corrected" says the brand's owner.
+
+[SN]RESTBODY[SN]
+Earlier this week a computer security researcher revealed that information about 3.3 million Sanrio Town members was accessible.
+The Japanese firm Sanrio, which owns Hello Kitty and runs Sanrio Town, said it had now closed the loophole.
+It added that no information about Hello Kitty fans had been stolen.
+"We investigated the problem and applied fixes, including securing the servers identified as vulnerable," said Sanrio in an advisory posted on the site.
+It added that only personal information, including names, email address and encrypted passwords, had been available to those who knew where to find the servers.
+Information on more than 180,000 children was in this cache. No credit card or payment information was held on the vulnerable servers.
+Sanrio added that it was conducting an internal investigation and review to find out why the servers were mis-configured so they could be accessed.
+"At this time we have no indication that users' personal information was stolen by malicious parties," said an advisory note.
+Even so, Sanrio has sent messages to Sanriotown members advising them to change the password they used to access the site and to alter any other on which they used the same string of characters.
+Chris Vickery, the researcher who uncovered the access to the data, disputed Sanrio's claim that membership data had not been accessed.
+He said he used many different net addresses to access the data and confirm it was vulnerable.
+Sanrio is the latest in a growing list of firms that have failed to protect customer data.
+Over the last few months data about users of VTech, TalkTalk and Ashley Madison have been exposed online.

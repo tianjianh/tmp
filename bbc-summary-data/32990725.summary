@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150603143547/http://www.bbc.co.uk/news/technology-32990725
+
+[SN]TITLE[SN]
+Skype falls victim to text chat bug
+
+[SN]FIRST-SENTENCE[SN]
+Skype says it has fixed a bug that caused its chat apps to repeatedly crash if a specific string of eight characters was sent to a user.
+
+[SN]RESTBODY[SN]
+The flaw affected its software on iOS, Android and some versions of Windows, but did not appear to affect Macs.
+"{We] have rolled out updates for all impacted platforms," a Skype spokeswoman said.
+The action came a week after a similar but unrelated bug was found to affect texting apps on iPhones.
+Apple has since described a workaround for that issue but is still working on a more permanent fix.
+The problem with Skype, which is owned by Microsoft, was first flagged by a Russia-based user on the company's community forum.
+"Clearing chat history [does] not help, because when Skype downloads chat history from server, it will crash again," wrote a person nicknamed Giperion.
+The report was later brought to prominence by the news site Venturebeat, which detailed a possible fix: the person who sent the original message must delete it, and the affected user needs to delete the Skype app and install an older version of the software.
+However, while it was easy to download and install an old version of Skype for Windows, it was more complicated to do so for iOS and Android devices.
+Updates for all affected platforms have since been rushed out.
+This is distinct to last week's discovery of a text bug that crashes iOS devices, which involves messages featuring specific strings of Arabic, Chinese and other non-Latin characters.
+That flaw continues to affect Apple's Messages app as well as third-party services, including Twitter and Snapchat.
+Apple's temporary workaround - which involves telling Siri to "read unread messages" - tackles the problem in the company's own chat app, but not others'.

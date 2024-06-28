@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160419210814/http://www.bbc.co.uk/news/technology-36072240
+
+[SN]TITLE[SN]
+Web host 123-reg deletes sites in clean-up error
+
+[SN]FIRST-SENTENCE[SN]
+Web hosting firm 123-reg has accidentally deleted an unspecified number of its customers' websites.
+
+[SN]RESTBODY[SN]
+The company, which hosts 1.7m sites in the UK, said an error made during maintenance "effectively deleted" what was on some of its servers.
+"We can conclude that the issues faced have resulted in some data loss for some customers," the firm admitted.
+It started a "recovery process", but advised customers with their own data backup to rebuild their own websites.
+The web host, which has 800,000 customers in the UK, would not say how many websites had been deleted but said it was a "small proportion".
+Websites are hosted on computers called servers that can dish up pages to thousands or millions of people at the same time.
+Some people pay for a private server - a dedicated computer that hosts only their website - but this can be expensive.
+A cheaper option is a virtual private server (VPS) - a machine that can host hundreds of websites, but mimics the functionality of a private server.
+The company said it was performing a "clean-up" operation on its VPS systems when a coding error in its software "effectively deleted" customer websites.
+Since the maintenance mistake was made on a virtual private server it was able to wipe out many websites in one go.
+123-reg told the BBC it did not have a backup copy of all its customers' data, but was working with a data recovery specialist to "manage the process of restoration".
+"Our VPS product is an unmanaged service and we always recommend that customers implement backups to safeguard against unexpected issues," the company said.
+"Customers who had purchased 123-reg backups can be online now."
+"Many of our customers keep their own backups."
+The data loss has left the affected online businesses without a website to trade from and 123-reg has been flooded with messages on social media criticising its limited communication.
+One customer noted: "Fault still described as 'VPS connectivity issues' when in fact it seems they lost everything."
+"There must be some information available right? What exactly are they working on?" asked another. "We need details as we need to start planning on how to salvage anything."
+"This will wreck my business and plenty of others," said another affected company.
+In an email sent to customers on Sunday, 123-reg said it had "begun copying recovered VPS images to new hosts" and expected some websites to be restored overnight.
+It said it would audit all its automated scripts and prevent customer websites from being deleted without human approval in the future.
+"The fault was limited to 67 servers out of 115,000 across Europe," the company said.
+"We are investigating the restoration of each VPS on a case-by-case basis and are working individually with customers to keep them informed of the website recovery process."

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170228021835/http://www.bbc.co.uk/news/technology-39106520
+
+[SN]TITLE[SN]
+MWC 2017: DJI drones use plane avoidance tech
+
+[SN]FIRST-SENTENCE[SN]
+The world's bestselling drone-maker has unveiled models that warn their operators when there is a risk posed by nearby aeroplanes or helicopters.
+
+[SN]RESTBODY[SN]
+The M200 series use ADS-B (automatic dependent surveillance broadcast) receivers to detect broadcasts from nearby manned flights.
+The transmissions allow users to see the position, altitude and velocity of surrounding aircraft so they can take evasive action if required.
+One expert praised the move.
+"It's an extra safety measure and will help drone operators work in restricted airspace," explained Dave Black from the commercial drone services firm Blackwing Aerial.
+"The way we tend to do this is to contact air traffic controllers before we fly, tell them where we are flying and then they contact us by phone if there's going to be any conflict.
+"But in time, the authorities may well also want this kind of feature fitted as standard before they approve operations with larger drones."
+Mr Black added that some enthusiasts had created their own ADS-B kit by connecting a receiver to a Raspberry Pi computer with customised software and then tying this to their drone. But he added that an integrated unit would be appreciated.
+The announcement was made at the Mobile World Congress trade show in Barcelona.
+DJI announced last July that it intended to develop an ADS-B collision avoidance system in conjunction with uAvionix, a specialist in the technology.
+The M200 series drones, which debut the feature, are designed for industrial applications such as inspecting power lines and mapping construction sites.
+They have a range of 7km (4.3 miles) and can stay airborne for up to 38 minutes, but some country's regulators currently require them to stay within line-of-sight.
+The aircraft are bigger and heavier than many consumer drones - they weigh 3.8kg (8.4lb) and can carry a further 2kg of equipment - so potentially pose a greater risk if involved in a crash.
+However, one analyst warned that the new safety system could give drone pilots a false sense of confidence.
+"The problem is that ADS-B isn't yet required for all aircraft, so even if you had a receiver you're not necessarily seeing all the traffic in the area," explained Colin Snow, chief executive of the Skylogic Research consultancy.
+"Its use is also not required at the low altitudes at which commercial drones tend to fly.
+"So, let's say you are a farmer in a rural area using a drone. There's a danger a crop duster could come into your zone - and they often do not use ADS-B - and catch you unaware.
+"The other issue is that you only 'see' other aircraft when their ADS-B pings are retransmitted from towers on the ground and sometimes that doesn't happen."

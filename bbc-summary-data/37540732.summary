@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107195709/http://www.bbc.com/news/technology-37540732
+
+[SN]TITLE[SN]
+Fears of massive net attacks as code shared online
+
+[SN]FIRST-SENTENCE[SN]
+Computer code used to mount one of the biggest web attacks ever seen has been released online.
+
+[SN]RESTBODY[SN]
+Security experts fear the release will prompt more massive attacks that knock sites offline by swamping them with data.
+The attack tool seeks out smart devices in homes that are weakly protected with easy-to-guess passwords.
+Net monitoring firms said they had already seen an increase in scans that seek out vulnerable devices.
+The "Mirai" source code was released on a widely used hacker chat forum over the weekend.
+The same code is believed to have been used to target security blogger Brian Krebs in late September in an attack that pointed more than 620 gigabits of data every second at his site.
+Mr Krebs said the release "virtually guaranteed" that the net would soon be flooded with similar incidents as it made it easier to mount such large-scale attacks that abuse access to the consumer gadgets.
+When Mr Krebs' site was attacked, the amount of data with which it was hit was believed to be the biggest ever seen. However, it was eclipsed later the same month by an attack on French hosting firm OVH, which suffered a malicious datastream that peaked at more than one terabit per second (1,000 gigabits).
+Research by security firms suggests that both attacks managed to generate so much data by seeking out insecure devices that make up the "internet of things". These are smart devices such as webcams, thermostats and other gadgets that owners can control via the net.
+Scanners built into the attack code seek out vulnerable devices and enrol them into a network, known as a botnet, that a malicious hacker can then use in what is known as a Distributed Denial of Service (DDoS) attack.
+"There is already a surge in botnet operators attempting to find and exploit IoT devices in order to gain access to uniform and sizable botnet networks," said Dale Drew, chief security officer at net firm Level 3, in an email to Ars Technica.
+The Mirai botnet and the one used to attack OVH are, between them, believed to control more than 1.2 million vulnerable devices. Post-attack analysis suggests the DDoS deluges aimed at Mr Krebs and OVH used only a fraction of the total number of devices on these botnets.
+Stephen Gates, chief research intelligence analyst at NSFocus, said the growth of such large IoT botnets could mean chunks of the net get knocked out. In addition, he said, those owning compromised gadgets could see their browsing speeds slow significantly as their home net connection is used to send attack data.
+"This is all collateral damage caused by a failure of good judgement by using the same factory default passwords on IoT devices in the first place," said Mr Gates in a statement.

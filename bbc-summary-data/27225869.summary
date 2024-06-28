@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150714183137/http://www.bbc.co.uk/news/technology-27225869
+
+[SN]TITLE[SN]
+Mesh networks chat apps to the rescue
+
+[SN]FIRST-SENTENCE[SN]
+As popular as chat apps have become, they all suffer from the same flaw -  if you board an underground train, head into the wild or find yourself in a situation where the authorities block the mobile networks, you're likely to end up cut off.
+
+[SN]RESTBODY[SN]
+Now a new technology is promising to keep such "off-the-grid" smartphone owners chatting.
+It has been hailed as having the potential to trigger nothing less than a second mobile revolution.
+Mesh networking is the kind of techie term that, quite understandably, would elicit blank stares were one to mention it en passant.
+But in the past few months, unprecedented anxiety over state surveillance of internet traffic allied with the incorporation of the technology into Apple's latest mobile software, iOS 7, has meant the novel communications protocol has itself been creating a lot of chatter.
+So what's all the fuss about? In short, the technology potentially allows communication "off the grid" from the mainstream internet.
+Its potential is huge - ranging from communication during disaster relief efforts through to the promotion of democracy.
+At risk of simplification, it is helpful to think of a traditional network as a bicycle wheel - where every spoke connects at some point to a central hub, be it a mobile phone network, internet service provider or computer server.
+By contrast, a mesh network has no central connection point to speak of. Instead, each point on the network acts as a "node" in a kind of webbed mesh, able to efficiently route traffic on to any other node within range.
+That means messages can pass from one point to another, without the need for the regular internet - incredibly useful in times of disaster, where traditional communications are often limited or severed entirely.
+Should even a single node be internet-connected, traffic can be shared with all other nodes to give internet access to all on the mesh.
+But a mesh network can also be an incredibly useful tool for those worried about others monitoring their online activity.
+Since there is no central authority, it is inherently more difficult to shut down than a traditional network and impossible to monitor unless one is directly connected to the network itself.
+Mesh networking is a very well-established idea. Originally established for the military, today it is being used in projects around the globe - in villages, towns and cities, largely to help spread connectivity where only limited internet access exists.
+But a little-advertised feature in iOS 7 called "multi-peer connectivity" now means that app developers can easily put mesh technology in the hands of us all, turning our once-humble handsets into makeshift routers -  no setup expertise or additional hardware required.
+One app, Firechat, is already creating a buzz.
+Firechat was only launched in March but already boasts millions of downloads around the world.
+In essence it lets users exchange messages, photos and videos among each other, as long as there are intermediary devices nearby to relay the signal along the chain.
+The app has just been released on Android too - though here it faces some competition from a well-established though less user-friendly app called the Serval Mesh, which draw attentions to its potential in relief efforts and providing connectivity to underserved rural areas.
+Firechat's founder Micha Benoliel says his app is primarily aimed at entertainment, though he concedes it does have other uses.
+Some are already being played out - when faced with the threat of internet restrictions and limited cell coverage, protesting students in Taiwan intent on occupying the parliament recently turned to Firechat to keep their lines of communications alive.
+If that kind of use-case prevails, there's little doubt apps such as Firechat will attract the attention of governments and law enforcement agencies keen to neuter or at least monitor traffic going to this kind of off-grid network.
+But right now its main challenge is to grow its user base to a stage where contemplating that kind of problem even becomes a possibility.
+After all, Firechat's technology is essentially "all or nothing".
+Without a critical mass of users, Firechat's promise to keep users connected wherever they may be will remain unfulfilled. And all the talk of "a second mobile revolution" may ultimately prove to be hot air.

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150601152605/http://www.bbc.co.uk/news/technology-32934083
+
+[SN]TITLE[SN]
+GoPro cameras 'could be used to spy on owners'
+
+[SN]FIRST-SENTENCE[SN]
+A security firm has warned it is "too easy" for criminals to take control of GoPro cameras which could then be used to spy on their owners.
+
+[SN]RESTBODY[SN]
+Media playback is unsupported on your device
+1 June 2015 Last updated at 02:13 BST
+Pen Test Partners showed the BBC how it could gain access to a Hero4 camera that appeared to be turned off, to secretly watch or eavesdrop on users, or to view and delete existing videos.
+The attack relied on victims setting simple passwords which could be guessed by software within seconds.
+GoPro said its security was adequate.
+Ken Munro, a partner at Pen Test Partners, also said the way the cameras were set up meant that a wireless connection can unknowingly be left on after the power button on the device had been pressed to turn it off.
+He showed how he could "wake" the device, turn off its recording lights, and then video-stream what the device could see to his own mobile phone.
+Mr Munro said that in order to take control, a criminal would need to intercept and crack the encrypted Wi-fi key, which is set up by the user when they connect the camera to a mobile device such as a phone.
+In his demo he captured the key using a laptop and some free specialist software.
+To make his point, Mr Munro then showed the BBC how his firm was able to use software freely available on the internet to guess the password a user might have set.
+In this case the word "Sausages" was used as the password and the software guessed it in less than one minute.
+The software tries thousands of possible passwords each second, using a dictionary of those known to be most commonly used.
+Mr Munro wants GoPro to actively encourage users to set stronger passwords.
+"Cybercriminals are increasingly turning to cracking passwords to gain access to accounts" he warned.
+"We follow the industry-standard security protocol called WPA2-PSK (pre-shared key) mode," GoPro told the BBC, in a statement responding to details of the demonstration.
+"Wi-fi-enabled devices must provide the user's password to access the Hero4 wi-fi network. This is the same as other wi-fi networks using that protocol," the firm said.
+"We require our customers to create a password 8-16 characters in length; it's their choice to decide how complex they want it to be.
+"As is true of all password-protected devices and services, if a password is easily guessable, a user is more prone to someone predicting what it is," GoPro added.

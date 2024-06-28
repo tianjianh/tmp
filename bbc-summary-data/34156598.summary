@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170326040319/http://www.bbc.co.uk/news/technology-34156598
+
+[SN]TITLE[SN]
+Hacked Jeep USB update criticised
+
+[SN]FIRST-SENTENCE[SN]
+Fiat Chrysler has started distributing a software patch for millions of vehicles, via a USB stick sent in the post.
+
+[SN]RESTBODY[SN]
+In July, two hackers revealed they had been able to take control of a Jeep Cherokee via its internet-connected entertainment system.
+The car firm has been criticised by security experts who say posting a USB stick is "not a good idea".
+Fiat Chrysler has not yet commented to the BBC.
+"This is not a good idea. Now they're out there, letters like this will be easy to imitate," said Pete Bassill, chief executive of UK firm Hedgehog Security.
+"Attackers could send out fake USB sticks and go fishing for victims. It's the equivalent of email users clicking a malicious link or opening a bad attachment.
+"There should be a method for validating the authenticity of the USB stick to verify it has really come from Fiat Chrysler before it is plugged in."
+He said that using a device like this had wider implications.
+"Hackers will be able to pull the data off the USB stick and reverse-engineer it. They'll get an insight into how these cars receive their software updates and may even find new vulnerabilities they can exploit," he told the BBC.
+In July, security researchers Charlie Miller and Chris Valasek demonstrated that it was possible for hackers to control a Jeep Cherokee remotely, using the car's entertainment system which connected to the mobile data network.
+The flaw affected up to 1.4 million vehicles sold in the US.
+At the time, Fiat Chrysler issued a voluntary recall so that customers could visit a dealership to have the software updated in affected vehicles. It also made a software update available to download from its website for tech-savvy users.
+Fiat Chrysler told technology magazine Wired: "Consumer safety and security is our highest priority. We are committed to improving from this experience and working with the industry and with suppliers to develop best practices to address these risks."

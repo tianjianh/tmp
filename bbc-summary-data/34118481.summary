@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222005127/http://www.bbc.co.uk/news/technology-34118481
+
+[SN]TITLE[SN]
+Intelligent Machines: What does Facebook want with AI?
+
+[SN]FIRST-SENTENCE[SN]
+These days study into artificial intelligence research is no longer the preserve of universities - the big technology firms are also keen to get involved.
+
+[SN]RESTBODY[SN]
+Google, Facebook and others are busy opening AI labs and poaching some of the most talented university professors to head them up.
+Prof Yann LeCun is a hugely influential force in the field of Deep Learning and is now director of AI research at Facebook.
+He spoke to the BBC about what the social network is doing with the technology and why he thinks Elon Musk and Stephen Hawking are wrong in their predictions about AI destroying humanity and here are his thoughts.
+What is artificial intelligence?
+It is the ability of a machine to do things that we deem intelligent behaviour for people or animals. Increasingly it has become the ability for machines to learn by themselves and improve their own performance.
+We hear a lot about machines learning but are they really thinking?
+The machines that we have at the moment are very primitive in a way. Some of them, to some extent, emulate the basic principles of how the brain works  - they are not at all a carbon copy of brain circuits but they have a little bit of the same flavour.
+They are very small by biological standards. The biggest neural networks that we simulate have in the order of a few million simulated neurons and a few billion synapses - which are the connections between neurons - and that would put them on par with very small animals, so nothing like what we would think as humans.
+In that sense they are not thinking and we are still very far from building machines that can reason, plan, remember properly, have common sense and know how the world works.
+But what they can do is recognise objects and images with what seems to be superhuman performance at times and they can do a decent job at translating text from one language to another or recognising speech. So in that sense they do things that humans would consider an intelligent task.
+Intelligent Machines - a BBC News series looking at AI and robotics
+How do these machines actually work?
+A lot of the machines we are building are artificial neural networks. They do a very large number of simple operations which essentially come down to multiplication and addition.
+Those large networks of simulated neurons each of which is connected with several thousand other neurons - some of which come from pixels of an image or an audio signal. It performs a simple operation, something like a weighted sum, of all those values. There are billions of operations to perform.
+We organise the neurons in layers - the architecture of this is inspired by visual cortex in mammals - and we can train the machines to recognise objects by showing them thousands of examples.
+If we want the machines to recognise aeroplanes, cars, people and tables, we collect lots of images of these things and show them to the machine one after another.
+If it gets it wrong, we figure out a way to adjust the strength of the connections between neurons so the next time around it knows what it's looking at.
+What is Facebook doing with AI?
+Facebook's mission is to connect people with each other and increasingly that means facilitating communication between people but also connecting them with the digital world in their daily lives.
+One of the dreams we have had for years is some sort of intelligent agent that seems clever enough to do a lot of tasks, including organising meetings with friends and accessing information that might take you an hour or two on Google.
+If we have machines with a little bit of common sense, know a little bit about how the world works and which know you and your interests it could be very useful to you. That's the long-term goal.
+In the meantime we can use those technologies to do a lot of useful things - selecting content that might be interesting to them, filtering objectionable content, translating an image into text for the visually impaired, things of that type.
+Facebook has launched a rival to Siri. What's that project about?
+It is a project called M - it is indeed an assistant to which you can ask just about any question or to solve any problem.
+Some of the questions may require human expertise - so whenever the machine can't answer a question it is sent to human trainers and then the machine can learn to do a better job next time. As we get more experienced with the service, we will be able to build machines that do more automatically and scale the service to more people.
+What we are hoping to do is take this digital assistant idea to the next level. If you think about Siri, Cortana, Google Now - most of the answers they provide are scripted. Someone has imagined the possible answers and figured out a tree of possibilities. If you go outside of the script, the machines responds with a joke or tries to get out of it.
+All of its behaviour is programmed by humans but what we are trying to do with M is test the ability of a machine to learn.
+It is very ambitious, very risky and just a small experiment for the moment but we will see how it goes over the next year or two.
+We are very excited about it because it is really the essence of AI - a machine that you can talk to and that can help you.
+Elon Musk and Stephen Hawking are worried about the threat AI poses to humanity- where do you stand?
+I don't stand with them. First of all you have to realise that a lot of the people that make those statements are not themselves AI researchers.
+In the case of Elon Musk, he is very interested in existential threats to humanity - that's why he builds rockets to go to Mars in case something bad happens on Earth.
+In the case of Stephen Hawking, his thinking has evolved because since he became vocal on the subject he has talked to AI researchers. Also his motivation, his timescales are millions and billions of years - and what can we say about humanity in a billion years? It is very hard to say.
+That said, AI is already a powerful technology and it is going to become more powerful. Every powerful technology has the potential to be both very beneficial and very dangerous so we have to think about what we are doing.
+You don't buy into the killer robot scenario then?
+Robots taking over the world, Terminator-style or Ex Machina style - these are entertaining topics but they are not realistic at all.
+As humans we have a hard time imagining an intelligent entity that doesn't have all the drives and failings of humans because humans are the only example of an intelligent entity that we are familiar with.
+Humans have all kinds of drives that make them do bad things to each other, like the self-preservation instinct and the need to have access to food which leads into the need to have access to power and the desire to reproduce.
+Those drives are programmed into our brain but there is absolutely no reason to build robots that have the same kind of drives.

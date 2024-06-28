@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170511162301/http://www.bbc.co.uk/news/technology-30114346
+
+[SN]TITLE[SN]
+WhatsApp starts encrypting users' messages
+
+[SN]FIRST-SENTENCE[SN]
+WhatsApp has turned on an encryption system to protect messages sent with the Android version of its app.
+
+[SN]RESTBODY[SN]
+The WhatsApp Android application has been downloaded about 500 million times.
+It said the data scrambling system should make it much harder to eavesdrop on the messages users exchange.
+Tech firms have faced criticism by law enforcement figures who said greater use of encryption made it harder to track criminals and extremists.
+The encryption system being applied to WhatsApp is called TextSecure and has been developed by a non-profit group called Open Whisper Systems.
+"I do think this is the largest deployment of end-to-end encryption ever," said TextSecure developer Moxie Marlinspike in an interview with tech news site Wired.
+Unlike other encryption systems, which often scramble messages only as they travel from a device to the servers that companies use to route them to their recipients, TextSecure keeps the encryption intact throughout a message's journey from handset to handset.
+Initially the encryption is being applied only to messages sent via the Android version of WhatsApp. Soon it will be extended to group messages, photos and videos sent via the Android app.
+Open Whisper said it also planned to develop versions of TextSecure that work with WhatsApp apps on other smartphone operating systems but did not give a date for when those would be ready.
+The tie-up marks a huge boost in the numbers of people using TextSecure, which had reached about 10 million, mainly people who had installed the Cyanogen variant of the Android operating system.
+WhatsApp said the encryption system would be turned on by default for its huge number of Android users. In October, Facebook completed a $22bn (Â£14bn) acquisition of WhatsApp.
+In a separate development, the Electronic Frontier Foundation, which campaigns on digital rights, has unveiled a project to make it easier and cheaper for smaller organisations and websites to use strong encryption.
+Called Let's Encrypt, the initiative aims to produce software tools that automate, as much as possible, the process of using the web's standard encryption systems.
+Many sites and organisations shy away from adopting these technologies because they can be technically demanding to install and administer, said Peter Eckersley, EFF technology projects director, in a statement.
+"By making it easy, fast and free for websites to install encryption for their users, we will all be safer online," he said.
+Let's Encrypt has been set up with the help of Mozilla, Cisco, Akamai and others and aims to launch in 2015.
+Both moves could anger intelligence and law enforcement agencies, which have criticised tech firms for their greater use of encryption.
+Earlier this month, GCHQ boss Robert Hannigan said US tech companies were becoming a "command and control" network for terror groups as more secure communications presented a surveillance challenge.

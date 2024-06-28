@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150606060452/http://www.bbc.com/news/technology-33020523
+
+[SN]TITLE[SN]
+Power beamed to camera via ambient wi-fi signals
+
+[SN]FIRST-SENTENCE[SN]
+Wi-fi signals have been used to beam power to a surveillance camera.
+
+[SN]RESTBODY[SN]
+The battery-free camera was modified so it could scavenge power from ambient wi-fi signals, store it and then use it to take photos.
+The experiment was one of several by US researchers looking at ways to use wi-fi as a power source.
+The team behind the project believes its techniques will be useful for powering the many devices expected to form the "internet of things".
+The system, known as power-over-wi-fi, has been developed by PhD student Vamsi Talla and colleagues at the Sensor Systems Lab at the University of Washington in Seattle.
+The team realised that the energy contained in ambient wi-fi signals that are now ubiquitous often came close to the operating voltages required by a variety of low power devices.
+Unfortunately, because wi-fi signals are broadcast in bursts across different frequencies the required amount of energy was only available too intermittently to be useful.
+To fix this, the research team modified standard wi-fi hotspots and routers to broadcast noise when a channel was not being used to send data. This meant the power of the wi-fi signals stayed constant and, though low, was high enough to power some components.
+Adding the noise did little to slow data rates across hotspots, said the team.
+The team used the power beaming system to run a temperature sensor and a small surveillance camera that both sat several metres away from a wi-fi hotspot.
+The low-power camera gathered energy from wi-fi and stored it in a capacitor that prompted the camera to take a picture when it was charged. By leaching off the ambient radio signals, the camera gathered enough energy every 35 minutes to take a snap.
+In a paper detailing their work, Mr Talla and colleagues said it had the potential to help power the small, low-power sensors and actuators that are expected to become common in homes and workplaces as part of the internet of things.
+"The ability to deliver power wirelessly to a wide range of autonomous devices and sensors is hugely significant," said a story about the research in MIT's Technology Review. " Powi-fi could be the enabling technology that finally brings the internet of things to life."

@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170117205551/http://www.bbc.com/news/technology-38650441
+
+[SN]TITLE[SN]
+Ambulances to jam car radios in Sweden
+
+[SN]FIRST-SENTENCE[SN]
+Ambulances in Stockholm are testing a system that interrupts in-car audio systems to warn drivers that they need to get through.
+
+[SN]RESTBODY[SN]
+The solution was developed by students at the KTH Royal Institute of Technology in the city.
+It broadcasts a voice warning, while a text message also appears in the radio display.
+It uses an FM radio signal to jam drivers' speakers and stop music playing.
+It will only be able to alert cars that have their radios turned on. It can also interrupt CDs and music connected via Bluetooth.
+The radio transmission is sent from the emergency vehicle to nearby FM tuners that are equipped with RDS, a communications protocol for embedding small amounts of digital information in FM radio broadcasts. It is most commonly used to display the station or song title.
+"Often drivers have only a few seconds to react and give way to emergency vehicles," said Mikael Erneberg, a KTH student who worked on the system.
+"The optimal warning time is at least 10 to 15 seconds."
+Loud music can prevent sirens from being heard and, according to the students, accidents involving motorists who have not heard emergency vehicles are on the rise.
+"We want to catch motorists' attention at an early stage, and mitigate stress that impairs road safety," said Mr Erneberg.
+"It fulfils three functions: improving accessibility for first responders, improving road safety and make the working environment in transport better for vulnerable professions," said Mr Erneberg.
+The city will begin testing the system in a limited number of ambulances and fire engines, with plans to expand across the country later this year.
+The warning system can work out how far in advance messages need to be heard depending on the speed of traffic.

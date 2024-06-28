@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151228190015/http://www.bbc.co.uk/news/world-asia-35188570
+
+[SN]TITLE[SN]
+Analysis of North Korea's computer system reveals spy files
+
+[SN]FIRST-SENTENCE[SN]
+The first in-depth analysis of North Korea's internal computer operating system has revealed spying tools capable of tracking documents offline.
+
+[SN]RESTBODY[SN]
+Red Star OS was designed to superficially mimic Apple's OS X, but hidden features allow it to watermark files and tie them to an individual.
+The covert tools were discovered by two German researchers who conducted the analysis over the past month.
+They presented their findings at the Chaos Communication Congress on Sunday.
+Florian Grunow and Niklaus Schiess pored over the code of Red Star OS version 3.0, which first surfaced online about a year ago.
+The system's coders "did a pretty good job" of mimicking the basic design and functionality of Apple computers, Mr Grunow tells the BBC, but with a twist.
+Any files uploaded to the system via a USB stick or other storage device can be watermarked, allowing the state to trace the journey of that file from machine to machine. Red Star can also identify undesirable files and delete them without permission.
+The watermarking function was designed in response to the proliferation of foreign films and music being shared offline, says Mr Grunow. "It enables you to keep track of where a document hits Red Star OS for the first time and who opened it. Basically, it allows the state to track documents," he says.
+The system will imprint files with its individual serial number, although it is not known how easily the state can link those serial numbers to individual users.
+One element puzzling Mr Grunow is the discovery of an extended version of the watermarking software which he and Mr Schiess do not fully understand, but which he says may help identify individual users.
+"What we have seen is the basic watermarking, but we found evidence of an extended mechanism that is far more sophisticated, with different cryptography," he says.
+"It could be that this file is your individual fingerprint and they register this fingerprint to you, and that could help them track down individual users."
+Red Star also makes it nearly impossible for users to modify the system. Attempts to disable its antivirus software or internet firewall will prompt the system to reboot.
+The idea for an internal operating system was first conceived by Kim Jong-il, according to Mr Grunow. "He said North Korea must create their own operating system and that is what they've done.
+"If you look at North Korea, Red Star resembles how the state is operating. It's pretty locked down, they focus on integrity a lot and they have mechanisms to track users."
+As with many things about the world's most insular state, the extent to which Red Star is used in North Korea is not known. It is likely installed in libraries and other public buildings, says Mr Grunow, where operating systems can be decided by the state.
+Red Star was built using Linux, a free and open-source platform which can be modified at will, and was designed that way to make it as accessible as possible. There is an inherent irony in North Korea's use of the system, says Mr Grunow.
+"They are using a system that was built to promote free speech, and they are abusing it by watermarking free speech," he says.
+More ironic still is the name of the file used by Red Star to hunt for suspicious files on the machine: "The pattern file we found which is used by the so-called anti-virus software is called Angae," says Mr Grunow.
+"That translates to fog or mist - as in, to obfuscate or not be transparent. We have no idea why they picked this name, but it fits, doesn't it?"

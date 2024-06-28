@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170606012531/http://www.bbc.com/news/science-environment-40131242
+
+[SN]TITLE[SN]
+Faces recreated from monkey brain signals
+
+[SN]FIRST-SENTENCE[SN]
+Scientists in the US have accurately reconstructed images of human faces by monitoring the responses of monkey brain cells.
+
+[SN]RESTBODY[SN]
+The brains of primates can resolve different faces with remarkable speed and reliability, but the underlying mechanisms are not fully understood.
+The researchers showed pictures of human faces to macaques and then recorded patterns of brain activity.
+The work could inspire new facial recognition algorithms, they report.
+In earlier investigations, Professor Doris Tsao from the California Institute of Technology (Caltech) and colleagues had used functional magnetic resonance imaging (fMRI) in humans and other primates to work out which areas of the brain were responsible for identifying faces.
+Six areas were found to be involved, all of which are located in part of the brain known as the inferior temporal (IT) cortex. The researchers described these six areas as "face patches".
+Further research showed that face patches were jammed with particular nerve cells (neurons) that emit signals more strongly when they're presented with faces, rather than when they "see" other objects. The team members called these neurons "face cells".
+Prof Tsao's team came up with 50 different dimensions that could describe a face, such as the distance between the eyes, or the width of the hairline, as well as non-shape-related features such as skin tone.
+Then they inserted electrodes into the brains of macaque monkeys so that they could record individual signals from single face cells within the face patches.
+The results, published in the journal Cell, suggest that around 200 neurons each encode different characteristics of a face. But when all are combined, the information contributed by each nerve cell allows the macaque brain to build a clear image of someone's face.
+"We've discovered that this code is extremely simple," said Prof Tsao, who is based at Caltech's campus in Pasadena.
+"A practical consequence of our findings is that we can now reconstruct a face that a monkey is seeing by monitoring the electrical activity of only 205 neurons in the monkey's brain."
+When placed side by side, photos that the monkeys were shown and faces recreated from their brain activity (using an algorithm) were nearly identical.
+Face cells from just two of the face patches - 106 cells in one patch and 99 cells in another - were enough to reconstruct the faces.
+"People always say a picture is worth a thousand words," said Prof Tsao. "But I like to say that a picture of a face is worth about 200 neurons."
+Professor Reza Zadeh, who researches machine learning - among other areas - at Stanford University in California, told BBC News: "This study is exciting because the authors demonstrate reconstructing faces seen by primates through only recording neuronal activity with fMRI. First they figured out which neurons were sensitive to faces by showing the monkey face vs non-face images.
+Professor Zadeh, who was not involved with the latest study, added: "Then they took responses from all those face-sensitive neurons and built a model from the activity that can reconstruct the face. In very hacky way, they were reading the monkeys' brain to extract faces the monkey was seeing."
+Although the work is based on macaques, the close relationships between primates suggest that a comparable mechanism may operate in the human brain.
+The findings challenge the idea, held by other scientists in the field, that each face cell in the brain recognises a particular type of face.
+Further evidence against this idea came from the observation that when a large set of faces are engineered to look extremely different, they all cause a given face cell to fire in exactly the same way.
+"This was completely shocking to us - we had always thought face cells were more complex. But it turns out each face cell is just measuring distance along a single axis of face space, and is blind to other features," said Prof Tsao.
+The Cell paper's first author, Steve Le Chang, said the work suggested that "other objects could be encoded with similarly simple coordinate systems".
+Prof Zadeh, from Stanford's Institute for Computational and Mathematical Engineering (ICME), explained: "fMRI combined with Machine Learning to learn rough sketches of what people are thinking i.e. 'brain-reading' is not an new idea, it has been around for more than a decade, for example lie detection.
+"The unique thing about this study is being able to reconstruct faces so accurately. It brings joy to my heart to see Machine Learning being used at the forefront of biological research."
+One obvious potential application for the work is in the design of new machine learning algorithms for recognising faces. But there are others.
+"One can imagine applications in forensics where one could reconstruct the face of a criminal by analysing a witness's brain activity," said Prof Chao.
+Follow Paul on Twitter.

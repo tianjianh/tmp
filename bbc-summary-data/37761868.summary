@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170612214008/http://www.bbc.co.uk/news/technology-37761868
+
+[SN]TITLE[SN]
+Beijing threatens legal action over webcam claims
+
+[SN]FIRST-SENTENCE[SN]
+The Chinese Ministry of Justice has threatened legal action against "organisations and individuals" making "false claims" about the security of Chinese-made devices.
+
+[SN]RESTBODY[SN]
+It follows a product recall from the Chinese electronics firm Hangzhou after its web cameras were used in a massive web attack last week.
+The attack knocked out sites such as Reddit, Twitter, Paypal and Spotify.
+The Chinese government blamed customers for not changing their passwords.
+Its legal warning was added to an online statement from the company Xiongmai, in which the firm said that it would recall products, mainly webcams, following the attack but denied that its devices made up the majority of the botnet used to launch it.
+The firm later told Reuters that the recall would effect "less than 10,000" devices.
+It also noted that users not changing their default passwords were contributing to weak security.
+This was reiterated by the Ministry of Justice which said Xiongmai's products "cannot be manipulated by criminals", again blaming users who "do not change the initial password".
+The cyber attack hit Dyn, a firm which matches IP addresses to web addresses to allow users to find sites online, on 21 October.
+Afterwards, it became clear that it was made possible via a botnet made up of insecure "smart" devices, which had been taken over remotely and enlisted to bombard Dyn with data, knocking offline the sites it manages.
+Various publications, including security blogger Brian Krebs, said that products made by Xiongmai formed part of the botnet.
+Krebs pointed out that it was difficult for users to change the default passwords on devices.
+"Products from Xiongmai and other makers of inexpensive, mass-produced 'internet of things' devices are essentially unfixable," he said, "and will remain a danger to others unless and until they are completely unplugged from the internet."
+Video surveillance equipment expert Brian Karas said he did not believe the Chinese government would follow through on its legal threats.
+"We believe Xiongmai has issued this announcement as a PR effort within China, to help counter criticisms they are facing," he said.
+"We do not believe that Xiongmai or the Ministry of Justice is seriously going to sue any Western companies as this is a typical tactic to save face," he wrote.

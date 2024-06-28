@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170701052008/http://www.bbc.co.uk/news/technology-22107433
+
+[SN]TITLE[SN]
+Hacker targets flight deck computer systems
+
+[SN]FIRST-SENTENCE[SN]
+Aviation agencies in Europe and the US are keen to quiz a hacker who targeted flight deck computers.
+
+[SN]RESTBODY[SN]
+Security researcher Hugo Teso was able to "hijack" the systems to feed false navigation information to a simulated jet that made it change course.
+Mr Teso built his simulator using spare parts from real jets for sale on the eBay auction site.
+Authorities say actual flight computers are not compromised by his work but want to find out more.
+The loopholes in the flight management system were detailed by Mr Teso during a presentation to the Hack In The Box conference in Amsterdam.
+Mr Teso, who is also a qualified commercial pilot, said he had spent the past four years investigating the many different computer and data systems found on aircraft which help them fly and navigate safely.
+"I expected them to have security issues but I did not expect them to be so easy to spot," he said. "I thought I would have to fight hard to get into them but it was not that difficult."
+Mr Teso set out to find a way to subvert the flight management systems (FMS) found on many different aircraft. He planned to feed them fake or booby-trapped data via well-known radio communication systems.
+Old aviation equipment was bought via eBay to help Mr Teso interrogate the code these systems ran. This hardware was used to build a simulated aircraft that ran many of the systems found on commercial aircraft and could swap data via radio with the air traffic and navigation systems used in the real world.
+The lab work produced an attack toolkit that could influence the FMS of the simulated aircraft as it was "in flight".
+"I can influence the guidance and navigation of the aircraft," he told the BBC, adding that the system had "limitations".
+"It requires some careful planning and timing to achieve results," he said.
+Despite this, he said, publicity about the talk had led the European Aviation and Safety Agency (EASA) and the US Federal Aviation Administration to get in touch seeking more details. Now, he said, Mr Teso and n.runs, the German security company he works for, are setting up meetings to pass on his findings.
+In a statement, EASA said it was aware of Mr Teso's work and presentation.
+"This presentation was based on a PC training simulator and did not reveal potential vulnerabilities on actual flying systems," it said. "There are major differences between a PC-based training FMS software and an embedded FMS software."
+The version used on flight desks was hardened to avoid many of the loopholes found in the training systems, it added.
+Mr Teso said there was little risk that malicious hackers would be able to use what he found.
+"You would have to have solid knowledge of aviation and its protocols and that's not easy to get," he said, adding that he planned to keep on with the research. He said there were lots of other "approach vectors" for hacking aircraft systems.

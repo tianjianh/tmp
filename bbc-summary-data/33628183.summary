@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150722215717/http://www.bbc.co.uk/news/science-environment-33628183
+
+[SN]TITLE[SN]
+Better method for building with DNA
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have come up with an improved method for building tiny 3D structures out of strands of DNA.
+
+[SN]RESTBODY[SN]
+Using an approach from computer science, they were able to calculate the best way to fold almost any given shape out of a long, continuous strand.
+Then, using the principles of "DNA origami", hundreds of shorter strands were used to "staple" the joins.
+Importantly, the structures are stable enough to be used to make microscopic biomedical contraptions.
+The research is published in the journal Nature.
+"What we wanted to do was to create a design paradigm that could very closely mimic polygonal 3D shapes, like the ones that you get in computer 3D models," said senior author Dr Bjorn Hogberg, of the Karolinska Institute, in Sweden.
+"The structures are built up of one long [single strand] of DNA that needs to go through the whole structure.
+"You want to go through every edge once and only once, and then come back to exactly the same spot where you were before."
+Once that route for the DNA strand has been plotted, the shape needs "staples".
+Each staple is a short piece of DNA, made with a particular sequence that matches two different pieces of the main strand.
+Because of that sequence match, the two sections of the staple will bind to those two parts of the main strand and coil into DNA's famous double helix structure, joining the two sections together.
+Known as "DNA origami", this type of assisted folding is not new; it has already been used to build various shapes and even prototype drug-delivery "robots".
+But the flexibility and ease of use of the new system are striking. Once a shape has been chosen, the rest of the manufacturing almost takes care of itself.
+"With a few clicks of your mouse, you get a complete list of the DNA strands that you need to mix in a test tube," Dr Hogberg told BBC News.
+"Then you send that to a DNA synthesising company, you receive the DNA, you mix it up in a test tube, and these structures self-assemble."
+Working with collaborators from Aalto University in Finland, Dr Hogberg's team has demonstrated the system with a range of shapes, from rods and balls to a bottle, a bunny and a tiny person.
+They might not look like works of art, but they are mind-bogglingly small: less than 100nm (0.0001mm) across, which is roughly one five-hundredth of a hair's breadth.
+In a comment article also published in Nature, Prof Tim Liedl, from the Ludwig Maximilian University of Munich, said the work was a step towards "the dream of nanoscale 3D printing".
+"This is not the first study to present polygon meshes constructed from DNA - decades of research have produced dozens of methods for building DNA-based polyhedra and wireframe structures," Prof Liedl wrote.
+"But the current work arguably presents the most versatile and streamlined design method."
+Follow Jonathan on Twitter

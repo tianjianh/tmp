@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150825115349/http://www.bbc.co.uk/news/technology-34051133
+
+[SN]TITLE[SN]
+Twitter blocks accounts tracking MPs' deleted tweets
+
+[SN]FIRST-SENTENCE[SN]
+Twitter has blocked a series of accounts on the social network that tracked politicians' tweets and alerted other users when they were deleted.
+
+[SN]RESTBODY[SN]
+A total of 31 accounts, including one monitoring British MPs, will no longer be able to function as intended.
+Twitter said the accounts broke its rules for apps connecting to the service.
+The Open State Foundation, which manages the accounts, has criticised the move.
+Affected accounts, which are all known as "Politwoops" accounts, include UK-focused @DeletedbyMPs and @DeletedbyMSPs.
+"The majority of deleted tweets are typos which are not very interesting," Arjan El Fassed, director of the Open State Foundation, told the BBC.
+"But there are a few kept in the dark which say something about their political views."
+He added that the group would be reviewing possibilities for a legal challenge to the block and would also experiment with technical options that might allow them to bypass it.
+Twitter's developer agreement defines how data from the application program interface (API), which allows third-party apps access to Twitter data, may be used.
+One rule specifically addresses the issue of tracking deleted tweets - and says that it is not allowed.
+"Recently, we identified several services that used the feature we built to allow for the deletion of tweets to instead archive and highlight them," a spokesman for Twitter told the BBC.
+"We subsequently informed these services of their non-compliance and suspended their access to our APIs."
+Jim Killock, executive director of the Open Rights Group, told the BBC that people had the right to delete embarrassing tweets, and Twitter also had the right to enforce its terms and conditions.
+"However, equally, tweets are published in the full view of everyone so people have an absolute right to record things they think are in the public interest, especially from politicians," he added.
+"There is little Twitter can do about this."
+The decision could have consequences for Twitter, according to Paul Bernal, a law lecturer at the University of East Anglia.
+"This might get you friends in political circles, but it'll get you enemies in the community and you need the community as well as political people," he told the BBC.

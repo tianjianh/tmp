@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160701065541/http://www.bbc.com/news/technology-36662612
+
+[SN]TITLE[SN]
+World-Check terrorism database exposed online
+
+[SN]FIRST-SENTENCE[SN]
+A financial crime database used by banks has been "leaked" on to the net.
+
+[SN]RESTBODY[SN]
+World-Check Risk Screening contains details about people and organisations suspected of being involved in terrorism, organised crime and money laundering, among other offences.
+Access is supposed to be restricted under European privacy laws.
+The database's creator, Thomson Reuters, has confirmed an unnamed third-party exposed an "out of date" version online.
+But it says the material has since been removed.
+Security researcher Chris Vickery said he discovered the leak. He notified the Register, which reported that it contained more than two million records and was two years old.
+"There was no protection at all. No username or password required to see the records," Mr Vickery told the BBC.
+"I want to be clear that this unprotected database was not directly hosted by Thomson Reuters itself."
+A spokesman for the financial data provider said it was trying to tackle the problem.
+"We are grateful to Chris Vickery for bringing this to our attention, and immediately took steps to contact the third party responsible - as a result we can confirm that the third party has taken down the information. We have also spoken to the third party to ensure there will be no repetition of this unacceptable incident," David Crundwell said.
+"World-Check aggregates financial crime data from the public domain, including official sanctions data, to help clients meet their regulatory responsibilities."
+Other sources of information used to collate the database include :
+Individuals' dates and places of birth are also listed, in order to help banks check they are looking into the right people.
+"The worst possible situation that could arise is that someone who may be innocent, but accused of criminal activity in the database, could be permanently branded on a global scale if this database were to be spread publicly," said Mr Vickery.
+A spokeswoman for the UK's Information Commissioner Officer said the Data Protection Act required personal information to be kept secure even if it had been collated from public sources.
+"Organisations must take appropriate measures against unauthorised or unlawful processing of personal data and against accidental loss, destruction or damage," she said.
+"We'll be making enquiries."
+In 2015, a BBC investigation by the called into question why World-Check had listed London's Finsbury Park Mosque within its terrorism category.

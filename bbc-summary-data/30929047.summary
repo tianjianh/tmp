@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114084410/http://www.bbc.co.uk:80/news/science-environment-30929047
+
+[SN]TITLE[SN]
+Satellite watchroom targets illegal fishing
+
+[SN]FIRST-SENTENCE[SN]
+Technologists have introduced a novel system they hope can help tackle illegal fishing.
+
+[SN]RESTBODY[SN]
+It meshes satellite and other data to monitor the activities of vessels, automatically triggering alarms when suspicious activity is observed.
+The project is a joint venture between the Pew Charitable Trusts and the UK Satellite Applications Catapult.
+It is thought as many as one in five fish are landed outside of national or international regulations.
+The value of this trade could exceed more than $20bn (Â£13bn; 17bn euros) a year, according to some estimates.
+Much of this theft is perpetrated by industrial-scale pirate operations that think the vast expanse of the oceans can hide their behaviour.
+The new system, known as Project Eyes on the Seas, will be operated initially from a "watchroom" at the Catapult's Harwell, Oxfordshire, HQ.
+The smart monitoring system does not merely track vessels at sea; it analyses their movements. And by looking at additional inputs like sea conditions and probable fish locations, it can make predictions about what vessels are doing.
+Algorithms built into Project Eyes will provide alerts to the watchroom.
+"It can use the tracks that are being transmitted to recognise activity that is related to fishing," explained Pew's Tony Long.
+"So, for example, we have a proximity alert that tells us when vessels are coming together to perhaps exchange catch; we have a slow-speed alert that indicates when any vessel has come down below five knots, which might indicate it's put fishing gear in the water; and it will also alert us when vessels cross boundaries, like going into a no-take area.
+"We've built these algorithms using historical data, and we're now transferring them to the live system."
+This is not the first system of its kind, but Pew says the speed of the intelligent analysis to which the multi-layered data is subjected takes the approach to a new level.
+Fundamental to the system's operation are the safety and management transponders that are routinely fitted to many vessels detailing their whereabouts to overflying satellites.
+Of course, these transponders may not be present on some of the smallest boats, or may even be disabled or "spoofed" even where there are fitted.
+But Project Eyes is pulling in satellite radar data as well - from which the larger boats cannot hide. And it is hoped that by targeting these key "trans-shipment" vessels, which conduct the mid-ocean exchanges of illegal catch, that many of the smaller "dark" boats can be disrupted as well.
+Chile and the Pacific island republic of Palau will be among the first to use the system to help protect their fishing interests.
+Palau is setting up a marine reserve, and with its economic waters extending over an area the size of France, it knows it faces an immense challenge in keeping tabs on a fleet of problematic boats from Asia.
+Koebel Sakuma is a senior adviser to the president. He told BBC News: "We've seen an exponential increase in illegal activity in our region in the past two years.
+"It's a difficult situation for us in that we're a small country with limited resources and we're responsible for patrolling this vast area with one vessel donated by Australia.
+"This technology will allow us to use our assets more efficiently."
+And that will be true also of more developed nations. They could access the information to decide when best to send up drones or spotter planes to investigate suspicious trawling.
+Tony Long reckons even big supermarkets will see a use for the technology.
+"Retailers can use this system to show due diligence down their supply chain and start to understand exactly where their fish is being caught by what vessels; and actually by driving fishing vessels to behave more transparently through that supply chain, we'll actually really start to change the behaviour of vessels out at sea."
+Already, the German Metro Group, which deals in over 1.2bn euros ($1.4bn; Â£0.9bn) of fish products a year, has ideas for putting display boards at shop counters that would allow consumers to check, through the sale barcode, precisely where on the seas that fish supper was caught, even providing the name of the trawler involved.
+Although the new system focuses on fishing, experts say it could quite easily be adapted to tackle other issues, such as general piracy, drug trafficking, smuggling and "bunkering".
+Mark Hampson is the chief innovation officer at the Catapult.  He commented: "By bringing different data sources on to an open platform, which is securely constructed so that the data can be kept confidential where appropriate, different users can build different applications on it.
+"And we hope that industrial partners will build applications on the platform and go out and address some of these fundable opportunities."
+Harwell is a major node for the EU's new Sentinel constellation, a series of satellites being launched this decade to keep watch over Planet Earth.
+The Sentinel data will be open and free. The Catapult has been charged with driving new applications for all this information.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

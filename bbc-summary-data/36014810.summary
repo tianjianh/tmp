@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170704222617/http://www.bbc.com/news/technology-36014810
+
+[SN]TITLE[SN]
+Petya ransomware encryption system cracked
+
+[SN]FIRST-SENTENCE[SN]
+Petya ransomware victims can now unlock infected computers without paying.
+
+[SN]RESTBODY[SN]
+An unidentified programmer has produced a tool that exploits shortfalls in the way the malware encrypts a file that allows Windows to start up.
+In notes put on code-sharing site Github, he said he had produced the key generator to help his father-in-law unlock his Petya-encrypted computer.
+The malware, which started circulating in large numbers in March, demands a ransom of 0.9 bitcoins (Â£265).
+It hid itself in documents attached to emails purporting to come from people looking for work.
+Security researcher Lawrence Abrams, from the Bleeping Computer news site, said the key generator could unlock a Petya-encrypted computer in seven seconds.
+But the key generator requires victims to extract some information from specific memory locations on the infected drive.
+And Mr Abrams said: "Unfortunately, for many victims extracting this data is not an easy task."
+This would probably involve removing the drive and then connecting it up to another virus-free computer running Windows, he said.
+Another tool can then extract the data, which can be used on the website set up to help people unlock their computer.
+Independent security analyst Graham Cluley said there had been other occasions when ransomware makers had "bungled" their encryption system.
+Cryptolocker, Linux.encoder and one other ransomware variant were all rendered harmless when their scrambling schemes were reverse-engineered.
+"Of course," said Mr Cluley, "the best thing is to have safety secured backups rather than relying upon ransomware criminals goofing up."

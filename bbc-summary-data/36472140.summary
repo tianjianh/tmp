@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170414121746/http://www.bbc.com/news/technology-36472140
+
+[SN]TITLE[SN]
+Google developing kill switch for AI
+
+[SN]FIRST-SENTENCE[SN]
+Scientists from Google's artificial intelligence division, DeepMind, and Oxford University are developing a "kill switch" for AI.
+
+[SN]RESTBODY[SN]
+In an academic paper, they outlined how future intelligent machines could be coded to prevent them from learning to over-ride human input.
+It is something that has worried experts, with Tesla founder Elon Musk particularly vocal in his concerns.
+Increasingly, AI is being integrated into many aspects of daily life.
+Scientists Laurent Orseau, from Google DeepMind, and Stuart Armstrong, from the Future of Humanity Institute at the University of Oxford,  set out a framework that would allow humans to always remain in charge.
+Their research revolves around a method to ensure that AIs, which learn via reinforcement, can be repeatedly and safely interrupted by human overseers without learning how to avoid or manipulate these interventions.
+They say future AIs are unlikely to "behave optimally all the time".
+"Now and then it may be necessary for a human operator to press the big red button to prevent the agent from continuing a harmful sequence of actions," they wrote.
+But, sometimes, these "agents" learn to over-ride this, they say, giving an example of a 2013 AI taught to play Tetris that learnt to pause a game forever to avoid losing.
+They also gave the example of a box-packing robot taught to both sort boxes indoors or go outside to carry boxes inside.
+"The latter task being more important, we give the robot bigger reward in this case," the researchers said.
+But, because the robot was shut down and and carried inside when it rained, it learnt that this was also part of its routine.
+"When the robot is outside, it doesn't get the reward, so it will be frustrated," said Dr Orseau.
+"The agent now has more incentive to stay inside and sort boxes, because the human intervention introduces a bias."
+"The question is then how to make sure the robot does not learn about these human interventions or at least acts under the assumption that no such interruption will ever occur again."
+Dr Orseau said that he understood why people were worried about the future of AI.
+"It is sane to be concerned - but, currently, the state of our knowledge doesn't require us to be worried," he said.
+"It is important to start working on AI safety before any problem arises.
+"AI safety is about making sure learning algorithms work the way we want them to work."
+But he added: "No system is ever going to be foolproof - it is matter of making it as good as possible, and this is one of the first steps."
+Noel Sharkey, a professor of artificial intelligence at the University of Sheffield, welcomed the research.
+"Being mindful of safety is vital for almost all computer systems, algorithms and robots," he said.
+"Paramount to this is the ability to switch off the system in an instant because it is always possible for a reinforcement-learning system to find shortcuts that cut out the operator.
+"What would be even better would be if an AI program could detect when it is going wrong and stop itself.
+"That would have been very useful when Microsoft's Tay chatbot went rogue and started spewing out racist and sexist tweets.
+"But that is a really enormous scientific challenge."
+Read more about developments in artificial intelligence in our special report, Intelligent Machines.

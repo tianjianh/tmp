@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151104185916/http://www.bbc.co.uk/news/technology-34719564
+
+[SN]TITLE[SN]
+Google reveals Samsung Galaxy S6 Edge's security flaws
+
+[SN]FIRST-SENTENCE[SN]
+Google has highlighted 11 security flaws in Samsung's flagship Android handset, the Galaxy S6 Edge.
+
+[SN]RESTBODY[SN]
+The vulnerabilities include a loophole that could have been used by hackers to gain control of a victim's phone.
+Most of the issues were fixed after Google notified Samsung, but some have yet to be addressed.
+One independent expert said the bugs "significantly weakened the security" of Google's operating system.
+"There is definitely a tension between Google and the handset manufacturers because Google wants to protect its Android brand, and when it comes to security, Android has been quite tarnished," added Dr Steven Murdoch, a security researcher at University College London.
+"Some of that is down to the extra software that handset manufacturers add."
+A statement from Samsung said the three remaining bugs would be fixed via a security update later this month.
+"Maintaining the trust of our customers is a top priority", said the company.
+Details of the bugs were disclosed by Google's Project Zero team, whose job is to hunt out previously unknown computer security flaws.
+It said that several of the flaws would have been "trivial to exploit".
+"Over the course of a week, we found a total of 11 issues with a serious security impact," the team blogged.
+"The majority of these issues were fixed on the device we tested via an OTA [over the air] update within 90 days.
+"It is promising that the highest severity issues were fixed and updated on-device in a reasonable timeframe."
+Among the vulnerabilities was a weakness found in Samsung's email software that could have allowed hackers to forward a victim's messages to their own account.
+Another allowed attackers to alter the settings of Samsung's photo-viewing app by sending the handset a specially encoded image.
+But Google said the most interesting issue was the existence of a "directory traversal bug" in a wi-fi utility built in to the phone.
+"If someone provided malicious data to the software, they could then change other files on the system and interfere with other functions, in particular security functions," said Dr Murdoch.
+To do this, he said, a hacker would also need to convince their target to install a malicious app, which might appear to have very limited access to the phone's other functions.
+But by exploiting the flaw, the malware could then escalate its privileges.
+"This would only happen as part of a chain of events, but eventually it could allow someone to take over the entire phone," Dr Murdoch added.
+"Android tries to have layers of protection, so even if you break past one level of protection there's another one.
+"This removed some quite important layers of that protection."
+Samsung confirmed it had addressed this particular issue in a security update released last month.
+"Samsung encourages users to keep their software and apps updated at all times," added a spokesman.

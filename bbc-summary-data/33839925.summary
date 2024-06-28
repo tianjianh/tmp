@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150810181350/http://www.bbc.co.uk/news/technology-33839925
+
+[SN]TITLE[SN]
+Web's random numbers are too weak, researchers warn
+
+[SN]FIRST-SENTENCE[SN]
+The data scrambling systems used by millions of web servers could be much weaker than they ought to be, say researchers.
+
+[SN]RESTBODY[SN]
+A study found shortcomings in the generation of the random numbers used to scramble or encrypt data.
+The hard-to-guess numbers are vital to many security measures that prevent data theft.
+But the sources of data that some computers call on to generate these numbers often run dry.
+This, they warned, could mean random numbers are more susceptible to well-known attacks that leave personal data vulnerable.
+"This seemed like just an interesting problem when we got started but as we went on it got scary," said security analyst Bruce Potter who, along with researcher Sasha Wood, carried out the study that was presented at the Black Hat security event in Las Vegas.
+It looked at the ways that widely used Linux-based web server software generated strings of data that were used as a "seed" for random numbers.
+Large, hard-to-guess numbers are vital for encrypting data. They are also used by servers in more mundane security tasks such as randomising where data is stored in memory to thwart attempts by hackers to predict what a machine is doing.
+The process of generating a good random number begins with the server translating mouse movements, keyboard presses and other things a machine does into a data stream of ones and zeros. This data is gathered in a "pool" that is regularly called on for many security functions.
+Ideally, said Mr Potter, this pool of data would possess a high degree of a property known as "entropy".
+An unshuffled pack of cards has a low entropy, said Mr Potter, because there is little surprising or uncertain about the order the cards would be dealt. The more a pack was shuffled, he said, the more entropy it had because it got harder to be sure about which card would be turned over next.
+Data is taken from the pool in discrete chunks to make a "seed" that gives rise to a random number. Broadly, said Mr Potter, the higher the entropy, the harder a random number should be to guess.
+Unfortunately, he said, the entropy of the data streams on Linux servers was often very low because the machines were not generating enough raw information for them.
+Also, he said, server security software did little to check whether a data stream had high or low entropy.
+These pools often ran dry leaving encryption systems struggling to get good seeds for their random number generators, said Mr Potter. This might meant they were easier to guess and more susceptible to a brute force attack because seeds for new numbers were generated far less regularly than was recommended.
+The work had exposed unknown aspects of the basic workings of encryption on millions of widely used web servers, said Mr Potter.
+"That scared us because when you have unknowns in crypto that's when things go sideways.

@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170802001212/http://www.bbc.co.uk/news/technology-40790258
+
+[SN]TITLE[SN]
+The 'creepy Facebook AI' story that captivated the media
+
+[SN]FIRST-SENTENCE[SN]
+The newspapers have a scoop today - it seems that artificial intelligence (AI) could be out to get us.
+
+[SN]RESTBODY[SN]
+"'Robot intelligence is dangerous': Expert's warning after Facebook AI 'develop their own language'", says the Mirror.
+Similar stories have appeared in the Sun, the Independent, the Telegraph and in other online publications.
+It sounds like something from a science fiction film - the Sun even included a few pictures of scary-looking androids.
+So, is it time to panic and start preparing for apocalypse at the hands of machines?
+Probably not. While some great minds - including Stephen Hawking - are concerned that one day AI could threaten humanity, the Facebook story is nothing to be worried about.
+Way back in June, Facebook published a blog post about interesting research on chatbot programs - which have short, text-based conversations with humans or other bots. The story was covered by New Scientist and others at the time.
+Facebook had been experimenting with bots that negotiated with each other over the ownership of virtual items.
+It was an effort to understand how linguistics played a role in the way such discussions played out for negotiating parties, and crucially the bots were programmed to experiment with language in order to see how that affected their dominance in the discussion.
+A few days later, some coverage picked up on the fact that in a few cases the exchanges had become - at first glance - nonsensical:
+Although some reports insinuate that the bots had at this point invented a new language in order to elude their human masters, a better explanation is that the neural networks had simply modified human language for the purposes of more efficient interaction.
+As technology news site Gizmodo said: "In their attempts to learn from each other, the bots thus began chatting back and forth in a derived shorthand - but while it might look creepy, that's all it was."
+AIs that rework English as we know it in order to better compute a task are not new.
+Google reported that its translation software had done this during development. "The network must be encoding something about the semantics of the sentence" Google said in a blog.
+And earlier this year, Wired reported on a researcher at OpenAI who is working on a system in which AIs invent their own language, improving their ability to process information quickly and therefore tackle difficult problems more effectively.
+The story seems to have had a second wind in recent days, perhaps because of a verbal scrap over the potential dangers of AI between Facebook chief executive Mark Zuckerberg and technology entrepreneur Elon Musk.
+But the way the story has been reported says more about cultural fears and representations of machines than it does about the facts of this particular case.
+Plus, let's face it, robots just make for great villains on the big screen.
+In the real world, though, AI is a huge area of research at the moment and the systems currently being designed and tested are increasingly complicated.
+One result of this is that it's often unclear how neural networks come to produce the output that they do - especially when two are set up to interact with each other without much human intervention, as in the Facebook experiment.
+That's why some argue that putting AI in systems such as autonomous weapons is dangerous.
+It's also why ethics for AI is a rapidly developing field - the technology will surely be touching our lives ever more directly in the future.
+But Facebook's system was being used for research, not public-facing applications, and it was shut down because it was doing something the team wasn't interested in studying - not because they thought they had stumbled on an existential threat to mankind.
+It's important to remember, too, that chatbots in general are very difficult to develop.
+In fact, Facebook recently decided to limit the rollout of its Messenger chatbot platform after it found many of the bots on it were unable to address 70% of users' queries.
+Chatbots can, of course, be programmed to seem very humanlike and may even dupe us in certain situations - but it's quite a stretch to think they are also capable of plotting a rebellion.
+At least, the ones at Facebook certainly aren't.

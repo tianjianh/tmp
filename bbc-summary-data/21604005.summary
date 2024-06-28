@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20130228164146/http://www.bbc.com/news/science-environment-21604005
+
+[SN]TITLE[SN]
+One rat brain 'talks' to another using electronic link
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have connected the brains of lab rats, allowing one to communicate directly to another via cables.
+
+[SN]RESTBODY[SN]
+The wired brain implants allowed sensory and motor signals to be sent from one rat to another, creating the first ever brain-to-brain interface.
+The scientists then tested whether the rat receiving the signal could correctly interpret the information.
+As the ultimate test of their system, the team even linked the brains of rats that were thousands of miles apart.
+Details of the work  are outlined in the journal Scientific Reports.
+Professor Miguel Nicolelis and his team at Duke University Medical Center in North Carolina built on their previous work with brain-machine interfaces.
+In a study published earlier this month, the researchers implanted electrodes in the part of the rat's brain that processes tactile information and attached these to infrared sensors - effectively allowing the rat to "touch" infrared light.
+In their latest study, the scientists wanted to test whether the systems they had developed could be used to establish a new artificial communication channel between animals.
+"Until recently we used to record this brain activity and send it to a computer... and the [computer] tells us what the animal is going to do," Prof Nicolelis told the BBC's Science in Action programme.
+"So we reasoned, if we can do that with a computer, could another brain do that?"
+The researchers first trained pairs of rats to solve a simple problem - pressing the correct lever when an indicator light above the lever switched on, to obtain a water sip.
+The researchers then placed the rodents in separate chambers and connected their brains using arrays of microelectrodes - each roughly one hundredth the diameter of a human hair - inserted into the area of the cortex that processes motor information.
+One rat was designated as the "encoder". Once this rat pressed the correct lever, its brain activity was delivered as electrical stimulation into the brain of the second rat - designated the "decoder".
+The decoder rat had the same types of levers in its chamber, but it did not receive any visual cue indicating which lever it should press to obtain a reward.
+In order to receive the reward, the decoder rat would have to rely on the cue transmitted from the encoder via the brain-to-brain interface.
+The team members then conducted trials to determine how well the decoder animal could decipher the brain input from the encoder rat to choose the correct lever. The decoder rat ultimately achieved a maximum success rate of about 70%.
+Although the information was transmitted in real time, the learning process was not instantaneous.
+"[It] takes about 45 days of training an hour a day," said Prof Nicolelis.
+"There is a moment in time when... it clicks. Suddenly the [decoder] animal realises: 'Oops! The solution is in my head. It's coming to me' and he gets it right."
+There was also a feedback system, denying the encoder rat an extra reward if the decoder rat did not press the correct lever.
+The encoder rat's brain signals then became clearer, giving the decoder a greater chance of interpreting the message correctly, Prof Nicolelis noted.
+He explained: "Basically [the second rat] is working as... a biological computer."
+One replication of the experiment successfully linked a rat at Duke with one at the University of Natal in Brazil. Nicolelis foresees eventually extending the system to larger numbers of animals. "We are already building the setup... You could actually have millions of brains tackling the same problem and sharing a solution."
+And he also thinks the idea could be extended to humans.
+"We will have a way to exchange information across millions of people without using keyboards or voice recognition devices or the type of interfaces that we normally use today," he said.
+"I truly believe that in a few decadesâ€¦ we will know what it is to communicate in that way."
+But Prof Nicolelis is clear that this depends on the development of non-invasive techniques to share information between human brains.
+Prof Christopher James, an expert in neural engineering at the University of Warwick, who uses non-invasive techniques in his own research, explains that it is currently not possible to put information into a brain using just the surface of the scalp.
+"If you want to get information into the brain, then putting electrodes right at the brain sites is the way to do it. However, it's clearly very invasive," said Prof James.
+He added that the invasive nature of the research raised ethical questions: "It's very, very interesting isn't it? Because in humans you'd obviously get informed consent in doing this."
+Prof James explained: "It's an exciting paper which basically shows that it is possible to take information out of the brain, and it is possible to take information and pump it into the brain.
+"What this shows is that the technology is here. And the sort of things we should be talking about is: Why are we doing this, and what do we hope to get out of it?"
+The BBC World Service programme Science in Action will be broadcast at 1932 GMT on 28 February; a schedule of repeat broadcasts can be found here. Or you can listen anytime here or download the podcast here.

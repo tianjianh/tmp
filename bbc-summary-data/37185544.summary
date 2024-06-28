@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170102191206/http://www.bbc.com/news/technology-37185544
+
+[SN]TITLE[SN]
+Apple tackles iPhone one-tap spyware flaws
+
+[SN]FIRST-SENTENCE[SN]
+Flaws in Apple's iOS operating system have been discovered that made it possible to install spyware on a target's device merely by getting them to click on a link.
+
+[SN]RESTBODY[SN]
+The discovery was made after a human rights lawyer alerted security researchers to unsolicited text messages he had received.
+They discovered three previously unknown flaws within Apple's code.
+Apple has since released a software update that addresses the problem.
+The two security firms involved, Citizen Lab and Lookout, said they had held back details of the discovery until the fix had been issued.
+The lawyer, Ahmed Mansoor, received the text messages on 10 and 11 August.
+The texts promised to reveal "secrets" about people allegedly being tortured in the United Arab Emirates (UAE)'s jails if he tapped the links.
+Had he done so, Citizen Lab says, his iPhone 6 would have been "jailbroken", meaning unauthorised software could have been installed.
+"Once infected, Mansoor's phone would have become a digital spy in his pocket, capable of employing his iPhone's camera and microphone to snoop on activity in the vicinity of the device, recording his WhatsApp and Viber calls, logging messages sent in mobile chat apps, and tracking his movements," said Citizen Lab.
+"We are not aware of any previous instance of an iPhone remote jailbreak used in the wild as part of a targeted attack campaign, making this a rare find."
+The researchers say they believe the spyware involved was created by NSO Group, an Israeli "cyber-war" company.
+"[It is] the most sophisticated spyware package we've seen," said Lookout.
+"It takes advantage of how integrated mobile devices are in our lives and the combination of features only available on mobile - always connected (wi-fi, 3G/4G), voice communications, camera, email, messaging, GPS, passwords, and contact lists."
+This is in many ways a textbook case of the cybersecurity community acting precisely as it should. Researchers were alerted to a vulnerability, investigated it, and made Apple, the company responsible for fixing it, aware so it could issue a fix. Apple, to its credit, understood the severity and acted quickly - it took them just 10 days.
+These types of vulnerabilities are rare and extremely lucrative. A genuine "zero day" - the name given to previously unknown security flaws - can be sold for upwards of $1m when it affects a major piece of software like Apple's iOS. In this case, it looks like several zero days were combined to make a hugely sophisticated attack package.
+Now attention is shifting to the secretive organisation said to be behind the attack, the NSO Group, described by researchers as a cyber arms dealer, and described by itself as firm capable of being a "ghost" on victims' devices - working undetected but gathering enormous amounts of private data.
+According to Privacy International, NSO Group has sold its products to clients in Mexico and in Panama - but little is known about other deals involving the company which is said to be worth more than $1bn.
+Pressure is also being put on Francisco Partners Ltd, the San Francisco-based venture capital firm that has a controlling stake in NSO Group. It is yet to comment on the controversial attack.
+NSO has issued a statement acknowledging that it makes technology used to "combat terror and crime" but said it had no knowledge of any particular incidents and made no reference to the specific spyware involved.
+"These are rather rare zero-day flaws," commented security expert Prof Alan Woodward, referring to the technical name for previously unknown vulnerabilities.
+"To have several found at once is even rarer. As can be seen from how these have been exploited to date, it represents a serious threat to the security and privacy of iOS users.
+"Apple has been remarkably responsive in providing fixes for these issues, so I would encourage any iOS users to update to the latest version of the operating system."
+For its part, Apple has limited itself to saying: "We were made aware of this vulnerability and immediately fixed it with iOS 9.3.5. We advise all of our customers to always download the latest version of iOS to protect themselves against potential security exploits."

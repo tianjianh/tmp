@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170116113624/http://www.bbc.com:80/news/technology-33083050
+
+[SN]TITLE[SN]
+Kaspersky Lab cybersecurity firm is hacked
+
+[SN]FIRST-SENTENCE[SN]
+One of the leading anti-virus software providers has revealed that its own systems were recently compromised by hackers.
+
+[SN]RESTBODY[SN]
+Kaspersky Lab said it believed the attack was designed to spy on its newest technologies.
+It said the intrusion involved up to three previously unknown techniques.
+The Russian firm added that it was continuing to carry out checks, but believed it had detected the intrusion at an early stage.
+Although it acknowledged that the attackers had managed to access some of its files, it said that the data it had seen was "in no way critical to the operation" of its products.
+"Spying on cybersecurity companies is a very dangerous tendency," said the company's chief executive Eugene Kaspersky.
+"The only way to protect the world is to have law enforcement agencies and security companies fighting such attacks openly.
+"We will always report attacks regardless of their origin."
+Kaspersky Lab said that it had detected the breach in the "early spring", and described it as "one of the most sophisticated campaigns ever seen".
+The malware does not write any files to disk, but instead resides in affected computers' memory,  making it relatively hard to detect.
+Kaspersky linked the attack to the unidentified creators of an earlier Trojan named Duqu, which made headlines in 2011 after being used in attacks on Iran, India, France and Ukraine.
+As before, the hackers are said to have exploited Microsoft software to achieve their goal.
+Last time they made use of a flaw in Word.
+This time, Kaspersky said, the malware was spread using Microsoft Software Installer files, which are commonly used by IT staff to install programs on remote computers.
+"This highly sophisticated attack used up to three zero-day [previously unknown] exploits, which is very impressive - the costs must have been very high," commented Costin Raiu, director of Kaspersky Lab's global research and analysis team.
+He warned that the firm had evidence "Duqu 2.0" attacks had also been made on other targets, including several venues used for talks between Iran and the West about Iran's nuclear programme.
+The chief research officer of a rival computer security firm said he had had only a brief chance to look into the allegations, but added that it did appear to be a "big deal".
+"Duqu 2.0 seems to be the biggest [cybersecurity] news of the year so far - it's major new malware from a major source," said Mikko Hypponen, chief research officer at F-Secure.
+"But we have previously seen security companies used as a way to reach other targets.
+"The prime example of this was RSA, which got hacked four years ago, when we believe the target was a defence contractor in the US, which used RSA's technology."
+Kaspersky said that it was "confident" that its clients and partners remained safe.

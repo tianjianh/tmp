@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170518062636/http://www.bbc.co.uk/news/technology-35773058
+
+[SN]TITLE[SN]
+Spike in ransomware spam prompts warnings
+
+[SN]FIRST-SENTENCE[SN]
+Security firms are warning about a sudden "huge" surge in junk mail messages containing ransomware.
+
+[SN]RESTBODY[SN]
+The surge is being blamed on the group behind a novel strain of ransomware called Locky.
+One security firm reported that a version of Locky produced two weeks ago is now the second most prevalent form of ransomware it sees.
+The US, France and Japan were the top targets for the gang behind Locky, statistics suggested.
+Like many other ransomware programs, Locky encrypts data on an infected machine and then asks for a payment before providing a decryption key. Currently Locky asks for 3 bitcoins (Â£885) as payment.
+The first versions of Locky hid the malicious attachment that did the encrypting in add-ons or macros for Microsoft Word. Now, say security firms, its creators have switched to using attachments written in Javascript.
+"We are currently seeing extraordinary (sic) huge volumes of Javascript attachments being spammed out," said Rodel Mendrez, a security expert at Trustwave in a blogpost.
+The switch to Javascript has helped Locky avoid being spotted by anti-virus software, said Trustwave.
+At peak spamming times, wrote Mr Mendrez, about 200,000 messages an hour carrying ransomware attachments were hitting its junk mail spotting servers.
+Security firm Fortinet said it had caught almost 19 million copies of ransomware emails over the last two weeks. The latest version of Locky using the Javascript attachment accounted for 16.5% of this total, said Roland Dela Paz in a blogpost.
+The most prevalent ransomware family in that total was Cryptowall which was found in 83.5% of the ransomware emails it had caught. Cryptowall first appeared in early 2014.
+The spam surge had helped establish Locky as a "significant presence" in the ransomware world, said Mr Dela Paz.
+The attackers sending out large amounts of Locky spam were using the same network of hijacked computers, known as a botnet, that was used to distribute the Dridex banking trojan.
+"It's the same botnet, different day, and different payload," said Mr Mendrez.
+To avoid falling victim, people and companies should regularly back up data so it can be restored if a machine gets infected, he said.

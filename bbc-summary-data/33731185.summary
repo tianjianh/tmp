@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150801213041/http://www.bbc.co.uk/news/technology-33731185
+
+[SN]TITLE[SN]
+Globalstar tracking system 'open to attack'
+
+[SN]FIRST-SENTENCE[SN]
+A widely used location-tracking system can be intercepted or fooled with fake data, claims a security researcher.
+
+[SN]RESTBODY[SN]
+Many firms use Globalstar's satellite-based system to keep an eye on trucks, cars, containers and ships as they move around.
+However, said Colby Moore from security firm Synack, the way it passes data around is "fundamentally broken" making it vulnerable to attack.
+Globalstar has not yet issued any comment on Mr Moore's findings.
+Mr Moore said the problems with Globalstar's network arise because it does not encrypt the data passing between devices and satellites. Instead, he said, the system attempts to conceal what it does by changing frequencies and padding transmissions with useless data.
+The system also does not check that data was coming from where it claimed, he said.
+"I ended up figuring out how to decode the data in transit," Mr Moore told Reuters, adding that it might prove hard to fix the flaws as existing hardware was not easy to update.
+Globalstar has been told about the flaws, he added, but so far has not issued any updates or fixes.
+Attackers can easily find out these flaws, he said, making it easy to spoof data or keep an eye on assets being tracked. Organised crime gangs, police and intelligence agencies might already be listening in, he said.
+Mr Moore is planning to release more details about his work at the Black Hat hacker conference in Las Vegas next week. This month has seen the early release of other investigations into the security of cars and Android phones that will also feature at Black Hat.
+Earlier this week, security experts from Zimpherium released some information about a vulnerability that affected almost one billion Android handsets. Google has produced a patch for the bug but many handsets have yet to have it applied.
+Last week, in separate demonstrations, Charlie Miller and Chris Valasek from security firm IOActive and Andy Davis from the UK's NCC Group showed how it was possible to attack some makes of car via their entertainment systems.
+The IOActive work led car maker Chrysler to issue a recall of more than 1.4 million vehicles to patch the software hole.

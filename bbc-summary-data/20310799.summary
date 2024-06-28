@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150112215358/http://www.bbc.com:80/news/technology-20310799
+
+[SN]TITLE[SN]
+Email trail helped FBI crack Petraeus case
+
+[SN]FIRST-SENTENCE[SN]
+Email messages were at the heart of the affair between former CIA director David Petraeus and his lover Paula Broadwell.
+
+[SN]RESTBODY[SN]
+The pair regularly exchanged messages while conducting their affair and regularly used Google's web-based email service Gmail.
+The messages were also key to the FBI's investigation and helped it, once it had followed a trail of digital fingerprints, unearth evidence of the affair.
+Initially, however, FBI investigators had no idea about the magnitude of what they were to uncover. Instead the investigation began when Tampa resident Jill Kelley told a friend in the bureau that she kept receiving emails threatening her and telling her to stop fraternising with senior US military staff.
+As a favour the friend started to look into the case thinking, reports NBC, that it was a simple case of cyber-harassment.
+The FBI quickly escalated the investigation because the threatening emails regularly quoted detailed information about the private movements of generals involved with the US Central and Southern Commands.
+The investigation almost stalled because the email accounts from which the messages originated had been registered anonymously. However, what was not concealed was the IP (internet protocol) address of the computers from which the messages were sent.
+Jacques Erasmus, a veteran computer security investigator at Webroot, said tracing an IP address was the starting point of any digital forensic investigation.
+"It's definitely one of the first things you do," he said. IP addresses are essential to the running of the internet, he said, and are needed so data knows where to travel to and from.
+"Once you have the IP address you run it through domain tools to get some more information," he said.
+Domain tools reveal who owns a particular IP address. Because almost every IP address has been assigned to a company, government, agency or ISP (internet service provider) this helps narrow down which network the messages in this case came from.
+Other tools, such as Maxmind, would help find out the physical location of a particular IP address, he said.
+"It's roughly accurate," he said, "but it won't give you the street and house number."
+Armed with information about where the messages originated, the FBI is believed to have drawn up a list, as far as was possible, of who was at those locations when messages were sent.
+One name kept cropping up in that list - Paula Broadwell. It soon became obvious that messages were being sent from hotels where she stayed during a tour to promote the biography she wrote of Gen Petraeus.
+Once it knew Ms Broadwell was the sender of the threatening messages, the FBI got a warrant that gave it covert access to the anonymous email account. This led it to uncover evidence of the affair and the "trick" Gen Petraeus and Ms Broadwell used to conceal their affair.
+This trick, said Mr Erasmus, is well known in intelligence and cyber-crime circles as a way to thwart surveillance.
+It involves two people knowing the login name and password for a web-based email account. Instead of sending messages, the two write draft messages that are never sent. Instead, the messages sit on the email services server and are seen when any account owner logs in.
+As no messages travel, this ruse can hinder an investigation as there will be less information to go on.
+The lengths that people went to in order to conceal IP addresses varied, said Mr Erasmus, by the skill of their adversary. Using a shared Gmail account was probably thought to be safe enough as neither ever thought they would be investigated by the FBI.
+By contrast, he said, many cybercriminals went to extraordinary lengths to conceal IP addresses because, he said, knowing that fragment of information can be the key that cracks a case.
+Often, he said, an investigation only succeeded because criminals made a single mistake that experts capitalised on. For instance, he said, the gang behind the Koobface worm were unmasked thanks to dogged digital detective work done on a single email address.
+However, said Mr Erasmus, progress in any investigation was linked to the resources an organisation could commit to it.
+"I suspect the FBI are going to bring more resources to bear than I ever could when trying to track someone down," he said.

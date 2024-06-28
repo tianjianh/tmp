@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515000029/http://www.bbc.co.uk/news/technology-39905509
+
+[SN]TITLE[SN]
+Global cyber-attack: How roots can be traced to the US
+
+[SN]FIRST-SENTENCE[SN]
+The huge cyber-attack affecting organisations around the world, including some UK hospitals, can be traced back to the US National Security Agency (NSA) - raising questions over the US government's decision to keep such flaws a secret.
+
+[SN]RESTBODY[SN]
+Elements of the malicious software used in Friday's attacks were part of a treasure trove of cyber-attack tools leaked by hacking group the Shadow Brokers in April.
+One of the tools contained in the Shadow Brokers leak, codenamed EternalBlue, proved to be "the most significant factor" in the spread of Friday's global attack, according to cyber-security firm Kaspersky Lab.
+The tool was said to have been created by the NSA - though, as is typical, the agency has neither confirmed nor denied this.
+EternalBlue was made public on 14 April, and while Microsoft had fixed the problem a month prior to its leak, it appeared many high-profile targets had not updated their systems to stay secure.
+Friday's attack has reignited the debate over whether or not governments should disclose vulnerabilities they have discovered or bought on the black market.
+"It would be deeply troubling if the NSA knew about this vulnerability but failed to disclose it to Microsoft until after it was stolen," said Patrick Toomey, a lawyer working for the American Civil Liberties Union.
+"These attacks underscore the fact that vulnerabilities will be exploited not just by our security agencies, but by hackers and criminals around the world.
+"Patching security holes immediately, not stockpiling them, is the best way to make everyone's digital life safer."
+Edward Snowden, who famously leaked many internal NSA files in June 2013, criticised the NSA on Friday in a series of tweets.
+"In light of today's attack, Congress needs to be asking [the NSA] if it knows of any other vulnerabilities in software used in our hospitals," he wrote.
+"If [the NSA] had privately disclosed the flaw used to attack hospitals when they found it, not when they lost it, this may not have happened."
+However, others focused the blame at institutions for being too slow in updating their systems, given that this attack happened almost two months after a (free) fix was made available by Microsoft.
+"Say what you want to say about the NSA or disclosure process," said Zeynep Tufeki, a professor at the University of North Carolina.
+"But this is one in which what's broken is the system by which we fix."
+For the UK's National Health Service, the problem is perhaps more acute.
+Security firms have continually raised alarms about the NHS's reliance on Windows XP, an operating system that is no longer supported by Microsoft.

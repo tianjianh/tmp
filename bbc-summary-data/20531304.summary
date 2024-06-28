@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160212233233/http://www.bbc.com/news/science-environment-20531304
+
+[SN]TITLE[SN]
+Smartphones to be pocket seismometers
+
+[SN]FIRST-SENTENCE[SN]
+The smartphones in our pockets are about to get even smarter.
+
+[SN]RESTBODY[SN]
+Scientists want these ubiquitous gadgets to be put to work helping them detect and investigate earthquakes.
+The devices contain accelerometers and a team at the Berkeley Seismic Laboratory says the mechanisms are capable of monitoring tremors.
+An app is being developed that will record the shaking during major events and then report the data back to a central server over the cell network.
+The high numbers of smartphones now in circulation mean researchers could get very detailed information on who felt what, and where.
+It is the sort of insight that is useful for future hazard assessment and risk planning, but real-time data could also eventually play an important role in California's earthquake early warning system.
+This aims to give people precious seconds' advance notice that a big trembler is on its way.
+"Nowadays, smartphones carry all sorts of sensors, and we can put these to use in unexpected ways," explained Qingkai Kong. "Right now, we can only detect earthquakes above about Magnitude 5.0, but with better accelerometers in future smartphones we would hope to detect smaller ones as well," he told BBC News.
+The University of California, Berkeley, researcher was speaking here at the American Geophysical Union (AGU) Fall Meeting, the world's largest annual gathering of Earth scientists.
+He and colleagues were not sure at first that mobile phones would be up to the task of being pocket seismometers.  So a selection of the gadgets was put on the lab's "shake table".
+This instrument can simulate various grades of tremors. It is usually employed to test the robustness of various construction techniques, to provide confidence that buildings will not collapse during an earthquake.
+The results clearly demonstrated that the accelerometers - used primarily in phones as part of the mechanism to tilt the screen - could pick up the shaking.
+The confounding issue, of course, is that phones are rarely left alone on a flat surface - they are moving around with their owners.
+But the team believes it can solve this problem as well, and has developed an algorithm that will subtract the human "noise" in the data.
+"The pattern recognition algorithm sees typical human activities such as walking, running and driving, and we use that information to disengage those activities from the earthquake signal," said Mr Kong.
+This algorithm is rarely fooled, he added.
+Berkeley's project is very much in its early stages and the team hopes soon to start recruiting more people into its research project.  It is likely to issue a test app to thousands of volunteers across the San Francisco Bay Area next year.
+This is a region that lives with the knowledge that a major quake could happen at any time. A Magnitude 7.9 event in 1906 flattened San Francisco; and Berkeley itself sits right on top of the Hayward Fault, which many scientists suspect will deliver the next big blow to the Bay Area.
+Having good reports on the amount of shaking in an earthquake from different locations is invaluable data.
+The level of disturbance a person feels will depend on many things: the number and quality of buildings close by, and the nature of the soils on which they are built, etc.  It is even possible for individuals on opposite sides of a street to have quite different experiences.
+Shaking reports help planners identify weaknesses in construction standards and are used to raise the level of preparedness for the next big event.
+Moreover, a smartphone seismic network has potential to feed directly into the early warning system.
+This relies on being able to detect the faster-moving but not-so-damaging P-waves of a seismic event ahead of its S-waves, which cause most destruction.
+How much warning an individual gets will depend on how far they are from the epicentre of a quake.
+It can though amount to several seconds - time enough for individuals to take cover in a doorway, for trains to slow, for planes to be passed a message to abort their landing, and for surgeons to finish a delicate procedure.
+The current generation of smartphones does not have the sensitivities yet to participate in such a programme, but the performance being promised by tech companies for future accelerometers suggests the dream may soon be fulfilled.
+Being everywhere and always on, smartphones would then not only provide a dense source of data for the warning system but be the means also to issue its alerts through dedicated tones and messages.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

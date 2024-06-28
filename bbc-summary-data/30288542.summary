@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170713231326/http://www.bbc.co.uk/news/world-asia-30288542
+
+[SN]TITLE[SN]
+Gangnam Style music video 'broke' YouTube view limit
+
+[SN]FIRST-SENTENCE[SN]
+The music video for South Korean singer Psy's Gangnam Style exceeded YouTube's view limit, prompting the site to upgrade its counter.
+
+[SN]RESTBODY[SN]
+YouTube said the video - its most watched ever - has been viewed more than 2,147,483,647 times.
+It has now changed the maximum view limit to 9,223,372,036,854,775,808, or more than nine quintillion.
+Gangnam Style became a worldwide hit when it was released in 2012, largely due to the surreal video.
+How do you say 9,223,372,036,854,775,808?
+Nine quintillion, two hundred and twenty-three quadrillion, three hundred and seventy-two trillion, thirty-six billion, eight hundred and fifty-four million, seven hundred and seventy-five thousand, eight hundred and eight.
+Why was Psy nearly too much for YouTube?
+YouTube's counter previously used a 32-bit integer, which is a unit used to represent data in computer architecture. This means the maximum possible views it could count was 2,147,483,647.
+On 1 December, it  posted a statement saying: "We never thought a video would be watched in numbers greater than a 32-bit integer... but that was before we met Psy."
+Google, which owns YouTube, later told website The Verge that engineers "saw this coming a couple months ago and updated our systems to prepare for it".
+YouTube now uses a 64-bit integer for its video counter, which means videos have a maximum viewer count of 9.22 quintillion.
+Psy has yet to comment although news of YouTube's change was posted on his Facebook and Twitter pages.
+The second most-watched video on YouTube - Baby by Justin Bieber - lags behind Gangnam Style by more than a billion views.

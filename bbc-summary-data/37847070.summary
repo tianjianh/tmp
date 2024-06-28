@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170426010909/http://www.bbc.com/news/technology-37847070
+
+[SN]TITLE[SN]
+Why Windows hack is being blamed on Russia-linked group
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft's Windows chief has accused a notorious group of hackers - previously linked to Russia - of making use of an unpatched flaw in its operating system.
+
+[SN]RESTBODY[SN]
+Terry Myerson said Strontium was exploiting the bug to infect PCs in order to get access to potentially sensitive data.
+Strontium is also known as APT28 and Fancy Bear, and has previously been blamed for attacking a French TV network and the US Democratic Party.
+Microsoft says it is working on a fix.
+It intends to release the patch next week.
+Other cybersecurity researchers say analysis of the hackers' previous activities suggests they are Russians, or at least citizens of a neighbouring country who can speak Russian, and appear to be acting in Moscow's interests rather than for personal profit.
+FireEye - a company whose clients include the US Department of Defense - has gone so far as to say the attackers are "most likely sponsored by the Russian government".
+But the link has never been conclusively proven, and the Kremlin has repeatedly denied its involvement.
+It's unusual for the big tech companies to reveal a software flaw in their products before they have a fix, because it flags the problem to cybercriminals.
+Indeed, Microsoft had planned to stay quiet about this bug until it had a solution.
+But Google forced its hand when it published details of the issue on Monday.
+Microsoft was irked. But Google justified its move saying: "This vulnerability is particularly serious because we know it is being actively exploited."
+Mr Myerson has confirmed the issue is with a system file, which Windows requires to display graphics.
+The company says customers using both the latest version of Windows 10 and Microsoft's own Edge web browser should be safe but acknowledges others remain at risk.
+However, it says the attack only works if a user also has Flash installed, and a newly released version of Adobe's media plug-in also provides protection.
+Regarding Strontium itself, Microsoft says the hackers have come up with more types of novel attack - known as zero-days - than any other tracked group this year.
+"Strontium frequently uses compromised email accounts from one victim to send malicious emails to a second victim and will persistently pursue specific targets for months until they are successful in compromising the victims' computers," Mr Myerson wrote.
+"Once inside, Strontium moves laterally throughout the victim network, entrenches itself as deeply as possible to guarantee persistent access, and steals sensitive information."
+The hackers are believed to have used spearphishing - a technique that involves targeting specific individuals with emails and other messages that seek to fool them into revealing their logins.
+The attackers have a reputation for being persistent.
+They have been known to repeatedly send messages to high-value individuals for more than a year, if necessary, until one succeeds.
+Neither Google nor Microsoft have said who received the latest batch of booby-trapped emails.
+But Microsoft has previously said of the hackers' typical prey: "Its primary institutional targets have included government bodies, diplomatic institutions, and military forces and installations in Nato member states and certain Eastern European countries.
+"Additional targets have included journalists, political advisers, and organisations associated with political activism in Central Asia."
+The group has also been called Sofacy, Sednit and Pawn Storm, and has been linked to attacks dating back to 2007.
+It appears to operate its own website, where it calls itself Fancy Bears.
+It was used to leak confidential medical files about US Olympic athletes earlier this year, which had been stolen from the World Anti-Doping Agency.
+The site suggests the group is part of the wider Anonymous hacktivist collective, although this may be an attempt at misdirection.
+Months earlier, cybersecurity company Crowdstrike accused the hackers of breaching the US Democratic Party's governing body's network.
+It suggested they might be affiliated with the GRU, Russia's military intelligence service.
+"Their tradecraft is superb, operational security second to none, and the extensive usage of 'living-off-the-land' techniques enables them to easily bypass many security solutions they encounter," it said in a report.
+Other activities blamed on the team include:
+No. Security company Trend Micro has previously linked the hackers to malware designed to infect jailbroken iPhones and iPads.
+Microsoft says it has also observed the group using web domains customised to compromise Mac and Linux computers in other campaigns.
+In the past, Kremlin spokesman Dmitry Peskov has strenuously denied allegations that the hackers are directed or supported by the Russian government or its intelligence services.
+He has said the claims are "unfounded" and "do not contain anything tangible".
+"There's no smoking gun," says Alan Woodward, a security consultant who advises Europol and has worked with GCHQ in the past.
+"But the amount of circumstantial evidence is certainly mounting.
+"What most of the government agencies are saying is that the Russian government doesn't seem to be doing anything to stop them, which kind of tells a story in itself."

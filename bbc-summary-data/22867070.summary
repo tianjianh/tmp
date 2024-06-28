@@ -1,0 +1,55 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160607205607/http://www.bbc.co.uk/news/science-environment-22867070
+
+[SN]TITLE[SN]
+The quest to build a brain in the lab
+
+[SN]FIRST-SENTENCE[SN]
+"I'm a neuroengineer, and one of my goals is building brains."
+
+[SN]RESTBODY[SN]
+Prof Steven Potter was disarmingly understated as he introduced himself.
+It's not that tissue engineering is unusual. Nor even that doing it with neural cells should be an issue.
+If heart cells or skin cells can be reprogrammed, why not neurons?
+But "building brains" had been my flip way of labelling an intriguing, indeed unnerving, branch of science: the neurophysiology of disembodied brain-cell cultures. It was not a term I was expecting a serious scientist to turn to, as I set out on making "Build Me a Brain" for BBC Radio 4's Frontiers Programme.
+Yet Steven Potter, professor in the department of biomedical engineering at the Georgia Institute of Technology in the US, is insistent that words like "brain" and "mind" belong to his endeavour.
+"One of the ways in which I differ from a lot of neuroscientists is to believe that there's a spectrum of minds. There isn't some point where the mind suddenly is there," he said.
+"I think that there is a different amount of mind in different animals. And even in you, whether you've had your coffee or not, whether you're asleep or awake.
+"There are always different levels of how much mind you have. So you could carry it all the way down to the cultured network, there is still some sort of proto-mind in there."
+The key tool in the Potter lab is the "multi-electrode array", an upgraded version of the traditional Petri dish used in microbiology labs around the world, improved by the addition of an array of electrical contacts the researchers can use to "listen" in to the electrical activity of the neural cells.
+Another researcher likens the device to an EEG, the electroencephalogram that clinicians use to check a patient's brain activity.
+The neural cultures themselves comprise a few tens of thousands of cells - a tiny fraction of the hundred billion or so that make up a human brain - "a little smear of brain" in the words of graduate student Michelle Kuykendal in the Potter lab.
+You can't expect much from them, Steve Potter concedes. "But we're sure that [one of these cultures] has a lot of complex behaviour - even with 10,000 neurons. There are some insects, simpler animals, that have approximately the number of cells we have in our culture dishes," he said.
+When the neural cells are first plated on to the arrays, they are capable of nothing. The process of preparing them from pre-existing neural tissue, taken from rats, resets the neurons, so they retain none of the structure that had previously grown.
+Down a microscope, using time-lapse photography, one can watch as the neurons sprout tendrils called axons, which reach out to make contact with other neurons.
+They look like they are feeling their way blindly, but neurons also release chemical signals that help guide the extensions. As more and more axons make connections - called synapses - the whole culture starts to come electrically to life.
+"It's like a great mesh, a spider's web of interconnectivity," explains Ben Whalley, of Reading University, whose experiments start with cultures grown from human stem cells. "It's not a static system. And that's why you have to monitor these things so very rapidly."
+The same process happens in our own infant minds. In fact, it happens all the time - the reconfiguration of the pattern of synapses is what learning and memory are all about.
+But in these cultures, the researchers can watch it happen, and intervene. Both Potter and Whalley use the electrodes to talk to the cells, as well as to listen.
+"We can watch how specific electrical inputs cause certain connections to be strengthened," says Dr Potter. "We can see the activity flowing in the circuit, we can try to strengthen certain circuits, and to weaken other circuits by the electrical stimulation we give them."
+To the extent that these cultures have "minds of their own", there's a limit to how much direction they can be given, Dr Whalley suspects.
+"If you introduce your little bit of electrical stimulation, which might last two or three minutes, and then your culture goes back into its incubator, there's all sorts of chatter going on across the whole of that network that may not have a great deal to do with that little intervention that you did."
+Immy Smith, postdoctoral assistant in Ben Whalley's lab, admits the thought of those cells firing away inside the incubator is a little disturbing.
+"While we're not looking, I'm sure they're carrying on being neurons, basically, doing what they do," Dr Smith said.
+"And it's a strange thing to think about when you're growing human cell cultures because you do kind of wonder: what are you doing in there, what are you thinking?"
+Dr Potter suspects that locked away, the cultures could be suffering - he compares it to sensory deprivation. Often they lapse into bursts of excessive electrical activity he likens to epileptic fits.
+"Every neuron is expecting signals to come into it. If it doesn't get those, it keeps turning up the gain, turns up the volume on its synapses to try to amplify whatever noise might be there. And eventually, you have so many cells that have such twitchy synapses that noise passes through the network like wildfire."
+At Reading University, Dr Whalley has teamed up with cyberneticist Slawomir Nasuto to establish a Brain Embodiment Laboratory, where cultures will be connected to robots - or at least simulations of robots - so that their outputs lead to actions, and their inputs are real signals.
+Dr Whalley has already shown that a small, wheeled robot equipped with proximity sensors can learn over a few days to avoid the walls of its wooden pen. It looks clever, though he warns: "I don't want to imply too much intelligence from it!"
+And Prof Potter's lab has collaborated with artists at the University of Western Australia to create a robotic art installation, Silent Barrage, which can be controlled over the internet by a neuronal culture.
+"It was the world's largest cyborg," explained Georgia Tech's Riley Zeller-Townson, "because we had the body on one side of the planet, and the brain on the other."
+Interested as much in the viewer's perception of the installation as the technical functioning of the robot, Dr Zeller-Townson suggested the collaboration threw up some unsettling questions.
+"A neural system as part of a biological entity has, we suppose, its own interests - it wants to stay alive. But once we've removed it  from the body, those interests seem to go away," he explained.
+"It no longer has a body to keep alive, so what interests could be there? What are the properties of the neural system itself that might dictate those interests - does it have a mind, does it have experiences?"
+But at the Brain Embodiment Lab, the idea is to look much more closely at the practical issue of learning in cell cultures.
+"We would like to look at some more complicated robots which could manipulate objects," Prof Nasuto explained. "So we'll provide the ability to grasp something, turn it around perhaps, bring it closer and at the same time have some sort of rudimentary visual system."
+The idea is to "close the loop" - have neural systems with feedbacks, so that the robot can compare the task it has planned with what it is actually achieving, in the same way as a child might learn by trial and error to reach and grasp.
+But all the while, the researchers can watch the electrical activity in the culture, and watch the network shape and reshape itself down a microscope.
+Reward chemicals, like dopamine, could be added to reinforce the achievement when the robot succeeds in a task. Dr Potter suggested that a culture that controls a dopamine delivery system directly could in some ways mimic addiction - it might learn to give itself chemical highs on demand.
+But perhaps the most astonishing closed loop would be self-awareness, he said.
+"Self-awareness is not a magical spark that human neurons have in them; it arises thanks to specific circuits that are monitoring what is going on in the human brain. Our cultures do not have that perception at the moment, but we could put it in.
+"Our computer program could monitor activity patterns  and send the information back as a particular stimulation through the electrodes. That could be like their self-consciousness circuits. It would be a very rudimentary self-consciousness, but that is all it would take."
+It may seem a remote possibility. But already these cultures force us to accept the truth that no matter how mysterious and instinctive thinking feels, it all comes down to electrical and chemical signals flashing across the three pounds of matter between our ears.
+"Most people that you talk to who study anything to do with the brain are in it for the mystery," said Georgia Tech graduate student Michelle Kuykendal.
+"But the beauty is we've extracted these brains and we're growing them to cut down on some of that mystery, so that we have a lot more control, so we can better understand exactly what's happening in it."
+Roland Pease was researching "Build Me a Brain" for BBC Radio 4's Frontiers programme, which first aired on Wednesday 12 June.

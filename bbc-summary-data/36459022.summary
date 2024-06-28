@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170419234740/http://www.bbc.co.uk/news/technology-36459022
+
+[SN]TITLE[SN]
+'Alarming' rise in ransomware tracked
+
+[SN]FIRST-SENTENCE[SN]
+Cyber-thieves are adopting ransomware in "alarming" numbers, say security researchers.
+
+[SN]RESTBODY[SN]
+There are now more than 120 separate families of ransomware, said experts studying the malicious software.
+Other researchers have seen a 3,500% increase in the criminal use of net infrastructure that helps run ransomware campaigns.
+The rise is driven by the money thieves make with ransomware and the increase in kits that help them snare victims.
+Ransomware is malicious software that scrambles the data on a victim's PC and then asks for payment before restoring the data to its original state. The costs of unlocking data vary, with individuals typically paying a few hundred pounds and businesses a few thousand.
+"Ransomware and crypto malware are rising at an alarming rate and show no signs of stopping," said Raj Samani, European technology head for Intel Security.
+Ransomware samples seen by his company had risen by more than a quarter in the first three months of 2016, he added.
+Mr Samani blamed the rise on the appearance of freely available source code for ransomware and the debut of online services that let amateurs cash in.
+Ransomware was easy to use, low risk and offered a high reward, said Bart Parys, a security researcher who helps to maintain a list of the growing numbers of types of this kind of malware.
+"The return on investment is very high," he said.
+Mr Parys and his colleagues have now logged 124 separate variants of ransomware. Some virulent strains, such as Locky and Cryptolocker, were controlled by individual gangs, he said, but others were being used by people buying the service from an underground market.
+"It's safe to say that certain groups are behind several ransomware programs, but not all," he said. "Especially now with Eda and HiddenTear copy and paste ransomware, there are many new, and often unexperienced, cybercriminals."
+A separate indicator of the growth of ransomware came from the amount of net infrastructure that gangs behind the malware had been seen using.
+The numbers of web domains used to host the information and payment systems had grown 35-fold, said Infoblox in its annual report which monitors these chunks of the net's infrastructure.
+"They use it and customise it for each attack, " said Rod Rasmussen, vice-president of security at Infoblox.
+"They will have their own command and control infrastructure and they might use it to generate domains for a campaign," he told the BBC. "Then they'll have some kind of payment area that victims can go to."
+"The different parts are tied to particular parts of the chain," he said. "Infection, exploitation and ransom."
+The spread of ransomware was also being aided by tricks cyber-thieves used to avoid being detected by security software, said Tomer Weingarten, founder of security company SentinelOne.
+"Traditional anti-virus software is not effective in dealing with these types of attacks," he said.
+The gangs behind the most prevalent ransomware campaigns had got very good at hiding their malicious code, said Mr Weingarten.
+"Where we see the innovation is in the infection vector," he said.
+SentinelOne had seen gangs using both well-known techniques and novel technical tricks to catch out victims.
+A lot of ransomware reached victims via spear-phishing campaigns or booby-trapped adverts, he said, but other gangs used specialised "crypters" and "packers" that made files look benign.
+Others relied on inserting malware into working memory so it never reached the parts of a computer on which most security software keeps an eye.
+"It's been pretty insane with ransomware recently," he said.

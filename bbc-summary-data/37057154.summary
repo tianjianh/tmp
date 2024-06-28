@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160816002521/http://www.bbc.co.uk/news/technology-37057154
+
+[SN]TITLE[SN]
+Seismic sensor security claims denied
+
+[SN]FIRST-SENTENCE[SN]
+A seismic sensor firm has rejected claims that its geological monitoring systems are vulnerable to cyber attack.
+
+[SN]RESTBODY[SN]
+Allegations about poor security controls in Nanometrics' sensors were made in a presentation at the Def Con hacker convention last week.
+Nanometrics said an independent report into the researchers' work cast serious doubt on its findings.
+The sensors are used to monitor active volcanoes, fault lines and support nuclear test ban treaties.
+Bertin Bonilla, a security researcher based in Costa Rica who, with colleague James Jara, carried out the work said the network of sensors came to light during a separate project that mapped smart devices connected to the net to create a search engine for the Internet of Things.
+However their report was shelved by the Computer Emergency Response Team Co-ordination Centre (Cert CC) at Carnegie Mellon university in the US.
+The devices stood out because of the distinctive fingerprint of data they surrendered to scanning software and because of their location in remote spots and in the sea, claimed Mr Bonilla.
+"We have not seen any research previously in this field," he said during a presentation at the convention that was held in Las Vegas.
+By analysing firmware in the sensors, the pair managed to get hold of default passwords that gave them access to data being gathered by sensors. This could prompt an attack on monitoring networks, they claimed.
+At Def Con, Mr Bonilla said the pair had detailed their findings in a report sent to Cert CC.
+The report was sent in late June and Cert CC contacted Nanometrics for clarification about the points it raised.
+Cert CC shared the report with engineers at Nanometrics who said it contained "factual inaccuracies" about the way the sensors worked. In particular, they said, it wrongly characterised the way data is gathered from networks of sensors.
+Cert CC then shelved the report and attempted to contact Mr Bonilla and Mr Jara for clarification.
+No response was received and in correspondence with Nanometrics, Cert CC said it was satisfied that the report was "incorrect".
+The two researchers have also not responded to a request for comment from the BBC.
+A spokesman for Nanometrics told the BBC that the researchers had found some networks of sensors operated by organisations that had not changed default passwords.
+"We have always recommended to our customers that they change the factory default passwords and when using the systems on real-time communications networks, they limit access to known IP addresses and/or use VPN software," he said.
+Organisations operating sensors that gather sensitive data, such as for nuclear test ban monitoring, typically put the monitors on private networks that are not connected to the net, he said.
+The large scale of the sensor networks and the way data was shared and verified meant an attack that sought to spoof readings would be "impossible" to pull off, added the spokesman.

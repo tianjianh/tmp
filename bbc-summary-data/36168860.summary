@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160501190045/http://www.bbc.co.uk/news/technology-36168860
+
+[SN]TITLE[SN]
+Hackers steal millions of Minecraft passwords
+
+[SN]FIRST-SENTENCE[SN]
+Hackers have stolen login data for more than seven million members of the Minecraft site Lifeboat.
+
+[SN]RESTBODY[SN]
+Lifeboat lets members run servers for customised, multiplayer maps for the smartphone edition of Minecraft.
+There is evidence that the stolen information, including email addresses and passwords, is being offered on sites that trade in hacked data.
+Analysis suggests passwords were very weakly protected so attackers could easily work them out.
+Information about the breach was passed to independent security expert Troy Hunt who said he got the list from someone who trades in stolen credentials. Several people had told him the data was circulating on dark net sites.
+Mr Hunt said the data was stolen in early 2015 but the breach has only now come to light.
+Passwords for Lifeboat accounts were hashed, he said, but the algorithm used provided little protection.
+Hashing is a technique used to scramble passwords so they are not easily read if the data goes astray.
+Often, he said, a Google search for a hashed password would instantly return the correct plain text value. Well-known cracking tools could automate and speed up this process, he said.
+"A large portion of those passwords would be reverted to plain text in a very short time," he said in a blogpost about the breach.
+This often lead to other security problems, he said, because many people re-use passwords so finding out one can lead attackers to compromise accounts on other sites.
+In a statement given to Motherboard, Lifeboat said it had taken action to limit the damage.
+"When this happened [in] early January we figured the best thing for our players was to quietly force a password reset without letting the hackers know they had limited time to act," it told the news site adding that it now used stronger hashing algorithms.
+It said: "We have not received any reports of anyone being damaged by this."
+Mr Hunt was critical of the company for "quietly" forcing the password re-set saying this policy left him "speechless".
+Instead, he said, Lifeboat should have done much more to alert users so they could quickly change passwords if they used the same one on other sites.
+"The first thing that should be on any company's mind after an incident like this is, 'How do we minimise the damage to our users?'" he said.

@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170408084435/http://www.bbc.co.uk/news/technology-36575947
+
+[SN]TITLE[SN]
+China builds world's most powerful computer
+
+[SN]FIRST-SENTENCE[SN]
+A new supercomputer from China has topped the latest list of the world's most powerful machines.
+
+[SN]RESTBODY[SN]
+The 93 petaflop Sunway TaihuLight is installed at the National Supercomputing Centre in Wuxi.
+At its peak, the computer can perform around 93,000 trillion calculations per second.
+It is twice as fast and three times as efficient as the previous leader Tianhe-2, also from China, said Top500 which released the new list on Monday.
+Its main applications include advanced manufacturing, weather forecasting and big data analytics, wrote Jack Dongarra in a paper about the new machine.
+It has more than 10.5 million locally-made processing cores and 40,960 nodes and runs on a Linux-based operating system.
+For the first time since the list began, China has overtaken the US with 167 computers in the top 500 while the US has 165.
+"Considering that just 10 years ago, China claimed a mere 28 systems on the list, with none ranked in the top 30, the nation has come further and faster than any other country in the history of supercomputing," said Top500.
+The US has four supercomputers in the top 10 of the Top500 list, while China has two which currently occupy the top two places.
+The other positions in the top 10, published twice a year, are occupied by machines from Japan, Switzerland, Germany and Saudi Arabia.
+"As a computer scientist it's difficult writing software that can take advantage of and control large numbers of computer cores," said Professor Les Carr from the University of Southampton.
+"This is why supercomputers are restricted to specialised applications - you need very specialised computing needs to take advantage of them.
+"They are like extremely high-spec Grand Prix racing cars - they are fantastic for racing on circuits but they're not great for travelling from London to Edinburgh."

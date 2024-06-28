@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223091553/http://www.bbc.com/news/technology-37728015
+
+[SN]TITLE[SN]
+Cyber attacks briefly knock out top sites
+
+[SN]FIRST-SENTENCE[SN]
+Twitter, Spotify, Reddit, SoundCloud, PayPal and several other sites have been affected by three web attacks.
+
+[SN]RESTBODY[SN]
+All the firms are customers of a company called Dyn, which they use to help users find their sites online.
+In quick succession on Friday, Dyn was swamped by two attacks that made the sites of its customers hard to reach.
+It is not clear who is behind the attack or why Dyn has been hit. The FBI and US Department of Homeland Security said they were investigating.
+Reddit, Twitter, Etsy, Github, SoundCloud, Spotify and many others were all reported as being hard to reach by users throughout the attack, which lasted about two hours.
+Access to sites such as the New York Times, Paypal, Pinterest and Tumblr, as well as some cable firms, was also reported as being intermittent.
+In a statement on its website, Dyn posted information about the incidents and said it had been subjected to Distributed Denial of Service (DDoS) attacks.
+These attempt to overwhelm servers by bombarding them with huge amounts of data.
+The first DDoS attack started early on Friday morning in the US and mostly affected more in the east of the country. The initial impact of the attack made some sites harder to reach as queries sent to locate them took longer to process.
+Paypal said the web attacks "prevented some of our customers from being able to pay with PayPal in certain regions. PayPal was not attacked directly, nor were any of our core services to business impacted in the disruption".
+In a message posted to Twitter, and widely shared, Github said a "global event" was affecting Dyn, which had made its site hard to reach.
+A second attack started later on Friday, which Dyn said used the same tactics as the first. A similar list of Dyn customers became harder to visit as a result of the attack.
+Soon after the second attack was reported, the Department of Homeland Security said it was looking into "all possible causes" of the attacks on Dyn.
+The incidents mark a change in tactics as DDoS attacks are more typically aimed at a single site. Dyn acts as a directory service for huge numbers of firms, which helps customers keep global address books up to date with the location of their domains.
+Richard Meeus, from security company NSFocus, said the attack showed how critical domain directory services were to the running of the net and how that they had often been "neglected" security-wise.
+"It is treated as if it will always be there in the same way that water comes out of the tap and electricity is there when you switch it on," he said.

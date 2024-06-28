@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160430000001/http://www.bbc.com/news/science-environment-36161778
+
+[SN]TITLE[SN]
+Tim Peake drives remote robot on Earth from orbit
+
+[SN]FIRST-SENTENCE[SN]
+UK astronaut Tim Peake has performed a challenging remote control experiment on the International Space Station.
+
+[SN]RESTBODY[SN]
+He had to command a robot rover on Earth, driving it across a big sandpit in Stevenage, near London, that simulated the surface of Mars.
+The Briton experienced some software glitches, but achieved his objectives.
+These involved finding a series of painted targets in a darkened room that had been set up to represent a cave on the Red Planet.
+It was all part of a European Space Agency (Esa) project which aims to learn how astronauts can control remote systems on other worlds.
+Known as Meteron (Multi-Purpose End-To-End Robotic Operation Network), the programme has already seen Danish ISS crewman Andreas Mogensen get a robot on Earth to precisely place some pegs in a set of holes.
+But Major Tim's job, which got under way at 15:00 BST (14:00 GMT), took things up a notch in terms of complexity.
+One of his big obstacles was time. His control link had to transmit down to Earth, bounce through numerous communications nodes, before reaching the robot in its simulation "Mars yard" at the Airbus Defence and Space Company.
+It meant every command - and all the feedback - had several seconds of associated delay. His link also had some drop-outs.
+At one point, he hit a big rock, which required the intervention of local Airbus engineers to sort out; and then there were some software glitches on the laptops he was using in orbit.
+But despite all this, Major Tim managed to race through his tasks, finding and mapping five targets in the cave. These targets were boulders that had been painted to show up in the UV light shone from the rover's masthead.
+The astronaut managed to get in and out of the cave within two hours.
+"That was great driving," Esa's operations centre in Darmstadt, Germany, told the Briton. "Everyone on the ground is really proud of you. You succeeded to mark five targets. One was actually marked twice due to a software reboot."
+Major Tim responded: "Thanks for everyone's help and support. It was an awful lot of work on everyone's behalf to get this up and running, but it was great to see, and I'm really happy everything went so smoothly."
+Both of the US space agency rovers on the Red Planet today, and those planned in coming years, use a high level of autonomy. Once instructed to go to a location, the vehicles will sense their surroundings and compute the most efficient route. But it is a very slow process.
+The scenario suggested by Friday's simulation is the possibility that we might one day have an astronaut in orbit above Mars who could assist a surface robot in investigating a location that engineers would normally try to avoid.
+Going into a cave would be extremely risky. The lack of light would make it harder for the sensors on the autonomous navigation system to discern hazards. And with no sunlight falling on the robot's solar panels, the amount of energy available to operate in the cave might very quickly become an issue.
+Having a human in the loop could help speed up decision-making, ensuring the rover completes its science investigations with enough time to get back outside the cave and start recharging its batteries.
+Airbus DS is leading the development of the rover that Esa will send to Mars in 2018 or, more likely, in 2020. As part of this project, it uses a number of "breadboard" robots to test flight hardware and software.
+For Friday's experiment, Major Tim was controlling the breadboard known as Bridget.
+A webcast of the trial was streamed on the Airbus DS website and the Principia website of Major Tim himself. Updates were also posted on the Twitter feeds of @esaoperations and @esa_meteron.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

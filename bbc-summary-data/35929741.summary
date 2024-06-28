@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160505130426/http://www.bbc.co.uk/news/technology-35929741
+
+[SN]TITLE[SN]
+Crypto-challenge: the answers
+
+[SN]FIRST-SENTENCE[SN]
+Last week, the BBC ran an article giving readers a series of crypto-based challenges to solve.
+
+[SN]RESTBODY[SN]
+Some of the questions and problems posed were straightforward, but a few were very tricky.
+Below are the solutions for the challenges that show how the codes can be broken.
+Solving the first challenge was simply a case of matching the symbols, replacing letters in the questions by using the provided key. This helped fill in the missing words. Then it was a case of working out which answer of the three choices was correct.
+1. Where was the centre of CODEBREAKING in WW2?
+Answer: Bletchley.
+2. The man who designed the machine that CRACKED the ENIGMA CODE was...?
+Answer: Turing.
+3. The fundamental BUILDING block of ELECTRONIC devices is the...?
+Answer: Transistor.
+This question involved what is known as a substitution cipher - and a simple one at that.
+Each letter was given a number starting with A=0, B=1, C=2 etc.
+Applying that to the short sequence of numbers reveals the answer to be: Fibonacci Sequence.
+The clue to getting this one right was in the picture.
+It showed Julius Caesar, who was believed to have used codes that shifted each letter a few places to the right or left.
+In the scheme we used, letters were moved three places to the right. The alphabet wraps round, so A=X, B=Y, C=Z and so on.
+This gives the answer: Up his sleevies.
+Some codes, such as this one, do away with letters and numbers and instead use symbols.
+This type of cipher is known as a pig-pen cipher and each symbol relates to a position in a pre-prepared grid. The letters of the alphabet are distributed through this grid.
+Below is the way we chose to arrange the letters of the alphabet.
+Applying this arrangement revealed the text to be: In the 18th century Freemasons used pig pen ciphers to keep their private records.
+This code certainly stepped up the complexity, although there was a clue in the accompanying image.
+Each number corresponds to the atomic number of an element.
+Replacing the numbers with the initial letter of the element they represent should reveal the text below:
+The periodic table is a tabular arrangement of the chemical elements, organised on the basis of their atomic numbers, electron configurations, and recurring chemical properties. We've used it to create a cipher by using the initial letters of the elements, but two letters can't be used. What are they?
+The answer to the question posed in the revealed text is: J and Q.
+The final three challenges were genuinely difficult and required lateral thinking to work out how the text had been enciphered in the first place.
+The numbers in puzzle one were for hexadecimal encoded Ascii characters. However, simply converting them back to the more familiar letters and punctuation marks would not give the answer.
+Instead, it gave a string that had also been enciphered. It used a Caesar cipher that shifted the letters 13 places along the alphabet.
+Reversing this change revealed the following text: "We're all mad here. I'm mad. You're mad." "How do you know I'm mad?" said Alice. "You must be," said the Cat, "or you wouldn't have come here."
+Puzzle two was a bit of a beast. The key, literally, was using the five numbers arranged around the pentagon in the picture.
+Starting at 3 and going clockwise gives the five character string 38108. Repeating this 29 times gives a string 145-characters long, the same length as the one below the pentagon.
+Getting intelligible text out of this first requires using both strings and then performing what is known as an "exclusive or" (XOR) operation on them.
+This website can help.
+Performing this operation produces another 145-character string that can be converted into English by looking up the numbers on a table of Ascii characters. Use the decimal column.
+The sneaky part was realising that in some cases two numbers represented a character and in others it was three. Not easy.
+Anyone who went through these steps would reveal the following text: 'It's a poor sort of memory that only works backwards.'
+By contrast to the preceding puzzle, number three was pretty straightforward once you worked out that the different types of pawns on the board represented the dots and dashes of Morse code.
+Applying this revealed the message to be: Off with their heads.

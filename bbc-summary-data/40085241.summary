@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170615123159/http://www.bbc.co.uk/news/technology-40085241
+
+[SN]TITLE[SN]
+WannaCry ransom notice analysis suggests Chinese link
+
+[SN]FIRST-SENTENCE[SN]
+New analysis suggests Chinese-speaking criminals may have been behind the WannaCry ransomware that affected thousands of organisations worldwide.
+
+[SN]RESTBODY[SN]
+Researchers from Flashpoint looked at the language used in the ransom notice.
+They said the use of proper grammar and punctuation in only the Chinese versions indicated the writer was "native or at least fluent" in Chinese.
+The translated versions of the ransom notice appeared to be mostly "machine translated".
+The WannaCry ransom note could be displayed in 28 different languages, but only the Chinese and English versions appeared to have been written by humans.
+The English text also used some unusual phrases such as: "But you have not so enough time".
+The WannaCry cyber-attack infected more than 200,000 computers in 150 countries, affecting government, healthcare and private company systems.
+The UK's National Crime Agency, the FBI and Europol are investigating who was responsible for the ransomware.
+Some earlier analysis of the software had suggested criminals in North Korea may have been behind it.
+But the Flashpoint researchers noted the Korean-language ransom note was a poorly translated version of the English text.
+"It was only really the Chinese and the English versions that appeared to be written by someone that understood the language," said cyber-security expert Prof Alan Woodward from the University of Surrey.
+"The rest appeared to come from Google Translate. Even the Korean."
+Prof Woodward noted that the people behind the ransomware had not attempted to retrieve the money victims had paid in Bitcoin, and added it was likely they were keeping a low profile.
+"I actually think they've run for the hills," he told the BBC.
+"Their so-called command and control system, the thing that controls quite a lot of the software, has all been turned off.
+"They know that so many people are watching them now and that following the money could lead to their downfall. I suspect if they've got any sense at all they'll leave it well alone."

@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170118152827/http://www.bbc.co.uk/news/technology-37896273
+
+[SN]TITLE[SN]
+Tesco Bank attack: What do we know?
+
+[SN]FIRST-SENTENCE[SN]
+Supermarket giant Tesco has suspended some parts of its online banking system after it detected attempts to steal cash from customers' accounts.
+
+[SN]RESTBODY[SN]
+It said it spotted "suspicious transactions" on 40,000 accounts over the weekend, with money reportedly taken from about half of them.
+Tesco has declined to elaborate on what happened, or say how much cash went astray, but said it was working with the National Crime Agency to investigate and find the culprits.
+Yes, because this seems to be the first time that a UK bank has reacted so publicly by stopping some types of transactions on a web banking system because of "online criminal activity".
+Banks are targeted all the time but typically those attacks just hit a few individuals, so do not bring about a site closure. In this case, as far as we can tell, a lot of people lost cash very quickly.
+Security expert Troy Hunt said the incident was unprecedented in its scale. He added that the shutdown was "embarrassing" for Tesco and indicated how serious it was.
+Tesco did not use the "H" word in its statement and in interviews its chief executive and other people speaking on behalf of the company have been careful in their choice of language.
+It has said that the attack was "sophisticated" and that an initial investigation had revealed exactly what had happened.
+So far, it has not shared that information but Tesco's actions in the wake of the weekend's events do help to narrow down the possibilities.
+By letting customers withdraw cash from ATMs, use cards in shops and pay bills, it suggests that whatever went wrong does not involve the core computer systems underpinning Tesco bank. These systems used to be run by RBS but since 2008 Tesco has operated independently.
+Security expert James Maude, from software company Avecto, said Tesco's decision to suspend online transactions combined with the information that so many people were hit at once clearly suggests problems with its website.
+All too often, he said, maintenance or website updates can introduce errors and bugs that were not present before. Cyber-thieves are constantly scanning valuable websites to spot changes and will swoop if one emerges.
+It might also be the case that a third party connected to Tesco had a security issue and attackers got in via that route, which has happened in some of the biggest attacks in recent memory.
+Most cybersecurity experts have a very jaundiced view of the world that they often sum up by saying: "Everything is broken and there is always a way in."
+In short, there is no way that any organisation can keep it, and its customers and their data, safe all the time. Many organisations now assume they will be breached and set up monitoring systems to spot when that happens, while also training staff to react quickly to fix problems.
+Nik Whitfield, from security firm Panaseer, said often firms were caught out by vulnerabilities that emerge in software they use rather than through a change they make. It can be hard for organisations to keep across these factors because they use so many software packages.
+In addition, some of the bugs are found by malicious hackers who sell them to gangs that want to use them. In these cases, the first an organisation will know about a bug is when it is used against them.
+Tesco has had problems with some other web-based systems in the past. In 2014, thousands of Tesco customers' net accounts were deactivated after login names and passwords were shared online.
+In that case, Tesco said attackers had compiled the data by using details stolen from other sites, because some Tesco customers reused passwords.
+Like many other banks, Tesco has automatic fraud-spotting systems that keep an eye on accounts and build up a picture of normal activity.
+It is these kind of systems that can catch you out if you suddenly use your credit or debit card to buy lots of things from lots of different places in just a few minutes.
+It is these monitoring systems that are believed to have alerted Tesco to the problems that led to it suspending the site and halting transactions.
+We still do not know the details of what happened so it is difficult to give concrete advice. However, it is worth taking a few simple steps to protect your online account.
+First, choose a good password and do not reuse one that you use elsewhere. Use the bank's two-factor authentication and keep an eye on the transactions carried out via your account.
+Keep security software on your PC, phone or tablet up-to-date and be on the lookout for phishing emails that capitalise on news about any breach.
+James Chappell, chief technology officer at computer security service Digital Shadows, said it was already starting to see cyber-gangs it monitors sending out spam posing as updates from Tesco security staff. The gangs are hoping to trick people into handing over their Tesco account details to let thieves take advantage.

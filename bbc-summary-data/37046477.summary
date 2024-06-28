@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160814045525/http://www.bbc.co.uk/news/technology-37046477
+
+[SN]TITLE[SN]
+Can a computer copy your handwriting?
+
+[SN]FIRST-SENTENCE[SN]
+Researchers at University College London have taught a computer to imitate anyone's handwriting.
+
+[SN]RESTBODY[SN]
+They have created an algorithm that can take a sample of handwritten text, examine its qualities, and then write any text in the same style.
+There are already typefaces in word processing programs that produce text in a fairly uniform handwritten style. But what Tom Haines and his fellow UCL researchers have done is create software that they claim reproduces the messy details of any individual writer's hand.
+They call their system My Text In Your Handwriting and have tried it out on samples of handwritten text from historical figures such as Abraham Lincoln and the creator of Sherlock Holmes Sir Arthur Conan Doyle.
+While Conan Doyle never actually wrote "Elementary, my dear Watson..." the UCL team have now produced that sentence in his handwriting.
+I gave Tom Haines a uniquely difficult challenge.
+My handwriting has always been bad. A messy scrawl that even my family struggles to decipher. I supplied Tom with a sample written on paper with a ballpoint pen - other programs have relied on text written on a tablet, which gives a less accurate input.
+He began the process by using a program that marked up each letter and punctuation mark, analysing in some detail how I wrote. The fact that I sometimes dotted the letter i and in other cases did not was just one wrinkle.
+Then when the analysis was complete he fed it into the algorithm and typed the word "hello" into a box.
+Alongside, a barely legible "hello" appeared - but I had to admit it was a fair approximation of my scrawl. We then tried it out with a whole sentence - and again I have to admit the result was just as bad as I might have produced.
+Clever - but what practical uses does this handwriting algorithm have?
+One example is where banks send out sensitive documents or new credit cards and want to disguise the letters so that they look like handwritten personal letters. The researchers showed me three hand-addressed letters - one of them produced by the computer, two genuinely hand-written. I struggled to work out which was which - see if you can do any better.
+Another possible commercial use is in the personal messages that are inserted with flowers or presents sent by delivery firms - how much better to have a "genuine" handwritten "Happy Birthday" than something typed on a card.
+You might think that another potential use was by criminals attempting to forge your signature. But the researchers say that close examination with a microscope will still reveal what was written by a real human being and what was machine-generated.
+Image 2 was done by computer but the other two were written by a human.

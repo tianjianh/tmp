@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151120090251/http://www.bbc.co.uk/news/business-19549367
+
+[SN]TITLE[SN]
+GoDaddy hosted websites down 'in possible hack attack'
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of websites hosted by one of the world's biggest internet domain registrars and web hosts, GoDaddy, were reported down on Monday.
+
+[SN]RESTBODY[SN]
+"Status Alert: Hey, all. We're aware of the trouble people are having with our site. We're working on it," the website host said.
+One Twitter feed allegedly linked to Anonymous claimed credit for a hack but the cause is far from clear.
+GoDaddy said later that most websites were back online.
+It said on its Twitter account: "We're working out the last few kinks for our site & control centers. No customer data compromised."
+Earlier, the company, which hosts millions of sites around the world, apologised for the frustration of some of its customers.
+One Twitter feed, @AnonymousOwn3r, had said that "all servers" of Go Daddy had been taken down.
+The account of AnonymousOwn3r identifies itself as the "security leader" of the group, but said in subsequent tweets that the attack was carried out alone and not on behalf of the organisation.
+"it is not Anonymous coletive it's only me don't use Anonymous coletive name on it, just my name," the person said in the feed.
+Another went: "i'm taking godaddy down bacause well i'd like to test how the cyber security is safe and for more reasons that i can not talk now."
+A spokesperson for GoDaddy told the BBC that the firm was directing all inquiries to its @GoDaddy Twitter feed. "You could say it's been a busy day," he said.
+Rick Ferguson, director of security research at the computer firm, Trend Micro, told the BBC that, while it was a "blunt instrument", a denial-of-service attack was very effective.
+"What I've seen and heard is it was a DoS attack on the DNS infrastructure," he said.
+The Domain Name System, in essence, translates the readable computer hostnames into IP addresses.
+"If it is true, then that has not been constructed to scale up in a sizeable DDos. The GoDaddy site can cope with a sizeable amount of traffic, but its DNS may not have been.
+"Of course, that's speculation and without confirmation from GoDaddy on the nature of the attack, we don't yet know the full facts," he added.
+One Twitter feed that has been used to claim credit for Anonymous attacks in the past made reference to the disruption and then said: "Please redirect your godaddy hate to @AnonymousOwn3r says is the 'leader' of Anonymous. #derp Have #lulz with that."
+Anonymous is a loosely organised collective of hackers and hacking advocates.
+GoDaddy provides hosting services around the world and said it had $1.1bn (Â£687m) in sales in 2011.
+Attacks on major sites under the banner of Anonymous have become much more common.
+In early June, members of Anonymous staged protests in 16 cities in India against what they said was internet censorship in the country and in April, Anonymous also claimed responsibility for defacing almost 500 websites in China.
+Lulzsec, an off-shoot of Anonymous, gained notoriety last year with a string of high-profile attacks on websites and businesses such as one on Sony Pictures in which thousands of personal details were published online.

@@ -1,0 +1,63 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151014032413/http://www.bbc.co.uk/news/business-14437653
+
+[SN]TITLE[SN]
+When to pull the plug on old software
+
+[SN]FIRST-SENTENCE[SN]
+The evolution of digital technology can be ruthless in its speed.
+
+[SN]RESTBODY[SN]
+Not only does it give birth at a frightening rate; it has a nasty habit of killing its elderly relatives.
+Take the latest release of Apple's OS X operating system - Lion. This Â£21 Mac makeover adds more than 250 new features including an iPad-style app interface, wireless file sharing and a hugely expanded lexicon of finger-gnarling multi-touch gestures.
+But it removes Rosetta, the handy little code translation engine that enabled newer Intel-powered computers to run programs written for Apple's older machines, which were built around Motorola/IBM PowerPC chips.
+The result: Many owners who didn't scour the small print have found themselves unable to use some of their software.
+John Silk, a London-based PR consultant and blogger, considers himself to be fairly tech-savvy. Yet he fell victim to Lion.
+Special Report: The Technology of Business
+Social media offers last keffiyeh factory lifeline
+The digital cloud that signals rain
+Botswana's villages look to technology
+"Now pay attention 007"
+Inside China's secretive tech giant
+"When I tried to launch Word, Excel or Photoshop, I just got a dialog box saying the programs weren't supported," said Mr Silk.
+His versions of Microsoft Office and Adobe's image editing program were a few years old, but still more than adequate for producing basic documents and simple photo tinkering.
+"Lion might be Â£21, but it's going to cost me almost Â£300 more to get back to where I was," he said.
+Apple switched to Intel processors in 2006, meaning newer software had to be written for a completely different machine architecture.
+This massive technical change in direction could have been jarring but Rosetta cushioned the blow - granting users a few more precious years in which to say their goodbyes.
+Yet the end, when it came, still felt sudden and for some users, expensive.
+Deciding when to euthanise your own or other people's products in the name of progress is a challenge faced by all computer companies.
+It is a difficult balance - make the cut too early and you risk irritating customers who feel cheated that their investment is now digital junk, hang on too long and your shiny new system is hobbled by the need to accommodate ancient relics.
+One manufacturer that knows the perils of legacy support more than most is Microsoft. Its 10-year-old Windows XP remains the world's most popular operating system even though consumer support has now been discontinued.
+The company has gone to great lengths to ensure that applications designed for XP will still work in Windows 7, including the option to run a virtual XP environment within the new OS.
+However, such lessons have been hard learned. Microsoft's widely pilloried Vista operating system rendered many pieces of hardware effectively useless because manufacturers were not adequately primed to create new drivers, or were unwilling to participate in the costly driver certification programme.
+"It is fair to say that we learnt a great deal from the Windows Vista change," said Ian Moulster, a product manager at Microsoft UK.
+"It was a big jump to Vista from XP. We wanted to make sure [users] didn't have the same pain."
+Microsoft has no hard-and-fast rule for how long it will endeavour to ensure compatibility between its current systems and legacy software.
+But, Mr Moulster explained, products that work closely with the core functions of the operating system, such as anti virus and disc management applications, are more susceptible to being left behind earlier.
+Getting caught on the wrong side of enforced obsolescence can be annoying and costly for the home user. For businesses, the stakes are potentially much higher.
+Finding that a key piece of software, such as a payroll or accounting package suddenly no longer works after an upgrade could bring operations to a grinding halt.
+Even if an IT setup appears to be doing its job perfectly well in its current incarnation, external pressures such as changing security threats or expiring support systems make modernisation essential.
+"In the business scenario, regulation means that you can't live with unsupported software, even though it might work. You've got all the regulatory control, risk management, etc," said Maurice Aroesti, chief executive of OCS Consulting.
+Software vendors say that most customers understand the need to make changes and are usually happy about it, as long as they are kept well informed and given plenty of advance warning.
+Surprises would be bad for business, according to Ian Tufts, head of R&D in the small business division at Sage, which provides a range of business management applications to six million customers globally.
+"We have a policy and formal procedure for dealing with the communication of [obsolescence] with our customers and it generally tends to be around about two years before we would withdraw support," he said.
+Sage also supports its packages for at least five generations prior to the current version, ensuring that users know what is coming well in advance.
+Where Apple incurred the wrath of some users was, perhaps, not the withdrawal of Rosetta, but the fact that it happened in such a low-key way.
+For those downloading the Lion update, there were no explicit warnings.
+"There's no physical reason why it couldn't have included Rosetta in Lion, except Apple decided it's time to draw a line and people need to move on," said James Holland, a technology writer for the website ElectricPig.co.uk.
+While he appreciates the company's drive to innovate, Mr Holland believes that it could have done a better job flagging up the Rosetta issue.
+"Windows PCs can literally be cobbled together by a man in a shed so Microsoft has a job on their hands catering for all the variants," he said.
+"Apple is lucky in that it makes the hardware and the software. It should therefore be able to see where the likely holes are."
+Ironically, it is possible that new innovations could help mitigate the problem of upgrade obsolescence in future.
+Cloud-based software should, theoretically, be less susceptible to changes to operating systems or other installed software components.
+Because applications such as Google Docs are platform neutral, their functionality is not affected by the base OS or other local factors, barring the odd web browser compatibility issue.
+And the sophistication of cloud computing is quickly progressing beyond word processors and spreadsheets.
+Adobe now offers a web-based version of its Photoshop Express image editor, containing many of the most commonly used application features.
+Faster internet connections and more powerful processors - both in data centres and home computers - will open the possibility of high-end applications, such as video editing, being run in the same way.
+For business too, the intermeshing of hardware, OS and software should become less of an issue.
+"When you take that kind of approach it really decouples the application from the operating system and mitigates a lot of those problems that customers often have when those sort of things are intertwined," said Patrick Irwin, a product manager at Citrix.
+However, cloud computing may not end all upgrade compatibility headaches.
+The ability to seamlessly push out new versions of an application, without the user even needing to update is fine for free software such as Google's app suite, or for open source platforms.
+But business is business, and planned obsolescence serves another purpose. It drives customer spending.
+Even if the technical hurdles are overcome, software makers will want to retain the ultimate sanction for reluctant upgraders who refuse to reach into their wallets.
+Apple was contacted and given the opportunity to take part in this article, but did not respond.

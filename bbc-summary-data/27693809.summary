@@ -1,0 +1,58 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150620062026/http://www.bbc.co.uk/news/business-27693809
+
+[SN]TITLE[SN]
+World Cup 2014 to be most hi-tech football event ever
+
+[SN]FIRST-SENTENCE[SN]
+Football is full of "what ifs".
+
+[SN]RESTBODY[SN]
+What if the linesman had said that Geoff Hurst's second goal for England in the 1966 World Cup final hadn't actually crossed the line? Would West Germany have won instead, depriving England of its only trophy?
+Special Report: The Technology of Business
+Battery technology playing catch-up
+Councils 'wasting millions' on IT
+Tech promises sustainable healthcare
+Mobile brightening Africa's future
+Can we 'green' our toxic buildings?
+What if Frank Lampard's ludicrously disallowed goal against Germany in 2010 had stood? Would England have gone on to win the match?
+Goal-line incidents like these have left exasperated fans - and officials - crying out for technology to come to the rescue.
+And although solutions have been used for years in several other sports, this will be the first World Cup to feature goal-line technology (GLT).
+It is just one example of how this World Cup promises to be the most hi-tech and interactive yet.
+German company GoalControl has fitted 14 high-speed cameras - seven per goalmouth - to the roof of each of the 12 stadiums.
+These are connected to an image-processing computer that filters out non-ball-shaped objects and tracks the ball's position to within a few millimetres, the company says.
+When the ball crosses the goal line, the system - which has been thoroughly tested by governing body Fifa - sends a vibration to the referee's watch and the word "GOAL" appears on his screen, all in less than a second.
+Meanwhile, technology company Sony, which is supporting official Fifa broadcaster HBS, has installed more than 224 high-definition (HD) cameras which will capture more than 2,500 hours of sport during the tournament - more than ever before.
+And this will also be the first time some World Cup matches are captured in the ultra-high-definition (UHD) 4K format, which is roughly four times the resolution of current HD TV.
+This requires a satellite network capable of handling 100 megabits per second.
+While most fans won't yet be capable of receiving a 4K signal, Sony's World Cup programme manager, Mark Grinyer, told the BBC: "We've proved UHD streaming can work and we're building a 4K archive for Fifa for the first time."
+Fans - about three million attending the games and possibly four billion watching on TV - will be viewing, chatting, voting and betting simultaneously on a variety of digital devices, making it a truly multi-screen World Cup.
+"The ways people can watch content has exploded," says Alex Gibbons, UK and Ireland vice president for Akamai, the global content delivery network.
+"There are more, better connected devices than ever before, and more people watching them."
+Ian Foddering, UK and Ireland chief technology officer for infrastructure specialist Cisco Systems, agrees: "Two years on from the 2012 London Olympics, user expectations have increased in terms of their experience at such events.
+"They now typically have an expectation of ubiquitous, high-speed connectivity enabling them to share exciting moments with the world via social media."
+This presents practical challenges for content providers and IT companies alike.
+For example, football app developer, Onefootball, has launched a dedicated free app for the tournament.
+Chief executive Lucas von Cranach told the BBC: "This World Cup is going to break every record in terms of digital traffic and engagement - we're expecting seven digit downloads of our Onefootball Brasil app."
+So how does the company prepare for such high traffic volumes?
+"We've built a huge content management system that can cope with major increases in traffic - the load balancing is taken care of by our cloud provider, Amazon Web Services," he says. "We couldn't do what we do without cloud computing.
+"But apps crash all the time," he admits . "A lot depends on the connection quality offered by the phone network provider, and that's out of our control."
+To get some sense of the scale of this digital World Cup, Akamai says it is expecting to handle up to 2.5 million live content streams at any one time across its network.
+This compares to 1.6 million during the 2010 World Cup.
+And daily peak data traffic could reach 25 terabits per second (Tbps), says Mr Gibbons, up from its usual peak of 15Tbps.
+"As the digital audience doubles, there's a tripling in complexity," he says.
+One activity that is likely to generate big traffic during the World Cup is betting via mobile and online.
+According to online payments company Skrill, nearly a third of UK adults intend to place a bet on the 2014 World Cup - nearly half of those will do it online and a quarter via mobile app.
+The global value of bets placed using mobile devices is forecast to reach $62bn (Â£37bn; 46bn euros) by 2018 - a six-fold increase on the 2013 figure, according to Juniper Research.
+"Mobile betting is likely to take more money than traditional bookies for the first time [at this tournament]," says Tom Levey, from app performance management company, AppDynamics.
+"It's the first truly digital World Cup."
+The company's online bookie clients will be processing hundreds of bets a second, he says. "As soon as we see peaks in traffic we advise on when and how to increase capacity. The companies can't afford to crash - minutes matter."
+But increasing capacity isn't simply a case of plugging in to more cloud-based computer servers, says John Bates, chief marketing and strategy officer at Software AG, an IT services company.
+"The biggest problem for service providers is the computational explosion associated with managing billions of transactions every second," he says. "This requires things like streaming analytics and in-memory architecture, and all this has to be done in real time."
+Brazilian telecoms company Oi, an official Fifa partner, has been furiously gearing up for the tournament.
+"The implementation and expansion of our wi-fi network has been rapidly accelerated in the last few months," a spokesperson told the BBC. "We've grown from 78,000 hotspots in April to more than 700,000 now - the largest network in Brazil."
+It has also increased the coverage and capacity of its 2G, 3G and 4G mobile networks at key points throughout the tournament cities.
+That will be welcome news for visiting fans wanting uninterrupted, high-speed access to their content.
+But they should be wary about the cost of all this streaming content and interactivity.
+With every 1MB of data costing about Â£5 in Brazil, unwary England fans who opt out of data limits set by their network providers, could face unexpected bills running into hundreds of pounds over the tournament, price comparison service Uswitch warns.
+But if high phone bills, rather than goal-line incidents, are the only controversies of this hi-tech World Cup, fans will probably settle for that.

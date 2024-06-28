@@ -1,0 +1,72 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151208105052/http://www.bbc.com/news/technology-34855462
+
+[SN]TITLE[SN]
+Paris attacks: Silicon Valley in crosshairs over encryption
+
+[SN]FIRST-SENTENCE[SN]
+Grief over the Paris attacks will soon make way to demands for action.
+
+[SN]RESTBODY[SN]
+As well as increased military activity, and the controversial suggestions to close the door on refugees, the next battle in the "surely something can be done" arena will be aimed squarely, and angrily, at Silicon Valley.
+Tech companies were already under pressure to make it easier for governments to access "private" communication apps and services. Those calls have intensified greatly since the attacks in Paris.
+"If you create a product that allows evil monsters to communicate in this way, to behead children, to strike innocents - whether it's at a game in a stadium, in a small restaurant in Paris, take down an airline - that is a big problem," Dianne Feinstein, who chairs the Senate Intelligence Committee, told MSNBC.
+"We need hi-tech's help in securing an internet [where] even with a court order you can't get to what they're saying.
+"That's a big problem."
+The "problem" is to do with encryption.
+Without encryption, all of the things we do online would be insecure, be it emailing, or shopping, or banking. They all rely on the principle that if you encrypt data using complex mathematics it is nigh-on impossible to crack.
+If you're using communication apps such as WhatsApp, Apple's iMessage, WeChat and so on, your messages are encrypted by default.
+It means that even if those companies wanted to hand over your messages to law enforcement, they couldn't.
+That's bad, some say.
+"There are a lot of technological capabilities that are available right now that make it exceptionally difficult, both technically as well as legally, for intelligence and security services to have the insight they need to uncover it," said CIA director John Brennan at a security forum on Monday.
+"And I do think this is a time for particularly Europe, as well as here in the United States, for us to take a look and see whether or not there have been some inadvertent or intentional gaps that have been created in the ability of intelligence and security services to protect the people that they are asked to serve."
+An opinion column in the New York Times, authored by Manhattan's district attorney, and the City of London Police commissioner, said "encryption blocks justice".
+In the piece, published back in August, they wrote about a murder near Chicago in which a father of six had been shot. At the scene, officers found two mobile phones. But they were passcode locked. Neither Google or Apple (the phones ran their software) could unlock the phones, and therefore the data was inaccessible.
+"On behalf of crime victims the world over," the opinion piece read, "we are asking whether this encryption is truly worth the cost."
+It's an argument that can be made with more vigour than ever after the Paris attacks.
+With access to communications, the anti-encryption advocates say, we could perhaps stop these tragic events from occurring. That's a claim worth scrutinising.
+It's early days in the investigation, and no evidence has yet been offered to show that encrypted communications were used to organise the atrocity.
+But, given that much of the world's population - from gossiping teenagers to deal-making business people - are using encryption regularly, it's not a wild assumption to consider that the attackers were too.
+But technology industry is, on the whole, against the suggestion that law enforcement should have "backdoors" into popular services - the term given to a hidden way of circumventing the app's security.
+A backdoor, in the infosec world, is the term given to a method in which a supposedly secure system can be accessed. It could be a quirk in some code, or a vulnerability in how a system communicates. Whatever the weakness, typically, once backdoors are made public, they are fixed.
+Hackers make serious money by discovering backdoors and selling them on - often to government security services.
+Many in law enforcement and government feel there should be a backdoor made just for those in authority to investigate and stop criminals and terrorists.
+But some of tech's most influential figures say that the notion of a secure, secret backdoor is dangerously misguided.
+If any backdoor exists, hackers will find it eventually. It would mean data security for all of us, not just criminals, would evaporate.
+The Edward Snowden leaks about mass surveillance changed the landscape in this debate dramatically.
+Faced with user backlash over apparent cooperation with the US government, technology companies were desperate to show they could be trusted.
+They quickly implemented changes that were essentially designed to put them in a position of being able to credibly say: "Listen, even if we wanted to help, we couldn't."
+"If the government laid a subpoena to get iMessages, we can't provide it," said Apple boss Tim Cook, speaking last year to US public broadcaster PBS.
+"It's encrypted and we don't have a key. And so it's sort of - the door is closed."
+For a company that is reluctant to say much about anything, Apple is bullish on encryption. At a dinner event earlier this year, Mr Cook pressed home his view.
+He said calls for intentional backdoors for government as an attack on "civil liberties".
+"If you put a key under the mat for the cops," he said.
+"A burglar can find it too."
+But Silicon Valley companies are preparing themselves for a backlash against this attitude.
+Post-Snowden, the Obama administration was compelled to rejig its rules over data gathering, acknowledging that some of the actions of its security services were unconstitutional.
+Great news for Silicon Valley and privacy advocates.
+Gone is the wholesale collection of some types of data. In its place, a more selective means of data mining, but, crucially, a backing off of trying to get Apple et al to back down on their views over encryption.
+But after Paris, we could see a shift in momentum.
+A memo uncovered by the Washington Post, sent three months ago by Robert Litt, a lawyer working for the US National Intelligence office, said that while attitudes towards creating government backdoors were "hostile", that atmosphere "could turn in the event of a terrorist attack or criminal event where strong encryption can be shown to have hindered law enforcement".
+Paris may just be that event.
+But if it is, how effective would those suggested measures be?
+One of the apps being used extensively by so-called Islamic State is Telegram, a secure messaging app founded by Russian brothers Pavel and Nikolai Durov.
+The app allows broadcast channels, and my colleagues at BBC Monitoring logged that at least 4,500 people were listening to IS's channel on Telegram.
+Any US decision to force back doors into software wouldn't affect what Telegram does. The company is based in Berlin. Any attempt by European authorities would probably fall on deaf ears - the Durovs are no strangers to evading what they see as government meddling.
+Pavel Durov founded VKontakte (known now as VK), a social network with the lion's share of audience in Russia. It's not unfair to call it a Facebook clone - it looks almost identical.
+When Russian authorities wanted more access to the discussions on VK, Pavel fled.
+Telegram has repeatedly ignored the BBC's request for comment on this, and other, stories.
+But on Instagram, Pavel made his feelings on the Paris attacks clear.
+"I think the French government is as responsible as IS... for this, because it is their policies and carelessness which eventually led to the tragedy," he said.
+"They take money away from hardworking people of France with outrageously high taxes and spend them on waging useless wars in the Middle East and on creating parasitic social paradise for North African immigrants.
+"It is a disgrace to see Paris in the hands of short-sighted socialists who ruin this beautiful place."
+In a comment posted to his profile on VKontakte, Pavel, as quoted by the Moscow Times, mocked the suggestion his app should be blocked.
+"I propose banning words," he said. "There's evidence [to suggest] that they're being used by terrorists to communicate."
+The attitude displayed by Pavel Durov exposes, pro-encryption advocates say, the inherent flaw in the argument for allowing government access.
+If Apple, Google, Facebook and others were compelled by law to introduce backdoors, terrorists would probably just move, as they have done already, to other platforms with a more anarchistic approach.
+It would leave services "normal" people use far less secure, while dangerous people would be operating on systems that are even harder to gain access to, with proprietors who are proudly anti-government.
+In the coming days, statements from politicians and law enforcement will be made, directed at the technology companies that handle our day-to-day communications.
+They'll be forced to look cooperative while not undermining the promises they made after the Snowden revelations.
+Put up against military or diplomatic action, taking affirmative steps against communication apps may seem an easy win in the war against terrorism.
+But like so many challenges the world faces - it's simply nowhere near as straightforward as it seems.
+Follow Dave Lee on Twitter @DaveLeeBBC

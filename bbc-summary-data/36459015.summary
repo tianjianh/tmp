@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160606182457/http://www.bbc.co.uk/news/technology-36459015
+
+[SN]TITLE[SN]
+'Significant' number of TeamViewer accounts hacked
+
+[SN]FIRST-SENTENCE[SN]
+Remote login software TeamViewer beefs up its security controls following a spate of users reporting their accounts have been hacked.
+
+[SN]RESTBODY[SN]
+Installed on millions of PCs, the TeamViewer software lets people access a machine via the web.
+Reports of attacks on TeamViewer users grew sharply last week, as many shared their experiences via social media.
+TeamViewer said the attacks used credentials found in giant caches of data stolen from other companies.
+Many people have taken to Reddit and Twitter to report their machines have been remotely penetrated by hackers abusing TeamViewer accounts.
+In some cases, victims said they had lost cash from bank accounts accessible via the compromised computer.
+TeamViewer blamed "unprecedented large scale data thefts on popular social media platforms and other web service providers" for the series of attacks.
+During the past two weeks, hundreds of millions of hacked account details from MySpace, Tumblr and other companies have been offered for sale online.
+TeamViewer said it was likely passwords stolen in those "mega-breaches" that had also been used for TeamViewer accounts were helping cyber-thieves win access to users' computers.
+"They have taken advantage of common use of the same account information across multiple services to cause damage," it said.
+In an interview with Ars Technica, a spokesman for the company said it had seen a "significant" number of accounts taken over but declined to give exact figures.
+The spokesman denied claims the hacks were taking place because attackers had managed to penetrate its network and steal login names and passwords.
+In response to the continuing attacks, TeamViewer has set up a system that will log which devices people use for the service and require them to confirm access from a new machine or device.
+It said it was also introducing monitoring systems that would seek to spot when a TeamViewer account showed "unusual behaviour".
+TeamViewer said users might experience "minor inconveniences" as it set up the security systems.
+It added users should chose hard-to-guess passwords and set up two-factor authentication for their accounts to thwart attackers.
+Paul Ducklin, writing on the Sophos security blog, recommended users set up TeamViewer to ask for approval before allowing access to a remote machine.
+"That's a simple and effective way to prevent crooks from wandering in while you aren't there," he said.

@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170217142449/http://www.bbc.co.uk:80/news/technology-35686493
+
+[SN]TITLE[SN]
+Ukraine cyber-attacks 'could happen to UK'
+
+[SN]FIRST-SENTENCE[SN]
+A recent cyber-attack on Ukraine's electricity network could be replicated in the UK, according to a member of a US investigation into the resulting blackout.
+
+[SN]RESTBODY[SN]
+"I've been getting interest and calls from the UK, Norway, Germany and all over," said Robert Lee.
+"The answer is yes [they could be vulnerable]."
+Last week, the US Department of Homeland Security formally blamed hackers for December's power cuts.
+It did not, however, name the suspected perpetrators.
+The Sans Institute, which researches security issues, is expected to publish more details of the investigation shortly.
+About 225,000 people were left without power for several hours when Ukraine suffered what is believed to be the first successful cyber-attack on an electricity distribution network.
+"The way the Ukrainians set up the grid and the type of the equipment they are using is also the way a lot of other nations do it," said Mr Lee, an infrastructure specialist at cybersecurity firm the Sans Institute.
+He added the attack could have been worse, as the attackers could have shut off power to a much wider area.
+"This was a shot across the bows," he told the BBC.
+Individual UK power firms declined to comment on their security measures.
+However, a source close to the industry - who asked to remain anonymous - confirmed that "given sufficient sophistication and funding", the UK's electricity infrastructure could be hacked.
+A spokesperson for the Energy Networks Association - the body that represents the UK and Ireland's gas and electricity distributors - said cybersecurity was a top priority.
+The Department for Energy and Climate Change told the BBC: "The UK has... dedicated cyber experts and teams to keep it protected."
+In Mr Lee's view, the attack was highly likely to have originated in Russia.
+But he said it was not possible to say whether it was the "Russian government or a well-funded [non-government] team".
+At least six months before the power was shut off, he explained, attackers had begun sending phishing emails to Ukraine's power utility companies' offices, containing Microsoft Word documents. When opened, they installed malware.
+Firewalls separated the affected computers from the power control systems.
+But the malware - known as BlackEnergy 3 - allowed the hackers to gather passwords and logins, with which they were able to mount an attack.
+After months of work, they gained the ability to remotely log in to vital controls, known as supervisory control and data acquisition (Scada) systems.
+Finally on 23 December, Mr Lee said, the attackers "remote desk-topped" into the Scada computers and cut power at 17 substations.
+At the same time, they jammed company phone lines, making it hard for engineers to determine the extent of the blackout.
+The power outages in Ukraine lasted for several hours. They were only reversed by switching to manual operations.
+The attackers went to great lengths, according to Mr Lee, to make sure power supplies could not be turned back on automatically.
+He said the hackers rewrote firmware in the electronic devices used to communicate with the substations' circuit breakers.
+That meant that the power could not be turned on remotely even after engineers had regained control of the Scada computers.
+In the end, the engineers had to visit the substations and operate them manually.
+In the UK, this would take between one to two hours, the source close to the industry told the BBC.
+UK power companies' systems are constantly under attack.
+A breach "is entirely possible", said Eireann Leverett of Cambridge University's Centre for Risk Studies, but he added "there's a lot of people working very hard to stop it".
+Mr Leverett is now working on a report about what the consequences might be, due to be published in April.
+Glasgow University's Professor Chris Johnson has highlighted that some of the control systems used by power distribution companies can be found for sale online.
+He warns that these could be used by hackers to hunt for security weaknesses.
+But Mr Lee's view can be summarised as "where there's a will, there's a way".
+Companies are unlikely to be able to prevent every assault on their systems, he warns. Ukraine's hackers were "inside" the electricity companies' systems for six months, he notes, highlighting the lengths they went to.
+So one lesson, he says, is that power providers must ensure they can detect attacks quickly when they occur and have staff primed to respond.
+That costs money, meaning more expensive bills for consumers.
+In a speech to GCHQ last year, the chancellor George Osborne said an attack on the UK's electricity network could lead to "loss of life".
+He announced an extra Â£1.9bn of taxpayer's money over five years to bolster GCHQ's cyber capabilities.
+The chancellor also said countries must work together to call out those "acting outside the boundaries of acceptable behaviour".
+Mr Lee has a similar view, adding that the international community must "take a stand" if responsibility for the attacks is finally determined.
+Read more cybersecurity stories in our special index

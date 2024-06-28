@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170403221431/http://www.bbc.co.uk/news/technology-39218393
+
+[SN]TITLE[SN]
+Security flaws 'undiscovered for years'
+
+[SN]FIRST-SENTENCE[SN]
+Security holes known as zero-day vulnerabilities can lie dormant for up to 10 years, a study has suggested.
+
+[SN]RESTBODY[SN]
+And this means that hackers have plenty of time to develop sophisticated exploits for a range of software.
+The study, from research organisation Rand, looked at 200 security flaws, 40% of which are not yet publicly known.
+It comes as documents from Wikileaks suggest the CIA has collected a portfolio of zero-day vulnerabilities.
+The study suggests:
+Lillian Ablon, lead author of the study, said that "deciding whether to stockpile or publicly disclose a zero-day vulnerability is  game of trade-offs, particularly for governments".
+"Looking at it from the perspective of national governments, if one's adversaries also know about the vulnerability, then publicly disclosing the flaw would help strengthen one's own defence by compelling the affected vendor to implement a patch and protect against the adversary using the vulnerability against them," Ms Ablon said.
+"On the other hand, publicly disclosing a vulnerability that isn't known by one's adversaries gives them the upper hand, because the adversary could then protect against any attack using that vulnerability, while still keeping an inventory of vulnerabilities of which only it is aware of in reserve.
+"In that case, stockpiling would be the best option."
+Stuxnet, one of the most high profile pieces of malware in recent years, relied on four Microsoft zero-day exploits to compromise Iran's nuclear programme.
+Wikileaks claims that, as of last year, the CIA has built up an arsenal of 24 Android zero-day vulnerabilities.
+Google later said Android and Chrome users should be protected from many of the exploits, thanks to security updates and patches.
+Art Swift, president of the PRPL Foundation, which champions open-source software, told the BBC: "The irony of these findings is that in the government's attempt to protect US citizens from cyber-attacks, it's actually exposing them to cybercriminals and nation-state attackers in the worst way.
+"By using these flaws and encouraging vendor backdoors, it actually weakens the whole system."

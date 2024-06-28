@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170629032212/http://www.bbc.com/news/business-25670315
+
+[SN]TITLE[SN]
+2014: The year of encryption
+
+[SN]FIRST-SENTENCE[SN]
+"The solution to government surveillance is to encrypt everything."
+
+[SN]RESTBODY[SN]
+So said Eric Schmidt, Google's chairman, in response to revelations about the activities of the US National Security Agency (NSA) made by whistle-blower Edward Snowden.
+Special Report: The Technology of Business
+Stress test: Are you fit for work?
+2013: The year we all went 'mobile'
+The technology aiming to help refugees
+Retrofit for purpose: New from old
+Sudan hopes tech will transform farming
+Schmidt's advice appears to have been heeded by companies that provide internet-based services.
+Microsoft, for instance, says it will have "best-in-class industry cryptography" in place for services including Outlook.com, Office 365 and SkyDrive by the end of the year, while Yahoo has announced plans to encrypt all of its customers' data, including emails, by the end of the first quarter of 2014.
+For many smaller businesses too, 2014 is likely to be the year of encryption. That's certainly the view of Dave Frymier, chief information security officer at Unisys, a Pennsylvania-based IT company.
+But he believes the driving force for this will be different: not government surveillance programmes, but the threat of attacks from hackers.
+Rather than encrypting everything, Mr Frymier advocates that companies identify what he believes is the 5%-15% of their data that is really confidential, and use encryption to protect just that.
+He says employees should then be barred from accessing this data using standard desktop and laptop machines or their own smartphones or tablets, which can easily be infected with malware. Access would be restricted to employees using secure "hardened" computers.
+"When you look at the increasing sophistication of malware, it becomes apparent that you need to establish highly protected enclaves of data. The only way to achieve that is through modern encryption, properly implemented," says Mr Frymier.
+"You can split your data into diamonds and paperclips, and the important thing is to encrypt the diamonds, and not to sweat the paperclips."
+Prakash Panjwani, a general manager at Maryland-based data protection company Safenet, also believes that the large number of high-profile data breaches in 2013 - including hacker attacks on US retailer Target, software maker Adobe, and photo messaging service Snapchat - means that 2014 will inevitably be a bumper one for encryption vendors.
+"Snowden has focused attention on surveillance issues, but the real threat is organised crime and the number of data breaches that are occurring," he says.
+"Companies are going to come under extreme pressure from boards, customers and regulators in 2014 to take action so that if there is a data breach they can say, 'We didn't lose any data because it was encrypted.'"
+A large number of companies already use encryption to protect the data they store on their own systems "at rest", as well as data "in flight" as it is sent over networks to customers, other data centres, or for processing or storage in the cloud.
+But Ramon Krikken, an analyst at Gartner, believes that the way encryption is used by many of these companies is likely to change in 2014.
+"Companies are certainly going to have to take encryption more seriously thanks to the Snowden revelations," he says.
+"At the moment many companies are using encryption for compliance reasons, not for security. They are not using it to protect their data, but because it is the easiest way to comply with regulations: encryption is the auditor's and the regulator's favourite check box item."
+One question that companies will need to consider is which encryption algorithm or cipher to use to best encrypt their data. It's an important question as some older ciphers can now be "cracked" relatively quickly using the computing power in a standard desktop PC.
+And there is a question mark over whether the NSA may have deliberately used its influence to weaken some encryption systems - or even to introduce "back doors" that provide easy access to encrypted data to anyone who knows of their existence.
+"The problem is that even if you can inspect the source code, it is certainly not a given that you would be able to spot a back door," Mr Krikken says.
+He believes it is more important to establish where all the parts of an encryption solution come from.
+"If you procure software or hardware from overseas, from a country with a government which does not have your best interests at heart, you need to remember that it may not be as secure as you think," Mr Krikken says.
+"So you have to decide who you trust, and find out where the vendor gets all the parts of its product from."
+Another thing companies need to consider when they implement encryption is how strong the encryption should be. Using a longer encryption key makes it harder for hackers or governments to crack the encryption, but it also requires more computing power.
+But Robert Former, senior security consultant for Neohapsis, an Illinois-based security services company, says many companies are overestimating the computational complexity of encryption.
+"If you have an Apple Mac, your processor spends far more time making OS X looks pretty than it does doing crypto work."
+He therefore recommends using encryption keys that are two or even four times longer than the ones many companies are currently using.
+"I say use the strongest cryptography that your hardware and software can support. I guarantee you that the cost of using your available processing power is less than the cost of losing your data because you were too cheap to make the crypto strong enough," he says.
+"No-one ever got fired for having encryption that was too strong."

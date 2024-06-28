@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170210043659/http://www.bbc.co.uk/news/technology-38403423
+
+[SN]TITLE[SN]
+Raspberry Pi makers release own-brand OS
+
+[SN]FIRST-SENTENCE[SN]
+The makers of the Raspberry Pi computer have created a version of its graphical front end that can run on ordinary desktop computers.
+
+[SN]RESTBODY[SN]
+The Pixel desktop has been re-worked so it runs on PCs and Apple Mac machines, said the Foundation.
+People who use it on a Raspberry Pi and other machines will now get the same familiar software across both.
+The Pi Foundation said the release also aided its plan to produce the "best" desktop computing experience.
+Raspberry Pi co-creator Eben Upton said the software should help schoolchildren who use the credit-card sized Pi in class or for their own projects but have to continue their work on PCs or Macs.
+The Pi edition of Pixel and the version translated for bigger machines uses "exactly the same productivity software and programming tools, in exactly the same desktop environment", he wrote.
+"There is no learning curve, and no need to tweak... schoolwork to run on two subtly different operating systems," he said.
+In addition, he said, producing such a version of Pixel kept the Raspberry Pi foundation "honest" as it would help the organisation's coders work out what bits of the user interface needed work.
+Mr Upton said that because the core software underlying Pixel was based on a relatively old computer architecture, it should run on "vintage" machines.
+He warned that the software was still "experimental" so might have bugs or other "minor issues" that might mean it does not run well on some machines.
+Pixel was first released in September this year and overhauled the main graphical interface owners see and use when working with their Pi. It is based on a version of the open source Linux software known as Debian.
+The desktop version lacks two programs - Minecraft and Mathematica - because the Pi organisation has not licensed those applications on any machines other than its own.
+In April last year, the Raspberry Pi officially became the most popular British computer ever made. More than 10 million have now been sold.
+The computer was first released in 2012 and is widely used as an educational tool for programming.

@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170202150254/http://www.bbc.co.uk/news/technology-37353835
+
+[SN]TITLE[SN]
+UK moves to ‘active cyber-defence’
+
+[SN]FIRST-SENTENCE[SN]
+Britain is moving towards more active defence in cyberspace, the head of the UK's new National Cyber Security Centre (NCSC) has said.
+
+[SN]RESTBODY[SN]
+Speaking in Washington, Ciaran Martin was giving his first public comments as the chief executive of the NCSC.
+The centre, which launches next month, will absorb existing roles such as protecting government and critical infrastructure.
+It will also look at new ways of engaging with business and the public.
+Among its plans are developing automated defences to offer protection from high-volume but relatively unsophisticated cyber-attacks.
+The NCSC will take a lead on protecting government networks and those of national level importance, but Mr Martin also outlined ways in which it would be more ambitious in improving the UK's overall cybersecurity.
+One-eighth of the UK's gross domestic product (GDP) comes from the digital economy, the highest in the G20 group of industrialised economies, and Mr Martin said retaining public confidence in online transactions and ensuring economic growth was a priority in the same way as protecting national security.
+Last year, twice as many "national-security-level cyber-incidents" were detected compared with a year before, amounting to about 200 per month.
+The attacks are not always highly sophisticated.
+The breach at the telecoms company TalkTalk used a basic technique dating from the end of the 20th Century rather than anything new.
+"Far too many of these basic attacks are getting through," Mr Martin said. "And they are doing a lot of damage."
+The new strategy will include using technology to automate defences against unsophisticated but high-volume cyber-attacks.
+Mr Martin described this as "active cyber-defence", distinguishing it from the US use of the term, which relates to pursuing hackers into their networks.
+Two to three years ago, there had been an expectation in government that a market of supply and demand would help deal with the low- to medium-end cyber-threats, leaving government to concentre on high-end threats.
+But officials acknowledge this has not taken place and that information sharing has often reached limits leading to a shift towards a more "activist and automated approach".
+The NCSC has already been working on using automated measures on government networks.
+This includes ensuring UK government email is trusted and not spoofed to fool members of the public.
+"We trialled it, and whoever was sending 58,000 malicious emails per day from taxrefund@gov.uk... isn't doing it anymore," Mr Martin said.
+The centre has also been piloting ways of tackling commodity attacks - off the shelf, easy-to-use malware.
+This has involved sending automated takedown requests to web hosts, registrars and others.
+The focus has been on government networks but the ambition is to take these ideas beyond government on a voluntary basis - for instance working with service providers to stop the abuse of certain protocols to reroute traffic.
+This would make it harder for UK machines to be hijacked for use in denial of service attacks.
+The centre is also exploring scaling up DNS filtering - a method of screening web addresses for malware and other malicious content - to help providers protect their customers (with the public able to choose if they wanted to take part).
+Another aspect of the overall strategy is working on "core national defensive cyber-capabilities" to tackle the truly high-end threats.
+Mr Martin said the UK was developing "lawful and carefully governed offensive cyber-capabilities to combat and deter the most aggressive threats".
+The new centre will take over incident response (ranging from covert detection to a stronger, more visible role in providing public advice and reassurance in a crisis).
+In protecting critical networks, Mr Martin pointed to two challenges ahead.
+One was the switch to universal credit, where, Mr Martin said, 90% of claims would be processed online - meaning one system would pay out 7% of GDP.
+This means preventing online fraud will be a priority.
+Another challenge is the switch to smart meters, which  are connected to the internet.
+There have been reports of weaknesses in the system, but Mr Martin said efforts had been undertaken to ensure they could not be easily compromised.
+Mr Martin acknowledged the NCSC 's roots in GCHQ would require overcoming challenges.
+For many years, industry figures complained that GCHQ was good at asking for information but less good at sharing what it knew and - as an intelligence agency - was over-secretive.
+Overcoming that legacy and playing a role in public education, will require a culture shift.
+A new headquarters in London - rather than GCHQ's home in Cheltenham - is designed to aid in that process.
+Mr Martin worked in Whitehall before moving to GCHQ and then being picked to lead the NCSC.
+A number of senior staff from GCHQ with deep technical experience are also moving over to the centre, which is intended to signal the commitment of the intelligence agency to make NCSC work effectively.

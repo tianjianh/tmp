@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160807084210/http://www.bbc.co.uk/news/technology-37001302
+
+[SN]TITLE[SN]
+Def Con: The hackers bringing Mr Robot to life
+
+[SN]FIRST-SENTENCE[SN]
+From the latest Jason Bourne movie to CSI Cyber and countless other films and TV shows, hacks, hackers and hacking have never been more mainstream.
+
+[SN]RESTBODY[SN]
+But few people who work in computer security can stand those programmes or movies because, in their words, they are so technically inept.
+One TV show that has proved popular with hackers is NBC Universal's Mr Robot which centres around Elliott Alderson - a security pro by day but who is also a member of an anti-establishment hacker group called FSociety that wants to use his technical skills to change the world.
+Kor Adana, one of Mr Robot's writers who worked in IT security before jumping to TV production, said the decision to make the show as technically accurate as possible was made even before the first episode was shot.
+"I've got nothing but disdain for how Hollywood has portrayed hacking and technology before now," he told a packed session at Def Con that was testament to the huge following Mr Robot has won among hackers.
+"We wanted to do it right," he said, "and we thought that doing it in a realistic way would be enticing and compelling."
+To help get the details correct, Mr Adana has recruited several technical consultants well-known in the Def Con and hacking community to advise on how the hacks Elliott uses can be accomplished.
+The consultants develop the hacks, prove they work and then pass on information about how they were done to Mr Adana so they can be used on the show.
+However, he said, drama demands that not every last detail of how Elliot cracks passwords, spoofs text messages, hacks phones or penetrates corporate and civil networks is shown.
+"We have to strike a balance between what's visually compelling and what we have to do to move the story forward," he said.
+Despite this the show does take care to make sure real and relevant hardware and software is used, he said. This attention to detail extends to the version numbers of software packages being used, command syntax, output format and screen layouts.
+"We want to nail those details," said Mr Adana. "It really helps to ground the show in reality if we can use real tools."
+Mr Adana extended an open invitation to the Def Con audience to contact him and the technical consultants with information about the tools they use so they can be featured on the show and used in its hacks.
+Beyond the technology and hacks featured in the show, Mr Adana said it was also trying to make an important point about the contemporary role of technology.
+"We live in an age where we are more dependent on devices than ever," he said. "And there are a lot of the younger generation that know how to use apps but do not know about the ways in which they are vulnerable and how if they leave their phone unlocked it will not take long for it to be rooted."
+"If Mr Robot increases the level of awareness and paranoia out there then that's a good thing," he said.
+Veteran hacker Marc Rogers, who develops and proves many of the hacks featured in the show, said he had been encouraged by the care it took to get the tech right.
+"For years and years I have watched TV betray my community," he said, "I want to see real stuff on TV that does not make me rage and which is an accurate portrayal of people in my community."
+"It's been a gift to work on this," he said.
+Andre McGregor, a consultant who formerly worked in the FBI's cyber division, said he too was heartened by the care taken over the technology in the show.
+"I find it refreshing that the accuracy is so important to them," he said, adding that he was approached to help with Series Two of Mr Robot because several episodes feature law enforcement and government responses to cyber attacks.
+Mr McGregor said his advice extended beyond helping the show's writers understand how the FBI and law enforcement agencies investigate cyber intrusions and conduct interviews. It also involved more subtle elements such as how FBI agents arrange themselves in a room during a meeting or interrogation, he said.
+"An agent would never stand in front of a door," he said. "It's what we call the 'fatal funnel', you could be hit by a shotgun blast through that door."
+But there were some things that the show did gloss over, said consultant Ryan Kazanciyan, a former penetration tester who is now head of forensics at security firm Tanium.
+"It's missing the time, the number of steps you have to go through for a hack, complexity and the amount of research you have to do," he said.
+"When I would do penetration testing I would have one or two weeks to get in from the outside and then one or two weeks to see how much damage I could do from the inside," he said.
+"Sometimes I would go for days just coming up blank," he said. "And then you would have that Aha! moment that gets you in."
+He said one facet of hacking the show did get right was the view of the world that anyone with an understanding of security software swiftly acquires.
+"There's always a way in," he said.

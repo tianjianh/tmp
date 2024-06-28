@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170104115315/http://www.bbc.com:80/news/world-us-canada-38333693
+
+[SN]TITLE[SN]
+Mapping the perfect wine and cheese pairings - using data science
+
+[SN]FIRST-SENTENCE[SN]
+A university science professor helped develop a computer program to visually map out relationships between genes and molecules. Then his wife pointed out he could use it to find perfect wine and cheese pairings.
+
+[SN]RESTBODY[SN]
+Next time you are planning the ultimate wine and cheese party, reach for your computer or tablet, because there's a map for that.
+A University of Toronto professor has created an interactive mapping graphic of some 1,000 ideal wine and cheese pairings with the tool he and his team of computer scientists and molecular geneticists usually use to visualise complex gene networks.
+"I've definitely gotten a lot of mileage from this at parties," says professor Gary Bader.
+People can use the site to explore the best pairings of about 100 red and white wines and 270 cheeses.
+They can also delve into the web of connections between wines and cheeses from around the world.
+"You just quickly look at a picture and see patterns that would be very difficult to find if you were looking through data spreadsheets one row at a time," says Mr Bader.
+A search on the site for Malbec wine pulls up six cheese recommendations, including a French Mimolette. Click on Mimolette and get pointed towards similar cheeses, in this case an edam and a gouda, and two more possible wine pairings.
+Plug in camembert and it recommends a handful of reds - Chiantis, California zinfandels, cabernet sauvignons, tempranillos - and a lone white chardonnay.
+You can also filter searches by cheese type and country of origin, and by either red or white wine.
+The site is powered by Cytoscape, software designed for biological research and for complex network analysis and visualisation. It was developed by an international team of researchers, including those in Mr Bader's Toronto lab.
+Cytoscape is used by geneticists and biologists worldwide to map and visualise data about genes and diseases like autism and cancer, and to find new treatments.
+It was Mr Bader's wife who realised it could be used off-label to explore tastier datasets.
+"She had the brilliant idea, the Eureka moment, to say, 'We can make a network out of these,'" he says.
+The couple set to logging pairing recommendations from their favourite "nerdy" cheese book, Cheese: A Connoisseur's Guide to the World's Best, by American expert Max McCalman.
+Creating a visual map of the networks Mr McCalman explores in his work allowed Mr Bader to notice patterns, including which wines were most easily paired, like syrahs, red burgundies, and California merlots.
+Mr Bader calls these wines "safer bets" to bring to parties.
+He has also used it himself to find interesting pairings, including personal favourites like a syrah or red burgundy with cheddar or a California zinfandel with Zamorano, a Spanish sheep's milk cheese he discovered using the map.
+But the pairing map is not all about food and drink.
+Mr Bader also calls it a "conversation starter" that lets him regale guests about scientific discoveries being made around the world through molecular and systems biology and genomics.
+"The main fun thing for me for the site is to just use it as a really great demonstration that's understandable about network analysis and technology, and that often leads people into a discussion about science that they wouldn't otherwise have had," he says.

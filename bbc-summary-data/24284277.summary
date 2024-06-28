@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223170852/http://www.bbc.co.uk:80/news/technology-24284277
+
+[SN]TITLE[SN]
+Michelle Obama's ID details hacked from data brokers
+
+[SN]FIRST-SENTENCE[SN]
+Hackers stole millions of social security numbers by cracking open the networks of large US data brokers, reveals an investigation.
+
+[SN]RESTBODY[SN]
+The ID details of US First Lady Michelle Obama and many other famous people were exposed by the hack attack.
+Journalist Brian Krebs tracked the information back to hackers who ran an online market for confidential data.
+He found they got their data by compromising computers sitting on the data brokers' corporate networks.
+In March, Krebs, as well as the FBI and US Secret Service, started looking into how the exposed.su website was getting hold of social security numbers and other details of many famous Americans.
+The mysterious website, which has now been closed down, published confidential information about Bill Gates, Beyonce Knowles, Jay-Z, Ashton Kutcher and many others.
+The investigation into exposed.su showed it had bought its information from another site, called SSNDOB, that advertised itself as a market for just such private data. SSNDOB sold data records on individuals for as little as 50 cents (30p). The records of about four million Americans seem to have been accessed via the data-selling site.
+In early summer, wrote Krebs in a blogpost, SSNDOB had itself been attacked and its database stolen, copied and widely shared.
+Analysis of the SSNDOB database by Krebs and forensic computer expert Alex Holden, of Hold Security, revealed the ID data being sold had come from machines sitting on the internal networks of several American information aggregation firms. Compromised computers or systems at LexisNexis, Dun & Bradstreet and Kroll were all named by Krebs as the sources of the data.
+In the commercial world, the three firms are well known for providing businesses with data about potential commercial partners and customers. The open access the hackers enjoyed meant they could run their own queries about individuals via the databases of the three firms.
+"All three victim companies said they are working with federal authorities and third-party forensics firms in the early stages of determining how far the breaches extend," wrote Krebs on his blog.
+LexisNexis issued a statement denying that its information was exposed.
+"To date [we] have found no evidence that customer or consumer data were reached or retrieved," said the statement.
+A spokeswoman for the FBI told Reuters it was investigating the breaches identified by Krebs but would give no more details.

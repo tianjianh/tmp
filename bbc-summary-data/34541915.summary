@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151015220755/http://www.bbc.co.uk/news/technology-34541915
+
+[SN]TITLE[SN]
+Malvertising: Daily Mail ads briefly linked to malware
+
+[SN]FIRST-SENTENCE[SN]
+Readers of the Daily Mail's website were shown fake advertisements that linked to malware, a security company has discovered.
+
+[SN]RESTBODY[SN]
+Bogus ads for shoes briefly appeared among the selection of banners displayed on DailyMail.com.
+Instead of online shops, the advertisements linked to malware that can expose computers to "ransomware".
+Ransomware encrypts files on a victim's computer and asks for a payment to decrypt them again.
+The practice is known as "malvertising".
+Security company Malwarebytes made the discovery last week and published a report about its findings online.
+The report says Malwarebytes contacted the Daily Mail and relevant advertising networks about the issue on Friday.
+By Monday morning, the security company was informed that the fake ads had been removed.
+The banners, purporting to be for an online shoe retailer, were published via a bogus ad server.
+From there, they were distributed via an advertising network that presents ads to readers on the Daily Mail's website.
+If a user clicked on one of the ads, they would be redirected to a well known piece of malware called the Angler Exploit Kit, which attacks vulnerabilities in Internet Explorer and Flash.
+There are various ways to protect yourself from ransomware, according to Tony Berning, senior manager at software company Opswat.
+"To protect against ransomware, users must back up their data regularly," he said.
+"In addition to this, an important defence against ransomware is the use of anti-virus engines to scan for threats.
+"With over 450,000 new threats emerging daily, anti-malware engines need to detect new threats continuously, and will inevitably address different threats at different times," Mr Berning said.
+The Daily Mail did not immediately provide a comment.

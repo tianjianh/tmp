@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151205114252/http://www.bbc.co.uk/news/technology-34972764
+
+[SN]TITLE[SN]
+Should you buy a smart toy for Christmas?
+
+[SN]FIRST-SENTENCE[SN]
+If you were thinking about buying a smart toy for Christmas, the Vtech hack may have led you to think again.
+
+[SN]RESTBODY[SN]
+For many parents the thought of their children's personal data being stolen and made available online is the stuff of nightmares.
+So what exactly is a smart toy and should you be avoiding them in favour of a more traditional stocking filler this year?
+The Learning Lodge app store - which provides downloads of apps, games, music and books for toys made by VTech - had its database hacked on 14 November.
+The personal information stolen, which was not encrypted, included names, email addresses, passwords, secret questions and answers for password retrieval, IP addresses, postal addresses, download histories and children's names, genders and birthdates, according to Vtech.
+It has also been reported that photos, audio files and chatlogs were stolen - something that the firm has not yet confirmed, although it did say that only unsent messages were stored on its servers.
+The numbers involved are huge - according to Vtech 6.4 million children's accounts were affected and it has now employed a security firm - Mandiant - to look at the damage and fix it. Until then the app store will remain offline.
+If a toy is labelled "smart" then that probably means it is connected to the internet in some form, whether this be via an app, wi-fi or other method.
+Security has not traditionally been an area of expertise for most toymakers so combining tech and toys could lead to problems, thinks security expert Ken Munro.
+"My view is that the internet of toys is currently the Wild West. Every toy we touch we find security bugs with," he said.
+In January he demonstrated this to the BBC by hacking the software behind Vivid Toy group's conversational doll Cayla, allowing it to say things dolls probably should not say.
+Despite having an office full of connected toys, he will not be handing any of them over to his children.
+"Instead of paying Â£60 or Â£70 for a child-friendly tablet or device I would just buy a second-hand iPhone where you have the confidence that it has been locked down and is secure," he told the BBC.
+Hello Barbie, another net-connected toy that can share conversations, games and stories with children, has also been subject to some scrutiny from security experts.
+Security researcher Matt Jakubowski discovered that conversations with children stored in the cloud can be accessed by others and that the toy can also be used as a surveillance device.
+The risks of internet-enabled toys don't end with security, thinks activist group Campaign for a Commercial-Free Childhood.
+"Children confide in dolls and reveal intimate details about their lives, but Hello Barbie won't keep those secrets," it said in a statement.
+"When Barbie's belt buckle is held down, everything your child says is transmitted to cloud servers, where it will be stored and analysed by ToyTalk, Mattel's technology partner."
+ToyTalk countered that passwords are stored in a hardware-encrypted section of the doll and that no conversation history is stored on the toy. It added that stored data is "never used for advertising purposes".
+More and more toys are getting smart capacities and one of the smartest might be a little dinosaur toy that is powered by IBM's cognitive platform Watson.
+The brainchild of Elemental Path, the dinosaur doesn't have a name - that is left to the individual child to decide - but it does have elements of artificial intelligence, learning the best ways to interact with the chld.
+So, for instance, if a child asks it "How far away is the moon?", a five-year-old will get a different answer to an eight-year-old.
+But the toy isn't super-smart, at least not yet. "Will the dino learn Spanish if my children are Spanish? No," said Donald Coolidge, head of business strategy at Elemental Path.
+He said that the firm is working to make the "algorithms smarter".
+The dinosaur is due for release early next year and the company said that it had put extra effort into security.
+"It seems that Vtech has not taken some very simple steps that should have been taken," said Mr Coolidge, about the recent hack.
+Those days many children live large parts of their lives on the internet so it seems obvious that toymakers would want to tap into that cultural shift.
+And many of the toys they make are attempting to bridge the gap between the real world and the digital one.
+Some critics point out that tech toys - like talking dolls and dinosaurs - may limit the imaginative play element that is part of more traditional toys.
+But Mr Coolidge believes they can enhance it.
+"One of the reasons we built the dinosaur was because kids ask so many questions and we wanted to build something so that they could continue to ask questions and make up stories."

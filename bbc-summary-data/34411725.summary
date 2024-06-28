@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719221641/http://www.bbc.co.uk/news/technology-34411725
+
+[SN]TITLE[SN]
+How to tackle the network intruders
+
+[SN]FIRST-SENTENCE[SN]
+How long do you think it would take to spot an intruder in your home?
+
+[SN]RESTBODY[SN]
+Let's say they got in during the night, just to give them a chance. It would probably be only a few minutes before you would be calling the police or tiptoeing towards the intruders gripping a tennis racket or baseball bat in your sweaty hands.
+It certainly wouldn't be weeks or months before you noticed.
+And yet, many companies do take that long to spot intruders on their networks.
+"The time between attack and detection can stretch to 200 days," said Peter Woollacott, head of security firm Huntsman.
+"It takes so long because there is a shortage of competent security analysts and there's an enormous amount of technology that's providing you with threat information," he said.
+Analysis suggests one reason US retailer Target suffered one of the biggest data breaches in American corporate history was because the company's threat detection systems overwhelmed its security staff with false alarms. Amid all that noise they did not notice the real intruders.
+There have been hints that infidelity site Ashley Madison was also exposed by an insider who took data from its internal network.
+The reason there is so much data to sift through is because the bad guys have changed their tactics, said Raimund Genes, chief technology officer at Trend Micro.
+"They usually start with a social engineering attack," he said. "They grab information from your Facebook to sound believable and make it appear that they know you."
+The fake familiarity tricks people into opening a booby-trapped email letting them steal credentials that are then used to get at a company network. Or it might lead to a link that gives an attacker access to a work computer.
+For that reason, said Mr Genes, many firms now monitor what happens on their internal network - a space that before now they assumed to be trustworthy.
+Many companies operate on a "castle and moat" basis but this means their defences, while strong, are largely outward facing. They might miss the attacks that come from within - perhaps by sappers tunnelling under the walls or saboteurs that have managed to trick their way in.
+Turning the defences inward can solve that problem. However, said Mav Turner from security firm Solar Winds, watching all that internal traffic on an intranet is hard.
+"The infrastructure has got very, very complex," he said. "There are a lot of moving parts."
+In their day-to-day operations, each device on that network generates information about what it is doing. The picture is made more complicated by the way modern threat intelligence systems monitor and report on activity on the intranet. That can add up to millions, if not billions, of individual events every day that require analysis.
+What is key, said Mr Turner, is understanding what is happening on that network and whether those events are normal. Those patterns are likely to be unique to that network so more traditional approaches based around signatures of known attacks are much less useful.
+Many modern attacks, such as those that start with emails spoofed to look like they are from someone who knows you well, do not resemble an attack because they use your login name and password. It looks like you are logging in. Instead cyber-thieves use the stolen credentials to traverse the network and get at valuable resources.
+Increasingly companies and large organisations are turning to tools that watch traffic flows around their network and alert staff to anomalies, for instance, if someone who has never before queried the customer database suddenly starts downloading megabytes of data from it.
+"You need to use machine power to do some of the information collection," said Mr Woollacott. "Anomaly detection is great, it is very powerful but it needs to be used in conjunction with high-speed algorithms."
+In addition, he said, not every anomaly is a security risk. Humans are a necessary element that has to verify if an alert is a false alarm or the start of something more serious. They also are the ones who decide what action needs to be taken when responding to an alert.
+As the algorithms get better at sorting, some of this will be automated, said Mr Woollacott, but it's likely that humans will always be the ones deciding whether to shut down sites or services in response.
+While getting better at spotting a breach is vital to reduce that 200-day window of exposure that is not all they have to do.
+Once a breach is detected, a company needs to be able to do something about it, said Harry Sverdlove, chief technology officer at Bit9. Companies also need tools to record those internal data flows to aid forensic analysis.
+"One of the things you need to do is constant recording," he said. "When you realise that there was a bad guy there you need to go back and see where did they go and what did they do?"
+This helps if a criminal case results from the intrusion and can reveal weaknesses in the way that staff work. Without that visibility, firms could be doomed to repeat the same mistakes.
+"That way you can manage the damage," he said. "That's important when you realise that there is a good chance that the bad guys are already there on your network."

@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170111212319/http://www.bbc.co.uk/news/technology-38171457
+
+[SN]TITLE[SN]
+Toddler hand inspired AI child sex abuse tool
+
+[SN]FIRST-SENTENCE[SN]
+The fight to rid the web of images of child abuse has gained a new tool - in the form of artificial intelligence.
+
+[SN]RESTBODY[SN]
+The AI toolkit, inspired by photos of a toddler's hand, can automatically detect new child sexual abuse photos and videos in online networks.
+Spotting newly produced media can give law enforcement agencies the evidence they need to find and prosecute offenders, researchers said.
+The system is freely available to law enforcement agencies.
+It is already being used in several European countries.
+The research was carried out as part of the international research project iCOP (identifying and catching originators in peer-to-peer networks), which was founded by the European Commission Safer Internet Programme.
+It was carried out by researchers at Lancaster University, the German Research Centre for Artificial Intelligence and University College Cork in Ireland.
+Lead researcher Claudia Peersman, from Lancaster University, explained what inspired her to develop the system.
+"When I was just starting as a junior researcher interested in computational linguistics, I attended a presentation by an Interpol police officer who was arguing that the academic world should focus more on developing solutions to detect child abuse media online," she said.
+"Although he clearly acknowledged that there are other crimes that also deserve attention, at one point he said: 'You know those sweet toddler hands with dimple-knuckles. I see them online every day'. From that moment I knew I wanted to do something to help stop this."
+It works using a combination of file name analysis - picking up typical filenames used by paedophiles such as ch1ld. These cannot be picked up by standard computer analysis and while they are easily spotted by humans, the sheer volume of images makes it impossible for law enforcers to find every file.
+The software can also identify specialised vocabulary commonly used by paedophiles and associated with images, such as Lolita, inspired by a Vladamir Nabokov novel about a middle-aged man who becomes obsessed with a young girl.
+The second element of the toolkit is image analysis. The AI software can spot images of children via things such as subtle differences in skin colour compared to adults or by spotting movements associated with sexual abuse.
+Hundreds of thousands of child sexual abuse images and videos are being shared every year. There are already a number of tools available to help law enforcement agents monitor peer-to-peer networks for child abuse media, but they usually rely on identifying known media.
+"Identifying new child sexual abuse media is critical because it can indicate recent or ongoing child abuse," said Ms Peersman.
+"And because originators of such media can be hands-on abusers, their early detection and apprehension can safeguard victims from further abuse."
+Tests of the toolkits on real images of child sexual abuse appeared to be highly accurate, with a false positive rate of 7.9% for images and 4.3% for videos, according to the researchers.

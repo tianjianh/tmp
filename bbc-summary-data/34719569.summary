@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170330223411/http://www.bbc.com/news/technology-34719569
+
+[SN]TITLE[SN]
+Will UK spy bill risk exposing people's porn habits?
+
+[SN]FIRST-SENTENCE[SN]
+After weeks of conflicting reports, the draft Investigatory Powers Bill has been revealed.
+
+[SN]RESTBODY[SN]
+It represents the UK government's attempt to update and tidy up the powers the authorities have to delve into the public's data to combat crime.
+It is a huge document - but at its heart is the argument it is illogical officials can scan through itemised lists of the phone calls people make but not the websites and chat apps they use.
+So, the bill proposes the authorities be given the right to retrospectively check people's "internet connection records" without having to obtain a warrant.
+That means, for example, they would be allowed to learn someone had used Snapchat at 07:30 on their smartphone at home and then two hours later visited Facebook's website via their laptop at work.
+It may sound fairly innocuous - but of course many people have internet habits that are legal but nevertheless very private. So, is their privacy being put at risk?
+To fully understand what is at stake, it is worth explaining how the authorities would access this information.
+The bill would oblige broadband and mobile phone providers to hold connection records for 12 months and then delete them "in a way that ensures access is impossible".
+It says this would involve the companies logging IP addresses - strings of digits that can make it possible to identify which computer was used and what service or site was visited.
+However, the bill recognises that an IP address can sometimes be simultaneously shared by  different customers, so additional information would also have to be recorded.
+"It is going to be costly and require a lot of equipment, but the big issue is that this is mass surveillance of the public," said Adrian Kennard, director of Andrews & Arnold, a Bracknell-based internet provider.
+To be clear, the authorities would still need a warrant to make service providers store and hand over browser history - eg which specific Facebook pages or tweets had been looked at.
+And there are also restrictions on what types of things can be requested without one.
+"Law enforcement agencies would not be able to make a request for the purpose of determining, for example, whether someone had visited a mental health website, a medical website or even a news website," Home Secretary Theresa May told the Commons.
+"They would only be able to make a request for the purpose of determining whether someone had for example accessed a communications website, an illegal website or to resolve an IP [internet protocol] address where it is necessary and proportionate to do so in the course of a specific investigation."
+Even so, the very fact all this information would be stored away raises concerns.
+As TalkTalk's recent cyber-breach illustrated, people have reason to question how securely ISPs store their information, especially when that data might include:
+"Making sure there's no way the hackers can get in is a challenge for any company, and that is hard work," said Mr Kennard.
+"This is sensitive personal information, even if you are just holding the websites people went to and not the specific pages.
+"That makes it a very valuable target for criminals to go after - they may even try to infiltrate employees into companies to try to access it."
+Even if appropriate safeguards can be put in place, the authorities may still find it problematic getting hold of the relevant logs.
+Over the course of a day, many people use a variety of devices and different data networks to access the net - logging into wi-fi hotspots at coffee shops, on public transport, at work and at friends' homes.
+Furthermore, increasing numbers of people are using tools that can mask their online actions, including the Tor Browser and virtual private networks (VPNs).
+Despite earlier reports to the contrary, one thing the bill shies away from is outlawing end-to-end encryption.
+This refers to a technique that means only the sender and recipient of a message can see an unscrambled version of what was posted. The company providing the service cannot - even if a warrant is issued.
+It is used by chat apps including Facebook's WhatsApp, Blackberry's BBM Protected, Apple's iMessage and Telegram.
+The government has previously said tech companies' adoption of the method is "alarming".
+But it is hard to see how ministers could have made overseas companies comply with a ban.
+One security expert suggested, however, that the authorities could work around the issue by persuading app-makers to comply on a case-by-case basis.
+"Almost certainly the way in which the firms could co-operate would be to turn off the encryption and give people the illusion it is still taking place," said Prof Peter Sommer.
+But he added that a simpler method would be to infect a suspect's devices with spyware.
+"They can install a Trojan or something on your computer or smartphone remotely," he said.
+"There was a lot in the leaked [former US National Security Agency contractor and whistleblower] Edward Snowden files that shows the NSA and GCHQ have programs that let them see a target's data 'in clear' or get them the encryption keys to enable them to disassemble their data in real time.
+"Powers to hack suspects' computers are increasingly important - because encryption makes interception much more difficult.
+"But entering someone's computer or mobile phone is incredibly intrusive and currently we have no code of practice to cover it."
+A new code of practice covering such hacking activities is proposed as part of the bill.

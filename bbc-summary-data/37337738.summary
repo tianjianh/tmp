@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223163627/http://www.bbc.co.uk:80/news/technology-37337738
+
+[SN]TITLE[SN]
+Israeli teenagers held over data flood internet attacks
+
+[SN]FIRST-SENTENCE[SN]
+Two Israeli teenagers have been arrested on suspicion of running a service that allowed paying customers to attack websites.
+
+[SN]RESTBODY[SN]
+The vDos service the pair are suspected to have run bombarded target sites with data, seeking to knock them offline.
+The vDos website went offline shortly before the men were taken into custody.
+The arrests came soon after cybersecurity expert Brian Krebs posted a lengthy article claiming to expose the controllers of the vDos service.
+But an Israeli police spokesman told Israeli newspaper Haaretz the arrests had come after a tip-off from the FBI.
+Haaretz and The Marker reported that Itay Huri and Yarden Bidani, both 18, had been put under house arrest for 10 days.
+Both had posted a bail payment of about $10,000 (Â£7,500).
+And they had had to surrender their passports and were barred from using the net or any other communication device for 30 days.
+Mr Krebs said he had based his article on a cache of information stolen from the service that he said had been passed to him by an informant.
+The two men named in the stolen information as controllers of vDos have the same names as the two people arrested in Israel.
+Mr Krebs claimed the site's controllers had been "not terribly careful to cover their tracks" , using email addresses and phone numbers on sites connected to vDos that could be directly connected to them.
+He said the stolen data indicated the vDos service had generated $600,000 over the past two years by helping to co-ordinate more than 150,000 distributed denial of service (DDoS) attacks.
+And vDos had charged between $30 and $200 a month for each attack.
+Mr Krebs wrote: "To say that vDos has been responsible for a majority of the DDoS attacks clogging up the internet over the past few years would be an understatement."
+Mr Krebs's site came under a heavy DDoS attack soon after the article about vDos was published.
+The UK's Imperial College, game site GoodGame.co.uk and security company Zare.com were reportedly victims of vDos sourced attacks.
+One quirk of the service was that it had a policy of never attacking websites located in Israel.

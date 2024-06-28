@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170421052134/http://www.bbc.co.uk/news/technology-34732514
+
+[SN]TITLE[SN]
+Report finds apps regularly 'spy on users'
+
+[SN]FIRST-SENTENCE[SN]
+Apps on Apple and Android smartphones leak lots of users' information to third parties, research has suggested.
+
+[SN]RESTBODY[SN]
+Researchers from the Massachusetts Institute of Technology (MIT), Harvard, and Carnegie-Mellon universities studied 110 apps available on Google Play and the Apple App Store.
+They found 73% of the Android apps shared users' email addresses, and 47% of the iOS apps shared location data.
+Privacy International said it was more evidence of how devices "betray us".
+The study, Who Know What About Me? A Survey of Behind the Scenes Personal Data Sharing to Third Parties by Mobile Apps, tested 55 of the most popular Android apps and the same number of iOS apps.
+The researchers recorded the HTTP and HTTPS traffic that occurred while using the different apps and looked for transmissions that included personally identifiable information, behavioural data such as search terms and location data.
+They found the Android apps sent sensitive data to 3.1 third-party domains, on average, while the iOS apps connected to 2.6.
+The Android apps were more likely to share personal information such as name  (49% of the apps) and address (25%) than the iOS apps, where 18% shared names and 16% shared email addresses.
+Three out of the 30 medical, health and fitness apps the researchers studied shared search terms and user inputs with third parties.
+Android health app Drugs.com shared medical information - including words such as "herpes" - with five third-party domains, including doubleclick.net and googlesyndication.com.
+The Android apps were most likely to leak data to Google and Facebook, with the most leaky being Text Free, which offers free calls and text over wi-fi and sent data to 11 third-party domains.
+The most leaky iOS app was Localscope, a location browser, which sent data to 17 third-party domains.
+The research also found that 93% of the Android apps tested connected to the domain safemovedm.com.
+"The purpose of this domain connection is unclear at this time; however, its ubiquity is curious," wrote the researchers.
+"When we used the phone without running any app, connections to this domain continued."
+It said the connection was "likely due to a background process of the Android phone".
+Google was asked by the BBC to explain more about safemovedm.com but did not provide information by the time of publication.
+Privacy International said that the report "highlights the many ways that the devices we use can betray us".
+"The analysis in the paper suggests that a large proportion of apps tested share sensitive information like location, names and email addresses with third parties with minimal consent," said Christopher Weatherhead, a technologist at PI.
+It was concerned about how such information would sit with new UK draft legislation for data retention.
+"With the recently announced draft Investigatory Powers Bill, many of these connections to third-party websites would be retained as internet connection records," Mr Weatherhead said.
+"So, even if you have never visited these websites, they would be indistinguishable from your actual web-browsing activity.
+"This would allow the security services to make assumptions about browsing habits which are not correct."
+Consumers are becoming increasingly concerned about the amount of data shared by apps.
+A survey of 2,000 Americans by the Pew Research Centre suggested 54% of users had decided not to install an app after learning how much personal information they would need to share to use it.
+Some 30% said they had uninstalled an app after learning it had collected information they did not want to share, while 30% of smartphone owners turned off the location tracking feature of their phone.
+The latest research follows a study last month by Timothy Libert, a researcher at the University of Pennsylvania, who said almost nine in 10 websites leaked user information to third parties that users were "usually unaware of".

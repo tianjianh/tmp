@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150524110259/http://www.bbc.com/news/technology-32826353
+
+[SN]TITLE[SN]
+UK sells off unused net addresses
+
+[SN]FIRST-SENTENCE[SN]
+The UK government has started selling off internet addresses that it no longer uses.
+
+[SN]RESTBODY[SN]
+The first group of 150,000 addresses has been snapped up by a Norwegian firm called Altibox for about Â£600,000.
+The addresses are becoming valuable because the net has almost outgrown the addressing scheme it adopted in the 1970s.
+If the UK government sells off all the surplus addresses it owns it could get up to Â£15m.
+However, some fear that as the addresses are shared out more widely, data could go astray.
+The surplus addresses are part of a much bigger block of 16 million addresses given to the Department of Work and Pensions in 1993. Earlier this year, the DWP started a project to see how many of these IP addresses could be freed.
+An official report produced before the DWP began its investigation suggested that 70% of the massive block was used for the UK government's internal network, leaving about five million free for disposal.
+A government spokesman said: "Government periodically reviews all its assets to consider their financial value, including options to release income from those that are not used to their fullest potential.
+"The scope of the value of these assets is commercially sensitive and protected by standard legal confidentiality agreements."
+The addresses are known as IP Version 4 (IPv4) addresses and are valuable because of a hard limit in the numbering system they use. This caps the total number of IPv4 addresses at 4.3 billion. In practice there are fewer available because some are reserved for other uses.
+The net is in the process of moving to IP Version 6 (IPv6), which has an almost inexhaustible supply of addresses. However, technical incompatibilities between the two versions means many firms are seeking to expand their existing IPv4 networks instead of switching.
+Regional caches of IPv4 addresses have all but run dry, meaning many firms have to look elsewhere for them, said Sandra Brown, president of address broker IPV4 Market Group.
+Trading in IPv4 had been brisk in Europe, said Ms Brown, because the organisation that oversees net addresses in the region had approved policies that allowed transfers. In the busiest months, about two million IPv4 addresses were being traded in Europe.
+"Supply has met demand but we are reaching a point where supply is about to fall short and we have seen prices escalate because of that," she said.
+Each individual IP address was worth up to $11 (Â£7), she said, but prices were lower when big deals were done.
+Trading was likely to continue for years as firms were only slowly migrating to IPv6.
+"Most of the people I talk to say it will take five to 10 years to convert," said Ms Brown.
+That might spell trouble, said Doug Madory from network specialist Dyn, because there were concerns about what happened when that finite stock of addresses was divided very finely.
+"People typically try to deal with addresses in contiguous blocks to keep the binary math from getting unwieldy leading to errors," he said.
+"As you slice it thinly the number of routes gets larger and larger and it's computationally expensive to look up where each packet has to go."
+In addition, he said, delays in transferring ownership had already led to some data going astray.
+"We see this as a transition period," said Andrew de la Haye, chief operating officer of the Ripe agency that oversees net addresses in Europe.
+He added that some European companies were analysing how they use IPv4 as a way to help them move to the larger addressing system.
+"It's a bit early to say but I have spoken to a few of our members and they are freeing up IPv4 address spaces to fund their IPv6 migration," he said. "The long-term strategy should be IPv6."

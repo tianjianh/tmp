@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719002617/http://www.bbc.co.uk/news/technology-31851125
+
+[SN]TITLE[SN]
+Panda antivirus software labels itself as malware
+
+[SN]FIRST-SENTENCE[SN]
+An antivirus program labelled itself as malware, causing some computers it was running on to stop working.
+
+[SN]RESTBODY[SN]
+After an update, essential components in two Panda Security antivirus programs became corrupted, leading them to be mistakenly identified as malign and quarantined.
+Panda said a fix had been released and warned that rebooting affected systems could exacerbate the issue.
+It asked those affected to get in touch so it could help fix their machines.
+One security expert noted the irony. "People's first response is to turn [their computer] off and back on again, but in this case it seems like the wrong thing to do," said Prof Alan Woodward, of Surrey University.
+The "last thing" people would expect to cause their computers to break down was its security software, he said.
+Panda Security said that the signature file in both its PCOP and its Retail 2015 packages became corrupted.
+"The signature file was repaired immediately. Additionally, a solution for all affected products has been automatically deployed. However, in certain environments it is possible for the incident to persist."
+It added a list of steps that affected users could take to ensure that their system was clear of the issue.
+Prof Woodward said the episode was "not a great advert for Panda". He said he had heard of some companies losing the use of multiple computers to the issue. He added that data loss was a risk if machines were rebooted.
+But Panda Security said it was helping people whose machines had stopped working to restore them and that it had no evidence anyone had experienced permanent data loss as a result of the issue.
+A Panda Security spokeswoman said: "We have solved 90% of the incidents, and support is being given in real time to the ones that still have some issues."
+The company said that only 8% of the "millions" of PCOP and Retail 2015 customers were affected by the issue. A spokeswoman refused to be more precise about the figures.

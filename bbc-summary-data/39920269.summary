@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170516003112/http://www.bbc.co.uk/news/technology-39920269
+
+[SN]TITLE[SN]
+Should you pay the WannaCry ransom?
+
+[SN]FIRST-SENTENCE[SN]
+WannaCry has infected hundreds of thousands of computers around the world in 150 countries. The advice is to update Windows to ensure you are protected.
+
+[SN]RESTBODY[SN]
+But what do you do if the ransomware arrives on your computer?
+The most crucial bit of advice from most experts is: Don't pay the ransom.
+For some, Â£230 ($300) might not seem too high a price to get back irreplaceable data that has been encrypted against your will.
+Indeed, a Twitter bot tracking Bitcoin payments to digital wallets set up by whoever is behind WannaCry suggests that some people are quite willing to cough up the cash.
+Since they are dealing with criminals, however, there is no reason to expect an honest transaction.
+Plus, because of the way in which WannaCry has been designed, the sad fact is that people are very unlikely to regain access to their files, even if they do pay.
+"A manual human operator must activate decryption," revealed Matthew Hickey, a cyber-security researcher at UK-based firm Hacker House.
+And a blog post from security company Proofpoint suggests that a viable way of decrypting files may not actually be built in to the sloppy coding of WannaCrypt.
+The researchers say they are also yet to receive a reply from those behind the ransomware after trying to contact them.
+Victims are also expected to contact the criminals for a key to unlock their files, said security expert Prof Alan Woodward from the University of Surrey.
+"I very much doubt anyone would return your contact request, bearing in mind the attention that is now on this," he told the BBC.
+"If anyone pays this ransom they are more than likely going to send Bitcoin that will sit in an address for ever more. No point."
+The good news is that home users are very unlikely to be affected.
+WannaCry has so far spread around business networks via a vulnerability in Windows that most home users will have patched, or will not be at risk from anyway.
+This is because the vulnerable bit of Windows will either not be installed, or there will not be any other vulnerable computers on their home network.
+However, for those unfortunate enough to have been hit - be that at work or within an institution - it is probably best to assume that access to any files that were not backed up on a drive disconnected from your computer have now been lost forever.
+This is why it is so important to back up files on a separate drive or machine regularly.
+It is possible to remove WannaCry from your computer once it is there - although the process is not straightforward.
+As technical support website Bleeping Computer explains, it involves downloading some programs to clean your computer of the infection.
+However, the author adds that this will not decrypt files encrypted by the ransomware, proving once again that there is no substitute for a good back-up.

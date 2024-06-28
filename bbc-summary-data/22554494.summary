@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170127043359/http://www.bbc.co.uk/news/science-environment-22554494
+
+[SN]TITLE[SN]
+Nasa buys into 'quantum' computer
+
+[SN]FIRST-SENTENCE[SN]
+A $15m computer that uses "quantum physics" effects to boost its speed is to be installed at a Nasa facility.
+
+[SN]RESTBODY[SN]
+It will be shared by Google, Nasa, and other scientists, providing access to a machine said to be up to 3,600 times faster than conventional computers.
+Unlike standard machines, the D-Wave Two processor appears to make use of an effect called quantum tunnelling.
+This allows it to reach solutions to certain types of mathematical problems in fractions of a second.
+Is quantum computing possible?
+Effectively, it can try all possible solutions at the same time and then select the best.
+Google wants to use the facility at Nasa's Ames Research Center in California to find out how quantum computing might advance techniques of machine learning and artificial intelligence, including voice recognition.
+University researchers will also get 20% of the time on the machine via the Universities Space Research Agency (USRA).
+Nasa will likely use the commercially available machine for scheduling problems and planning.
+Canadian company D-Wave Systems, which makes the machine, has drawn scepticism over the years from quantum computing experts around the world.
+Until research outlined earlier this year, some even suggested its machines showed no evidence of using specifically quantum effects.
+Quantum computing is based around exploiting the strange behaviour of matter at quantum scales.
+Most work on this type of computing has focused on building quantum logic gates similar to the gate devices at the basis of conventional computing.
+But physicists have repeatedly found that the problem with a gate-based approach is keeping the quantum bits, or qubits (the basic units of quantum information), in their quantum state.
+"You get drop outâ€¦ decoherence, where the qubits lapse into being simple 1s and 0s instead of the entangled quantum states you need. Errors creep in," says Prof Alan Woodward of Surrey University.
+Instead, D-Wave Systems has been focused on building machines that exploit a technique called quantum annealing - a way of distilling the optimal mathematical solutions from all the possibilities.
+Annealing is made possible by an effect in physics known as quantum tunnelling, which can endow each qubit with an awareness of every other one.
+"The gate model... is the single worst thing that ever happened to quantum computing", Geordie Rose, chief technology officer for D-Wave, told BBC Radio 4's Material World programme.
+"And when we look back 20 years from now, at the history of this field, we'll wonder why anyone ever thought that was a good idea."
+Dr Rose's approach entails a completely different way of posing your question, and it only works for certain questions.
+But according to a paper presented this week (the result of benchmarking tests required by Nasa and Google), it is very fast indeed at finding the optimal solution to a problem that potentially has many different combinations of answers.
+In one case it took less than half a second to do something that took conventional software 30 minutes.
+A classic example of one of these "combinatorial optimisation" problems is that of the travelling sales rep, who needs to visit several cities in one day, and wants to know the shortest path that connects them all together in order to minimise their mileage.
+The D-Wave Two chip can compare all the possible itineraries at once, rather than having to work through each in turn.
+Reportedly costing up to $15m, housed in a garden shed-sized box that cools the chip to near absolute zero, it should be installed at Nasa and available for research by autumn 2013.
+US giant Lockheed Martin earlier this year upgraded its own D-Wave machine to the 512 qubit D-Wave Two.

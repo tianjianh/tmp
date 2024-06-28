@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160306104321/http://www.bbc.co.uk/news/technology-31545050
+
+[SN]TITLE[SN]
+US and UK accused of hacking Sim card firm to steal codes
+
+[SN]FIRST-SENTENCE[SN]
+US and British intelligence agencies hacked into a major manufacturer of Sim cards in order to steal codes that facilitate eavesdropping on mobiles, a US news website says.
+
+[SN]RESTBODY[SN]
+The Intercept says the revelations came from US intelligence contractor turned whistleblower Edward Snowden.
+The Dutch company allegedly targeted - Gemalto - says it is taking the allegations "very seriously".
+It operates in 85 countries and has more than 40 manufacturing facilities.
+The Intercept says that "the great Sim heist" gave US and British surveillance agencies "the potential to secretly monitor a large portion of the world's cellular communications, including both voice and data".
+It says that among the clients of the Netherlands-based company are AT&T, T-Mobile, Verizon, Sprint and "some 450 wireless network providers around the world".
+The Intercept alleges that the hack organised by Britain's GCHQ and the US National Security Agency (NSA) began in 2010, and was organised by operatives in the "Mobile Handset Exploitation Team". Neither agency has commented directly on the allegations.
+However GCHQ reiterated that all its activities were "carried out in accordance with a strict legal and policy framework which ensures that our activities are authorised, necessary and proportionate".
+Each Sim card has an individual encryption key, installed by the chip manufacturer, that secures communications between the handset in which it inserted and mobile phone masts.
+This means that if anyone were to snoop on conversations or text messages, they would receive garbled, unintelligible data.
+That is, of course, unless those carrying out the surveillance get hold of the encryption key. With that information, they can even decrypt previously intercepted communications.
+However, this tactic only works for phone conversations and text messages. Communications through mobile applications such as Whatsapp, iMessage and many email services have separate encryption systems.
+The stolen encryption allowed the agencies to decode data that passes between mobile phones and cell towers. They were able to decrypt calls, texts or emails intercepted out of the air.
+A Gemalto spokeswoman said the company was unable to verify whether there had indeed been a breach, and highlighted that other Sim manufacturers could also have been targeted.
+She added: "We take this publication very seriously and will devote all resources necessary to fully investigate and understand the scope of such highly sophisticated techniques to try to obtain Sim card data".
+Reacting to The Intercept's revelations, Eric King, deputy director of the campaign group Privacy International, said the NSA and GCHQ had "lost sight of what the rule of law means and how to weigh what is necessary and proportionate".
+He said trust in the security of our communications systems is "essential for our society and for businesses to operate with confidence".  And the impact of these latest revelations will have "ripples all over the world."
+Privacy International is currently engaged in legal action against GCHQ over its alleged hacking practices.
+Gemalto makes Sim cards for mobile phones and furnishes service providers with encryption codes to keep the data on each phone private.
+The Intercept claims that by first cyber-stalking employees at Gemalto and then penetrating their emails, the spy agencies were able to steal thousands of encryption keys at source.
+This would allow them to eavesdrop easily on phone calls and texts without seeking permission from telecoms companies or foreign governments, and without leaving a trace.
+The Intercept cites as its source documents leaked by Edward Snowden, the former NSA contractor who is currently living in Russia.
+Karsten Nohl, a security researcher who has exposed previous Sim card vulnerabilities, told the BBC the leak showed that "it is still not terribly difficult" to circumvent encryptions on mobile phone communications.
+He added that since it was Gemalto, and not the mobile providers, which sets Sim encryption codes, this makes the Dutch firm the "weakest link of the security chain".
+Other Gemalto clients, such as passport agencies, buy blank chips and set the codes themselves.
+"A lot of telecom companies will be scrambling to find out what went wrong," said Mr Nohl.
+If The Intercept's report is to be believed, the most striking discovery is how easily those wanting to engage in mass surveillance can eavesdrop on our mobile communications.
+Gemalto, the company which was allegedly targeted, manufactures an estimated 30% of all Sim cards worldwide. And crucially, it creates the security key for each item. All security agencies needed to do was obtain (by hacking, allegedly) the list of security keys from the firm. Then, as security expert Karsten Nohl says, they could snoop on phone calls with a "few hundred dollars worth of radio equipment in strategically important locations".
+This contrasts with security procedures used, for example, for chips in passports. Many are also manufactured by Gemalto. These are delivered to the relevant authorities as a blank chip, and the Passport Office - not the company - creates the security key.
+Many of Edward Snowden's allegations have shone a light on complex surveillance tactics by the NSA. But perhaps this latest leak has done more to highlight how a single company is in control of millions of people's private data.

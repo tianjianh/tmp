@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160226091803/http://www.bbc.co.uk/news/business-35643048
+
+[SN]TITLE[SN]
+Can we predict Oscar winners using data analytics alone?
+
+[SN]FIRST-SENTENCE[SN]
+Two tech firms claim they know which film will win the Best Picture Oscar on Sunday.
+
+[SN]RESTBODY[SN]
+The Revenant, a grisly tale of extreme survival and revenge starring Leonardo DiCaprio and directed by Alejandro Inarritu, is going to scoop up the main prize at the prestigious awards ceremony, they say.
+Well, given that the bookies have chalked up The Revenant as the clear favourite as well, this might not seem a very impressive feat of prediction.
+But Cognizant and Clarabridge - the tech firms in question - have reached their conclusions not by watching the films and applying artistic criticism, but simply by crunching data - lots of data.
+They looked at 150 variables, from film genre to box office takings, from review ratings to the percentage of female viewers under 18. And they applied their algorithm to data going back 15 years to work out which of these variables were the most important.
+Interestingly, they also measured sentiment - the emotional reactions each film elicited - on popular movie review sites such as IMDB and Rotten Tomatoes.
+Just to give some sense of the amount of data, the tech firms looked at 150,000 text reviews and more than 38 million star ratings from IMDB alone.
+And this threw up something surprising.
+Nirav Patel, head of global markets, media and entertainment at Cognizant, an IT consultancy that counts four of the largest film studios as its clients, explains.
+"We found that an intense negative sentiment, such as anger, plays a big part in whether a film wins the Oscar," he tells the BBC.
+"If people feel a particularly strong emotion associated with a character's struggle within the story, they feel like they were there."
+This is surprising because "it's completely the opposite of how brands usually treat sentiment", says Mr Patel.
+In other words, you don't usually buy a perfume if the fragrance makes you feel sick, and luxury brands would have kittens if this was the customer reaction picked up on social media.
+But Mr DiCaprio's trials and tribulations in The Revenant certainly turned the stomach and were hard to watch at times, for many viewers at least. Yet this makes it more likely that the film will win the Best Picture Oscar, according to the data analysis.
+Data crunchers are able to measure sentiment more precisely these days thanks to big data analytics and pattern spotting algorithms that can interrogate constantly expanding libraries of natural speech patterns.
+"It used to be about positive words versus negative words," says Mr Patel, "but now artificial intelligence can understand the nuances and connotations of phrases."
+The tech firms say they're 64% confident that The Revenant will win.
+Again, this may not seem that high a score given how confident the bookies seem to be, but their next highest confidence score is 19.2% for Mad Max: Fury Road, so the scores are relative.
+Source: Cognizant/Clarabridge
+It's worth noting that at the time of writing, bookies William Hill and Paddy Power both thought Spotlight had the next best chance of winning behind The Revenant.
+Cognizant and Clarabridge, on the other hand, gave Spotlight a lower confidence figure than Mad Max, Brooklyn, and Bridge of Spies.
+So the data analytics was showing some divergence from the bookies' predictions. Why so?
+"We take the human element out and just look at the data - the algorithm doesn't watch the films," says Mr Patel.
+William Hill's approach is much more human-centred, says spokesman Joe Crilly.
+"We have just three people watching the films, following reviews and press reports. If you look through the Oscar-winning films of the last 10 to 15 years, you start to see trends emerging - they tend to have the same types of stories running through them.
+"Biopics and true stories are always going to feature heavily. And we would certainly look at strong emotion, whether it's positive or negative."
+So why does any of this matter?
+Film studios spend a fortune on promotional campaigns in the run-up to the Oscars in an attempt to influence the 6,000 or so judges who are members of the Academy of Motion Picture Arts and Sciences.
+Exact figures are hard to come by, but some studies estimate studios spend an average of $10m per film, and from $100m to $500m in total in any one year.
+Now if a studio has two films it thinks have a chance of winning the Oscar for Best Picture, but data analytics clearly tells it that one has more of a chance than the other, it could save  millions of campaign dollars if it just backs the favourite rather than hedging its bets.
+Cognizant estimates that a typical Oscar-winning campaign spend of $10m will earn a studio an extra $16m, and also rake in an extra $7m of non-financial benefits, such as raised brand profile and greater interest from leading actors and producers.
+Which all sounds like good sense, providing that this type of analysis is accurate.
+Cognizant's Mr Patel, who admits he hasn't seen The Revenant yet, says: "Our model did correctly predict all the Oscar nominees, and would've correctly predicted last year's Best Picture winner, Birdman.
+"But there will always be some uncertainty."
+Is there a danger data will start calling the shots, leading to even more formulaic films?
+"Data is increasingly being used by media to draw down consumer insights," says Douglas McCabe, chief executive of  research firm Enders Analysis.
+"This chiefly started in positioning and marketing content, but is inevitably drifting into commissioning decisions, too. The challenge is using data to create something new - which is difficult - rather than replicating previous successes - which is easy."
+The fly in the ointment for The Revenant is that Mr Inarritu also directed Birdman, so some judges may feel it fairer to give the prize to another director's film this year.
+When it comes to the Oscars, it seems data analytics - however clever - can't remove human unpredictability completely.
+Follow Matthew on Twitter: @matthew_wall

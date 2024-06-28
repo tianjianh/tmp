@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170308073826/http://www.bbc.com/news/technology-39180026
+
+[SN]TITLE[SN]
+'Spammers' exposed in data back-up slip-up
+
+[SN]FIRST-SENTENCE[SN]
+A US company has been accused of being a prolific spammer by security researchers who got access to its internal database.
+
+[SN]RESTBODY[SN]
+Security expert Chris Vickery got access to River City Media's (RCM) data via back-ups accidentally left online.
+The database included more than 1.3 billion records detailing email addresses and personal information.
+RCM has not responded to accusations it is involved in sending out junk mail marketing messages.
+In a blog, Mr Vickery said he had "stumbled upon a suspicious, yet publicly exposed, collection of files" that he had been able to view because whoever had put it online had forgotten to protect it with a password.
+As well as a massive database of personal data, the files are said to include internal messages sent by staff at RCM and documents about its business practices.
+The BBC has sent emails to RCM asking for comment on the allegations but has not received any response.
+Mr Vickery said the information showed the different ways in which the company tried to outwit security measures designed to prevent it sending lots of messages.
+In marketing materials found in the data back-up, RCM allegedly said it had the ability to send up to one billion messages per day.
+It also detailed many other ways the company is believed to have skirted systems designed to stop spam.
+Information about the net addresses and domains used by RCM were now being added to widely shared systems that helped block spam, said Steve Ragan, who helped Mr Vickery analyse the data.

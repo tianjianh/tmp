@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170722020305/http://www.bbc.com/news/business-40636746
+
+[SN]TITLE[SN]
+Who is the slowest and laziest player in your team?
+
+[SN]FIRST-SENTENCE[SN]
+Sports teams have used wearable sensors in training for several years as a way of tracking player development and fitness. But now live streaming of such data during matches and races is ushering in a new era of fan involvement.
+
+[SN]RESTBODY[SN]
+For the rugby stars lining up for the opening clash of Australia's annual State of Origin series in May, this was a game of firsts.
+For the first time ever in rugby league, the first time in Australian sport, and the first time in a stadium of more than 50,000 spectators, players would have their data streamed live so fans could track every aspect of their performance in unprecedented detail.
+Each player wore a vest under their shirt fitted with a UWB (Ultra Wide Band) device.
+More accurate than GPS, the system - dubbed ClearSky - relied on 20 beacons placed around the stadium generating more than 1,000 live data points per second. The positioning information was accurate to within 15cm (6in).
+Fans could track the distances players ran, the speed of their runs, their "micro-movements", and as well as heat maps of where each player had mostly been on the pitch.
+It was the kind of data hitherto reserved for sports scientists and professional coaches.
+The project - the result of a two-year partnership between National Rugby League (NRL) and analytics company Catapult Sports - was intended to pave the way for a new era of fan involvement.
+"With this advanced technology, viewers will be able to access new insights into how the game is played and it will no doubt further highlight the unbelievable athletic qualities of the best of the best in rugby league," says David Silverton, NRL head of strategy.
+Cameras have tracked player speed and distance in football and rugby for some time, but this doesn't tell the whole story, argues Catapult's Karl Hogan, global head of league and data partnerships.
+"Wearable data provides much more physical data such as stop/starts, impacts, changes of direction, jumps, dives, plus much more. These are all then aggregated into a score.
+"Say you have two players running the same distance but player B changes his direction twice, jumps to head a ball and makes a tackle during the distance.
+"They've run the same distance but player B's score will be much higher."
+Live data analytics is also integral to cycling these days and helping to bring fans even closer to the action.
+At this year's Tour De France, data from a GPS transponder installed under each saddle is being combined with external data, such as the gradient of hills and weather conditions, to provide live speed, position, distance between riders, and the composition of groups within the race, amongst other insights.
+Fans can access all this data by web, app and television, thanks to a tie-up between the Tour de France and Dimension Data.
+Applying machine learning and predictive analytics to the data can then be used to forecast likely winners, taking into account all the many variables, from road gradient to headwind strength, humidity to relative speed.
+"We've created complex algorithms using historical data collated from our live tracking of bikes over the last two years," says Scott Gibson, Dimension Data's group executive of digital practice, "as well as rider performances, stage profiles, and race statistics across all UCI [Union Cycliste Internationale] races over the past five years."
+The data analytics platform is able to learn from these algorithms and combine these insights with the live data being received.
+And Dimension has an impressive track record of predicting winners, with 75% of the group winners coming from a selection of five potential victors chosen by the system.
+There was one unfortunate exception, however: on 4 July Dimension Data's own Mark Cavendish was involved in an horrendous crash that brought his Tour to an abrupt end after he suffered a broken shoulder.
+"We'd predicted he'd win the stage, but you can't predict a crash," says Mr Gibson.
+"We never set out to create a perfect model for race predictions - for a live sporting event, that would be impossible and would detract from the exciting and dynamic nature of the experience.
+"While a machine can learn from historical data and create an informed view on what might happen next, some scenarios are simply not possible to predict."
+TV channel Eurosport is also trying hard to enhance the fan experience with the aid of live data.
+It has partnered with software provider CA Technologies to create a "second screen" app that viewers can refer to as a complement to the TV coverage.
+It was rolled out during its coverage of Giro d'Italia cycling race earlier this year, and is also being used for the Tour de France.
+Fans are treated to interactive features, analytics tools, a live interactive map, GPS positioning, and constantly updated rider data, such as altitude, speed, power, cadence and heart rate.
+"While television remains the most popular way to watch major sporting events, second-screen experiences enabled through apps have become increasingly important to viewers," says Lauren Flaherty, chief marketing officer at CA Technologies.
+And this integration of live data analysis into sport is a trend that's likely to continue, says Alex Fenton, associate director for Salford University's sport industry collaboration zone.
+"The technology and accuracy will continue to improve and new generations of coaches will increasingly adopt the idea of using data and insight.
+"Equally, there will be a place for gamification and live data," he says.
+So could live streaming of player data during games come to other sports, such as football?
+The UK's Premier League says it has no plans to introduce it, but as the technology improves and fans enjoy its benefits in other sports, pressure will surely begin to grow.
+Whether the pampered sports stars themselves will appreciate this extra level of fan scrutiny remains to be seen.

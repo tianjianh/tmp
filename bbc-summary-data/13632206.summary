@@ -1,0 +1,73 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112110014/http://www.bbc.co.uk/news/business-13632206
+
+[SN]TITLE[SN]
+Internet of things blurs the line between bits and atoms
+
+[SN]FIRST-SENTENCE[SN]
+Imagine googling your home to find your child's lost toy.
+
+[SN]RESTBODY[SN]
+Or remotely turning on the tumble dryer for yet another cycle - after it has texted you that the clothes were still damp.
+Or your plant tweeting you to be watered.
+It might have been sci-fi just a decade ago, but with the internet forcing its way into every aspect of our lives, cyberspace is leaking out into the real world.
+Special Report: The Technology of Business
+Outdoor advertising goes digital
+Can anyone build their own app?
+Africa's technology revolution
+Cloud computing: ready for primetime?
+Bringing the web to rural India
+The death of television?
+Asia's clean technology
+In the past few months, companies ranging from giants such as Google to small start-ups have been touting the possibility of interconnecting people and objects - lightbulbs, fridges, cars, buildings - to create an internet of things.
+Many say this is a trend bound to hit us all in the near future.
+"Some of the things that are possible are truly unbelievable," says Constantine Valhouli from the Hammersmith Group, a strategy consulting firm.
+"We've moved from a desktop internet to mobile phones and mobile internet - the next step is buildings and objects, enabling us to communicate with them directly or enabling them to even bypass people entirely and communicate directly with each other."
+Imagine a production line where machines alert one another about production problems or bottlenecks, or cars that warn each other about driving conditions or a crash on the road ahead.
+And it is already happening. In an increasing number of places, "things" are getting on the net.
+A number of American universities use the eSuds online laundry service, letting students manage their laundry over the internet - this way they know when it is their turn, avoiding a long wait with a basket of smelly shirts.
+In a smart LED-equipped wine rack called WineM, every bottle has an RFID tag, and the rack is connected to the internet to let the owner know when a bottle has been removed. The rack can also organise the bottles in any combination, and if you want specific wine for a party, the LEDs in the rack will light up the bottles you asked for.
+Internet-enabled smart buildings communicate with people through sensors, prompting them to save energy by optimising the heating and cooling systems.
+A handful of hotels already offer their clients the experience of a connected, tech-savvy holiday or business trip.
+One such place is the four-star Hotel 1000 in Seattle.
+It opened five years ago, and technology was on the designers' mind from the get-go.
+"We have many different elements that talk to each other through the internet, using a fully converged network that operates on a Cisco platform," explains the hotel's spokesperson Tawny Paperd.
+"For example, we have a system that controls all of our heating, ventilation and air conditioning, so that we're able to schedule the temperature in all of our meeting spaces using the internet, and don't waste energy on empty rooms," she adds.
+It is not limited to that. All the rooms have a "Do not Disturb" button or "Make-up the Room" button. When the button is pushed, a message is sent to housekeeping.
+Minibars at the hotel are all wired up, too.
+When a guest removes an item from the minibar for more than a minute, it connects with the front desk to put the charge on the guest's bill.
+It also lets the hotel staff know a person's preferences.
+"We have a guest today that's celebrating her 100th stay at the hotel," says Ms Paperd. "We were able to look at what she usually consumes and put more of these items in her minibar."
+Another example is The Peninsula Hotel chain.
+This group of luxury hotels has a team of 27 designers led by Ingvar Herland who work at a hub in Hong Kong, aiming to constantly remake the hotels so they keep at the cutting edge of technology.
+At Peninsula Tokyo, for example, all the discreet individual systems that are separate and analogue in a traditional hotel - entertainment, web, television, etc, are digital and related.
+Imagine being on a business trip and after a long day, relaxing in your room watching a movie and listening to music.
+Suddenly there is a phone call - as soon as you pick up, the entertainment system is muted, so that you can immediately switch into a professional mode.
+"The internet is becoming more and more important for retrieving content," explains Mr Herland.
+"Many services like news feeds, weather, flight information, local information, etc, will come from the internet, so the internet will become more and more important for the in-room information and entertainment," he adds.
+The next project for the team is a bedside screen that will enable guests to connect to different objects in the room and in the entire hotel, switching on the TV, dimming the lights and ordering food through the web.
+Keen on exploring the opportunities that the internet of things offers, numerous start-ups have been trying to join the game - some with more success than others.
+French firm Violet was one of the pioneers of smarter homes, equipping gadgets such Nabaztag - an electronic wifi-enabled device that looks like a rabbit - with RFID tags and connecting them to the web.
+Among other things, the rabbit reads out e-mails, downloads weather forecasts and can monitor RSS feeds set up by their owners.
+Another start-up, a Spanish company called Symplio Lifestyle Technologies, went a step further and embraced one of the most popular aspects of today's technological world - the social web.
+"A lot of sports teams and celebrities have promotional products such as t-shirts, cups, etc, and they also have a lot of activity on social networks," explains Mr Inaki Vazquez.
+"So we're creating physical objects that have a shape related to a team or a celebrity, and that are connected to their page or social network.
+"The object will change its shape, have a light go up or produce a sound when something happens on the social network."
+For instance, adds Mr Vazquez, the company develops a device linked to the Facebook fan page of football club Real Madrid.
+Owners will not need to go online to see what is happening with their team - one glance at the device will be enough, with lights brimming or shape changing, reflecting the team's Facebook activity.
+One of the best-known firms making software for the internet of things is called Pachube.
+It works directly with hardware developers to connect physical objects and the internet in the most unusual and innovative ways.
+Leif Percifield, founder of dontflush.me is one of their clients, working on a project to help reduce polluted water entering New York City waterways.
+"New York City has a mostly combined sewer system, where sanitary wastewater and storm water share the same pipes," says Mr Percifield.
+"This causes a problem when it rains, as the system is not designed to handle the excess flow - at these times the system overflows into the nearest waterway.
+"The goal of the project is to inform citizens when the sewer system is nearing capacity or already overflowing and for them to reduce the production of wastewater."
+Mr Percifield's company plans to install sensors at the sewer system's overflow locations.  Using mobile phone technology, they will relay water levels and the state of the floodgates, sending text updates to Pachube every minute to accurately track the water level as it rises during a storm.
+A second device then alerts the public to the state of the sewer system.
+"I've been calling it an internet-connected light bulb or "bulbuino", that works by receiving a signal from a radio transmitter that relays the sewer level data from Pachube," says Mr Percifield.
+"As the level rises, the colour of the light changes - and this allows for a much more constant connection between the users of the system and the data."
+When people see that the sewer is overflowing, they can make the choice to save water - by delaying washing clothes or running the dishwasher, reducing the number of toilet flushes or using bath water to refill the toilet tank, says Mr Percifield.
+The inventor hopes to get the first sensor installed shortly, and - provided he gets funding - to put in more sensors and build more light bulb devices.
+Whichever direction companies will take to explore the concept of the internet of things, the opportunities are endless, says Constantine Valhouli from The Hammersmith Group.
+From smartphones to electronic rabbits to buildings and cars, it can go all the way to actually browsing our world.
+"In short - we're blurring the division between bits and atoms," says Mr Valhouli.
+"This technology has the ability to possibly do something tremendous."

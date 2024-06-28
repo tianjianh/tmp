@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160325183649/http://www.bbc.co.uk/news/technology-35579273
+
+[SN]TITLE[SN]
+Hack lets phones 'eavesdrop and make premium calls'
+
+[SN]FIRST-SENTENCE[SN]
+Security researchers have hacked a phone to show how it is possible to eavesdrop on conversations and make premium calls on someone else's line.
+
+[SN]RESTBODY[SN]
+The problem affects voice-over-internet-protocol (Voip) phones, commonly installed by businesses, when default passwords are used.
+Snom, the manufacturer whose phones were used in the research, has said the attack affects outdated software.
+A spokesman said the tested firmware was "never in wide circulation".
+The researcher carried out tests on a phone that was reset to "default" factory settings.
+Just by running a couple of lines of code on a website visited by the phone user, the researchers demonstrated how premium-rate calls could be made.
+By exploiting the fact that Voip phones and desktop computers are connected to the same internet network at many organisations, attackers are often able to access the phones themselves and operate them without the owner becoming aware.
+"It's incredibly easy to do," said security researcher Per Thorsheim, who was involved in the demonstration by fellow researcher Paul Moore.
+However, a spokesman for Snom said, "Snom's internal investigation reveals that the desktop telephone used in Mr Paul Moore's experiment was an old 2008 telephone model utilizing outdated beta firmware... which was never in wide circulation.
+"The latest and current firmware is version 8.7.5.35 and there have been multiple firmware releases since the outdated beta release."
+The spokesman added that Snom telephones by default request that both users and network administrators set a password during installation.
+"If a password is not set, a continuous non-stop, endless visual warning on the device's display is illuminated," he said.
+Mr Thorsheim explained that the tested phone could be compromised if the user visited a web page containing a couple of lines of Javascript web code.
+Prof Alan Woodward, a security expert at the University of Surrey, said attacks on Voip phones were a "significant problem" and pointed out that by using online tools he was able to find many examples of phones that could be accessed using the method.
+"The one we do know where it's being used a lot is premium-rate scams," he told the BBC.
+"They use your phone to dial a premium-rate number. There's a lot of that going on - we're talking millions being made out of that."
+The practice of using phone lines paid for by companies to make expensive calls for little or no fee is thought to be increasingly common, according to research by security consultancy Nettitude.
+In a report last year, it said that the UK was particularly badly affected.
+Prof Woodward said the issue was similar to flaws found in internet-connected devices and warned that with the rise of the Internet of Things, similar tricks were likely to become more and more common.
+"It's a huge wake-up call to anybody who's building devices with embedded software," he said.

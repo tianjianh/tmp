@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170519014250/http://www.bbc.co.uk/news/technology-39958028
+
+[SN]TITLE[SN]
+The five big announcements from Google I/O
+
+[SN]FIRST-SENTENCE[SN]
+If you follow tech news often, you’ll be more than aware of the promise offered by artificial intelligence (AI) and machine learning. Often, though, it feels like a far-away goal. It will get there, but right now it’s primitive.
+
+[SN]RESTBODY[SN]
+At Google’s annual developer conference, held this week near its Mountain View headquarters, the company showed off some of the best practical applications of AI and machine learning I’ve seen yet. They may not make your jaw drop - or, thankfully, put you out of a job - but it’s an incremental change that shows how Google is putting its immense computing power to work.
+We weren’t expecting any major new hardware launches this year, instead it was time for Google to build on what we saw here last year with regards to personal assistants, AI, and cloud computing.
+Here’s what stood out for me.
+It will be a while before Google Lens is available, but today it was the centrepiece of the keynote.
+The app uses image recognition to identify objects appearing in your camera lens in real-time. It means you can point a smartphone at a flower and be told exactly what it is.
+Or, and this feature drew a massive cheer here, you can point it at the sticker on the back of a wifi router - the one containing the long password you need to enter - and the app will know it’s a wifi password and automatically connect you to the network without the need for manual input.
+Other uses could be pointing it at a restaurant and getting instant reviews or menus, or even scanning a menu in a different language, having it translated, and being able to ask “what does that dish look like?” and be shown a photograph of the meal.
+Google didn’t have a date for when Google Lens would be available. It did say it would be part of its assistant and photos app at first - though seems to me the most useful way of offering it might be to just integrate it into the camera app.
+Google announced its Daydream virtual reality (VR) platform here last year, along with a nice-looking (but uncomfortable, for me at least) headset that you could slip a smartphone in to create a budget VR experience.
+A couple of big announcements on the Daydream front. First, the new Samsung Galaxy devices will work with Daydream. An interesting development because until now Samsung devices worked only with Gear VR, an alternative headset that ran the Oculus VR, owned by Facebook.
+Samsung manufactures the Gear VR, and so allowing its smartphones to be compatible with Daydream could hobble its own product. It seems Samsung cares more about making sure the Galaxy is the phone of choice, and cares far less about selling cheap headsets.
+Google also announced it would be launching two standalone Daydream headsets that wouldn’t require you to add a smartphone in order to make it work.
+It is partnering with HTC - which already makes the high-end Vive VR headset - and Lenovo to make the devices. No release date as yet. The headsets will use location tracking technology that means they will be able to detect when you’re walking around (rather than forcing you to stay in one place as current budget models do).
+"Daydream has had a challenging start,” remarked Geoff Blaber, an analyst with CCS Insight.
+"Google will hope that a dedicated headset with superior performance will help to further expand the market but the real challenge remains a lack of content.”
+As well as VR, we saw some experiments with AR - Augmented Reality - that brought the fledgling technology to the classroom.
+Google’s Photo app now has 500 million users, its secret sauce being the use of machine learning to sort through your pictures and understand what they contain - such as seeing a birthday cake and grouping pictures from the same day as “birthday party”.
+The next step is to help you share your pictures more easily. During the keynote, Google discussed how people often take a lot of pictures but then don’t end up doing anything with them.
+Using facial recognition, Google Photos will now spot, say, your mate Bob and automatically suggest you send the picture, or a group of them, straight to Bob. The idea is to remove a little of the friction with photo-sharing.
+Shared Libraries takes this a step further, allowing you to share, for example, any picture of your kids automatically with your partner. The software will recognise the faces and create the album for you. If that sends some privacy-related shivers down your spine, Google assured everyone there would be no unexpected sharing of pictures you want to keep secret. We’ll see.
+Using machine learning and AI (noticing a pattern here?) the app will also remove unwanted objects from pictures, for when something ugly spoils a good shot.
+Most of us are familiar with GPS - global positioning system - but that technology can only get you so far. Though terrific for travelling around large areas outside, GPS has real limitations when you need something more accurate.
+Google thinks VPS - visual positioning system - is how to fill that gap. Using Tango, a 3D visualisation technology, VPS looks for recognisable objects around you to work out where you are, with an accuracy of a few centimetres.
+Google’s head of virtual reality, Clay Bavor, said one application would be using VPS to find the exact location of a product in a large shop.
+"GPS can get you to the door,” said Mr Bavor on stage, "and then VPS can get you to the exact item that you’re looking for”.
+The problem at the moment - and it’s a big one - is that barely any smartphones currently have Tango technology, and so even if VPS was ready today, few people would be able to use it. Lenovo released a Tango-enabled device last year, and another is due sometime in 2017.
+Google Home, the company’s standalone assistant, has made a modest start but still lags behind Amazon’s Alexa device.
+Google announced a few new features designed to plug that gap. First is calling - you can now make phone calls using the Home, and its voice recognition capabilities make it possible for different family members to call from their own separate numbers through the same Home device.
+The device will also now offer proactive information, rather than just answers to questions you have asked. The example given on stage was a warning about heavy traffic - by referencing Google Calendar the assistant was able to know that the user needed to be somewhere at a certain time, and that traffic on the way was heavy.
+“Proactive assistance” treads a very fine line - these devices currently work on a speak-when-spoken-to basis, and everyone would like to see it remain that way.
+Google is also releasing an SDK - software development kit - to allow third-party developers to integrate Google’s assistant into their own products. This comes in response to Amazon doing the same with Alexa.
+For me, this intensifies my number one complaint with Google Home: that you have to say “Ok, Google” to wake it up. As I’ve written in the past, it’s a nasty, awkward interaction, and that will feel even worse when using any of the new products in the pipeline. Change it, please!
+Also significant is Google’s decision to bring its app to the iPhone, rather than just Android users. As someone here quipped, it might have iPhone users saying: “Hey Siri, open up Google assistant.”
+___________
+Follow Dave Lee on Twitter @DaveLeeBBC
+You can reach Dave securely through encrypted messaging app Signal on: +1 (628) 400-7370

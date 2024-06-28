@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515021850/http://www.bbc.co.uk/news/technology-39915440
+
+[SN]TITLE[SN]
+Ransomware cyber-attack a wake-up call, Microsoft warns
+
+[SN]FIRST-SENTENCE[SN]
+A cyber-attack that has hit 150 countries since Friday should be treated by governments around the world as a "wake-up call", Microsoft says.
+
+[SN]RESTBODY[SN]
+The computing giant said software vulnerabilities hoarded by governments had caused "widespread damage".
+The latest virus exploits a flaw in a version of Microsoft Windows first identified by US intelligence.
+There are fears of further "ransomware" attacks as people return to work on Monday.
+Many firms have had experts working over the weekend to prevent new infections. The virus took control of users' files and demanded $300 (Â£230) payments to restore access.
+The spread of the virus slowed over the weekend but the respite might only be brief, experts have warned. More than 200,000 computers have been affected so far.
+A statement from Microsoft president and chief legal officer Brad Smith on Sunday criticised the way governments store up information about security flaws in computer systems.
+"We have seen vulnerabilities stored by the CIA show up on WikiLeaks, and now this vulnerability stolen from the NSA has affected customers around the world," he wrote.
+"An equivalent scenario with conventional weapons would be the US military having some of its Tomahawk missiles stolen."
+He added: "The governments of the world should treat this attack as a wake-up call."
+Microsoft said it had released a Windows security update in March to tackle the problem involved in the latest attack, but many users were yet to run it.
+"As cybercriminals become more sophisticated, there is simply no way for customers to protect themselves against threats unless they update their systems," Mr Smith said.
+There are going to be some tough questions on Monday for those institutions which didn't do enough to keep their networks secure, as well as the organisations that were best placed to stop it happening in the first place - the NSA and Microsoft.
+The NSA keeps a chest of cyberweapons to itself so it can hit targets, but Microsoft has long argued that this is dangerous. If there is a flaw in Windows, the company said, surely the safest thing to do is to let its team know straight away so it can be fixed.
+But then Microsoft also needs to consider what obligation it has to update all users - not just the ones who pay extra for security on older systems.
+Updating your computer if you're an individual is a piece of cake, but for a network the size of Britain's National Health Service? Tough - time-consuming, expensive and complex.
+For a company like Microsoft to say it won't keep those systems safe unless they shell out more money, then that in itself is something of a ransom.
+Meanwhile Europol's chief told the BBC that that the ransomware was designed to allow "infection of one computer to quickly spread across the networks", adding: "That's why we're seeing these numbers increasing all the time."
+Although a temporary fix earlier slowed the infection rate, the attackers had now released a new version of the virus, he said.
+A UK security researcher known as "MalwareTech", who helped to limit the ransomware attack, predicted "another one coming... quite likely on Monday".
+MalwareTech, who wants to remain anonymous, was hailed as an "accidental hero" after registering a domain name to track the spread of the virus, which actually ended up halting it.
+Becky Pinkard, from Digital Shadows, a UK-based cyber-security firm, told AFP news agency that it would be easy for the initial attackers or "copy-cat authors" to change the virus code so it is difficult to guard against.
+"Even if a fresh attack does not materialise on Monday, we should expect it soon afterwards," she said.
+In England, 48 National Health Service (NHS) trusts reported problems at hospitals, doctor surgeries or pharmacies, and 13 NHS organisations in Scotland were also affected.
+Other organisations targeted worldwide included Germany's rail network Deutsche Bahn, Spanish telecommunications operator Telefonica, French carmaker Renault, US logistics giant FedEx and Russia's Interior Ministry.

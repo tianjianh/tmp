@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170506035948/http://www.bbc.co.uk/news/science-environment-26075274
+
+[SN]TITLE[SN]
+Scientists count whales from space
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have demonstrated a new method for counting whales from space.
+
+[SN]RESTBODY[SN]
+It uses very high-resolution satellite pictures and image-processing software to automatically detect the great mammals at or near the ocean surface.
+A test count, reported in the journal Plos One, was conducted on southern right whales in the Golfo Nuevo on the coast of Argentina.
+The automated system found about 90% of creatures pinpointed in a manual search of the imagery.
+This is a huge improvement on previous attempts at space-borne assessment, and could now revolutionise the way whale populations are estimated.
+Currently, such work is done through counts conducted from a shore position, from the deck of a ship or from a plane. But these are necessarily narrow in scope.
+An automated satellite search could cover a much larger area of ocean and at a fraction of the cost.
+"Our study is a proof of principle," said Peter Fretwell from the British Antarctic Survey.
+"But as the resolution of the satellites increases and our image analysis improves, we should be able to monitor many more species and in other types of location.
+"It should be possible to do total population counts and in the future track the trajectory of those populations," he told the Inside Science programme on BBC Radio 4.
+The breakthrough is in part down to the capability of the latest hi-res satellites.
+In this study, Mr Fretwell and colleagues used DigitalGlobe's WorldView-2 platform.
+This is among the most powerful commercial Earth observation platforms in operation today, and can see surface features down to 50cm in size in its panchromatic mode (black and white).
+The team selected as their test area a 113-sq-km segment of the Golfo Nuevo on the Peninsula Valdes, a location famed for its gatherings of calving southern right whales.
+Even though these are large animals, they still only take up a few pixels in the satellite picture.
+Nonetheless, a manual search of the scene found 55 probable whales, 23 possible whales and 13 sub-surface features.
+Several automated methods where then trialled, with the best results coming from a combination of the very hi-res panchromatic view and a narrow band of wavelengths in the violet part (400-450 nanometres) of the light spectrum.
+This coastal band, as it is known, penetrates 15m or so into the water column in good conditions.
+The automated approach found 89% of probable whales identified in the manual count.
+Mr Fretwell cautions that there are limitations to the technique.  For example, rough seas or murky waters will confound a search. But he believes, on the basis of the trial study, that satellite counting can become a very useful conservation tool.
+"In this type of automated analysis you have to balance two types of errors - errors where you miss whales, and errors where you misidentify whales. If you push too hard one way, like trying to catch all the whales, you'll increase the number of false positives. With our 90%, we had almost no misidentifications," the researcher explained.
+Southern right whales were a very appropriate target for the study.
+These animals were driven to near-extinction in the early 20th Century. Recognised as slow, shallow swimmers, they were the "right" whales to hunt.
+Their numbers have seen something of a recovery, but without the means to carry out an accurate census, it is hard to know their precise status.
+Concern has also been raised of late because of the sightings of many dead calves in the nursery grounds around the Peninsula Valdes.
+Prof Vicky Rowntree from the University of Utah is the director of the Ocean Alliance's Southern Right Whale Program, and has spent many years studying the Valdes whales.
+She said the new method would be a huge boon to her field of research.
+"It's going to be absolutely amazing. The other dimension of it is that many marine mammal researchers have been killed flying in small planes while surveying whales.  So my great desire is to get us out of small planes circling over whales and to be able to do it remotely. Satellite data is wonderful."
+To hear more about southern right whales and satellite counting, listen to Inside Science with Lucie Green on BBC Radio 4 on Thursday at 1630 GMT.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

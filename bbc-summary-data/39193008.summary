@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170308013540/http://www.bbc.com/news/technology-39193008/#comp-comments-button
+
+[SN]TITLE[SN]
+Wikileaks: CIA has tools to snoop via TVs
+
+[SN]FIRST-SENTENCE[SN]
+Wikileaks has published details of what it says are wide-ranging hacking tools used by the CIA.
+
+[SN]RESTBODY[SN]
+The alleged cyber-weapons are said to include malware that targets Windows, Android, iOS, OSX and Linux computers as well as internet routers.
+Some of the software is reported to have been developed in-house, but the UK's MI5 agency is said to have helped build a spyware attack for Samsung TVs.
+A spokesman for the CIA would not confirm the details.
+"We do not comment on the authenticity or content of purported intelligence documents," he said.
+A spokesman for the UK Home Office was unable to comment.
+Wikileaks said that its source had shared the details with it to prompt a debate into whether the CIA's hacking capabilities had exceeded its mandated powers.
+These latest leaks - which appear to give details of highly sensitive technical methods - will be a huge problem for the CIA.
+There is the embarrassment factor - that an agency whose job is to steal other people's secrets has not been able to keep their own.
+Then there will be the fear of a loss of intelligence coverage against their targets who may change their behaviour because they now know what the spies can do.
+And then there will be the questions over whether the CIA's technical capabilities were too expansive and too secret.
+Because many of the initial documents point to capabilities targeting consumer devices, the hardest questions may revolve around what is known as the "equities" problem.
+This is when you find a vulnerability in a piece of technology how do you balance the benefit to the public of telling the manufacturer so they can close it and improve everyone's security with the benefit to the spy agency of leaving it in place so they can exploit it to collect intelligence.
+The NSA has already faced questions about whether it has this balance right when many of its secrets were revealed by Edward Snowden, and now it may be the CIA's turn.
+Read more from Gordon
+The effort to compromise Samsung's F8000 range of smart TVs was codenamed Weeping Angel, according to documents dated June 2014.
+They describe the creation of a "fake-off" mode, designed to fool users into believing that their screens had been switched off.
+Instead, the documents indicate, infected sets were made to covertly record audio, which would later be transferred over the internet to CIA computer servers once the TVs were fully switched back on, allowing their wi-fi links to re-establish.
+Under a "future work" section, it is suggested that video snapshots might also be taken and the wi-fi limitation be overcome.
+Samsung has not commented on the allegations.
+Wikileaks also claims that as of last year, the CIA has built up an arsenal of  24 Android "zero days" - the term given to previously unknown security flaws in code.
+Some of these are said to have been discovered by the CIA, but others were allegedly obtained from the UK's GCHQ agency as well as the NSA and unnamed third-parties.
+Devices made by Samsung, HTC and Sony, among others, were said to have been compromised as a result, allowing the CIA to read messages on Whatsapp, Signal, Telegram and Weibo among other chat services.
+It is also claimed that a specialised CIA unit was set up to target iPhones and iPads, allowing the agency to see a target's location, activate their device's camera and microphone, and read text communications.
+The unit is also reported to have made use of further iOS "zero days" obtained from GCHQ, the NSA and FBI.
+"It is longstanding policy that we do not comment on intelligence matters," GCHQ told the BBC.
+"Furthermore, all of GCHQ's work is carried out in accordance with a strict legal and policy framework, which ensures that our activities are authorised, necessary and proportionate."
+Other claims say the CIA:
+Wikileaks describes its release as the first in a series of planned leaks about the CIA's cyber-activities, which it refers to as Vault 7.
+It added that the material had already circulated among hackers who used to work for the US government as well as contractors in an unauthorised manner.
+There is a huge amount of information in the CIA data dump but a lot of it, such as its apparent success in compromising smart TVs, is not that surprising. Lone researchers have managed similar hacks, so smart government agents were always going to be able to go further.
+Plus, we kind of know that a lot of the modern internet-of-things gear is broken as all kinds of holes have been found in all kinds of gadgets - including cars.
+What's more interesting is the work said to have been done on iPhone and Android handsets. That's because Apple works hard to make sure iOS is secure and Google has made a real effort lately to secure its operating system. For a spy agency, access to those gadgets is key because they travel everywhere with a target.
+What is likely to hit the CIA the hardest is losing control of all the zero day exploits and malware detailed in the papers.
+It is more than likely that the agency paid millions to build up an arsenal of tools that are guaranteed to work - largely because they are based on flaws, bugs and vulnerabilities that have never been seen before. Operating systems of all stripes are really big haystacks and the information in some of the leaks looks like a good map to all the needles hiding within.
+With the zero days now largely burned the CIA may have to re-trench for a while but it will doubtless have other unused attack tools stored and ready to deploy.
+What's potentially more worrying is that as information about the bugs gets out then the bad guys will pile in and use them.
+We saw that with the zero days released in the much smaller Hacking Team data breach, and there is much more useful data to be found in this trove.

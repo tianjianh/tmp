@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223132801/http://www.bbc.co.uk:80/news/technology-33650491
+
+[SN]TITLE[SN]
+Fiat Chrysler recalls 1.4 million cars after Jeep hack
+
+[SN]FIRST-SENTENCE[SN]
+Fiat Chrysler has issued a safety recall affecting 1.4m vehicles in the US, after security researchers showed that one of its cars could be hacked.
+
+[SN]RESTBODY[SN]
+On Tuesday, tech magazine Wired reported that hackers had taken control of a Jeep Cherokee via its internet-connected entertainment system.
+Chrysler said it was issuing a voluntary recall to update the software in affected vehicles.
+The company added that hacking its vehicles was a "criminal action".
+Security researchers Charlie Miller and Chris Valasek demonstrated that it was possible for hackers to control a Jeep Cherokee remotely, using the car's entertainment system which connected to the mobile data network.
+The two security researchers have spent years investigating car control systems and developing ways to subvert them. The pair are due to reveal more information about their work at the Def Con hacker conference next month.
+Shortly after the recall was announced, Mr Miller tweeted: "I wonder what is cheaper, designing secure cars or doing recalls?"
+Fiat Chrysler said exploiting the flaw "required unique and extensive technical knowledge, prolonged physical access to a subject vehicle and extended periods of time to write code" and added manipulating its software "constitutes criminal action".
+The company said it was "unaware of any injuries related to software exploitation".
+It said the recall was issued to help customers with the "ongoing software distribution that insulates connected vehicles from remote manipulation".
+The issue affected up to 1.4m vehicles sold in the United States, which had been fitted with the company's uConnect system.
+A spokesman for Fiat Chrysler told the BBC that no vehicles sold in the UK were affected.
+However, this week in a separate research project security experts from the UK's NCC Group showed how it was potentially possible to hack a car's control systems through its digital radio.
+The attack could be accomplished, according to NCC, using relatively cheap off-the-shelf components connected to a laptop, to create a DAB station that broadcast the malicious data.
+The Fiat Chrysler recall comes soon after two US senators introduced a bill to call on the US Federal Trade Commission and the National Highway Traffic Safety Administration to set standards on vehicle security for car makers.
+The bill would also create a security rating system for cars so consumers would know which ones worked hardest to make unhackable cars.

@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150729121303/http://www.bbc.co.uk/news/technology-27067106
+
+[SN]TITLE[SN]
+Hacking the instrument of the future in Boston
+
+[SN]FIRST-SENTENCE[SN]
+Stick a bunch of people in a room with pizza, caffeine and a whole load of kit, wait 24 hours and something interesting emerges.
+
+[SN]RESTBODY[SN]
+That's the theory of a hackathon.
+To find out how they work, I enter one held during Music Tech Fest, which is on tour in Boston.
+The event is dedicated to music technology, my favourite topic.
+On Saturday, I arrive at Microsoft's New England Research and Development Center (yes, the Nerd Center) and at half past one, it's time to start - hackathon organiser Adam John Williams energetically shouts "go".
+You wouldn't know it, though - people are just sitting and chatting. Where's the intensity? Where's the urgency?
+It feels like someone's bought a whole load of ingredients for a cake, but no recipes.
+Some people have, however, come here with ideas in mind. For example, Sean Manton, a gifted musician, biomedical researcher, coder and fire dancer.
+He would like to use his dragon staff - a pole that he spins - to control music playback-speed during a performance. Physical designer Elio Icaza Milson has agreed to help Sean 3D-print a holder for a micro-sensor.
+The sensor should detect rotation speed and send data wirelessly to a computer - assuming it can be attached to the staff.
+It's all quite fun. But I don't have any ideas yet, so I help MJ, a pan-piping beatboxer, record a track.
+Ten hours in, we move to a TV studio up the road for the overnight segment.
+RedStar Union is a cool venue with a stage, musicians and a room full of kit to stream music content live on the web.
+Tonight it's rammed with Oculus Rift virtual reality headsets and computers in the front room, and hackers and kit wherever we can fit.
+It's a pretty intensive experience, and not without some mischief. After being cooped up in a small room for most of the evening, we decide to storm the stage for some very loud creative idea exchanges.
+One of my stage cohorts is CJ Carr, another musician and hacker specialising in machine-generated music and music therapy.
+He's making what he's calling a Hexadecipus - a 16-legged music controller made from a playable painting.
+It's about 3am, so I compose some music for the Hexadecipus. It's in 17/4 time signature... because it has 16 legs and a head.
+At 4am I ask Music Tech Fest founder Michela Magas why people take part in hackathons. She says it is an opportunity to "collide with another wonderful mind who has been researching something different from you - you two might find synergies and something magical might happen".
+It's fun collaborating amid the chaos.
+We are hacking, playing, colouring and occasionally breakdancing through the night.
+There are also horrible potato crisps that I keep eating to make sure they're horrible.
+Sean's flatmate has brought his piano in amid the music and wires and crisps and caffeine - and there's not a single spare plug socket in sight.
+I'm having a great time.
+I wonder whether staying up all night lowers barriers to creativity, or just makes us go a little crazy.
+At around 8.30am (19 hours in) inspiration strikes over breakfast when I say a doughnut tastes of D major. For the first time in my life, people hear that and think: data set. So, they ask a few more questions and we eat a few more doughnuts.
+I don't normally talk about my synaesthesia, but one of the connections is that is I hear music when I eat things.
+Synaesthesia is where the senses are mixed together - for example seeing colour when listening to music - or tasting food and hearing chords.
+Developers Alex Dorsk and Danny Kirschner are fascinated by this, and together we have the idea to make an app that pairs music with food.
+Alex uses Balsamiq, a sketching program to help us imagine the app layout and what we'd like it to do. Dan works on the actual mechanics of the app on a program called Ruby on Rails.
+Meanwhile I am working out which data the user needs to enter and what the app needs to return - basically how the app and the user will ultimately interact.
+It feels fantastic to hack through the night - though that could be the sleep deprivation. We finish the first draft just in time, so it's back to the Nerd Center to present our idea, which we've called SoundBites.
+Thirty hours in and full of coffee, we present our app along with doughnuts for the audience to eat at the same time as us.
+Our sugar bribe helps the presentation go down well. Sean's dragon staff also works - the faster he spins it, the faster the music plays. And CJ's Hexadecipus controller is also a triumph, playing musical snippets determined by the colour pressed.
+They each win the prize in their category, and to top it all, our team wins the prize in the synaesthesia category!
+Alex, Dan and I are continuing to work on the app together on collaborative coding site GitHub - which I guess means I'm now a fully-fledged music hacker.
+After a few final hours going out dancing to celebrate our respective wins, I finally fall to sleep after a mere 40 hours on the go. Not bad for my first (and definitely not last!) hackathon.

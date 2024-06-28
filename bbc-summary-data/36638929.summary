@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112230459/http://www.bbc.co.uk/news/business-36638929
+
+[SN]TITLE[SN]
+Wife cake and evil water: The perils of auto-translation
+
+[SN]FIRST-SENTENCE[SN]
+Imagine a far flung land where you can catch a ride from the Jackie Chan bus stop to a restaurant called Translate Server Error, and enjoy a hearty feast of children sandwiches and wife cake all washed down with some evil water.
+
+[SN]RESTBODY[SN]
+If such a rich lunch gets stuck in your gnashers, you'll be pleased to know there are plenty of Methodists on hand to remove your teeth.
+And if by this point you've had enough of the bus, fly home in style on a wide-boiled aircraft. But whatever you do, please remember that when you land at the airport, eating the carpet is strictly prohibited.
+No, I haven't gone mad. These are all real-world examples of howlers by auto-translation software.
+Joking aside, poor translations can have big implications for firms who run the risk of offending customers and losing business, or at least looking very amateurish.
+Yet we keep being promised that machine learning and natural language processing will soon make flawless, near-instantaneous translation a reality.
+So how long will businesses have to wait?
+In January, Skype rolled out its real-time translation software, which allows voice-to-voice translation in seven languages.
+But even this hi-tech development was not without its teething problems, randomly turning Mandarin words into obscenities on one occasion.
+The glitch was spotted by photographer Tom Carter who was in China shooting a Skype commercial and had been using it to speak to people in Mandarin.
+When he said: "It's nice to talk to you" to a local scout in Yangshuo, Skype translated it into a very offensive stream of swear words.
+The issue was blamed on how the Great Firewall - China's way of censoring the web - had interrupted the Skype conversation.
+Translation programs, such as Google Translate, have traditionally been built around phrase-based statistical machine translation.
+This works by analysing a back catalogue of texts that have already been translated - such as academic papers and glossaries. It analyses them in parallel in both their original and target languages, then uses statistical probabilities to select the most appropriate translation.
+Its effectiveness depends greatly on the quality of the original language samples and it's prone to mistakes, often sounding clunky and mechanical.
+For this reason, Alan Packer, director of engineering language technology at Facebook, said recently that statistical machine translation was reaching "the end of its natural life".
+Instead, translation tech is now moving towards artificial neural networks. These are structured similarly to the human brain and use complex algorithms to select and use the appropriate translation.
+But rather than just translate the words, a neural network can learn metaphors and the meaning behind the language, allowing it to select a translation that means the same thing to a different culture, rather than a direct literal translation which may in some cases cause offence.
+Facebook, which carries out up to two billion translations a day in 40 languages, plans to roll out such a system later this year.
+Search giant Google, too - which now offers 103 languages covering 99% of the online population - is also reported to be working on switching its translation service over to neural networks.
+But it has not said publicly how soon it plans to make that transition.
+But before you think auto-translation is on the verge of perfection, think again.
+Professor Philipp Koehn, a computer scientist and expert in translation technology at the University of Edinburgh, tells the BBC there is still some way to go.
+"There are very hard problems with semantics and knowledge representation that have to be solved first, and that we are not close to solving," he says.
+"The main challenges are when there is less explicit information in the source language than what is needed for generating proper target language."
+For example, Chinese doesn't have the equivalent use of plurals, verb tenses, or pronouns as in English, which makes exact translation very difficult, he says.
+And English doesn't use gendered nouns, which makes things tricky when translating into languages that do, such as French, Italian and German.
+Until these challenges are overcome, mistranslations are likely to continue, whether that's Chinese bus routes changing Sichuan Normal University Campus Station to The University Jackie Chan Campus Station, or restaurant owners calling their establishments "Translate Server Error".
+Although translation technology may be improving rapidly, the cost of failure is potentially huge, so many businesses are unwilling to put their faith in it entirely.
+Clem Chambers is chief executive of ADVFN, a global stocks and shares information website that covers over 70 stock exchanges around the globe.
+He says: "For us, when it comes to creating geographic and language-targeted websites, nothing beats having native speakers who actually have a thorough understanding of the financial markets.
+"Translation tech has come a long way and can provide good literal translations, but what we need is something that really speaks the language of the local end user, with all the subtleties and colloquialisms specific to their country."
+In other words, translation tech has its uses, but rely on it entirely at your peril.
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

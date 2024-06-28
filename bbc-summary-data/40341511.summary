@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170620183636/http://www.bbc.co.uk/news/technology-40341511
+
+[SN]TITLE[SN]
+Accenture and Microsoft give millions of refugees digital IDs
+
+[SN]FIRST-SENTENCE[SN]
+Technology companies are helping the United Nations provide digital legal identification for refugees who have no official documents.
+
+[SN]RESTBODY[SN]
+Accenture and Microsoft have designed a digital ID network running on blockchain technology.
+The prototype connects existing public and commercial records so people can access their personal details from any location.
+The UN wants everyone on the planet to have legal identities by 2030.
+There are currently 1.1 billion people around the world with no official documentation, including people who have been displaced from their original homes.
+The UN's latest report estimates that there are about 22.5 million refugees. There are no figures for how many of these are undocumented, but it is likely many are.
+The digital ID network was unveiled at the ID2020 summit in New York on Monday. ID2020 is an alliance of governments, public sector organisations and technology companies working together to help the UN realise its goal.
+The system, which builds on Accenture's existing biometrics identity management platform, will be tested with aid agencies in the near future.
+Often when people arrive at a refugee camp for the first time, they don't have anything to prove their identity, which is essential for a range of health, financial and education services.
+Usually, several aid agencies at once will be trying to work with the same refugees, and, until now, there has not been a way for them to share data securely.
+Now, when a refugee arrives at a camp, their face, irises and fingerprints will be scanned and the resulting biometric data stored, with their name, on one of the aid agency's servers.
+The blockchain digital ID network then creates a "stamp" - a unique identifier between the refugee and the data on the servers - that proves they have been authenticated for each service they receive.
+If they receive healthcare services in the camp, such as a vaccine, then they receive a stamp.
+If another agency confirms their education and birth, these become other stamps.
+Eventually, they will have an album of stamps they can show to any provider or government to prove their identity digitally, without needing to worry about data going missing from various providers.
+The blockchain is a method of recording data - a digital ledger of transactions, agreements, contracts, anything that needs to be independently recorded and verified as having happened.
+The big difference is that this ledger isn't stored in one place, it's distributed across several hundreds or even thousands of computers around the world. No one person or entity can control the data, which makes it transparent.
+The data forms blocks that are encrypted into a continuous chain using complex mathematical algorithms. Once updated, the ledger cannot be altered or tampered with, only added to, and it is updated for everyone in the network at the same time.
+"For someone who has nothing, who is starting over, this is a means by which they can start over and not lose their identity again. It's a much richer set of identity information than we have today," David Treat, a managing director in Accenture's financial services practice, told the BBC News website.
+But the technology would be very useful for the rest of society, as there was always the fear that we could lose our identity data too, he said.
+"We all have challenges with identity because it is fragmented and it is owned by the authorities and not by us. If you count the number of logins you have, there are a lot, and you don't own a lot of your information, someone else does. This is the basis by which identity can be stolen or corrupted," said Mr Treat.
+"The ability for us to control our own data opens up the possibility for us to decide who we want to get marketing from, and whether we want to share the accurate data for them to do so."

@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170215065201/http://www.bbc.co.uk/news/technology-33272712
+
+[SN]TITLE[SN]
+US government log-ins and passwords leaked online
+
+[SN]FIRST-SENTENCE[SN]
+A security intelligence company has found the stolen log-in credentials for up to 47 US government agencies accessible online.
+
+[SN]RESTBODY[SN]
+Passwords were found on public websites such as Pastebin, where hackers often dump data.
+Recorded Future said it was impossible to say whether all the passwords were active.
+The details were likely to have been stolen when used to access malware-ridden sites.
+Recorded Future's report said many government employees had used their official emails, and possibly the same passwords, to log in to third-party web services that had been hacked.
+The company scanned more than 680,000 web sources over the course of a year. It found 705 emails and passwords originating from government agencies.
+The data was connected with the departments of defence, justice, the treasury and energy as well as the CIA and the director of National Intelligence.
+"The presence of these credentials on the open web leaves these agencies vulnerable to espionage, socially engineered attacks, and tailored spear-phishing attacks against their workforce," the company said on its blog.
+Recorded Future called on government departments to make their networks more secure by requiring staff to use two-factor authentication, which requires users to have two separate components to their log-ins, and only allowing them to remotely access their systems via virtual private networks.
+"It isn't that these agencies don't know what to do, it is just that they aren't implementing the changes," said Scott Donnelly, a senior analyst at Recorded Future.

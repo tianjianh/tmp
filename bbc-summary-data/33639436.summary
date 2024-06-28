@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151030203401/http://www.bbc.com/news/technology-33639436
+
+[SN]TITLE[SN]
+High-speed anonymising network proposed
+
+[SN]FIRST-SENTENCE[SN]
+A high-speed anonymous way to browse the web has been developed by security researchers.
+
+[SN]RESTBODY[SN]
+The team, based in Zurich and London, say they have found a way to mask data that does little to slow it down.
+Many anonymising systems are slow because data is encrypted many times as it travels.
+But the new high-speed encryption system, Hornet, could theoretically move data around at speeds up to 93GBps, its creators say.
+Hornet is conceptually similar to The Onion Router (Tor) network that many people currently use to disguise from where they are browsing the web.
+Tor encrypts data as it hops randomly between the servers or relays that make up the network.
+However, encrypting and decrypting data many times adds a processing overhead, which means browsing the web via Tor can be slow and frustrating.
+Tor's design "suffers from performance and scalability issues: as more clients use Tor, more relays must be added to the network", said the researchers in a paper describing their work.
+Hornet avoids some of the problems that limit how many users a Tor-like system can handle by changing the way it handles information about where data is going.
+By removing some of this administrative overhead, it is possible to speed up the passage of data through the network's anonymising core.
+In addition, they wrote, these changes made Hornet less susceptible to some of the attacks that have been used to unmask people who use Tor.
+Writing on tech news site the Daily Dot, Patrick O'Neill noted that the paper describing Hornet had not yet been peer-reviewed.
+"Peer review is critical to the development of research like this, and Hornet can't be considered even close to fully formed until review comes," he wrote.
+"Still, research that endeavours to rethink the design of anonymity networks can lay the groundwork for the next stages of the technology."

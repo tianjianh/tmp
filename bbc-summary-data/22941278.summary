@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20130619013222/http://www.bbc.com/news/science-environment-22941278
+
+[SN]TITLE[SN]
+Shape of a room 'heard' by acoustic echoes
+
+[SN]FIRST-SENTENCE[SN]
+The shape of a room can be modelled using echoes produced from sound, new research has found.
+
+[SN]RESTBODY[SN]
+Like bats who emit sounds in order to navigate, researchers can now plug sounds into a computer algorithm to map a room.
+The team were able to build a full 3D image of a room using four microphones to record echoes bouncing off walls.
+Writing in the journal PNAS, the researchers say the technology could one day help solve crime.
+The ability to use sounds to navigate the world, called echolocation, is already used by dolphins and bats. Though rare, some blind people have also been known to possess this skill.
+But now with the help of a computer algorithm, the echoes from a chirp like sound can reveal the shape of a room.
+The algorithm could also distinguish between stronger and weaker echoes and whether they had bounced one or more times around the room.
+Walls made from different materials all reflect sound differently, but it was not the amplitude that the algorithm was looking at, rather the differing arrival times between the echoes. The same result could therefore be achieved from any sound, according to the researchers.
+"Our software can build a 3D map of a simple, convex room with a precision of a few millimetres," said lead author of the study, Ivan Dokmanic from the Ecole Polytechnique Federale de Lausanne in Switzerland (EPFL).
+"Each microphone picks up the direct sound from the source, as well as the echoes arriving from various walls.
+"The algorithm then compares the signal from each microphone. The infinitesimal lags that appear in the signals are used to calculate not only the distance between the microphones, but also the distance from each microphone to the walls and the sound source," added Mr Dokmanic.
+There are numerous potential applications for the research, Mr Dokmanic told BBC News.
+Architects building a concert hall for example, might know the specific acoustics they want a new building to have. Using this new algorithm they could now "plug" certain echoes into a computer and "get the kind of space needed to produce those echoes".
+He also explained that virtual reality could benefit from using accurate audio to correspond to visual images.
+"If your eyes see and your ears hear something that doesn't correspond, your brain is confused and disorientated. If you want to start a virtual design using sound, you could use this to create spaces that are realistic with respect to the sounds, because you would know the echoes."
+Mr Dokmanic also sees potential implications in the field of audio forensics, where audio is used as evidence in crime. For example, a simple sound recording taken in an unknown place could give clues to the space it was recorded in.
+For that, further research is needed and Mr Dokmanic is certainly on the case.

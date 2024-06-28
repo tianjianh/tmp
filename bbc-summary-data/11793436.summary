@@ -1,0 +1,54 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170218192706/http://www.bbc.co.uk/news/business-11793436
+
+[SN]TITLE[SN]
+IT security is broken, so can companies stay safe?
+
+[SN]FIRST-SENTENCE[SN]
+Once upon a time, keeping a company's IT systems secure was fairly straightforward. IT managers used a "castle and moat" approach. They established a secure perimeter around the system; the computers inside were safe.
+
+[SN]RESTBODY[SN]
+Firewalls, locked-down desktops (that stop users installing their own software), anti-virus software, limits on the size and type of e-mail attachments were all part of the defences; in very secure firms USB ports were non-existent to stop staff sucking data into or uploading viruses from their MP3 players or USB sticks.
+These days, the castle walls are crumbling.
+As the security fetish turns corporate IT into an old donkey - disagreeable, petulant, and difficult to handle - workers are taking IT into their own hands. To get the work done they use their own smartphones, netbooks and other digital devices.
+Special Report: The Technology of Business
+Can brain scans tell us who makes a good CEO?
+Online education disrupts traditional academic models
+The business of innovation: Steven Johnson
+High fashion learns to love selling online
+How are sexually-confused insects helping small farmers?
+Catching audiences from social media
+Plenty of malware, meanwhile, enters corporate networks through dodgy links shared carelessly on social networks, with URL shorteners disguising malicious links.
+Can't move a large file with sensitive information from one part of the company to another? Use yousendit.com. Need to work with others on a recruitment drive? Put the spreadsheet with the candidates' details on Google docs for your collaborators to see. All very straightforward, all very nasty violations of corporate security and data protection laws.
+"The IT guys have been told to do one job, so they [lock things down and] rule out the use of Google docs. And the workers are told to do another job, to get their work done, so they start using Google docs, and the power balance is moving away from the IT guys," says Josh Klein, co-author of Hacking Work, a guide on how to "break stupid rules for smart results".
+According to a survey by networking firm Cisco, 41% of workers break corporate IT policies, saying that "they need restricted programs and applications to get the job done - they're simply trying to be more productive and efficient".
+Russell Dietz, chief technology officer of information security firm Safenet, says that people bringing their own IT into the workspace is the "biggest issue for information security" right now.
+But companies themselves are breaking down the castle walls. They make workforces mobile, and as road warriors connect to the IT systems back home, the security problems multiply. Through outsourcing businesses are becoming virtual and global, collaborating with many partners.
+It doesn't help the IT guys that they are being undermined publicly by their chief executives brandishing new (personal) iPads, expecting them to work on the corporate network.
+And if a company's IT team keeps frustrating the workforce, the best and the brightest will leave and set up on their own, warns Mr Klein.
+Businesses thus face a difficult choice: aiming for good security or higher productivity, efficiency and convenience.
+It's a culture clash, and not being made easier by a growing security threat.
+Mobile devices are increasingly being targeted, says internet security firm McAfee in its most recent threat report.
+Then there are USB thumb drives, cheap and "very dangerous," says Hubert Yoshida, chief technology officer of Hitachi Data Systems. "Wireless connectivity through Bluetooth is another of many avenues for attack."
+Then there's the web, teeming with malware as clever criminals monitor Twitter and Google to see which terms are popular and change their lures accordingly, according to Mike Gallagher, chief technology officer of McAfee's global threat intelligence.
+One of the most successful attacks in recent months was the Zeus botnet, which according to McAfee allowed an Ukrainian gang to steal $70m from small businesses in the United States alone. Amichai Shulman, chief technology officer at security firm Imperva, speaks of an "industrialisation of hacking," where cybercriminals become increasingly sophisticated.
+And it is not just small companies that that fall victim to the hackers. When RSA, the security division of storage company EMC, hacked a gang of cybercriminals they found the logins and passwords of employees from 300 of the world's top 500 companies, says Eric Baize, one of the firm's top security experts.
+Most of these security breaches are the result of wide-ranging untargeted attacks.
+Criminals, however, are now getting "amazingly malicious," warns Gary Steele, chief executive of Proofpoint, a company specialising in e-mail security. Some attacks are now "very narrow," aimed at just a few individuals in a company and coming in at "super-low volume", which means they don't trigger classic detection mechanisms.
+"We call it spear-fishing," says Mr Steele. Yes, it's labour-intensive, but highly lucrative if successful.
+And then there is Stuxnet, the recent attack on infrastructure control systems and probably aimed at Iran's nuclear programme. Dr Paul Judge, chief research officer at Barracuda Networks, calls it the "most sophisticated piece of malware that the public has ever seen," although he suspects there is more out there, but unseen.
+Stuxnet "had a project manager, a Quality Assurance Team, full testing. At what point," asks Dr Judge, "does it get cost-effective to use this kind of attack against a company rather than a government?"
+Whatever the security or the threat, "as soon as data arrives in human hands, then it gets very difficult," says Josh Klein. "We are very devious creatures."
+Devious, or gullible. "Social engineering," tricking people into handing over their passwords, is still one of the most successful ways of hacking into corporate IT systems, says RSA's Eric Baize.
+Ultimately, corporate IT security is not about better IT policies and compliance, not least as "the time spent between work and personal lives has blurred," says Marie Hattar, vice president at Cisco.
+"It has to be about protecting users while they are on social networking sites, not preventing them from social networking," argues Dr Paul Judge, chief research officer at Barracuda Networks. His company estimates that about 30% of all Twitter accounts are suspicious and not used for what they are supposed to be used for.
+To protect themselves, companies should route any web traffic of their road warriors through systems "that check what's going out, and ensure no malicious stuff is going in".
+It's not made easier by the explosion of the volume of data generated by companies. "How do we access it, protect it, make it accessible by the right people?" asks Hubert Yoshida at Hitachi Data Systems. "Data have interdependencies. If I lock something down, it has consequences across all data."
+He believes that corporate data has to evolve, become content that is tagged and follows clear rules: knows whether it can be copied, or forwarded, or leave the building or company. The storage industry, says Mr Yoshida, "has to become more content aware".
+And companies need to get a better understanding of corporate data: "who provides access, who has access control, which applications have access... which digital assets require what level of security," says Kevin Johnson, chief executive of networking firm Juniper Networks.
+Cloud computing, says Eric Baize at RSA, could actually be part of the solution. For starters, moving to the cloud forces companies to rethink how they handle data. More importantly, cloud computing solutions tend to be based on "virtualisation", a systems architecture that is "security aware".
+Mr Dietz agrees: "If you use cloud solutions properly, you have a better focus on security."
+Cloud service providers know that they will be dead in the water if they don't keep data secure; if you are a small firm and use cloud services, says Mr Dietz, "you've got more information security experts working for you".
+To ensure corporate security, a lot of things have to come together, says Safenet's Russell Dietz. The old "castle-and-moat" perimeter model will not completely vanish, but companies have to become more data-aware, find easy-to-use encryption software, and start embedding security directly into the hardware (he points to Intel's recent takeover of McAfee).
+The data object itself must be protected, he says.
+One thing is certain: As the castle of IT security lies in ruins, we have to hope for some kind of Ninja security, where every device, every data set is a formidable little warrior, ready to defend itself.

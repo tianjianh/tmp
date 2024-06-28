@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170212022907/http://www.bbc.com/news/technology-35652271
+
+[SN]TITLE[SN]
+Google promotes fast-loading AMP news articles
+
+[SN]FIRST-SENTENCE[SN]
+Google has begun promoting web-based news articles that comply with its effort to make pages load more quickly on mobile devices.
+
+[SN]RESTBODY[SN]
+Stories coded according to the Accelerated Mobile Pages (AMP) initiative's guidelines appear in a dedicated carousel in the firm's search results.
+It says this will help the public find pages that load "blazingly fast".
+However, it is likely to disadvantage sites that opt not to take part.
+Google's chief executive Sundar Pichai also told an audience in Paris that his firm would offer to defend news organisations against distributed denial of services attacks.
+DDoS attacks involve a perpetrator flooding a site with traffic to knock it offline, and often involve hijacked PCs to bolster the assault's force.
+The AMP project was first announced last October, at which point "dozens" of sites said they were taking part.
+Google has revealed that the list has since expanded to more than 160 news providers across Europe.
+In addition, it said, other news sites in the US, Brazil, Japan, Indonesia and Mexico were taking part, and there were plans to extend AMP further soon.
+Blogging platform Wordpress has also enabled its users to have their pages automatically translated into AMP-enabled pages, which could swell numbers further.
+AMP pages load on smartphones and tablets between four and 10 times faster than those made in traditional HTML.
+Once a user has read an article, they can flick to the side to see another publication's take on the same topic.
+Much of the Javascript code normally used with the webpages is absent, meaning loading the articles should also use less battery power.
+Publishers can continue to use paywalls and tap into the same ad networks as before, but they will not be able to display some types of adverts including pop-ups and "sticky" images that move as users scroll down a page.
+The effort acts as a disincentive to people who might otherwise have used ad-blockers to speed up loading times.
+In addition, it helps Google deal with a threat from Facebook. The social network is promoting its own Instant Articles scheme, which makes third-party content appear more quickly by hosting it on Facebook's own servers.
+The BBC is involved in both schemes.
+"With over 65% of traffic to BBC News coming from mobiles or tablets, optimising this performance is crucial," said BBC executive Robin Pembrooke.
+"Google AMP is another important step to help achieve this goal."
+AMP is open source, meaning anyone can adopt the technology without having to seek Google's permission.
+Because of the firm's dominance in search, organisations may feel compelled to join to avoid losing traffic.
+Mr Pichai also invited independent news organisations to join Project Shield without charge.
+This is a scheme originally launched in 2013 to offer select organisations the same DDoS protection used by Google itself.
+It works by using a technology called a reverse proxy, which lets Google identify and stop "bad traffic" before it reaches the news organisations' computers.
+To enable this, news organisations will have to let Google see the data flowing to their sites.
+Google says it will use the information only to protect them and will delete raw traffic logs a fortnight after each is created.
+DDoS attacks are an increasing threat to news sites. One attack briefly knocked the BBC's news site offline in December.
+However, one expert suggested that bigger news organisations were likely to continue to manage their own security.
+"Google's product doesn't offer the same level of customisation as commercial services, but its simplicity will be appreciated by smaller-scale organisations without specialist technical experts," said Dr Steven Murdoch from University College London.
+"A potential side effect is that some countries might find it harder to censor the website without blocking all of Google's other services."
+He added, however, that there was a risk that some legitimate users would be accidentally blocked.

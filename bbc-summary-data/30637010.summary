@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170114011451/http://www.bbc.co.uk/news/technology-30637010
+
+[SN]TITLE[SN]
+Tor's most visited hidden sites host child abuse images
+
+[SN]FIRST-SENTENCE[SN]
+Most traffic to sites hidden on the Tor network go to those dealing in images of child sexual abuse a study suggests.
+
+[SN]RESTBODY[SN]
+The six-month study sought to catalogue hidden services on the so-called "dark net" and work out which were the most popular.
+It found lots of sites peddling illegal drugs but the most popular were those involved with abuse.
+However, the researcher behind the study said it was hard to conclude that people were behind all the visits.
+Tor, or The Onion Router, is an anonymising system that lets people use the web without revealing who they are or which country they are in. The anonymity offered by the network has encouraged many people to set up hidden .onion sites that offer content, services and goods that it is illegal to sell openly.
+Carried out by Dr Gareth Owen from the University of Portsmouth, the study set up servers to join the Tor network and catalogued hidden services found on it. The system was also able to visit the sites to download HTML content so they could be categorised and to track how many visits each one received.
+Traffic to hidden services on Tor represents about 1.5% of all the data passing across the network on any given day.
+Over the six months of the study, Dr Owen and his colleagues saw about 80,000 hidden sites on Tor.
+"Most of the hidden services we only saw once. They do not tend to exist for a very long time," he said during a speech at the 31st Chaos Communications Congress in Hanover, where he presented his findings.
+The top 40 hidden services were involved with controlling botnets - networks of home computers compromised by malicious programs. Many of these botnets have been shut down which has left their client computers fruitlessly polling Tor seeking the now dormant command systems.
+The study found that the biggest number of hidden services were dedicated to selling illegal drugs. Also in the top five were underground markets, fraud sites, mail services and those dealing in the virtual currency Bitcoin.
+Although the number of sites dealing in images of abuse on Tor is small, traffic to them dwarfs that going to other sites, said Dr Owen.
+About 75% of the traffic observed in the study ended up at abuse sites, said Dr Owen.
+"When we found this out we were stunned," he said. "This is not what we expected at all."
+Despite the findings, Dr Owen cautioned against drawing too many conclusions since he did not know which visits were done by people and which by machines.
+"It's not as quite as straightforward as it looks," he said. "It might look like there are lots of people visiting these sites but it is difficult to conclude that from this information."
+"What proportion are people and which are something else? We simply don't know." he said, adding that "crawlers" run by law enforcement and other agencies that police abuse sites could be responsible for the steady stream of traffic.
+Roger Dingledine, one of the original developers of Tor, also said the methodology of the study - which only scanned long-lived sites to see what content they offered - made it hard to draw conclusions about what people did on the network.
+"Without knowing how many sites disappeared before he got around to looking at them, it's impossible to know what percentage of fetches went to abuse sites," he said.
+"There are important uses for hidden services, such as when human rights activists use them to access Facebook or to blog anonymously," he added.
+"These uses for hidden services are new and have great potential."

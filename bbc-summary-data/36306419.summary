@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160522033246/http://www.bbc.com/news/technology-36306419
+
+[SN]TITLE[SN]
+Archive of historic BT 'email' hack preserved
+
+[SN]FIRST-SENTENCE[SN]
+An archive detailing a historic hack and its fallout has been handed over to the National Museum of Computing.
+
+[SN]RESTBODY[SN]
+Previously, the cache of documents, press cuttings and letters had been kept by Robert Schifreen, who hacked BT's Prestel system in 1984.
+He and Steve Gold took control of Prestel and penetrated the email inbox belonging to the Duke of Edinburgh.
+The legal case around the hack helped define computer misuse laws in the UK and around the world.
+The archive contains detailed information about how the hack was carried out and the two-year legal wrangle it began.
+Robert Schifreen said the whole saga had begun by accident.
+"I was testing a modem and was typing in random numbers to see if they worked or not," Mr Schifreen told the BBC. "And one of them did."
+The number gave access to Prestel - a basic, text-based computer system developed in the late 1970s and early 1980s that gave people an early taste of online information services.
+Customers dialled up and browsed thousands of pages that held information about everything from stocks and shares to weather forecasts and news headlines. In 1983, it was expanded to include a crude form of email.
+Purely by accident, Mr Schifreen had stumbled across a live Prestel account that had the number 2222222222 and a password of 1234.
+Even better, it was not a customer account.
+"It was only supposed to be for Prestel staff," he said.
+A quick scan of the pages available via this account revealed a phone number for a test mainframe used by administrators maintaining the service.
+"I tried that on and off for a good few months," said Mr Schifreen. "One day, after months of trying, I dialled up this test computer, and it showed a page saying, 'This is the system manager password'."
+"I logged in with it, and it said, 'Welcome to Prestel. You are now system manager'."
+Initially, this gave Mr Schifreen and Mr Gold access to only the test system. However, the Prestel system administrators had made another security blunder.
+"The golden rule they broke was that in this test computer they used live data," Mr Schifreen said.
+"They used live passwords on that test machine."
+Those live passwords let the pair get access to the working system.
+The hack was aided by the fact that the two men were dialling up after 18:00, when phone calls got a lot cheaper.
+This had proved useful, Mr Schifreen said, because by then the Prestel security team had gone home for the day.
+As a responsible hacker, Mr Schifreen was open about his findings and informed Prestel owner BT about his high-level access and his ability to change any page on Prestel.
+Initially, BT dismissed his claim that he could edit any page and brushed him off.
+"I changed [the main login page] and then called them back and said, 'Now tell me it cannot be done,'" he said. "They got straight on the phone to Scotland Yard."
+But there was just one problem with calling in the cyber-cops - at the time there, was no law under which the men could prosecuted.
+"There were no specific laws," said John Austen, former head of the Scotland Yard computer crime unit, who arrested Mr Schifreen and Mr Gold.
+"But that was not just in the UK. There were no laws anywhere in the world other than prosecutions undertaken by the FBI into wire fraud."
+"I'd never arrested computer hackers before then," he said.
+Initially, the pair were charged with offences under the Forgery and Counterfeiting Act as this was the law that seemed to capture the essence of what they had done in reusing the internal passwords.
+The charges stuck, and the two hackers were found guilty.
+They appealed, and the conviction was overturned.
+The prosecution sought to get this decision undone, which led to the case being referred to the House of Lords.
+But the Lords upheld the original appeal, and the two men were acquitted in 1986.
+At the time, Lord Justice Lane said it had been inappropriate to use the forgery law to prosecute the two hackers.
+"The police were quite happy that I was acquitted as it demonstrated the need for a computer hacking act of some sort," Mr Schifreen said.
+"The Computer Misuse Act of 1990 resulted."

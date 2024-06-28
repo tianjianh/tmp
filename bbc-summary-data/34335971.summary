@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150923204818/http://www.bbc.com/news/technology-34335971
+
+[SN]TITLE[SN]
+Google 'charges for YouTube adverts viewed by bots'
+
+[SN]FIRST-SENTENCE[SN]
+Google charges marketers even when its own checks indicate that adverts were not viewed by human beings, according to researchers.
+
+[SN]RESTBODY[SN]
+The experts reported that YouTube did not count many of the "fake views" they directed at their own videos. But it still charged the researchers for many of them.
+The case highlighted the need for more transparent analytics, said one expert.
+Google said it would work with the researchers to improve its performance.
+"We're contacting the researchers to discuss their findings further. We take invalid traffic very seriously and have invested significantly in the technology and team that keep this out of our systems. The vast majority of invalid traffic is filtered from our systems before advertisers are ever charged," a spokesman said.
+The experts tested the systems employed by five video platforms, including YouTube.
+In the case of the Google-owned site YouTube, they uploaded videos and bought ads targeted at them using Google's AdWords service. They then set up a series of bots - automated systems that carry out their commands - to target fake views at the videos.
+YouTube carries out two separate counts of video views. The first, called the public view count, determines how many times the video has been seen and is displayed publicly. The second, the monetised view count, determines the viewership for the purposes of calculating advertising charges.
+The researchers found that the public view counter was significantly more discerning than the monetised one. On two of the videos they uploaded, Google publicly counted only 25 of the 150 fake views as real. But its monetised view counter waved through 91.
+They also found that they were charged for fake views on another two videos, but YouTube then identified the activity as suspicious in a secondary check and suspended the associated account.
+"YouTube uses a seemingly permissive detection mechanism to discount fake monetised views," wrote the researchers, who are from four institutions - UC3M, Imdea, NEC Labs Europe and Polito.
+They said that the issue "exposed advertisers to the risk of building their advertisement campaigns on unreliable statistics" when the public view counter was "much more discriminative", demonstrating that YouTube was capable of more accurately identifying fake views.
+Bots are used by a host of companies - such as search engines and analytics firms - to crawl the web to draw out information and index and archive web pages. A 2013 study suggested that they responsible for more than 60% of all web traffic.
+Daniel Knapp, an expert in advertising at IHS analysts, said that the issue had already caused widespread concern.
+"We have a paradoxical situation where there is much more data than ever before, but even less information on what it actually means.
+"There is no single standard online. In this context, the issue has come up time and again. Google published a report saying that only 54% of video adverts is even seen, not including that on YouTube, where the figure was 91%.
+"Large advertisers want to measure a return on their investments and do not trust the metrics that online companies provide. There is huge pressure to up the game and provide clear measurement of adverts. The problem is that there is no gold standard," he said.

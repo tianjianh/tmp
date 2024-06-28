@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170504154519/http://www.bbc.com/news/technology-36256765
+
+[SN]TITLE[SN]
+Facebook Moments facial-recognition app launches in Europe
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has launched its facial-recognition-powered photo-sharing app in the EU and Canada.
+
+[SN]RESTBODY[SN]
+The program - Moments - was released in some countries in 2015, but withheld elsewhere because of local data privacy rules.
+The company has created a different version of the software to get around these restrictions.
+But it acknowledged the new edition required "a little bit of work" for users to get the most out of it.
+Moment's core features are that it automatically groups together photos featuring the same friend or friends, and then makes it easy to share the pictures with them if they have installed the same app.
+In the original version, the snaps are automatically tagged with people's names, because Facebook is able to match them to other photos in its wider database.
+But data protection watchdogs in the EU and Canada had expressed concern their citizens would have no way to opt out of the process.
+To address this, the adapted app now links together photos of similar-looking faces but requires the user to identify who they are.
+Moments is not the only app to use facial recognition to sort images.
+Google Photos is the most popular alternative to do so.
+But the search giant has yet to extend the facility to Europe, to avoid falling foul of the Irish Data Protection Commissioner.
+Facebook has not disclosed how many people have signed up to Moments since its release on the US's iOS and Android stores 11 months ago.
+However, the company has said more than 600 million pictures have been shared via the app so far.
+"Our primary purpose is to solve a problem that we know that people have, where they never get the photos that their friends take of them," the app's product manager Will Ruben told the BBC.
+"We view that as a pretty different type of sharing than might happen on Facebook, where people share photos more broadly with a large group of friends or even publicly.
+"Moments is closer to the type of sharing that might happen these days on Whatsapp or other [private] messaging apps - but it places the photos together into a collection."
+Users decide which photos are shared with the people labelled in them, and can withdraw access at a later point.
+They can also use the app to turn selected photos into slideshows that can be shared to their Facebook wall and elsewhere.
+The technique - which Facebook refers to as "facial clustering" - still relies on some processing being done beyond the user's handset, but Facebook said it had taken great lengths to comply with the EU and Canada's privacy rules.
+"A cropped low-resolution of the photo is uploaded [to the cloud] so that your phone gets a numerical representation of that face," Mr Ruben said.
+"But that number is not stored anywhere on our servers, and it is only used to compare against the other photos on your phone.
+"No comparison is being done on the server."
+Copies of the images are, however, stored at Facebook's data centres as soon as they are shared with someone else.
+"Facebook has notified this office of the Moments app and advised us that within the EU version of the Moments app they do not control or initiate the use of any feature recognition technology," said a spokeswoman for the Irish Data Protection Commissioner.
+"Consideration of this development is ongoing and we will more closely look at the technical details of the app following its release."
+Mr Ruben said Facebook believed the original version of Moments remained the "best version" but the new edition was still "easy to use.
+"You don't need to label all the faces on your phone," he said.
+"The idea is to share with the people closest to you, so usually it's just the top 10 people or so."
+One industry-watcher said the lack of auto-tagging might slow the app's adoption.
+"Any additional effort that people have to put into a service creates a barrier," said Ben Wood, from the tech consultancy CCS Insight.
+"The seamless experience in other markets is therefore more compelling.
+"However, once people invest a little time, they will see the benefits, and it could catch on, on that basis."
+Facebook's use of facial recognition has, however, caused controversy in the US.
+Last week, a US judge refused to block a class action case in which it is claimed the technology violates Illinois's Biometric Privacy Act.
+The law states biology-based identifiers - including facial maps and fingerprints - cannot be collected without their owners' explicit consent.
+Google is also being sued over the matter.

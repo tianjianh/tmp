@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170704100152/http://www.bbc.com/news/technology-40483201
+
+[SN]TITLE[SN]
+AA Shop investigating 13 gigabyte data breach
+
+[SN]FIRST-SENTENCE[SN]
+The AA has been criticised over the way it has handled a data breach involving 13 gigabytes of data.
+
+[SN]RESTBODY[SN]
+The huge cache was viewable online for a few days in April, but the motoring organisation said that it contained no "sensitive" information.
+However, a security researcher who analysed the leak said he found details like email addresses, names and parts of payment card numbers.
+He said said it was a "very serious incident" the AA needed to address.
+AA president Edmund King said it first learned about the problem with data used for its online shop on 22 April. Soon after discovery, the firm that runs the shop on the AA's behalf was told about the problem.
+"They identified the vulnerability and the issue was resolved on 25 April," he said.
+A server "misconfiguration" was blamed for giving access to two back-up files that contained information about orders for maps and other products from retailers and some customers.
+The AA said it investigated, sampled the data and, because it was not sensitive and only accessed a few times, ended the investigation.
+The motoring group has started an independent inquiry into the breach and also told the UK's Information Commissioner about it.
+"We take any data issues incredibly seriously and would like to reassure our AA Shop customers that their payment details have not been compromised," said Mr King.
+Security researcher Troy Hunt alerted the BBC to the existence of the leak last week.
+At that time, the AA said it related to shop orders and contained no sensitive information.
+Mr Hunt, who runs a website dedicated to data breaches called Have I Been Pwned, persisted with his investigation, obtained a copy of the back-ups and subjected them to a deeper analysis.
+He found 117,000 unique email addresses in them as well as names, net addresses as well as credit card types, expiry dates and the final four digits of the card.
+A separate analysis by researcher Scott Helme for the Motherboard website found the same data in the cache.
+"I have confirmed with many Have I Been Pwned subscribers in the data and they have verified that it's accurate," said Mr Hunt. "They're customers of the AA and they never received a notification about the data exposure.
+"At no point does their statement acknowledge the severity of the exposed data nor that they failed to notify customers when learning of the exposure," he said.
+He added that discussions with the Information Commissioner might take a "decidedly different tone" when it learned about the customer data in the cache.
+Last week, the AA was forced to apologise after a mistake led to it issuing emails telling some members to update their passwords.

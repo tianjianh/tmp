@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170531152237/http://www.bbc.co.uk/news/technology-40092030
+
+[SN]TITLE[SN]
+Shadow Brokers move bitcoins after hacking tool auction
+
+[SN]FIRST-SENTENCE[SN]
+Bitcoins worth Â£18,500 ($24,000) that were sent to hacker group the Shadow Brokers have been moved.
+
+[SN]RESTBODY[SN]
+The funds were received during an auction of hacking tools that failed to attract much interest before the group eventually released the tools for free.
+One leak included an exploit that helped the WannaCry ransomware to spread around the world.
+This tool and others are believed to have been stolen from the US National Security Agency (NSA).
+The agency has not confirmed or denied this.
+The bitcoins have been moved to multiple addresses, leading some commentators to think that the Shadow Brokers plan to obfuscate the transactions, before perhaps exchanging the bitcoins for traditional currency.
+"Ever since the Shadow Brokers announced themselves, I've had an alarm on their bitcoin wallet just monitoring any changes," cyber-security expert Mikko Hypponen at F-Secure told the BBC.
+"I was surprised when I got an alert that they had emptied the wallet."
+Mr Hypponen added that it was unusual to see such activity because the value of the bitcoins was so small and by withdrawing them the hackers risked revealing their identity.
+Because of this, Mr Hypponen believes the move may simply be "a wild goose chase" - though some resulting transactions have already been tracked by observers.
+The group also posted a message in which it claimed to be launching a monthly subscription service for followers to receive more exploits and hacking tools.
+It has asked interested potential subscribers to send 100 ZEC - another crypto-currency called Zcash - worth Â£18,600 to a specific address.
+The group said it would send payment confirmation to the email address provided by subscribers and, between 1 and 17 June, would release a link and password to a new dump.
+However, it did not release any details of what the cache would contain.
+"TheShadowBrokers is not deciding yet," the group wrote in characteristically broken English. "Something of value to someone."
+The lack of any hint as to what might be in the future dump was a cause for concern, said Matthew Hickey of cyber-security firm Hacker House.
+"We have seen to-date that they have had powerful tools in their arsenal - we can only assume that they do have more exploits and they want to capitalise," he said.
+He said his firm was considering paying the Â£18,600 in Zcash so that any serious exploits could be analysed and potentially patched before causing a WannaCry-like malware outbreak.
+"I hate the idea of paying money to these clowns," said Mr Hypponen, who also noted that Zcash transactions would be harder to trace than Bitcoin ones.
+"But the previous leak did lead to WannaCry so this is important - the stuff they have is very good [sophisticated]."

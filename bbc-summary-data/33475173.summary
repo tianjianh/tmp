@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150712035738/http://www.bbc.co.uk/news/technology-33475173
+
+[SN]TITLE[SN]
+BT runs trial of IPv6 addressing system
+
+[SN]FIRST-SENTENCE[SN]
+BT has started trials of the next version of the net's addressing scheme known as IP version 6.
+
+[SN]RESTBODY[SN]
+The global addressing system needs to be updated because the older scheme, IPv4, is running out of space.
+The small-scale trial involves BT staff being switched to a network that runs only on IPv6 technology.
+News about the test leaked because the technical changes made to BT's network for the trial accidentally included some customers' connections.
+A small number of customers who use BT's Infinity fibre optic service spotted that they had been given an IPv6 address rather than one for IPv4, reported ISP Review.
+In a statement, BT explained that the address change came about when it tinkered with its network to test IPv6 equipment.
+"For some tests, we have to fully enable very small parts of the network for IPv6 for a limited period of time," it said. "During this window of time, a very small number of customers who are not BT employees may get an IPv6 as well IPv4 address."
+It added: "They are not included in the trial and they should not notice any issues at all with their internet experience."
+BT would not be drawn on when IPv6 would be used for all customers. It said the technical change would be made "in good time".
+The BT test comes soon after Sky started to update the internal software on some customer routers to support IPv6. The small-scale test is being conducted before Sky uses the protocol across its entire domestic broadband network.
+The switch to IPv6 is being made because almost all the 4.3 billion addresses available via IPv4 are used up. Everything connected to the net needs an IP address to ensure data reaches the right place.
+Progress towards switching to IPv6 has been slow because it would cost so much to swap equipment in homes and businesses that can only handle IPv4. Statistics gathered by Google suggest about just over 6% of all net traffic travels using IPv6.
+Adrian Kennard, boss of ISP Andrews & Arnold which has offered v6 services for years, said most ISPs currently mix the two addressing schemes.
+"Each device on the network can use either protocol to connect to the internet," he said. "Devices will typically try to use IPv6 where possible, using IPv4 only if there is no choice."
+ISPs use technology inside their networks to handle translation between the two protocols, he said.
+"This has a number of detrimental effects on the way things work," he added. "It adds unnecessary complexity and restrictions to the way things work and can mean some things break.
+"It is a shame that ISPs have left it so long to deploy IPv6," said Mr Kennard. "Had this been done decades ago then IPv4 would have become unnecessary before addresses had run out and started to cause problems."

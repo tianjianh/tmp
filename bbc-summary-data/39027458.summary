@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170221040425/http://www.bbc.co.uk/news/technology-39027458
+
+[SN]TITLE[SN]
+Warning on used cars failing to forget old owners
+
+[SN]FIRST-SENTENCE[SN]
+Car management apps can stay linked to owners' phones even after the vehicle is sold to someone else, a computer security researcher has warned.
+
+[SN]RESTBODY[SN]
+IBM researcher Charles Henderson said his phone had stayed connected to a car for "years" after he had sold it.
+Mr Henderson called on car makers to do a better job of separating former owners from their vehicles.
+The research comes as Kaspersky Lab reports security problems with seven Android apps for cars.
+In a speech at the RSA Security conference, Mr Henderson said that despite selling a car years ago he still knew where it was because there was no process in place to unhook connected-car apps from former owners.
+"The car is really smart, but it's not smart enough to know who its owner is, so it's not smart enough to know it's been re-sold," Mr Henderson told the CNNTech news site.
+The link with Mr Henderson's phone persisted even though he had purged all personal data from it before taking it to be re-sold, he wrote on a blog about his discovery. He did not specify to which make of car he was still connected.
+Although there were processes in place to make sure all the keys to a car were handed over, manufacturers and car dealers had no way to disconnect car apps, he said.
+Research by IBM suggested many more "smart" devices remained linked to old owners when they were sold on, Mr Henderson said.
+"Don't assume you're the only authorised user of a smart device," he added. "Verify it."
+At the same conference, Kaspersky published research about problems with seven Android apps used to connect to cars.
+Six of the applications tested by Victor Chebyshev and Mikhail Kuzin did not encrypt user names and none had good protections against reverse engineering techniques or hijacking by malware.
+"An evildoer can covertly and quickly perform all of the actions in order to steal a car without breaking or drilling anything," wrote the researchers in a paper describing their work.

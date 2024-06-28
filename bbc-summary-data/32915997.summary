@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151011013938/http://www.bbc.co.uk/news/technology-32915997
+
+[SN]TITLE[SN]
+'Moose' malicious worm targets home routers
+
+[SN]FIRST-SENTENCE[SN]
+A malicious worm that targets poorly protected home routers has been uncovered by security researchers.
+
+[SN]RESTBODY[SN]
+The "moose" malware tries to take over home routers by trying thousands of weak passwords.
+Once it has taken over a device, the worm grabs login details when people visit Twitter, Facebook, Instagram, YouTube and other social sites.
+These credentials are then used to artificially inflate followers and viewer numbers.
+"This threat is all about social network fraud," said researchers Olivier Bilodeau and Thomas Dupuy from security firm Eset in a report detailing their findings.
+The malicious program got its name because the file containing its attack code is called elan - French for moose.
+The malicious worm travels the internet "aggressively" seeking out vulnerable devices. So far, said the pair, some of the routers made by Actiontec, Hik Vision, Netgear, Synology, TP-Link, ZyXEL, and Zhone have been found to be vulnerable to moose.
+In their analysis, the two researchers saw the worm being used to set up bogus accounts on social network sites and then use stolen credentials to add fake "likes" and "follows" to those accounts.
+Instagram, Twitter and Vine were the three sites most widely abused by this bogus liking system, said the researchers.
+The pair said it was hard to gauge the exact numbers of routers that had been compromised because of the steps moose's creators took to prevent detection. In addition, they said, the company hosting the command-and-control system for moose were very uncooperative.
+Despite these problems, the researchers estimate that tens of thousands of routers are potentially vulnerable to moose and many of those devices might already be infected. Moose was first spotted in mid-2014 and has been active ever since, said Mr Bilodeau and Mr Dupuy.
+They added that the weak passwords that moose exploited were used on many different devices not just home routers. They warned that medical equipment and smart home systems might also be susceptible to infection by moose.
+In their analysis, the researchers gave advice about how to spot moose and said people should update default login systems to avoid its attentions.

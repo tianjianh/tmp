@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170614232656/http://www.bbc.co.uk/news/technology-40273830
+
+[SN]TITLE[SN]
+Google AI polices newspaper comments
+
+[SN]FIRST-SENTENCE[SN]
+The New York Times is enabling comments on more of its online articles because of an artificial intelligence tool developed by Google.
+
+[SN]RESTBODY[SN]
+The software, named Perspective, helps identify "toxic" language, allowing the newspaper's human moderators to focus on non-offensive posts more quickly.
+Its algorithms have been trained by feeding them millions of posts previously vetted by the team.
+By contrast, several other news sites have shut their comments sections.
+Popular Science, Motherboard, Reuters, National Public Radio, Bloomberg and The Daily Beast are among those to have stopped allowing the public to post their thoughts on their sites, in part because of the cost and effort required to vet them for obscene and potentially libellous content.
+The BBC restricts comments to a select number of its stories for the same reasons, but as a result many of them end up being complaints about the selection.
+Until this week, the New York Times typically placed comment sections on about 10% of its stories.
+But it is now targeting a 25% figure and hopes to raise that to 80% by the year's end.
+The software works by producing a score out of 100 for how likely it thinks it would be for a human to reject the comment.
+The human moderators can then choose to check those comments with a low score first rather than going through them in the order they were received, helping speed up how long it takes to get views online.
+According to Jigsaw - the Google division responsible for the software - use of phrases such as "anyone who... is a moron", "you are ignorant" and the inclusion of swear words are likely to produce a high mark.
+"Most comments will initially be prioritised based on a 'summary score'," explained the NYT's community editor Bassey Etim.
+"Right now, that means judging comments on three factors: their potential for obscenity, toxicity and likelihood to be rejected.
+"As the Times gains more confidence in this summary score model, we are taking our approach a step further - automating the moderation of comments that are overwhelmingly likely to be approved."
+However, one expert had mixed feelings about the move.
+"The idea strikes me as sensible, but likely to restrict forthright debates," City University London's Prof Roy Greenslade told the BBC.
+"I imagine the New York Times thinks this to be an acceptable form of self-censorship, a price worth paying in order to ensure that hate speech and defamatory remarks are excluded from comments.
+"There is also a commercial aspect too. Human moderation costs money. Algorithms are cheaper, but you still need humans to construct them, of course."
+Jigsaw says the UK's Guardian and Economist are also experimenting with its tech, while Wikipedia is trying to adapt it to tackle personal attacks against its volunteer editors.
+However, it faces a challenge from a rival scheme called the Coral Project, which released an AI-based tool in April to flag examples of hate speech and harassment in online discussions.
+The Washington Post and the Mozilla Foundation - the organisation behind the Firefox browser - are both involved in Coral.
+For its part, the BBC is keeping an open mind about deploying such tools.
+'We have systems in place to help moderate comments on BBC articles and we're always interested in ways to improve this," said a spokesman.
+"This could include AI or machine learning in the future, but we have no current plans."

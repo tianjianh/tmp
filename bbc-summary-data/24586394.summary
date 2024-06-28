@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170606234454/http://www.bbc.com/news/technology-24586394
+
+[SN]TITLE[SN]
+Ship trackers 'vulnerable to hacking', experts warn
+
+[SN]FIRST-SENTENCE[SN]
+A system used globally to track marine activity is highly vulnerable to hacking, security experts have warned.
+
+[SN]RESTBODY[SN]
+Weaknesses in outdated systems could allow attackers to make ships disappear from tracking systems - or even make it look like a large fleet was incoming.
+Researchers at Trend Micro said their findings showed the danger of using legacy systems designed when security was not an issue.
+But one vessel-tracking specialist said spoof attempts could be easily spotted.
+Lloyd's List Intelligence's Ian Trowbridge said that in addition to the vulnerable technology - known as the Automatic Identification System (AIS) - other measures could be used to identify marine activity.
+"The spoofing would immediately be identified by [Lloyd's List Intelligence] as a warp vessel," he said, "providing unexplained position reports outside of the vessel's speed/distance capability and thus subject to further investigation and validation."
+The AIS system is used to track the whereabouts of ships travelling across the world's oceans.
+For ships over a certain size, having AIS fitted is mandatory under international maritime law.
+Small leisure boats and fishing vessels - for which it is optional - can purchase a transponder for as low as Â£600, making AIS significantly cheaper than alternative location systems.
+It is designed to transmit data about a ship's position, as well as other relevant information, so that movements can be seen by other boats as well as relevant authorities on shore.
+One other use is to alert nearby ships when a man or woman is overboard - an alert that can easily be spoofed, says Trend Micro's Rik Ferguson.
+"It boils down to the fact that the protocol was never designed with security in mind," he told the BBC.
+"There's no validity checking of what's being put up there."
+Using equipment bought for 700 euros (Â£600), the researchers were able to intercept signals and make vessels appear on the tracking system, even though they did not exist.
+In one example, the team was able to make it look as if a ship's route had spelled out the word "pwned" - hacker slang for "owned".
+The information broadcast by AIS is public - but when the system was first put in use, in the early 1990s, the technology required to receive the information was prohibitively expensive for those not directly involved in the industry.
+But now, a typical internet connection can be used to see the locations of boats, as well as an indicator of what type of cargo they may be carrying.
+There has been speculation that Somali pirates have been making use of the system.
+"It has long been thought that the pirates are basically using AIS as a shopping list," Mr Ferguson said, "seeing what's coming into local waters, and what cargo it may have."
+However, Lloyd's List Intelligence noted that captains are permitted to disable AIS if they feel their crew could be endangered by it.
+Follow Dave Lee on Twitter @DaveLeeBBC

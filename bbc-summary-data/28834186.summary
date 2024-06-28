@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170202111634/http://www.bbc.co.uk:80/news/science-environment-28834186
+
+[SN]TITLE[SN]
+Camouflage sheet inspired by octopus
+
+[SN]FIRST-SENTENCE[SN]
+Based on the camouflage abilities of octopuses and cuttlefish, engineers in the US have built a flexible material that changes colour to match its surroundings.
+
+[SN]RESTBODY[SN]
+The new design features a grid of 1mm cells, containing a temperature-driven dye that switches colour on demand.
+So far it only responds in black-and-white, but the team hopes that the principles of their design will have commercial and military applications.
+The work appears in the journal PNAS.
+Senior author Prof John Rogers, from the University of Illinois, said the new sheet was the fruit of a collaboration between experts in biology, materials, computing and electrical engineering.
+"Animals in the natural world - particularly cephalopods: octopus, squid and cuttlefish - have really spectacular colour-changing capabilities," he told BBC News.
+Prof Rogers' team set out to see what could be learned from such natural examples, and build a new material based on those insights.
+In particular, they copied the three-layer design seen in the skin of these animals: the top layer contains the colours, the middle layer drives the colour changes, and the lower layer senses the background patterns to be copied.
+Each component in the new sheets, however, does its job quite differently from the three layers that do the same job in an octopus's skin.
+The bottom layer in the engineered system contains a grid of photosensors, which detect changes in light and transmit that pattern to "actuators" in the layer above.
+These actuators take the place of muscles within octopus skin, which control colour-changing organs in the surface layer.
+The uppermost layer in the artificial version uses a temperature-sensitive pigment, which goes from black to transparent at precisely 47C. That temperature change has to be produced by a current from the actuators underneath.
+This is both a much less efficient system, and a much more limited colour repertoire, than what shimmers across the eight-legged canvasses of the sea.
+Nonetheless, Prof Rogers' team is justifiably proud of its achievement.
+"This is the first full, working system of its kind - it looks like a thin sheet of paper," he told BBC News.
+"But it's nothing close to being ready to deploy, in a military setting or anything else. It's really a beginning point, to focus on the engineering science around how you might create systems that have this type of function."
+In particular, the system needs to improve its spatial and colour resolution, and its efficiency - possibly by incorporating solar cells instead of using external power.
+This could all be done by adapting existing technology, Prof Rogers said, such as that seen in flat-screen displays.
+Prof Anne Neville, a UK expert in biologically inspired technologies, said the work was of a "very high standard" and was impressed by the number of different disciplines involved.
+"It's very innovative and very interesting," said Prof Neville, who is the Royal Academy of Engineering Chair in Emerging Technologies at the University of Leeds.
+The applications go beyond the obvious associations of camouflage, where Prof Rogers said there is "obvious potential" - potential which led to the work being funded by the US Navy.
+"What I've been intrigued by is a number of folks who have approached us for completely other classes of application, that I wouldn't initially have guessed at."
+One of these was an art professor in Chicago, who is interested in colour-changing fabrics for high-end fashion, which could respond to ambient lighting. "In that case you probably don't want camouflage necessarily," Prof Rogers said. "Maybe you want your clothing configured so that you stand out from the crowd."
+Such "anti-camouflage" would draw more inspiration from the deep sea creatures that use their skin to attract, rather than avoid, attention - like cuttlefish that mesmerise their prey with rippling stripes.
+Prof Rogers has also had conversations with his own university's school of architecture, about the possibility of dynamic, colour-changing walls and other interior surfaces.
+These grand designs remain some way off, however, and Prof Rogers emphasised that they are not his priority.
+"Our goal as researchers is not to develop a colour-changing wallpaper. That's a vision that somebody had, for an application - and indeed, it's kind of cool. But our emphasis is more on the basics, around biologically inspired engineering."
+Follow Jonathan on Twitter

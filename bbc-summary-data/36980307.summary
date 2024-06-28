@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160806190717/http://www.bbc.co.uk/news/technology-36980307
+
+[SN]TITLE[SN]
+'Mayhem' program wins grand hacking challenge
+
+[SN]FIRST-SENTENCE[SN]
+A program named Mayhem has provisionally won a competition in Las Vegas to find software that does the best job of automatically defending against cyber attacks.
+
+[SN]RESTBODY[SN]
+Set up by the US Darpa research agency the competition hopes to spur interest in autonomous security systems.
+Mayhem's creators will get $2m (Â£1.52m) to continue their work and make their creation more effective.
+Results will be confirmed on Friday at 10:00 local time (17:00 GMT).
+Dubbed the Cyber Grand Challenge, the event was held at the Def Con hacker conference.
+"I'm blown away by what just happened," said Mike Walker, the Darpa scientist who set up and oversaw the event. "We've had an all-computer hacking tournament."
+Mr Walker said the event was intended to uncover techniques that can find and fix bugs in code far faster than humans can. It can take months or years for humans to notice some bugs, leaving them to be exploited by cyber thieves while patches are sought, he added.
+The world's growing dependence on computer systems demanded the creation of some kind of smart, autonomous security system, he said.
+Preliminary events held over the last three years whittled the entrants down to the seven that took part in the Vegas event. The teams in the final were drawn from universities, software engineering firms and security start-ups.
+Alex Rebert, head of Team Forallsecure that created Mayhem said the cash prize would be put towards further development of the program and keeping the small firm behind it going as it grows.
+The second prize of $1m went to the team behind a program called Xandra which was drawn from security experts from the University of Virginia and European firm GrammaTech. The third prize of $750,000 went to the Mech Phish team from the University of California.
+Thousands of Def Con attendees gathered in a ballroom in the Paris casino to watch the competition unfold. The Cyber Grand Challenge is modelled on the Capture The Flag hacker tournaments run at many conventions where security experts gather.
+These CTF competitions see small teams analyse code to find bugs they then patch to protect their own virtual territory while exploiting the same bugs to attack others taking part.
+The winning team is the one that does the best job of finding and fixing bugs while using them to hamper the efforts of others.
+In total, the Cyber Challenge ran for eight hours over 95 separate rounds with humans allowed to watch the closing hours of the digital battle. Mayhem took an early lead in the tournament and, despite a late crash which meant it logged some no-scoring rounds, held on until the end.
+Some of the rounds were based on well-known software bugs such as Heartbleed, SQL Slammer and Crackaddr, that caused widespread disruption when they first appeared.  These were added to see if the smart software could do a better job than humans did at finding fixes for these vulnerabilities when they first appeared.
+The intense combat among the programs was displayed on giant screens set above a stage on which sat seven water-cooled supercomputers running the software.
+The winning team also gets the chance to enter its system into the real Def Con CTF competition to see how it performs against the best human players of the offensive coding game.
+Other grand challenges set up by Darpa accelerated research into autonomous vehicles and prompted pioneering work on robots that can help in disaster zones.

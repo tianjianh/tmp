@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161116013628/http://www.bbc.com/news/world-us-canada-37990793
+
+[SN]TITLE[SN]
+Tracking 'moose' malware behind fake social media 'likes'
+
+[SN]FIRST-SENTENCE[SN]
+Malicious software lurking in unprotected wi-fi routers is feeding the illicit online market for fake social media "likes".
+
+[SN]RESTBODY[SN]
+The "stealthy" Linux/moose botnet has one goal: infecting connected devices with malware in order to create and sell social media credibility.
+Researchers have been tracking the botnet since 2015.
+Now they have new research into what they call the "ego market" for fake online fame the botnet is feeding.
+Canadian researchers Masarah-Cynthia Paquet-Clouston, a criminologist with the University of Montreal, and Olivier Bilodeau, with cybersecurity consultancy firm  GoSecure, are behind the award-winning research into the lucrative world of buying and selling "followers" and "likes" on social media networks.
+Ms Paquet-Clouston said it is a global marketplace, with buyers from "Brazil, Kuwait, China, everywhere. It seems to be worldwide."
+So who is seeking out all this fake online credibility and profile?
+Accounts of aspiring celebrities and models, small businesses, and online retailers are those typically buying batches of "likes" openly advertised for sale online.
+Average people are also paying to inflate their social media presence.
+"There are a lot, a lot, a lot of just common people looking for fame," she said.
+Because so many of the accounts that bought the fake likes were "highly self-centered," they dubbed it the "ego market".
+Ms Paquet-Clouston also said the fraud scheme being run by the Linux/moose botnet creators is an almost perfect crime, with no direct victims and a lot of potential profitability.
+The average price for 1,000 Instragram follows is $15.98 (Â£12.80), although the researchers note there is a huge pricing range.
+Creating fake social media accounts that then like and follow other accounts is not illegal but it goes against the terms of service of social media networks like Instagram. The purchase of Facebook and Instagram likes and Twitter followers is openly advertised online.
+"What's illegal and criminal is doing it through a botnet, through infected devices," Ms Paquet-Clouston said.
+The botnet can take advantage of all kinds of connected devices like routers, even "smart" appliances like fridges, toasters, and coffeemakers because, unlike most home computers, they lack antivirus and security software.
+The malicious program got its name because the file containing its attack code is called elan - French for moose.
+Ms Paquet-Clouston and Mr Bilodeau hope that their research will spur law enforcement and hosting providers to do more to target this criminal scheme.
+"If we don't raise people's awareness on social media fraud, there's a demand and there's a supply and it's likely to continue," said Ms Paquet-Clouston.
+They next part of their research is looking for online actors behind the botnet.

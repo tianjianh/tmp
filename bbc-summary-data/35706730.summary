@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170325111754/http://www.bbc.co.uk/news/technology-35706730
+
+[SN]TITLE[SN]
+'Thousands of popular sites' at risk of Drown hack attacks
+
+[SN]FIRST-SENTENCE[SN]
+Websites have been warned they could be exposed to eavesdroppers, after researchers discovered a new way to disable their encryption protections.
+
+[SN]RESTBODY[SN]
+The experts said about a third of all computer servers using the HTTPS protocol - often represented by a padlock in web browsers - were vulnerable to so-called Drown attacks.
+They warn that passwords, credit card numbers, emails and sensitive documents could all be stolen as a consequence.
+A fix has been issued.
+But it will take some time for many of the website administrators to protect their systems.
+The researchers have released a tool that identifies websites that appear to be vulnerable.
+They said they had not released the code used to prove their theory because "there are still too many servers vulnerable to the attack".
+As yet, there is no evidence hackers have worked out how to replicate their technique.
+An independent expert said he had no doubt the problem was real.
+"What is shocking about this is that they have found a way to use a very old fault that we have known about since 1998," said Prof Alan Woodward, from the University of Surrey.
+"And all this was perfectly avoidable.
+"It is a result of us having used deliberately weakened encryption, which people broke years ago, and it is now coming back to haunt us."
+The researchers, cybersecurity experts from universities in Israel, Germany and the US as well as a member of Google's security team, found a computer server could be vulnerable to attack just by supporting 1990s-era encryption protocol SSLv2 (Secure Sockets Layer version 2), even if in day-to-day use it employed more modern encryption standards to scramble communications.
+In practice, older email servers would be more likely to have this problem than the newer computers typically used to power websites.
+But many organisations reuse encryption certificates and keys between the two sets of servers.
+The researchers dubbed the flaw Drown - an acronym for decrypting the Rivest-Shamir-Adleman (RSA) algorithm with obsolete and weakened encryption.
+"Operators of vulnerable servers need to take action," they wrote.
+"There is nothing practical that browsers or end-users can do on their own to protect against this attack."
+The SSLv2 protocol was deliberately weakened because, at the time of its creation, the US government wanted to try to restrict the availability of tough encryption standards to other countries.
+It has since eased its export limits, but the effects live on.
+"The problem is that while clients - such as [web] browsers - have done away with SSLv2, many servers still support the protocol," blogged Prof Matthew Green, from Johns Hopkins University.
+"In most cases this is the result of careless server configuration.
+"In others, the blame lies with crummy and obsolete embedded devices that haven't seen a software update in years - and probably never will. "
+To mount a successful attack on a website would still require a considerable amount of computational force.
+But, the researchers said, under normal circumstance, hackers could rent the required capacity from Amazon's cloud compute division for as little as $440 (Â£314).
+In addition, because many of the servers vulnerable to Drown were also affected by a separate bug, a successful attack could be carried out using a home computer.
+"This form of the attack is fast enough to allow an online man-in-the-middle style of attack, where the attacker can impersonate a vulnerable server to the victim," the researchers wrote.
+"We were able to execute this form of the attack in under a minute on a single PC."
+The researchers said many popular sites - including ones belonging to Samsung, Yahoo and a leading Indian bank - appeared to be vulnerable.
+Prof Woodward said the team's test had also indicated a problem with bbc.co.uk.
+"The weakness is actually in the old Pop3 server," he said.
+"Few people still use Pop3, but it means that things like your password reset server could theoretically be eavesdropped upon."
+Read more from our Cybersecurity Alert special index

@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170414001916/http://www.bbc.co.uk/news/technology-39580507
+
+[SN]TITLE[SN]
+Aga app 'could let hackers turn off oven'
+
+[SN]FIRST-SENTENCE[SN]
+An app that lets Aga cooker owners remotely control their ovens could be hijacked by hackers, a cybersecurity researcher has claimed.
+
+[SN]RESTBODY[SN]
+Ken Munro of Pen Test Partners was thinking of upgrading his Aga when he found vulnerabilities in the apps used to control the newest models.
+It means ovens could be turned on or off, though not in a way that makes the cookers dangerous.
+Aga has said it has contacted the third party that provided the system.
+"If you were maliciously motivated, it wouldn't be very difficult to switch off people's Aga's remotely," Mr Munro told the BBC.
+His investigation concerned the "iTotal Control" (TC) system, which Aga has marketed since 2012.
+Among the security issues he says he found is the fact that SMS messages - which are used by the system to turn the oven on or off - are not authenticated by the cooker.
+Nor is the Sim card set up to send the messages validated on registration.
+Mr Munro also criticised the fact that user registration for the service allows passwords as short as five characters - security experts usually recommend using as many characters as possible, with a minimum of eight.
+Email addresses are sent in plain text via the system, too, he explained - meaning personal data could be vulnerable to snoopers.
+He also said that attempts to contact Aga about the problems, including a tweet and emails on 3 April, fell on deaf ears.
+When he did get through to someone and advised them to take the Total Control website down, he got a disappointing response.
+"I asked to speak to relevant departments, they couldn't put me through," he said.
+"Aga Rangemaster operates its Aga TC phone app via a third party service provider," Aga said in a statement.
+"Security and account registration also involves our [machine to machine] provider.
+"We take such issues seriously and have raised them immediately with our service providers so that we can answer in detail the points raised."
+However, the firm did not comment on Mr Munro's claims that it ignored his disclosure of the problems.
+"It's kind of unacceptable that some random person could just take control of your Aga," said Professor Alan Woodward, a cybersecurity expert at the University of Surrey.
+"Will hackers try it? Who knows, but it just shouldn't be possible."
+He added that he was surprised there seemed to be a flat response from the firm when Mr Munro tried to raise the issues.
+"If somebody calls up, 'I found a problem with your system,' they should look at it," Prof Woodward told the BBC.

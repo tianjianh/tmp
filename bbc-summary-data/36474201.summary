@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170726152747/http://www.bbc.co.uk/news/technology-36474201
+
+[SN]TITLE[SN]
+Hack attack victims must become hunters, say experts
+
+[SN]FIRST-SENTENCE[SN]
+Many companies have the wrong strategy in place to tackle data breaches, according to research released to coincide with Europe's largest cybersecurity event.
+
+[SN]RESTBODY[SN]
+Too often firms just react to what software flags on their network instead of actively hunting out intruders, says the security firm Mandiant.
+It says hackers get control of about 40 machines in the average breach.
+But, it adds, often only a handful of servers are typically cleaned up.
+The result, it says, is that attackers can linger on internal networks for months, giving them the opportunity to steal more information.
+"Most companies have a very old-fashioned way of investigating a breach," said Bill Hau, an executive at Mandiant.
+He delivered his warning on the first day of Infosecurity Europe, an industry exhibition and conference in London.
+It is a booming time for the sector.
+Spending on cybersecurity totalled $77bn (Â£53bn) last year, and is forecast to grow to $170bn by 2020.
+Mandiant and other incident response firms often get called in when techniques based around traditional security tools have failed to find and remove all the loopholes through which hackers have slipped.
+"That old-style technology makes them think they have remediated a breach but they might never have kicked the bad guys out in the first place," Mr Hau told the BBC.
+Often, he said, attackers can "dwell" in networks for months during which time they seek to get high level administration access so they can erase evidence of their presence and thwart investigations.
+"Companies do not understand that they have to move to a different methodology to get these guys out," he said.
+"They need to go and look for trouble and they will find it," he said. "They have to hunt them out in their own networks."
+Patrick Grillo, a senior director at security firm Fortinet, agreed that many firms spent too much time securing the edges of their networks at the expense of looking more closely at what happens internally.
+"The traditional network has been built with a very strong perimeter," he said. "but if the malware gets beyond that its wide open. The network is soft and chewy on the inside.
+"What the bad guys want to do is get in undetected and then be able to move laterally through the network until they reach their goal."
+Most intruders seek out saleable data such as credit card numbers or personal information about customers, he said.
+He urged firms to run their own drills and exercises to help their own security experts familiarise themselves with a company's network and to root out any intruders.

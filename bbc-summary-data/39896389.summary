@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515225234/http://www.bbc.co.uk/news/technology-39896389
+
+[SN]TITLE[SN]
+Virtual memorial for WW2 code-cracker
+
+[SN]FIRST-SENTENCE[SN]
+A machine used to encrypt the messages Hitler sent to his generals has been recreated online as a tribute to the British codebreaker who cracked it.
+
+[SN]RESTBODY[SN]
+A virtual version of the Lorenz SZ42 machine has been made available so people can see how it worked.
+It has been created 100 years after the birth of Bill Tutte - the Bletchley code-cracker who tackled the original.
+Mr Tutte worked out how the SZ42 scrambled messages despite never seeing the device in action.
+The SZ42 was key to the German war effort and was used by Nazi high command to scramble messages passing between the generals in the field and Hitler.
+It was considered unbreakable by the Germans because of the complicated way it scrambled text. It used 12 separate wheels and a series of switches to turn text into gibberish - a set-up that produced more than 16 billion billion potential combinations.
+A mistake by a German enciphering clerk, made when sending a long message, gave the Allies a key insight into how it worked. Mathematical analysis by Mr Tutte on the message revealed the SZ42's internal workings.
+"Creating this made me realise what Bill Tutte was up against," professional programmer Martin Gillow told the BBC.
+"All Bletchley Park got was a string of random characters," he said. "It's just such an impossible thing that he did, working it out from almost nothing."
+More information was available to Mr Gillow but, he said, it was still a tricky programming job to authentically emulate the machine.
+"There are only four Lorenz SZ42 machines available in the world and they are not running," he said. "There are no full diagrams of how it works, you have to read through the manuals and read between the lines to work it out.
+"It's been a lot of hard work and I've had a lot of fun doing it," he added.
+The system is as authentic as possible, he said, and lets anyone encrypt their own text with the virtual enciphering machine. Those on the site can also connect to other people using the virtual SZ42 and talk to them via an encrypted channel.
+Mr Gillow spent months creating the virtual SZ42 so it was ready for a weekend of events commemorating the life of Mr Tutte organised by The National Museum of Computing at Bletchley Park.
+"I would love for people to know about Bill Tutte just as well as they know of Alan Turing," said Mr Gillow.

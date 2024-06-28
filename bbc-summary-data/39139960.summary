@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170321071352/http://www.bbc.com/news/technology-39139960
+
+[SN]TITLE[SN]
+Google's troll-hunting AI fooled by typos
+
+[SN]FIRST-SENTENCE[SN]
+A prototype AI that spots online trolling can be tricked with a few typos, researchers have shown.
+
+[SN]RESTBODY[SN]
+The system, from Google spin-off company Jigsaw, fails to detect words like "idiot" and "stupid" as toxic language when misspelled as "idiiot" or "st.upid", for example.
+Jigsaw said its tool, called Perspective, was still in development.
+One computer scientist said such systems would always have to adapt to the changing tactics of trolls.
+Jigsaw's tool is being developed to help automate the detection of abuse and harassment online.
+"Perspective scores comments based on the perceived impact a comment might have on a conversation," the Jigsaw website says.
+But researchers from the University of Washington, whose paper has not yet been peer-reviewed, found the system was far from infallible.
+While the AI graded certain phrases as toxic, almost identical ones could sneak by with just a few creative typos:
+There were false positive examples as well - in which innocuous phrases (such as "It's not stupid and wrong") were erroneously graded as toxic.
+The findings were welcomed by Jigsaw.
+"It's great to see research like this," product manager CJ Adams told technology news site Ars Technica.
+"We welcome academic researchers to join our research efforts on Github and explore how we can collaborate together to identify shortcomings of existing models and find ways to improve them."
+Accounting for "adversarial examples" - deliberate attempts to fool a system - was a key part of developing such technology, said computer scientist Dr Pete Burnap, at Cardiff University.
+"These things are typical problems in natural language processing," he told the BBC.
+"Jigsaw will probably look at this and start incorporating adversarial examples into their training set."
+He said he was pleased to see companies such as Google working on technology that might one day help curb trolling online.
+"It's really great actually to see companies like this come forward and say, 'Here's a toxic comment,'" Dr Burnap said.
+"[Such comments] can harm people and communities."

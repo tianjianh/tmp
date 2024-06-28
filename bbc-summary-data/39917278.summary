@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515052717/http://www.bbc.co.uk/news/technology-39917278
+
+[SN]TITLE[SN]
+Ransomware and the NHS - the inquest begins
+
+[SN]FIRST-SENTENCE[SN]
+We now know that Friday's ransomware attack was a global cybercrime, hitting organisations ranging from the Russian Interior Ministry to the delivery firm Fedex.
+
+[SN]RESTBODY[SN]
+But the most serious impact was here in the UK on the National Health Service. So what made our hospitals so vulnerable?
+There are plenty of theories - among them that far too many computers in hospitals were running Windows XP.
+Microsoft stopped supporting this now quite ancient operating system back in 2014, leaving it vulnerable to attacks (although the company took the unusual step over the weekend of rushing out a patch to deal with the Wannacry threat).
+The government warned NHS trusts in 2014 that they needed to move away from XP as rapidly as possible.
+A letter from the Cabinet Office told them there would be some temporary help with security for old equipment until April 2015, but after that they were on their own.
+"It is therefore essential that all NHS organisations put in place robust plans to migrate away from Windows XP, Office 2003 and Exchange 2003 by that date if you have not already done so," the letter said.
+But did they? At the end of last year the software firm Citrix said that a Freedom of Information request had revealed that 90% of hospitals still had machines running on Windows XP.
+Now, while that is extremely worrying, it paints an exaggerated picture. IT professionals in the health service tell me that while many hospitals may have a few computers - or perhaps some key medical equipment - dependent on XP those devices would not usually be connected to the internet.
+They believe that the more likely explanation dates back to March this year when Microsoft issued a security update for its more recent versions of Windows. It was designed to deal with a vulnerability in something called Server Message Block, which is a protocol for sharing files across a network.
+We now know that Friday's attack made use of this vulnerability, so hospitals which did not apply that patch were leaving themselves open to attack.
+So why would they have failed to act? Well, many organisations take time to apply updates, wanting to be sure that there are no compatibility problems with other software applications.
+Hospitals often have a wide and somewhat chaotic collection of software, some of which will be very old but still seen as vital by those who use it.
+But Dr Joe McDonald, who runs what he describes as a network of geeky doctors and nurses, identifies some other issues.
+He explains that since the collapse of the disastrous NHS National Programme for IT there is no longer a centralised approach to things like updates - each trust goes its own way.
+He says his area is systematic about keeping systems up to date - but for others, cost is a big issue. "There is a real squeeze on spending - and IT security isn't seen as sexy compared to things like incubators and kidney machines," he says.
+The fact that so many Windows XP computers are still allowed in hospitals is a reflection of the low priority given to spending on robust IT.
+What we now need to understand is what those NHS organisations which were affected by the ransomware have in common, and how they differ from those which escaped unscathed.
+This attack does not appear to have been targeted at hospitals. In fact, security expert Professor Alan Woodward says it may have been an experiment by some relatively inexperienced hackers that took off in a way they didn't expect.
+But the NHS will now need to think long and hard about whether it can afford to make cybersecurity such a low priority.

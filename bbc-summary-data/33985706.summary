@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170213102733/http://www.bbc.co.uk:80/news/technology-33985706
+
+[SN]TITLE[SN]
+Mumsnet's co-founder suffers 'swatting attack'
+
+[SN]FIRST-SENTENCE[SN]
+Mumsnet has reset its users' passwords after a series of attacks, one of which involved armed police being called out to the London home of the parenting site's co-founder.
+
+[SN]RESTBODY[SN]
+Justine Roberts said she suffered a "swatting attack" last week - a type of harassment in which a perpetrator calls the emergency services out to their victim on a false pretence.
+She added that another member of the site had been similarly targeted.
+Some accounts have been hijacked.
+Ms Roberts also disclosed that someone had managed to hack into the site's administrative functions.
+Additionally, she revealed that there had been an attempt to force Mumsnet offline by swamping it with internet traffic, in what is known as a distributed denial of service (DDoS) attack.
+A Twitter account linked to the incident, called DadSecurity, has been suspended.
+A spokeswoman for Mumsnet said it currently had 7.7 million members.
+Ms Roberts - who is married to Newsnight editor Ian Katz - said the incident involving her home happened on Tuesday of last week.
+"I wasn't actually there - I was on holiday," she told the BBC.
+"The first thing I knew was when our au pair contacted us the next morning to tell us that at 03:30 she'd been woken up and disturbed by a Swat team of five armed police and three unarmed police and a police dog.
+"They'd received a report of a man prowling round the house with a gun."
+She said that she was aware such incidents had become more common in the US, but she believed they remained relatively rare in the UK.
+"At first I think the police were slightly nonplussed and said they were not sure, because there were no actual real victims, that it was a pursuable crime.
+"But I think in the States it's treated incredibly seriously because, of course, if you get copycat things like this it can be incredibly disruptive, not to mention the cost to the security forces."
+A spokesman for the Metropolitan Police provided further details.
+"Police were called at approximately 00:15 on Tuesday 11 August to a residential address... following a report that a man had murdered a woman at the address," he said.
+"This was followed by a second call during which the caller stated he had members of his family held in a room. This call was assessed as requiring a firearms response.
+"Local officers and firearms officers attended the address and carried out an assessment. Two people resident at the address were spoken to. The incident was treated as a hoax and the police response explained to those at the address.
+"No suspects have been identified at this time, however enquiries continue."
+Ms Roberts said that the second case occurred after a Mumsnet user had engaged the DadSecurity Twitter account and received back a message saying "prepare to be swatted" alongside a picture of a Swat team.
+When the police arrived, she added, they initially handcuffed the husband.
+"The [hoax] report had said they had heard gunshots and identified a man as shooting in the house," Ms Roberts said.
+"It's incredibly disturbing and not surprising that that user and her family were very upset."
+DadSecurity's tweets are now offline, but the BBC can confirm it repeatedly posted "RIP Mumsnet" and claimed to have stolen data from the site before being blocked.
+Ms Roberts also provided details of other attacks including:
+Ms Roberts added that there was evidence that at least 11 accounts had been hacked, but warned that many more could be affected.
+"It's a reasonable assumption, and our working one, that the passwords of everybody that has logged since 6 August 2015, and possibly some time before that, have been collected," she wrote in a follow-up post.
+Mumsnet has yet to determine how the hacks were carried out, but one theory is that a "cross site scripting" (XSS) attack was involved, in which code would have been added to Mumsnet's site to redirect the login process to computers controlled by the attacker.
+That way the hacker would have been able to harvest the passwords of people as they typed them in.
+Ms Roberts said Mumsnet itself stored users' passwords in a "high strength" encrypted form, so doubted its own database had been cracked.
+As a precautionary measure, all the site's users will have to create new passwords to access their accounts.
+In addition, members are being asked to check that the page they log in on uses a specific address - https://www.mumsnet.com/session/login.
+"It's challenging to build a website that can stand up to a determined attacker, while still being cost-effective to run and easy to use," commented security expert Dr Steven Murdoch from University College London.
+"These types of incident will keep on happening, so this is a good reminder to not use the same password on multiple websites and be cautious about what information you give out online."

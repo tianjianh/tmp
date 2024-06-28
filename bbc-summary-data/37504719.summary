@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170223215638/http://www.bbc.com:80/news/technology-37504719
+
+[SN]TITLE[SN]
+Army of webcams used in net attacks
+
+[SN]FIRST-SENTENCE[SN]
+One of the  biggest ever web attacks - in which more than one terabit of data was fired at a website to knock it offline - has been reported.
+
+[SN]RESTBODY[SN]
+Web hosting company OVH said it had been attacked by a botnet (zombie army) of hacked devices such as webcams.
+The previous largest attack was thought to be one on security expert Brian Krebs' website which hit 620Gbps (gigabits per second).
+That was also thought to be mounted via a botnet of compromised smart devices.
+It is not known whether the attacks were mounted by the same botnet.
+Both were so-called distributed denial of service attacks - in which websites are hit by massive amounts of data.
+They have thrown the spotlight once again on the security of IoT (internet of things) devices.
+According to a recent report on IoT malware from security firm Symantec, cybercriminals are increasingly looking for vulnerable smart devices - such as TVs, home security systems and webcams.
+"Cybercriminals are interested in cheap bandwidth to enable bigger attacks. They obtain this by hijacking our devices and stitching together a large web of consumer devices that are easy to infect because they lack sophisticated security," said Nick Shaw from Symantec's Norton division.
+OVH founder Octave Klaba has been tweeting about the ongoing attack, updating followers on the number of devices that are joining the botnet, which at one point including more than 145,000 devices : "+15,654 new CCTV participated in the DDoS last 48H," his last tweet reads.
+Mr Krebs' website was offline for nearly a week and, according to Akamai - the security firm that supported the site -  the attack was nearly double the size of any previous one it had seen and was "among the biggest assaults the internet has ever witnessed".
+Dave Larson, chief technology officer at security firm Corero, said that IoT botnets were disrupting the industry.
+"The tools and devices used to execute the attacks are readily available to just about anyone; combining this with almost complete anonymity creates a recipe to break the internet."

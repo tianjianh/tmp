@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170526005817/http://www.bbc.com/news/technology-40044251
+
+[SN]TITLE[SN]
+Russian postal service 'hit by WannaCry'
+
+[SN]FIRST-SENTENCE[SN]
+Three employees of the Russian postal service claim that it was hit by this month's Wannacry global ransomware attack and is still experiencing problems, according to Reuters.
+
+[SN]RESTBODY[SN]
+The trio claim some of the computers at the state-owned Russian Post are still down, but the service says none of them was infected by the worm.
+It just says that some terminals were switched off as a precaution.
+The Interior Ministry and state railway were affected by the cyber-attack.
+A worker at a branch in Moscow told Reuters: "The head guys rang... and said we had to turn off the terminals immediately. They said this extortion virus had infected them.
+"They rang again and said we could turn them back on. We did that but you can see they still don't work."
+Initially it was thought that the systems most affected by WannaCry were those running Windows XP - which Microsoft stopped supporting in 2014 - although some security experts now think it was the newer Windows 7 system that was hit hardest.
+The worm started spreading in mid-May and has so far infected 300,000 computers around the world - 20% of which are believed to have been in Russia.
+The malware quickly spread across 150 countries, taking over files before demanding $300 (Â£230) to restore them. It is not thought that many ransoms were paid with the majority of users restoring systems via back-ups.
+Russia President Vladimir Putin rushed to deny his country had any part to play in the attack.
+Investigators suggest that the criminal authors of the attack are likely to have used a hacking tool built by the US National Security Agency and leaked online in April.
+Some experts now point the finger at a hacking group known as Lazarus, which the FBI has previously linked with the North Korean regime.
+Others think it could have been put together by far less experienced hackers.
+Prof Alan Woodward, a computer scientist from Surrey University, wrote in his blog: "It may have been some group of script kiddies who tried to cobble together the WannaCry payload with the Eternalblue worm and ended up with something far more virulent than they ever imagined."

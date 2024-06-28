@@ -1,0 +1,18 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170306120335/http://www.bbc.co.uk/news/technology-39151932
+
+[SN]TITLE[SN]
+Amazon typo knocked websites offline
+
+[SN]FIRST-SENTENCE[SN]
+Amazon has said that a simple typo was the cause of several high-profile websites and services being knocked offline earlier in the week.
+
+[SN]RESTBODY[SN]
+Hours of problems struck services like Q&A forum Quora, and Giphy, an image hosting service.
+The sites rely on hosting provided by Amazon Web Services (AWS) - a cloud computing provider.
+A typo made during a routine debugging of the AWS billing system caused the failure.
+"Unfortunately, one of the inputs to the command was entered incorrectly and a larger set of servers was removed than intended," Amazon said in an online statement.
+The error required a full restart that "took longer than expected".
+Around 150,000 websites and services rely on AWS.
+Among those affected by the failure was - somewhat ironically - Down Detector, a service that tracks downtime at major websites.
+Amazon, which is the world's largest provider of cloud services, says it is now making changes to help prevent a similar incident occurring in the future.

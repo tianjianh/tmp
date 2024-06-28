@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170125153406/http://www.bbc.co.uk:80/news/technology-38365564
+
+[SN]TITLE[SN]
+Turkey blocks access to Tor anonymising network
+
+[SN]FIRST-SENTENCE[SN]
+Turkey has blocked direct access to the Tor anonymous browsing network as part of a wider crackdown on the ways people circumvent internet censorship.
+
+[SN]RESTBODY[SN]
+The crackdown began last month when Turkish ISPs were told to cut off the virtual private networks people use to hide where they go.
+Many people are changing the way they connect to Tor to avoid the block.
+Activists said the block moved Turkey's net censorship policies from "moderate" to "severe".
+Tor, also known as The Onion Router, aims to conceal where people go online by using encryption and randomly bouncing requests for webpages through a network of different computers.
+The system has become popular in many nations, such as China and Turkey, where governments are known to watch what people do and say online.
+Now Turkey Blocks, which monitors internet censorship in the nation, said its regular monitoring of Tor showed that it was being widely blocked across the country.
+The organisation started to investigate after many people in Turkey reported having problems reaching the Tor network.
+It added that the Turkish government had put in place sophisticated systems at ISPs to spot when people were trying to connect to Tor.
+These inspect packets of data and can pick out the distinctive signature of those that are destined for Tor.
+Turkey Blocks said the Turkish government ordered firms to start blocking VPNs and Tor in early December, and has increased the pressure on firms to act by asking for weekly updates about the success of the measures.
+The monitoring group said that while direct access to Tor was not working well, many people were reporting that they could still access the network if they used a bridge.
+These are unofficial entry points to the Tor network which, because they are not listed in the software itself, can survive when blocks are imposed.
+Turkey has a long history of cutting off access to websites and services - particularly during periods of social unrest.

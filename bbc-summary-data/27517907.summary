@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150731203405/http://www.bbc.co.uk/news/technology-27517907
+
+[SN]TITLE[SN]
+eBay faces backlash on hack delays
+
+[SN]FIRST-SENTENCE[SN]
+Online marketplace eBay is facing questions over its handling of a hack attack that exposed millions of passwords and other data.
+
+[SN]RESTBODY[SN]
+A promised feature obliging members to reset passwords when they next logged in has not yet been made available.
+Instead the auction site has added a notice to its site simply recommending users update passwords "as a first step".
+Security experts said its reaction raised "serious questions".
+"We know that customers are concerned, and want us to fix this issue straight away, and we are working hard to do just that," eBay told the BBC.
+"Our first priority is and always has been to protect our users' information and ensure we correctly deal with the technical challenges such a situation brings, and that is why as a first step we have requested all users change their passwords.
+"Other steps, including email notification, will follow, and we will ensure all eBay users have changed their passwords over the coming days."
+Many of its users were angry about how slowly the firm had dealt with the problem.
+"Just wondering why I'm hearing this from BBC before eBay," said one reader of the BBC website.
+Alan Woodward, an independent security consultant, was also unimpressed.
+"It shouldn't take this long to have something in place that forces users to change their passwords, and it should have let people know what was happening - it doesn't take much time to send an email out for goodness sake,"
+It built a picture of a firm with "serious questions" to answer, he told the BBC.
+The Californian-based company, which has 128 million active users, revealed that a database had been hacked between late February and early March.
+The attackers had accessed a database containing encrypted passwords and other data after obtaining a small number of employee log-in credentials, the firm disclosed.
+The other data included:
+Data for its money-transfer service, PayPal, was stored separately and had not been compromised, the firm said.
+There has been widespread criticism from the security industry, with many asking why phone numbers, addresses and dates of birth stored on the database were not encrypted.
+"We provide different levels of security based on different types of information we're storing and all financial information across all of our business is encrypted," eBay told the BBC.
+"We also have no indication of increased fraudulent activity on our site or that the encryption on passwords has been broken.
+Illia Kolochenko, chief executive of security firm High-Tech Bridge, thinks it is highly likely that the encrypted passwords have been broken.
+"Over 80% of encrypted hashes [used on web applications] can be brute-forced within 48 hours," he said.
+Big tech firms needed to give serious thought to how to prevent their staff accounts being compromised in the way eBay's had been, said Paul Ayers, vice-president at security firm Vormetric.
+"A common theme of many of these breaches is that they involve cybercriminals actively seeking to compromise insider accounts - focusing most heavily on privileged users like IT administrators - in order to infiltrate systems and steal data using their credentials," he said.
+Prof Woodward said that if reports that the database had been accessed just using staff member's stolen username and passwords were correct, then it suggested "eBay is not valuing our personal information as much as it should do".
+"The crown jewels of a firm should be protected by two-factor authentication," he said.
+Two-factor authentication requires more than just a password, such as sending a Pin code to a smartphone.

@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150622205117/http://www.bbc.com/news/science-environment-33226496
+
+[SN]TITLE[SN]
+Urthecast video cameras to circle globe
+
+[SN]FIRST-SENTENCE[SN]
+Canadian group Urthecast plans to put a 16-satellite constellation in orbit to image the Earth.
+
+[SN]RESTBODY[SN]
+Urthecast already has a pair of cameras on the International Space Station, one of which returns short videos.
+The new proposal would see free-flying optical and radar sensors circling the globe by the start of the next decade.
+Urthecast has asked the UK manufacturer SSTL to make the satellites, and the Spanish concern Elecnor Deimos to design the ground control segment.
+The Canadian firm's vision remains the same - to try to push out high volumes of data in easily accessible ways.
+It says it wants to drive Earth imagery beyond its traditional customer base, to enable new "Big Data" applications and even social media sharing.
+"The goal here is to take vast amounts of Earth observation imagery from multiple sensors, and to put it all on to a very user-friendly, cloud-based platform that allows people then to manipulate the data, to use it, to display it, and to transfer it on to other types of platforms and applications," Wade Larson, Urthecast's president and chief operating officer, told BBC News.
+US firm Skybox Imaging, acquired by Google last year, is also building a constellation of video cameras in orbit.
+One of the innovative aspects of Urthecast's proposed constellation is the intention to pair an optical satellite (which sees the Earth in visible light) with a radar platform (which can see the ground day or night and in all weathers).
+Four such pairs would be launched in two planes - one going over the poles, the other plane concentrating its observations on mid-latitudes.
+The radar sensor would lead, with the optical camera following about a minute behind.
+Earth observation experts have long talked about the advantages that come from such an arrangement.
+The all-weather capability of radar means an image of some sort is always guaranteed, while the lead spacecraft can also spot the cloud-free locations to maximise the chances of getting a picture with the following visible camera system.
+Urthecast has been working on a radar sensor that will operate simultaneously in the X-band and L-band frequencies, permitting features to be seen on the ground as small as one metre and five metres across, respectively, when the system is put into a "spotlight" mode.
+The optical cameras will achieve half-metre resolution, and will be switchable into a video mode, producing short segments of moving imagery at 30 frames per second.
+Apart from the radar sensors, which will be produced in Canada, all of the satellite manufacturing and integration will be done by the UK's Surrey Satellite Technology Ltd at its Guildford base.  This includes the optical cameras.
+Each spacecraft will weigh a few hundred kilos, and should be launched in batches in 2019 and 2020.
+"There are several reasons why Urthecast came to us, not least because of our experience in constellations," said Luis Gomes, the director of Earth observation for SSTL.
+"We have our Disaster Monitoring Constellation; we're building the Galileo satellite-navigation system for the EU, and we're producing the FORMOSAT-7 constellation.
+"They came to us and said, 'you guys know how to do this'. And putting the radar together with the optical opens up some really powerful Earth observation techniques."
+Elecnor Deimos Space, which is based in Madrid, will do the mission planning and analysis, and look after the ground stations used to communicate with the satellites, amongst other activities.
+The Urthecast initiative is just the latest constellation announcement in recent months.  Just last week at the Paris Airshow, Airbus (which owns SSTL) said that it would be building 900 spacecraft for OneWeb, which aims to cover the Earth with broadband connectivity.
+However, constellations do have a chequered history. A number of past projects went bankrupt: they were not able to earn sufficient income to support the substantial early capital investment needed to build their orbiting networks.
+Mr Larson said Urthecast did not intend to repeat the mistakes of history.  One way to do that, he explained, was to get customers to buy into the constellation in the same way holidaymakers buy into timeshare apartments.
+"These key strategic partners would help us fund the project through its build phase. If these customers buy a satellite or a pair of satellites, they can use not only those satellites when they're over their area of interest, they can also federate the capacity of the entire constellation.  So not only do they get the cost-saving economies of buying satellites that are much cheaper because they're part of a constellation, but they're also getting the coverage and re-visit capability of way more satellites than they paid for."
+This model is very similar to the one SSTL itself now operates with its Disaster Monitoring Constellation (DMC), in which a number of national governments have banded together to fly a group of EO satellites in orbit.
+"Our system would be like DMC on steroids," said Mr Larson.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

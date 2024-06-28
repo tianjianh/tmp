@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515153946/http://www.bbc.com/news/business-39881924
+
+[SN]TITLE[SN]
+'You can tell by the way I use my walk...'
+
+[SN]FIRST-SENTENCE[SN]
+We're losing the battle against fraudsters who are stealing or guessing our usernames and passwords with increasing success. So could analysing the quirky ways we use our devices - even the way we walk - provide an additional line of defence?
+
+[SN]RESTBODY[SN]
+These days you can't walk down a busy street without bumping into smartphone zombies oblivious to the world around them.
+But little do they know that the way they walk, hold and interact with their mesmeric devices could be telling service providers exactly who they are.
+This is the amazing new world of behavioural biometrics, the latest front in the cyber-security war.
+"By using the accelerometers and gyroscopes in your phone we can gauge your wrist strength, your gait, and we can tell you apart from most other people with a one in 20,000 accuracy - roughly equivalent to the accuracy of a fingerprint," says Zia Hayat, chief executive of Callsign, a behavioural biometrics firm.
+So even if a fraudster has stolen your bank log-in details or downloaded malware onto your phone, such behavioural software should be able to spot that it's not really you trying to make that money transfer to a foreign bank.
+These behavioural idiosyncrasies are as unique as our voices, tech firms say. This is why Morse code operators could be identified simply by the individual way they tapped out messages.
+Eyal Goldwerger, chief executive of BioCatch, another behavioural biometrics company, says: "Authentication is all well and good but if fraudsters are already inside your system it's no use. Most instances of banking fraud occur after user authentication has taken place."
+The way humans interact with devices is very different to the way malware operates, so even if your phone is infected, lying in wait for you to log in before hi-jacking your secure transaction, behavioural biometrics should be able to spot the difference.
+"If the phone isn't moving but is being operated, you might assume malware is working it," says Mr Hayat.
+"We can even measure air pressure using the barometer on the latest smartphones, which can give us another indication of where the phone is and whether that corresponds to where the user says he is."
+Even the size of your fingers - how much surface is covered when you tap on the screen - can help build up a pretty accurate signature profile, he says.
+Perhaps understandably, it is banks who are most interested in this new extra layer of security - Callsign lists Lloyds Banking Group and Deutsche Bank among its customers.
+Such behavioural specialists, including firms such as Behaviosec, NuData Security, and Zighra, are also partnering with cyber-security companies that specialise in managing identities.
+Callsign's technology integrates with ForgeRock's ID management platform, for example.
+"We're moving to a password-less world," says ForgeRock chief executive Mike Ellis. "So these days we need multiple layers of authentication, and behavioural biometrics is one of those layers.
+"Identifying the device, its geo-location, and typical behaviour is another layer."
+More banks are rolling out voice authentication as a more secure and less intrusive way for customers to establish their identity.
+"[With the help of] neural networks and machine learning, authentication accuracy has risen from 98% to 99%," says Brett Beranek, director of product strategy at Nuance, a voice biometrics specialist.
+But even he acknowledges the need for another layer of post-authentication behavioural security to protect users against malware-infected phones.
+As well as physical behaviours, such as the speed with which we type and swipe, there are psychological ones, too, says Mr Goldwerger - the choices we make unconsciously when navigating a web page, for example.
+"The way you decide to scroll down a page - using the mouse scroll wheel or clicking on the webpage sidebar and dragging - can be indicative that this is you accessing the website and not somebody else," he says.
+BioCatch says it measures more than 500 parameters when a user interacts with a digital device.
+Using machine-learning techniques, the company says it can build a unique profile of a user's behavioural idiosyncrasies after just 10 minutes of interaction.
+But behavioural biometrics are not intended to replace existing biometric authentication methods, such as voice, fingerprint or selfie, but to complement them, says Mr Goldwerger.
+The advantage of this type of security is that "everything we do is seamless and frictionless - it all happens in the background without the user knowing," he says.
+The software can spot suspicious activity about 98% of the time, he adds.
+But what about privacy? If companies like this can know who I am simply by monitoring my online behaviour, is anonymity a thing of the past?
+Could what started out as a way to find terrorists hiding behind encrypted communications become a way to identify us all, whether we like it or not?
+Mr Goldwerger insists that BioCatch technology does not see any user's personally identifiable information and the client - usually a bank - doesn't get to see the anonymised behaviour profile BioCatch produces.
+"All the bank sees is a risk score for that user session, and all we see is an ID number associated with that person," he says.
+Callsign's Zia Hayat says his company does the same thing, principally to comply with existing data protection legislation.
+But what if a fraudster steals someone else's identity and sets up a new account from scratch? Behavioural biometrics won't be any use surely if there's no previous user behaviour to compare it with?
+BioCatch, which has partnered with credit reference agency Experian, thinks that even in this situation behavioural analysis can help.
+"Fraudsters will be less familiar and fluent with the data they're asked to produce because it's not theirs," says Mr Goldwerger.
+"We can spot that, and we can notice the different way they fill in application forms because they do it so often."

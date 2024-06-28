@@ -1,0 +1,62 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150901065005/http://www.bbc.com/news/technology-34049180
+
+[SN]TITLE[SN]
+Intel Inside... literally?
+
+[SN]FIRST-SENTENCE[SN]
+Intel is one of the world's most recognisable technology brands. But with a disappointing presence in the smartphone market, where will Intel turn for future success?
+
+[SN]RESTBODY[SN]
+One of Intel's marketing masterstrokes in the 1990s was coming up with the Intel Inside chime.
+You know it, the "dumâ€¦ dum dum dum dum!" that reminded everyone when they were buying a computer powered by an Intel chip.
+And it worked - the Intel Pentium Processor was, is, arguably the most famous computer component ever made. Which isn't saying much, but still.
+You don't hear the chime so much these days, but Intel is still powering much of the computing we use today, with one crucial exception: smartphones.
+They missed the boat. And that's got them a little spooked.
+So, it's with that in mind that I popped into this year's Intel Developer Forum (IDF) to see where the firm is headed.
+And it's headed, inside. Literally. Inside your body.
+At least, that's the prediction made by Sandra Rivera, Intel's vice president of network platforms.
+She sees a future where chips are implanted into our skin. Although, she joked, she's not sure she'd be first in line to have it done.
+It was a light-hearted comment, so let's not read too much into it.
+But it is indicative of Intel's mood at the moment, a company that, tainted by missing the smartphone market, is doing everything it can to make sure it gets in early on whatever comes next, leaving no opportunity behind.
+And therefore, it's at this point I must mention that horrible phrase: the Internet of Things (IoT).
+The IoT is seen as intensely creepy, and hackable, with stories of devices listening to you without you realising. Or, worse, it's just plain boring.
+Many, not least my colleague Rory Cellan-Jones, feel the IoT is still lacking its first killer product, the gadget that will capture the public's imagination.
+Intel will be hoping that that killer product comes, and comes soon.
+And that's why at IDF it was almost wall-to-wall Internet of Things.
+A smart BMX, a smart baby seat, connected robot spiders and smart juggling balls (more about those later).
+Given its torrid form in smartphones, the chip maker arguably needs the IoT to be a success more than any other tech company.
+"They can't afford to miss the next big thing," says Mark Hung, an analyst with Gartner who specialises in Intel.
+"The big issue right now is when is IoT going to be as big as mobile, if ever?"
+If ever, indeed.
+Every year Gartner puts together an interesting report it calls the Hype Cycle. It attempts to predict the adoption and mood around technologies ahead of time.
+In this year's report, Gartner placed the Internet of Things in its "peak of inflated expectations" category - the stage in the public consciousness that sees a lot of excitement about a new technology's potential.
+Which is good - but this stage is usually followed by what Gartner calls the "trough of disillusionment". That's a period in which our initial expectations are shot down as reality sets in. In other words, everyone gets a bit fed up with it.
+So what then? Well, it either drops away, or - and this is what Intel is betting on - it moves into the "slope of enlightenment", a phase that sees a slow(ish) creep of genuine good ideas come forth. Riches follow.
+(For added context, Gartner currently considers virtual reality to be in the slope of enlightenment, and so on the verge of the big time. Come back this time next year to see if they were right.)
+At IDF, we saw Intel's Curie, a new chip that's the size of a button and can power all kinds of wearable devices.
+That followed the release of the company's Edison chip, the size of an obese SD card, last year.
+The technology and its size isn't the problem. What Intel needs now is ideas.
+Which is why one of the big initiatives right now is in fostering the maker community - those dedicated techies who like to tinker, on a small budget, with cool, sometimes amusing, ideas.
+The company is funding a new reality TV series for makers, with a $1m (Â£640,000) prize pot for ideas.
+Beyond the obvious publicity, it shows Intel is investing in several projects it hopes at the very least can demonstrate the unique capabilities its chips offer, even if the application seems a littleâ€¦ obscure.
+Which brings me back to the smart juggling balls.
+Nathan Peterson is an Intel engineer, but as a side project, and with a little funding from Intel, he has been working on embedding chips inside balls.
+Why? Well with good reason, actually.
+He deflected my initial mockery ("This looks pointless!") to introduce me to Siteswap, the code of juggling.
+It works like this: In juggling, each move has a number. So, throwing the ball from your left to right hand, for example, is a 3. A 333 would be that continuously, the typical juggling move.
+A more complex pattern would be 441. Or a 50505.
+Professional jugglers swap these codes as a way of learning new patterns, like musical notes.
+Nathan's smart balls, then, suddenly seemed quite remarkable. Using the embedded chips, he was able to track the position of each ball in the air. He wrote software that is capable of recognising what pattern is being thrown.
+Not only can this combo allow Nathan to automatically share Siteswap patterns, he can also use the software to algorithmically work out never-before thought of ways of juggling, based on the placement of the balls and hands.
+While perhaps frivolous, it is oddly symbolic of the IoT's potential as the chip of choice for niche but effective ideas. If Intel wants to power everything, this kind of project is as important as any.
+"Some people may view it as a distraction," says Mark Hung from Gartner.
+"But others will see it as experimentation.
+"Without that widespread excitement it's hard to get over the trough of disillusionment to get into the steady growth the industry needs to see. I think it's positive."
+There's one huge barrier that potentially thwarts Intel's wide ambition: security.
+Given recent headlines - hacked cars, security cameras, baby monitors, all sorts - the general public is justifiably nervous about the Internet of Things and where it could lead.
+This isn't Luddism - the most gifted security professionals in the world are constantly coming forward with newly discovered weaknesses in all types of connected devices.
+Intel spent a lot of time at IDF trumpeting the sophistication of its security systems, but such reassurances can sound hollow.
+Intel needs to prove it, and that can take years. In the 1990s, the "Intel Inside" became synonymous with buying a good computer.
+As we approach 2020, the year when experts say IoT will be in full unstoppable flow, Intel will be desperate to prove "Intel Inside" represents a stamp of approval for secure, powerful devices - in whatever wacky form they may be.
+Follow Dave Lee on Twitter @DaveLeeBBC

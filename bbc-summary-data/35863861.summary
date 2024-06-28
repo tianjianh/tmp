@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170428120045/http://www.bbc.com/news/technology-35863861
+
+[SN]TITLE[SN]
+Apple's FBI row is only just beginning
+
+[SN]FIRST-SENTENCE[SN]
+You could forgive Apple's legal team for coming across a little exasperated on Monday evening.
+
+[SN]RESTBODY[SN]
+Just hours before its day in court - in the town of Riverside, California - the most unexpected twist yet: the trial had been postponed, perhaps indefinitely.
+The FBI said it had, "this past weekend", been shown a way to unlock the iPhone used by San Bernardino gunman Rizwan Farook.
+The FBI has until 5 April to let the court know how it gets on. If the method doesn't work, and the phone is still locked, we'll probably return to Riverside for the hearing.
+If it is successful - then, well, who knows what will happen? Uncharted waters. The case, already the most fascinating tech legal tussle for years, enters murky territory.
+And here's why. Let's say, for arguments sake, that the FBI does indeed have a new, credible method of getting into the iPhone.
+Where on Earth did it come from?
+Apple's bewilderment is understandable given that, right up until the final hour, the FBI had insisted it had exhausted every possible route. It told Congress as much.
+In a hearing earlier this month, FBI director James Comey stood firm as Congressman Darrell Issa gave him a dramatic dressing down for not pursuing a technique known as mirroring - essentially, and I'm simplifying here, duplicating the phone so repeated attempts can be made to unlock it without disturbing the original.
+Mr Comey said he'd look into it - though that was 20 days ago.
+Also during that congressional hearing, Mr Issa pressed Mr Comey on whether he had asked the National Security Agency (NSA) for its help.
+In response, Mr Comey, making reference to the particular model of iPhone and the software contained on it, said: "We have engaged all parts of the US government to see does anybody have a way, short of asking Apple to do it, with a 5C running iOS 9 - to do this, and we do not."
+Had Tuesday's hearing gone ahead, we were expecting to hear the witness testimony of Stacey Perino, an FBI electronics engineer, and Christopher Pluhar, a computer forensics professor from California State University.
+Both were due to underline that Apple, and only Apple, would be able to break into the phone.
+Prof Pluhar, who is a supervisory agent for the FBI, had in the past said he had been "unable to identify any other methods feasible for gaining access to the currently inaccessible data stored within the subject device".
+But we're being told to put all that aside for a moment because the FBI has said it is "cautiously optimistic" a new method suggested by an as-yet unknown "outside party" could solve all its problems, allowing investigators access to the iPhone without Apple's help.
+Apple's legal team has said it has no idea what that vulnerability could be - but it, of course, didn't rule out the possibility it existed.
+After all, it's software - and no piece of software ever written has even been watertight.
+Every time you update your phone, computer, tablet, it's often to plug a few new security holes.
+So if, come 5 April, the FBI says it no longer needs Apple's help, it would mean the US government has knowledge of a cybersecurity vulnerability that potentially affects each and every iPhone out there.
+Now, typically when something like this is discovered, and it happens fairly often, security researchers engage the company affected in a process called "responsible disclosure".
+They tell the company privately about the flaw, and then agree how to make the issue public.
+When the responsible disclosure system works, the problem is fixed before the public finds out.
+It makes devices safer, and shares the discovery among everyone involved in computer security.
+So keen are companies to encourage this kind of approach that many offer "bug bounties" - cash prizes for people who report new critical bugs.
+Hackers that operate in this way are known as "white hat". The good guys.
+The alternative - black hat - is to not tell the company about a flaw and instead sell the vulnerability on the black market to any buyer, be it for secret, state-sponsored activity, or simply for criminal means.
+If the method proposed by the "outside party" works, here's the question: will the FBI engage in responsible disclosure with Apple after it has accessed the iPhone used by Farook?
+If it does, Apple will surely seek to fix the flaw immediately, putting us back to square one when the inevitable next case comes around.
+But if the FBI doesn't share the method, what will that do to the reputation of Apple's products if it's known the US government is openly in possession of a security flaw of this magnitude?
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

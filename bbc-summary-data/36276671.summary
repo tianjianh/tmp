@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161108032056/http://www.bbc.co.uk/news/technology-36276671
+
+[SN]TITLE[SN]
+Photoshop gets 'Shazam for fonts' artificial intelligence tool
+
+[SN]FIRST-SENTENCE[SN]
+Photoshop is to use artificial intelligence to help users identify typefaces they have seen elsewhere.
+
+[SN]RESTBODY[SN]
+Developer Adobe describes its DeepFont feature as "Shazam for fonts" - a reference to the song-recognising app.
+It will work on both the mobile and desktop versions of the image-editing software, but users will need a Creative Cloud subscription.
+One expert said the tool would probably be popular with professionals, who often struggle to identify a design.
+Other font-matching online services already exist, but Adobe suggested the machine learning technology behind its system gave it an edge.
+The US company's announcement was timed to coincide with its digital marketing summit in London.
+Adobe first revealed it was developing a point-and-click way to identify fonts last year, but waited until now to confirm its rollout.
+The process is carried out remotely on the company's computer servers.
+They use an algorithm that looks at the curves and other characteristics of the selected text and then compares them to a database of about 20,000 fonts.
+The algorithm has been trained using millions of images to spot similarities, so does not need to find a direct match.
+This means that it works with screenshots, photos of printed examples and even scribbled sketches.
+"You highlight the text area that you are interested in being recognised, and it will give you a list of the top five fonts that match what you highlighted," Anil Kamath, head of the company's data science team, told the BBC.
+"That applies to an image that you can take with your phone.
+"So, you might write something on a white board, take a picture of it and ask the software to suggest fonts that it corresponds to."
+The results include typefaces created by third parties as well as those in the Adobe Type library.
+One expert said the challenge of identifying fonts came up "surprisingly regularly".
+"I can attest first-hand to seeing groups of designers sitting around trying to figure out what's that font," said Clive Howard, an analyst at Creative Intellect Consulting, who previously worked at a design studio.
+"They often have an existing website or are given a flat file - a JPeg image or a printed thing - and the client doesn't know what font the original design agency used.
+"I've also seen designers come in in the morning having stolen one of the ads you see on the Tube, and then sit around trying to work out the font because they think it's cool and want to use it.
+"Sometimes you can't use a typeface for commercial reasons, so then it would be great to know what fonts are similar."
+Design professionals already have access to products, including Fontspring's Matcherator, WhatTheFont and Fonts.com's Search by Sight, which attempt to solve the problem by other means.
+But Mr Howard said the integration of DeepFont into Adobe's software should give it an added advantage.
+"Having to fish around for a separate tool and figure out how it works is always going to be challenging, so having a feature within the software designers already use is a benefit," he said.
+"Adobe's creative tools are pretty much locked in as industry standards.
+"But it's still important that the firm adds new capabilities because we've seen other software-makers sit on their laurels thinking they are the only game in town, and they haven't lasted."

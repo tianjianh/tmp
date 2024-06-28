@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222005127/http://www.bbc.co.uk/news/technology-34394543
+
+[SN]TITLE[SN]
+Intelligent Machines: Can an AI run like Usain Bolt?
+
+[SN]FIRST-SENTENCE[SN]
+The runner hobbled his way along the track - one knee dragging behind him along the floor, the other leg clawing frantically towards the finish line.
+
+[SN]RESTBODY[SN]
+It wasn't a style of running you or I would probably choose, but then this particular technique had been invented by an artificial intelligence (AI) on my laptop.
+For the latest episode of Click we set ourselves the challenge of creating our own AI - one capable of learning to play the computer game QWOP. This hobbling knee-dragger was the very best of his generation, and this is the story of how he learned to walk.
+QWOP is a deceptively simple game - take control of your athlete and run 100m (328ft) along a race track. There's no other competitors, no time limit, it should be easy.
+The catch is though that you must control each part of your runner's legs individually. Press Q or W to move his thighs, O or P for his calves. If you're feeling calm, have a go yourself.
+If you clicked the link, you probably spent the last few minutes erratically thrashing your athlete's limbs, performing fatal somersaults and generally not running very far. Eventually though you might have figured out a combination of keystrokes that allow you to shimmy, hop and shuffle your way further down the track, maybe all the way to the 100-metre mark.
+Humans are built to solve problems like this, within a few minutes you can look at QWOP, fall over a few times and figure out how to get better at the game.
+Computers however are traditionally very bad at this - they can follow instructions faster than any human, but are incapable of insight or creativity.
+The aim of artificial intelligence research is to change this - make computers that are able to solve problems on their own, just like us.
+The "brain" of our QWOP-playing AI is something called an artificial neural network (ANN). In effect it is a very simplified model of the kinds of neural networks we have in our own brains.
+Where we have billions of neurons though, our QWOP AI will only ever have dozens.
+It is dealing with a lot less information compared to us - our brains have to deal with a deluge of information from our senses - but QWOP AI only knows a few bits of data. That's things like the angles of the athlete's legs and torso, this is how our QWOP AI "sees" the world.
+At the other end of the neural network are four output neurons, each one of these controls a key press in the game - the letters Q, W, O and P. So if the Q neuron fires, our athlete's right thigh will move forward.
+And between the inputs and outputs is a jumble of more neurons and connections - this is where the magic happens. The unique way that these are wired up defines how our runner moves, if he falls over and whether he is a success.
+But the QWOP AI didn't start out running at all, in fact the first few hundred generations could barely stand up.
+The brain of our AI is actually changing over time. In effect it's rewiring itself in different ways to try and get better at moving our QWOP man.
+It does this using another idea pinched from nature - evolution.
+QWOP AI started life as hundreds of randomly generated neural networks, all of them very, very simple. One by one each of these networks was given a go at controlling QWOP man, to varying degrees of success.
+While most immediately fell over, some didn't. Eventually, those that got the furthest, fastest, were given the chance to reproduce with other high-achieving QWOP brains.
+Over time, by breeding the best of each generation and also throwing in some random mutations along the way, networks evolved that were more complex and much better at QWOP.
+The result is a neural network that has discovered its own way of completing the game. It certainly isn't fast, but given more time it might be able to find better ways of running. It might even learn to run like us.
+What is certain though is that running is all QWOP AI will ever be good at; it has only been trained to do one task. Given any other kind of data it would have no idea what it means or what to do with it.
+And QWOP AI isn't alone - most artificially intelligent systems that exist now have the same limitation. Creating an AI that can understand and adapt to any situation it encounters is still the holy grail of AI research.
+Hopefully when we do finally get to that point, it'll figure out how to run a bit more like Usain Bolt.
+Watch the full episode of Click's AI special on iPlayer.

@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150618002912/http://www.bbc.co.uk/news/technology-32736627
+
+[SN]TITLE[SN]
+Microsoft HoloLens may react to stress levels
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft is exploring ways to make its HoloLens augmented reality headset respond to users' stress levels.
+
+[SN]RESTBODY[SN]
+Details of the plan have been described in a US patent application.
+It suggests the kit would use the wearer's heart rate, sweat production, brainwave activity and other body signals to decide when to intervene and offer help.
+But experts warn it might be difficult to interpret such data, and could prove more annoying than useful.
+Microsoft first announced its "holographic" headset in January.
+The machine, which has yet to go on sale, is designed to superimpose computer graphics over a user's view of their surrounding environment to offer a "mixed reality" experience.
+The company suggests the technology has the potential to provide a more immersive alternative to the monitors, keyboards, mice and touchscreens to which people have become accustomed.
+By its very nature, the tech is reliant on studying the wearer's body - tracking their eye movements, head pose, motion and voice - to ensure that it generates the correct content.
+Microsoft says that, by adding a biometric data sensor system to the mix, it could identify when users appear most in need of assistance, allowing HoloLens to come to their aid without having to be asked.
+"A person may experience stress that is related to a situation or current context. For example, a person may have difficulty performing a task and grow frustrated as the number of unsuccessful attempts at completing the task grows," the patent states.
+"Experiencing stress may also inhibit clear thinking and increase the difficulty of successfully managing a task or situation. Additionally... seeking help from electronic devices would impose inconvenient burdens on the person, or may be impractical or even impossible given the person's current context.
+"To address the above issues, an augmented reality help system [would] determine that the user is experiencing a stress response [and] present help content to the user via the head-mounted display device."
+The patent says a range of sensors could be used to determine changes in stress levels, including:
+One example given for how this would work in practice involves the assembly of a flat-pack bookcase.
+The patent suggests the kit would detect when the user became stressed while trying to fit the parts together, and could use image recognition software to determine what they were doing.
+It says the headset would then superimpose a step-by-step assembly video over the person's view to show them how the shelves could be slotted into place.
+Another example involves a HoloLens wearer becoming stressed by the fact that they are late for a meeting - something the kit's software could confirm by cross-checking their calendar.
+The patent suggests the headset would automatically display a map showing them the quickest route to the event alongside an exclamation sign alert, which would confirm it was time to leave.
+To deliver such a system, Microsoft could build on anticipatory functions already used in its virtual assistant Cortana - smartphone software that makes suggestions and reminds users of appointments by studying their day-to-day behaviour and communications.
+It could also take advantage of the work done to develop its Band, a wrist-worn device that monitors users' heart rates, skin temperatures and the electrical properties of their skin to make healthy living suggestions.
+But computing experts warn that joining the technologies together to let HoloLens act on stress-driven signals could prove tricky.
+"In a controlled situation in the laboratory, researchers can use sensors to detect the event at which somebody becomes stressed, but for something people would want to use at work or home it's reasonably ambitious to have something that detects that across all kinds of situations," said Prof Anthony Steed from University College London's department of computer science.
+"For example, in the case of the person building the bookcase, they would be engaged in physical labour - moving about and lifting up parts - which could cause problems as the current interfaces we have are quite sensitive to movement.
+"Plus the readings for somebody who is relatively fit would be different from those of somebody who isn't."
+Richard Picking, a human-computer interaction expert from Glyndwr University, added concerns of his own.
+"Help systems that appear independently of a user's decision can be annoying and frustrating, perhaps ironically leading to an increase in the user's stress levels - remember the dreaded Microsoft Paperclip?
+"Secondly, the developers are assuming they are measuring distress, according to their biometric measurements.
+"However, how can these sensors differentiate between negative stress  - distress - and positive stress - or "eustress" - where the user might be having a wonderful, immersive experience?"
+Microsoft has yet to give a launch date for HoloLens.
+"We do not have anything additional to share on the patent at this point," said a spokeswoman for the firm.

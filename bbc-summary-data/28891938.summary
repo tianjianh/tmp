@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160311175729/http://www.bbc.com/news/technology-28891938
+
+[SN]TITLE[SN]
+Has the flawed password system finally had its day?
+
+[SN]FIRST-SENTENCE[SN]
+Passwords are a pain. We choose simple words that are easy to remember, but equally easy for hackers to guess.
+
+[SN]RESTBODY[SN]
+Yet we still forget them. And they also get stolen with alarming frequency.
+Special Report: The Technology of Business
+Could your clothing save your life?
+Smartphone stress: Are you a victim?
+Quantum computers to crack the world
+The world is not enough
+Keeping the cyber thieves at bay
+The reported theft of 1.2 billion email passwords by Russian hackers earlier this month was just the latest in a long string of major password security breaches that have led some people to wonder if the use of passwords should be abandoned.
+But what are the alternatives?
+One low-cost option, according to Dr Ant Allan, an authentication expert at Gartner Research, could be biometrics, making use of the microphones, cameras and web cams most computers and mobile devices are equipped with.
+The simplest way to log on might be through facial recognition - or "authentication by selfie," as Dr Allan calls it - because it would require the user to do nothing more than look at their computer or mobile screen. Logging in using voice recognition would also be straightforward, he argues.
+Security for these authentication methods can be beefed up by adding contextual information such as GPS data from a mobile phone, or simply the time of day. If a user tries to log on at an unusual time or place then additional authentication information can be requested.
+Biometric authentication systems from companies like BioCatch use several different types of biometrics and other information at the same time to build a complex profile of a user. This works as a kind of digital portrait that can be used to recognise them.
+At the simplest level a profile includes information about the devices and the internet address that the user typically logs in from.
+To this is added a physical profile of the user - voice or face biometrics - and characteristics that can be learned from a computer's camera or a mobile device's GPS, gyroscope and other sensors. These characteristics can include whether the user is left or right handed, how tall they are, the length of their gait, and a measurement of their hand-eye co-ordination.
+After this a "cognitive profile" is built up by monitoring preferences such as where windows are placed on the screen, how quickly the user actually uses the computer or mobile device, and what their typing or touch gesture patterns are.
+Finally, the user's response patterns to a variety of "challenges" are measured.
+"The system may introduce a bias which changes where the device thinks your finger is placed on the screen," explains Dr Allan. "It's very subtle and not enough for you to see, but enough for you to correct for it," he says.
+Since different people correct for it in different ways, information about their responses to these hidden "challenges" can be added to their overall profile.
+What's different about this type of authentication approach is that is uses "active" or "continuous" authentication. Rather than making authentication a single event, the system continues to monitor a user's characteristics and behaviour for as long as they are logged on.
+"The benefit of this is that you get increased confidence that the user is who they say they are over time, and you also can also keep checking that the person using the system is the same person who logged on originally," explains Dr Allan.
+A much simpler approach that could be suitable in some circumstances is to tie a user to a particular computer or mobile device, Dr Allan suggests.
+"This is a simple measure that goes a long way," he says. "If a user tries to log on using a different machine, they would have to do something extra to authenticate themselves," he adds.
+Researchers in Germany and the Netherlands have been exploring ways to identify devices accurately as part of a European project called Puffin - short for "Physically unclonable functions found in standard PC components".
+They have examined seemingly identical computer parts, such as memory chips, and found that tiny variations in conditions during the manufacturing process give each one has a unique digital fingerprint, or physically unclonable function (PUF).
+Software that can read these PUFs can be used to identify a computer or mobile device reliably, says Pim Tuyls, the chief executive of Intrinsic-ID, a commercial partner in the Puffin project.
+These approaches don't work when users have to authenticate themselves over a conventional telephone - to access phone banking services, for example.
+Since voice is the only physical biometric available over the phone, Barclays Bank has begun to authenticate some of its customers using "voice print" analysis. The system checks the speaker's voice in real time against a signature pattern they already have stored.
+"The idea is to be as transparent as possible so the customer won't know that they are actually logging in," explains Seb Reeve, marketing manager at Nuance, the company that makes the biometric system.
+"The system listens to the customer speaking, and after ten or fifteen seconds it will pop up a green traffic light in the call centre to confirm that the person is who they say they are, and the conversation can continue."
+But Karsten Nohl, a member of a German security collective called Security Research Labs, warns that hacking voice recognitions is trivial. "You can pretty much make any voice sound like any other," he says.
+He also points out that you can't change biometrics like your fingerprints, iris pattern, or voice, whereas you can change passwords. That's a problem if a hacker makes an imitation finger, say, with your fingerprint on it. These can easily be made to appear "alive" by spraying them with graphite to simulate the properties of skin, and by breathing on them to add a realistic amount of moisture, he adds.
+Even so, he admits that while biometrics may not be as secure as long random passwords, they are probably more secure than the simple, easy-to-remember passwords that many people use.
+"Long passwords are simply impractical, while something like a fingerprint is very practical," he says.
+For the moment, though, the traditional username and password pair is still by far the most common way for people to authenticate themselves online.
+The reason - despite all the password security breaches - is that passwords offers a reasonable level of security at very low cost, according to Andras Cser, a security analyst at Forrester Research.
+"It is hard to find something that offers a higher level of security for the same money that a password system costs," he says. "There are other ways of authenticating- but many companies are unwilling to cough up."

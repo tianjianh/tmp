@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170226032410/http://www.bbc.com/news/technology-34677323
+
+[SN]TITLE[SN]
+Tor launches anti-censorship Messenger service
+
+[SN]FIRST-SENTENCE[SN]
+A new chat tool has been launched in an effort to improve the security of online messaging.
+
+[SN]RESTBODY[SN]
+Tor Messenger allows users to chat over the Tor (The Onion Router) network in a way which hides the location of participants.
+It means that the contents of messages will only be visible to the participants.
+The service will also work with platforms like Facebook even in countries where they are banned.
+The tool is currently in beta and will undergo security tests.
+Users wishing to remain anonymous or access chat clients blocked in their own country could use Tor Messenger to chat via services like Facebook Chat, Google Talk, Twitter, Yahoo and Internet Relay Chat.
+The program does not communicate via what's often called the "dark web", a collection of hidden websites and services, but rather by sending messages across a series of internet relays (or routers) so that their origin cannot be tracked.
+These relays are called "bridges".
+"They're computers run by volunteers and in a censored area your computer will connect to these," explained Steven Murdoch, a security researcher at University College London who has worked on Tor projects.
+"Those services are not publicly listed anywhere -  they should not be blocked even if access to the Tor network is blocked."
+In addition, messages may be encrypted to provide additional security. This feature is enabled by default, though both parties in a one-to-one chat would have to have off-the-record encryption (OTR) set up.
+This requires the two parties to exchange a secret key which is needed to decode the messages they send to each other.
+"At the end of the day some people really do need privacy and security so this would be important to them," commented Jim Killock, executive director of the Open Rights Group.
+He also told the BBC that he imagined the tool, once audited, could be used by whistleblowers, individuals wanting to complain about corruption or sources desiring to speak to journalists anonymously about a story.
+"I think it shows the worries people have that chats and other clients are being snooped on," he added.
+Dr Murdoch also made the point that while the service was still being tested, it shouldn't be used by those who have serious security concerns.
+"It's good for people to experiment with but not if you've got serious security requirements yet," he told the BBC.

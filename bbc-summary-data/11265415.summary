@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151017074751/http://www.bbc.com/news/technology-11265415
+
+[SN]TITLE[SN]
+Sensitive touch for 'robot skin'
+
+[SN]FIRST-SENTENCE[SN]
+"Artificial skin" that could bring a sensitive touch to robots and prosthetic limbs, has been shown off.
+
+[SN]RESTBODY[SN]
+The materials, which can sense pressure as sensitively and quickly as human skin,  have been outlined by two groups reporting in Nature Materials.
+The skins are arrays of small pressure sensors that convert tiny changes in pressure into electrical signals.
+The arrays are built into or under flexible rubber sheets that could be stretched into a variety of shapes.
+The materials could be used to sheath artificial limbs or to create robots that can pick up and hold fragile objects. They could also be used to improve tools for minimally-invasive surgery.
+In one approach, Ali Javey at the University of California, Berkeley, and his colleagues built up layers of criss-crossed nanometre-scale wires topped with a thin rubber sheet.
+Together, the stack acts as what is known as a thin-film transistor, or TFT, with a pressure-sensitive layer on top.
+The amount of electrical current running through the device is dependent upon how much pressure is exerted on the rubber sheet; more pressure allows more current to flow.
+The team demonstrated the flexibility of their TFT stacks by bending them to a radius smaller than that of a pencil without changing the skin's performance.
+"Javey's work is a nice demonstration of their capability in making a large array of nanowire TFTs," said Zhenan Bao of Stanford University, whose group demonstrated the second approach.
+The heart of Professor Bao's devices is micro-structured rubber sheet in the middle of the TFT - effectively re-creating the functionality of the Berkeley group's skins with less layers.
+"Instead of laminating a pressure-sensitive resistor array on top of a nanowire TFT array, we made our transistors to be pressure sensitive," Professor Bao explained to BBC News.
+"Our microstructured rubber can bounce back to its original shape much faster and enable higher sensitivity," she added.
+The overall flexibility of the Stanford group's skins appears to be lower, and Professor Bao concedes that to develop her group's approach further, better conductive rubber will be needed.
+Nevertheless, both groups demonstrate that their skins can register a pressure in a tenth of a second, over a large range - from five grams per square centimetre to 40 times that high.
+Those numbers rival the response of human skin, made with relatively inexpensive manufacturing techniques.
+John Boland, a nanotechnologist from Trinity College Dublin, praised the two approaches in a critique for Nature Materials.
+"Perhaps the most remarkable aspect of these studies is how they elegantly demonstrate that it is possible to exploit well-established processing technologies to engineer low-cost innovative solutions to important technical problems," he wrote.
+However, he notes that there are still "significant opportunities for further innovation", such as reducing the distance between the sensors in the arrays to maximise the detail they could "feel", as well as improvements that could make large-area arrays possible and affordable.

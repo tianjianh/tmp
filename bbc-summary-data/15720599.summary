@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160720064158/http://www.bbc.co.uk/news/technology-15720599
+
+[SN]TITLE[SN]
+Email spam 'Block 25' crackdown readied in South Korea
+
+[SN]FIRST-SENTENCE[SN]
+South Korea is lobbying its internet service providers to sign up to a national plan to tackle spam.
+
+[SN]RESTBODY[SN]
+The plan requires ISPs to restrict email to official computer gateways by blocking another common route that messages travel over.
+It is hoped this will thwart spammers who hijack home PCs and use them to send junk mail.
+Critics say the block could do more harm than good to businesses and hit home workers.
+South Korea's Internet and Security Agency has been trying for months to persuade its net service providers to sign up to a plan known as "Block 25".
+It has this name because of the way computers work out what to do with data they send and receive.
+Data is labelled with a "port" number which tells a computer what to do with that information. Port 25 is typically reserved for email, so blocking it could be a way to stop hijacked PCs sending messages via this route.
+About 80% of the billions of junk mail messages sent every day are believed to travel through hijacked PCs.
+According to statistics drawn up by security firm Sophos, South Korea is the second biggest source of spam in the world.
+Instead of using port 25, Korea wants all email to travel via official mail servers to block spam and help spot infected PCs.
+A spokesman for the Korean government told the BBC that it was continuing to lobby ISPs to adopt its plan which it wants to be up and working in December.
+Jasper Kim, a law professor at Ewha Womans University in Seoul, said the block could have unforeseen consequences.
+"No one likes spam mail," he said. "But the anti-spam measures can be viewed as a form of cyber-censorship that could have a disproportionately negative effect on small players - the very type of players needed to create a Seoul-style Silicon Valley."
+A national block could also hit businesses that make legitimate use of port 25, said James Blessing, a council member of the UK's Internet Service Providers' Association.
+"Many corporate mail servers run authenticated access through port 25," he said. "If you want to connect to that you won't be able to if you block port 25. You'll stop people working from home."
+Far better, said Mr Blessing, was to tackle the problem at source and make greater efforts to ensure PCs were not hijacked by spammers in the first place.
+Also, he added, criminals who use PCs to send junk mail will probably bypass the block completely by using a different port.
+"Blocks do not solve the problem," he said. "They just move it around."

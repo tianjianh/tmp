@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160216203542/http://www.bbc.co.uk/news/technology-35586446
+
+[SN]TITLE[SN]
+Android Mazar malware that can 'wipe phones' spread via SMS
+
+[SN]FIRST-SENTENCE[SN]
+A Danish security company has detected an attempt to spread a powerful form of Android malware via text messages.
+
+[SN]RESTBODY[SN]
+Mazar can gain administrator rights on phones, allowing it to wipe handsets, make calls or read texts.
+However, it will not install on phones where the language is set to Russian.
+Additionally, users would have to have unchecked a default setting on Android devices that ensures software may only be installed from trusted sources.
+Security firm Heimdal thinks the malicious texts could have been sent to over 100,000 phones in Denmark, though it is not sure whether users in other countries may have received the messages.
+This is believed to be the first time Mazar has been detected in widespread, real world attacks.
+In the examples studied by Heimdal, users receive an innocuous-looking text providing a link to what looks like a multimedia message.
+This link downloads Tor software, which enables anonymous internet connections, to the phone.
+Afterwards, the malware itself is downloaded through Tor in an apparent effort to hide the source of the malicious software itself.
+One interesting feature of Mazar is that it cannot be installed on smartphones running Android with "Russian" selected as the operating system's language.
+Similar controls have been detected in PC malware in the past, according to Morten Kjaersgaard, chief executive of Heimdal.
+Infected phones are at risk from a range of threats - from attackers secretly monitoring devices to reading a user's texts or even erasing all personal data from the handset.
+Or, the attacker could simply send a lot of texts to premium numbers.
+"It can do a lot of damage - maybe running up a big phone bill for which the customer would be liable," Mr Kjaersgaard told the BBC.
+"It's not like when you use your credit card and there's an international standard for banks covering [fraud]."
+Heimdal tested phones running Android Kitkat (version 4.4) but Mr Kjaersgaard believes the issue is likely to affect all prior versions as well.
+Later versions of the operating system have not been tested.
+The advice to users is to never tap on web links in text messages from unfamiliar phone numbers and to be cautious of links even if the message appears to be from a known contact since sometimes this can be spoofed.
+"Over one billion devices are protected with Google Play which conducts 200 million security scans of devices per day," a Google spokeswoman said.
+"Fewer than 1% of Android devices had a Potentially Harmful App installed in 2014, and fewer than 0.15% of devices that only install from Google Play had a Potentially Harmful App installed," she added.

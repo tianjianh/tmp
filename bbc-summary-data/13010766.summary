@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151227123251/http://www.bbc.co.uk/news/technology-13010766
+
+[SN]TITLE[SN]
+Facebook shares green data centre technology
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has announced that it will share the design secrets behind its new energy-efficient data centre with rival companies.
+
+[SN]RESTBODY[SN]
+The social network's facility in Prineville, Oregon is said to use 38% less power than existing centres.
+It hopes, by making the innovations public, to cut the amount of electricity the industry consumes.
+Despite Facebook's advances, some environmental groups have criticised the firm over its green credentials.
+Working under the title Open Compute Project, Facebook will release specifications and mechanical drawings of the building and its servers.
+"It's time to stop treating data centres like Fight Club [do not talk about them]," said Jonathan Heiliger, the company's vice president of technical operations.
+His comments are likely to be interpreted as a dig at other web firms, such as Google, Twitter and Amazon which have kept their own designs under wraps.
+Data centres use vast amounts of electricity to run their computer equipment and also to keep it cool.
+Environmental group Greenpeace has estimated that their total global energy use will have reached 2 trillion kw/h by 2020.
+Until now, Facebook has paid to lease its servers and storage space from other companies.
+The Prineville plant is its first custom-built facility and cost $188m (Â£117m). Much has been made of its environmentally friendly specifications.
+Among the innovations, the centre make extensive use of outside air, as opposed to air conditioning, to cool the rows of servers.
+The machines themselves are also specially designed to maximise the new cooling system.
+"The best way to reduce CO2 and improve the environment is to cut energy consumption and that is what we are doing," said Mr Heiliger.
+Facebook has stripped out nonessential parts, paint, logos and stickers - saving, it claims, more than 6 pounds of materials per server.
+However, Greenpeace said the company could have gone further to prove its commitment to sustainability.
+"If Facebook wants to be a truly green company, it needs to reduce its gas emissions," said Casey Harrell, a climate campaigner.
+"The way to do that is decouple its growth from its emissions footprint by using clean, renewable energy to power its business instead of dirty coal and dangerous nuclear power."
+Greenpeace launched a campaign last year calling on Facebook to stop powering its business with energy from suppliers that use coal.
+More than 101,000 Facebook users have so far clicked the "like" button on Greenpeace's campaign, dubbed "Facebook: Unfriend Coal" .
+As well as saving money on power, the company said that running its own data centre would help it to push through future changes on the site.
+"We found a lot of stuff mass manufacturers were putting out wasn't what we needed, so we customised it to better fit social applications," said Facebook founder Mark Zuckerberg.
+Jonathan Heiliger explained further: "Having this control over our infrastructure gives us a ton of flexibility especially when turning on a new feature.
+"Live commenting or searching for friends of friends requires this massive amount of computing and the fact we can do this and innovate and have all this control gives our engineers the flexibility to develop those products that wouldn't exist potentially."
+Facebook claims that, by sharing its design innovations, the wider web economy will benefit, especially small start-up companies.
+Social gaming firm Zynga said it was looking at perhaps using some of the designs, while computer maker Dell said it definitely would.
+"It's a very important step in helping the industry drive efficiency end-to-end," Forrest Norrod, Dell's vice president of servers told BBC News.
+"This project is also very important in promoting the understanding of this technology and presents an opportunity to turbo charge innovation around data centre efficiency."
+Dell announced that it plans to spend $1bn (Â£600m) building 10 data centres around the world.
+The PC manufacturer is a partner in the Open Compute Project along with HP, AMD and Intel.
+Rackspace, which manages servers for smaller companies, believes the cost savings cannot be ignored.
+"This is a huge leap forward and will save millions and millions of dollars," said Graham Weston, chairman of Rackspace.
+"A good sized data centre probably spends about $10m a year on power and these new designs should drive down that cost by about 40% or $4m."
+Facebook claimed that if one quarter of US data centres used specifications released by the Open Compute Project, the energy saved could power more than 160,000 homes.
+While Facebook hopes to make significant savings with its new data centre, the company has not been penny-pinching completely.
+One area the team splurged on was lighting for the servers.
+Engineer Amir Michael said he wanted to use blue LEDs but was told they cost 7 cents each, compared to green ones which were 2 cents per LED.
+He opted for the blue ones anyway.
+"I thought it would be really cool if the data centre glowed in blue.  It's a pretty big environment and I wanted to add a little bit of character, a little bit of style to it," said Mr Michael.

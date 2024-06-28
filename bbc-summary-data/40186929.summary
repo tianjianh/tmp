@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170609013257/http://www.bbc.co.uk/news/business-40186929
+
+[SN]TITLE[SN]
+Does British Airways' explanation stack up?
+
+[SN]FIRST-SENTENCE[SN]
+The ultimate boss of British Airways, Willie Walsh who runs the airline's parent company, has offered a little more detail about why their computer system crash-landed last week.
+
+[SN]RESTBODY[SN]
+Put simply, an "engineer" cut the data centre's power, messed up the reboot and fried the circuits, he has said.
+His explanation has raised eyebrows amongst former British Airways IT workers I've spoken to.
+There are big red "panic" buttons to cut all the power in the computer room.
+You hit them as a last resort, if there's a fire or someone's life is in danger.
+I'm told the buttons are mounted on the wall though and should be protected by a perspex box with a lift-up flap, so you can't knock it by accident.
+Rebooting the whole shebang isn't simple either. You can't just pull the red button back out again. I'm told you normally need to turn a special key at the same time to return the power.
+There is also a strict check-list that you have to follow, just like BA's pilots follow a strict check-list before taking off and landing their planes. I spoke to someone who used to write similar check-lists.
+"You must fire things back up in the right order, synchronising the data," they said.
+After you've sorted the red button, you then need to flick all of the circuit breaker switches linked to each server, like flicking the switches back on in your fuse box at home after they've tripped.
+Finally, you restart each server. It's a gradual process rather than a surge, I'm told.
+People I spoke to echoed the same thought: "I cannot see how that would cause a power surge."
+Another expert suggests there are other ways to power down a system. Maybe they were carrying out maintenance on something called a UPS (uninterruptable power supply), which is the battery back-up, designed to step in if the mains fails.
+But if that's what happened, it prompts the question: why were they working on the UPS at such a busy time (see below)?
+I'm told that any contractor would have been escorted at all times by an IT staff member.
+"That was always the rule". Even if that contractor was from the company managing the facility. They wouldn't even be allowed into the data centre without a detailed description of the job they were doing.
+For obvious reasons, access to the centre is strictly controlled. "Maybe one in 10 IT staff have a pass that can get them in", one former worker told me. And it's even more restricted to get into the room housing the actual computer hardware.
+We don't know if this hapless engineer was being escorted and if so, by whom.
+It seems unlikely that a lone engineer would take-on this complex "off and on" process on their own, without an expert stopping them in their tracks.
+I'm told, "alarms would have been going off all over the place. It would have been obvious who was the culprit, he wouldn't/shouldn't have been allowed to do anything else".
+BA would never carry out IT changes during busy periods, I'm told.
+These are called "freeze periods", normally starting a few days before a big holiday and ending a few days after.
+This computer catastrophe happened on a bank holiday weekend over half term, a classic "freeze period".
+I've been told about a builder once hitting the red button with a ladder, and a manager hitting it by mistake and never living it down.
+But these incidents all happened decades ago, in the 70s and 80s, when the buttons weren't covered with protective boxes etc. I've not heard of any recent incidents.
+When everything went pear-shaped, why didn't the British Airways' back-up system take over?
+I understand that there is another building called Cranebank, less than a kilometre from the building that went wrong, full of identical systems that can be fired up in an emergency.
+It's like having Peter Shilton standing right behind the goal, ready to step in if Ray Clemence gets injured (I know I'm showing my age a bit. Ask your parents if you've never heard of them).
+Theoretically, even someone mistakenly shutting off the power and switching it back on incorrectly shouldn't bring the whole global system down.
+There are rumours doing the rounds at BA that it was sabotage by a disgruntled employee.
+But no one I spoke to thought that was likely. A spokesperson for BA also reiterated there was no evidence to suggest it was sabotage.
+I have also heard that the air conditioning was being fixed at the time, so the diesel back-up generator was switched off.
+There's no evidence for any of this, but if you leave gaps in your explanation, people will fill them in.
+Willie Walsh says that they've asked an independent company to investigate what happened and that they will make those findings public. There's no timescale on when that report will be ready.

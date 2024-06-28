@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160406132901/http://www.bbc.co.uk/news/technology-35969735
+
+[SN]TITLE[SN]
+What is a warrant canary?
+
+[SN]FIRST-SENTENCE[SN]
+In March, online community Reddit killed its "warrant canary" - a statement on its website declaring that it had not received any secret data snooping requests from government or law enforcement agencies.
+
+[SN]RESTBODY[SN]
+While the site has remained quiet about its canary's demise, it has hosted a discussion on the subject by a group of lawyers.
+A warrant canary is a statement saying a company has not received secret requests for user data by government or law enforcement officers.
+It is named after the birds that were taken down mineshafts to alert workers to toxic gases.
+If the canary died in the mine the workers knew they had to leave quickly.
+Similarly, the existence of a warrant canary on a website indicates the "all clear". When it disappears, visitors might assume the website has received classified requests for data.
+Many websites publish a warrant canary in an effort to be transparent with visitors. The concept gained popularity after the extent of US government surveillance was revealed by whistleblower Edward Snowden.
+In the US, law enforcement can issue requests for user data that come with a gagging order, preventing the demand from being disclosed.
+Demands known as national security letters are designed to allow law enforcement agencies to conduct an investigation without interference or alerting the target.
+But critics say the confidential nature of national security letters, which can be issued without a court order, makes them ripe for abuse by law enforcement.
+Reddit, Adobe and Tumblr are among the sites that have published warrant canaries.
+The disappearance of a warrant canary usually only reveals that a website has received at least one secret surveillance request. They are often written in broad terms, as their legality has not been tested in court.
+"The more practically useful and informative they are, the more legally risky they are too," said Brett Max Kaufman, a lawyer at the American Civil Liberties Union.
+Before it was killed, Reddit's warrant canary said: "Reddit has never received a National Security Letter, an order under the Foreign Intelligence Surveillance Act, or any other classified request for user information."
+One Reddit member asked whether websites could print an individual warrant canary on every member's profile, making it immediately obvious when a specific user had been targeted by a secret request.
+"The government would have a pretty strong argument in that case that the removal of the individual's canary was simply an end-run around the gag order, and that it would jeopardise the government interests in completing its investigation without interference," said Mr Kaufman.
+"That's not to say an individualised canary could never be lawful."
+While the disappearance of a warrant canary could indicate that a company has received a classified data request, it remains possible that Reddit removed the canary to avoid a future fight over its legality.
+"I strongly suspect it is the first," said Alex Abdo of the ACLU.
+"Unless they received a national security request, nothing else would have changed between the 2014 transparency report and now.
+"If they abandoned it for the second reason, Reddit likely would not have issued the very cryptic statement that they could not comment on the disappearance of the canary."
+Reddit did not respond to the BBC's request for comment.
+One Reddit member questioned whether the government could force a website to falsely keep its warrant canary online, disguising the existence of a national security letter.
+"If the government asked a company to leave its warrant canary up (and therefore communicate something false to the public), the company would have the right to challenge any gag (under the First Amendment... or under certain provisions of the USA Freedom Act) in court," said Mr Kaufman.
+"But if a court upheld the government's request... the public would be none the wiser, at least for some time.
+"Indeed, that would be the entire objective from the government's perspective."
+When asked whether the disappearance of Reddit's canary was a cause for alarm, Mr Abdo said it was "difficult to know".
+"It's possible that the request was very targeted and in pursuit of someone we would all agree should be investigated," he said.
+"But we don't know the facts at this point, and we don't even know which legal authority the government was relying on.
+"And we might not know either of those things for a long time."

@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101051256/http://www.bbc.co.uk/news/technology-38382687
+
+[SN]TITLE[SN]
+PayAsUGym hack exposes members' card details
+
+[SN]FIRST-SENTENCE[SN]
+Fitness website PayAsUGym has admitted that members' financial details were stolen when one of its servers was hacked on Thursday.
+
+[SN]RESTBODY[SN]
+The discovery was made by security experts who found partial card numbers and home addresses on a public website.
+The company acknowledged there had been "confusion" over earlier claims that it did not hold any card details.
+Security expert Troy Hunt advised customers to cancel their credit card if they think details have been stolen.
+PayAsUGym, which sells passes for gyms around the UK, alerted its members to the security breach in an email on Friday which said "one of the company's IT servers was accessed by an unauthorised person".
+While it said email addresses and passwords were accessed, it claimed "we do not hold any financial or credit card information".
+The company said 300,000 customers details had been stolen.
+However, several customers' credit card details - including 10 digits of their card number, the expiry date and their home address - appear to have been published online.
+Once alerted by BBC News, PayAsUGym chief executive Jamie Ward said "we didn't consider" that PayAsUGym holds partial credit card details.
+He said customers could contact PayAsUGym directly to find out the exact information they hold.
+He added: "We've been completely clear with every customer that has contacted us since our original statement on what we hold."
+Security expert Mr Hunt, who tracks breached websites, said he came across several people's details online.
+Mr Hunt said: "If it was me, and that information was public, I would cancel the card straight away."
+He said the first six digits and last four digits of people's cards had been "dumped on a website, presumably by the perpetrator".
+Mr Hunt explained that fraudsters can use computer algorithms to work out complete credit card details "within seconds".
+"PayAsUGym has stated that there is no card data at risk, yet here we have a screen grab of a large amount of card data," he said. "There's some transparency lacking here."
+PayAsUGym said it had started using new servers after speaking with cyber security professionals.
+The website said it used a "tokenised system" for customer payments which, it says, means card details are stored at the payment gateway - not on its servers.
+PayAsUGym's Mr Ward added: "We don't hold the full number for security reasons. The payment is then made using a tokenised system."
+The company advised concerned customers to contact them.

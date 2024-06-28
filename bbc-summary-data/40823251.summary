@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170805062729/http://www.bbc.co.uk/news/uk-wales-south-east-wales-40823251
+
+[SN]TITLE[SN]
+Hacked Cardiff billboard: 'Security features may not have been used'
+
+[SN]FIRST-SENTENCE[SN]
+Software security features used to manage a hacked Cardiff billboard may not have been utilised, according to the developers.
+
+[SN]RESTBODY[SN]
+Police are investigating how swastikas and far-right images were displayed on the city centre screen on Tuesday night after a hacker gained control.
+The perpetrator says log-in details of the remote access software were displayed on the screen on Monday.
+Developers TeamViewer said there were "security features to avoid this".
+BlowUP media, which controls the billboard, has been asked to comment.
+Writing in an anonymous online post, the hacker claimed there was a security vulnerability with the screens.
+A TeamViewer spokesman said if the "instant support client" showing the nine-digit ID and password were displayed on the screen on the billboard "everyone who saw the screen could have gained access to the system".
+"This is certainly not a structural deficit of our software," the spokesman said.
+"There are many security features available to avoid this."
+TeamViewer said the programme - known as a client - is set up to provide remote support from another location.
+"However, that client should have never been publicly visible," the spokesman added. "So user mismanagement is the most likely root cause in this case."
+South Wales Police said they had received a number of calls relating to the incident.
+A digital billboard outside a Liverpool shopping centre was hacked in May.

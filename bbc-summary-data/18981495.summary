@@ -1,0 +1,48 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150914021704/http://www.bbc.com/news/technology-18981495
+
+[SN]TITLE[SN]
+Facebook: The challenges ahead for the social network
+
+[SN]FIRST-SENTENCE[SN]
+When Facebook first floated on the stock exchange earlier this year, it started out at an astronomical high, valued at over $100bn (Â£65bn).
+
+[SN]RESTBODY[SN]
+Since then, rockier times. From an initial share price of $38, Facebook's stock dipped to below $29 in May.
+This week, there comes another huge test for the site as it releases the financial results for its first quarter of public trading.
+The BBC has asked four key experts for their views on where Facebook's challenges lie in the coming months.
+What do you think Facebook should do next? Send us your comments at the bottom of this page.
+Jennifer Lynch is a staff attorney at the Electronics Frontier Foundation, a privacy campaign group. Ms Lynch is concerned about Facebook's recent takeover of a facial recognition company:
+Facebook's acquisition of facial recognition software face.com is concerning from a privacy perspective for two reasons.
+First, it is unclear what Facebook intends to do with the facial recognition data face.com collected. Face.com has stated that its database includes over 30 billion face prints.
+If this data is combined with the facial scans from the 300 million images Facebook users upload every day, it would likely create the largest (and largest privately-owned) facial recognition database in the world.
+The United States government regularly asks for copies of all photographs in which a user is tagged when it issues a warrant to Facebook. And government agencies in the States and abroad that are building out facial recognition databases have an interest in acquiring as many face images as possible.
+Face.com and Facebook's combined data could become a honeypot for government if Facebook doesn't take steps to protect it properly.
+Second, as Facebook expands the tools face.com developed to use mobile devices to collect images and identify people, the security of the data becomes a real issue.
+Facebook must show it has adequate measures in place to protect both the integrity of the face recognition data and its users' accounts from hacking and fraud.
+Ahead of going public, Facebook, itself, predicted it might struggle to make money from its mobile users who have been reluctant to engage with ads while on the go. If this is to ever change, argues independent app developer Malcolm Barclay, Facebook's mobile offering needs to improve greatly.
+The existing app suffers from endless loading, refresh problems and feels more like using a website from the late 90's. To put it another way, it is like listening to a transistor radio. Rewriting it in a different programming language, Objective-C, will be more akin to surround sound, an experience people expect from their Â£400+ devices.
+A rewrite in Objective-C is exactly what the Facebook app needs. Facebook's existing app is written mostly in HTML5.
+It is a very promising and useful technology, but right now more suited to desktop web browsers. Objective-C is the native programming language of the iPhone. It can exploit all of its features, it is fast and has a tool kit of interface elements that users are familiar with.
+So why did Facebook make the app in HTML5 in the first place? It was cheaper, HTML5 can run on many different devices (eg Android), hence it costs less to maintain and there's no need to make separate apps. I doubt Facebook really benefited from this - users certainly did not.
+Last week Facebook purchased the developers at Acrylic, a tiny operation. Google did the same and acquired Sparrow, a very popular mail app for Mac & the iPhone - all of these apps are written in Objective-C.
+Reports suggest that Facebook has already begun working on rebuilding their app from the bottom up. I hope this is the case - experience matters.
+Graham Cluley is a security researcher and blogger with Sophos. He argues that Facebook needs to get a firmer grip on the third-party applications on its platform, perhaps taking a few cues from a familiar computing giant:
+Want to see who has viewed your profile? There's a Facebook app for that. But you shouldn't be too quick to grant it permission to access your account.
+Rogue Facebook apps, created by internet scammers and cybercriminals, want to access your personal data, and hope to make money by luring you into following links.
+These apps run on the Facebook platform itself (don't confuse them with the apps you run on your computer or smartphone), and - if you allow them - have access to your profile, your personal info, your photos..
+The result is that you don't know who you are sharing your information with, and who is going to access it. The apps can even present themselves as though they are entirely located on Facebook - even when hosted on third-party websites that could be under the control of any Tom, Dick and Harry.
+Most chilling of all, rogue Facebook apps can actually post messages in your name - tricking your online friends into thinking that it's you spreading a link, which could be designed to infect their computers or steal further information.
+Maybe Facebook should learn a lesson from Apple? Apple reviews all iPhone/iPad apps before they are allowed in the iOS App Store. That doesn't just stop yet another fart app, it also makes it harder for hackers to spread dangerous code via this route. Whatever Apple is doing, it seems to be doing it right.
+Not everyone may like Apple's "walled garden" approach, but you cannot deny that it has kept the Apple iPhone a relatively safe place to be.
+Maybe Facebook should consider something similar.
+And maybe users need to think carefully about what data they upload to Facebook - that's the one sure way of ensuring it is never grabbed by a rogue app.
+Many have speculated that Facebook is looking at creating its own device - the so-called "Buffy" phone. Carolina Milanesi, an analyst for Gartner, questions the logic behind any such predictions:
+"Speculations about a possible Facebook phone have been on and off for the past couple of years.
+After the first round of rumours we saw mobile phone maker HTC bring to market the HTC Salsa and the HTC ChaCha. Both had dedicated Facebook keys and both saw only modest sales.
+So why would Facebook come out with its own phone? I struggle to see why it would.
+Although social is a key part of today's mobile life for many consumers, only a sub-set of users would actually want a phone that totally centres on social networking.
+Users would also not compromise on the specifications of the hardware, meaning that Facebook would have to bring to market a device comparable to a high-end Android phone in order to be taken seriously.
+Manufacturing costs would likely be too high to be covered by advertising revenue.
+The reality is that most consumers are perfectly happy with an app on their current phone. We believe that a deeper integration of Facebook on the current operating systems iOS, Android and Windows Phone will deliver a much wider addressable market to Facebook than not a dedicated phone. And what is social about if not the mass market?
+If we put rumours aside for a second and we look at the facts, we know that Facebook is to be integrated more tightly with Apple's next mobile operating system, iOS 6.  One has to wonder if Apple would have made such a decision if the possibility of a Facebook phone was actually on the horizon."

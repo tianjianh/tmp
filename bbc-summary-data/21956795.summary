@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150403113910/http://www.bbc.com/news/21956795
+
+[SN]TITLE[SN]
+Robot ants: mini-machines mimic insect colony
+
+[SN]FIRST-SENTENCE[SN]
+Scientists in the US have built and tested robotic ants that they say behave just like a real ant colony.
+
+[SN]RESTBODY[SN]
+The robots do not resemble their insect counterparts; they are tiny cubes equipped with two watch motors to power the wheels that enable them to move.
+But their collective behaviour is remarkably ant-like.
+By being programmed simply to move forward toward a target and avoid obstacles, the robot colony finds the fastest way through a network or maze.
+The secret, the researchers report in the open access journal Plos Computational Biology, is in their ability to take cues from one another - just like an insect swarm.
+"Each individual robot is pretty dumb," said Simon Garnier from the New Jersey Institute of Technology, lead researcher on the study. "They have very limited memory and limited processing power."
+"By themselves, each robot would just move around randomly and get lost... but [they] are able to work together and communicate."
+This is because, like ants, the robots leave a trail that the others follow; while ants leave a trail of chemicals - or pheromones - that their nest mates are able to sniff out, the robots leave a trail of light.
+See the ants of the world in 3D
+To achieve this, the researchers set up a camera to track the path of each robot. A projector connected to the camera then produced a spot of light at regular intervals along their route, leaving a "breadcrumb trail" of light that got brighter every time another robot tracked over the same path.
+Dr Garnier explained: "[The robots each] have two antennae on top, which are light sensors. If more light falls on their left sensor they turn left, and if more light falls on the right sensor, they turn right."
+"It's exactly the same mechanism as ants."
+The researcher explained how both the robots and ants worked together, describing their navigation skills as a "positive feedback loop".
+"If there are two possible paths from A to B and one is twice as long as [the other], at the beginning, the ants [or] robots start using each path equally.
+"Because ants taking the shorter path travel faster, the amount of pheromone (or light) deposited on that path grows faster, so more ants use that path."
+BBC Nature - Ants videos, news and facts
+There are many other research and engineering projects that take inspiration from nature to solve problems or design robots, as Dr Paul Graham, a biologist from the University of Sussex, explained.
+"The classic example," he said, "is the way in which we design information networks to move packets of data around.
+"Ants don't have someone in charge telling them where to go, so you can [mimic this].
+For instance - in a complex network, there may be a junction with different possible routes that packets [of data] could take. Packets would leave messages for each other at the junction to give information about which routes were quick."
+This, he explained, is the basis of an algorithm called ant colony optimisation which has already been used in telecoms networks.
+And although Dr Graham doesn't see an immediate practical use for these particular robotic insects he says the study demonstrates an important and interesting piece of biology.
+"Lots of animal behaviour gets described using words like 'choice'.
+"This shows that you don't need something as complex as choice to get some of the behaviour you see in ants.
+"And these things look pretty cool, too."

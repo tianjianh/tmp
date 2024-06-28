@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160103043651/http://www.bbc.co.uk/news/technology-31533028
+
+[SN]TITLE[SN]
+Lenovo taken to task over 'malicious' adware
+
+[SN]FIRST-SENTENCE[SN]
+Computer maker Lenovo has been forced to remove hidden adware that it was shipping on its laptops and PCs after users expressed anger.
+
+[SN]RESTBODY[SN]
+The adware - dubbed Superfish - was potentially compromising their security, said experts.
+The hidden software was also injecting adverts on to browsers using techniques more akin to malware, they added.
+Lenovo faces questions about why and for how long it was pre-installed on machines - and what data was collected.
+The company told the BBC in a statement: "Lenovo removed Superfish from the preloads of new consumer systems in January 2015.  At the same time Superfish disabled existing Lenovo machines in the market from activating Superfish.
+"Superfish was preloaded on to a select number of consumer models only.  Lenovo is thoroughly investigating all and any new concerns raised regarding Superfish."
+Users began complaining about Superfish in Lenovo's forums in the autumn, and the firm told the BBC that it was shipped "in a short window from October to December to help customers potentially discover interesting products while shopping".
+User feedback, it acknowledged, "was not positive".
+Last month, forum administrator Mark Hopkins told users that "due to some issues (browser pop up behaviour, for example)", the company had "temporarily removed Superfish from our consumer systems until such time as Superfish is able to provide a software build that addresses these issues".
+He added it had requested that Superfish issue an auto-update for "units already in market".
+Superfish was designed to help users find products by visually analysing images on the web to find the cheapest ones.
+Such adware is widely regarded in the industry as a form of malware because of the way it interacts with a person's laptop or PC.
+Security expert from Surrey University Prof Alan Woodward said: "It is annoying. It is not acceptable. It pops up adverts that you never asked for. It is like Google on steroids.
+"This bit of software is particularly naughty. People have shown that it can basically intercept everything and it could be really misused."
+According to security experts, it appears that Lenovo had given Superfish permission to issue its own certificates, allowing it to collect data over secure web connections, known in malware parlance as a man-in-the-middle attack.
+"If someone went to, say, the Bank of America then Superfish would issue its own certificate pretending to be the Bank of America and intercept whatever you are sending back and forth," said Prof Woodward.
+Ken Westin, senior analyst at security company Tripwire, agreed: "If the findings are true and Lenovo is installing their own self-signed certificates, they have not only betrayed their customers' trust, but also put them at increased risk."
+Although Lenovo has said that it has removed Superfish from new machines and disabled it from others, it was unclear what the situation would be for machines where it had already been activated.
+Prof Woodward said: "Lenovo is being very coy about this but it needs to explain how long it has been doing this, what the scale is and where all the data it has collected is being stored.
+"There will be remnants of it left on machines and Lenovo does not ship the disks that allow people to do a clean install."
+It raises wider questions about the deals that computer manufacturers do with third parties and the amount of software that comes pre-installed on machines.
+Mr Westin said: "With increasingly security and privacy-conscious buyers, laptop and mobile phone manufacturers may well be doing themselves a disservice by seeking outdated advertising based monetisation strategies."
+Users were particularly angry that they had not been told about the adware.
+One Lenovo forum user said: "It's not like they stuck it on the flier saying... we install adware on our computers so we can profit from our customers by using hidden software.
+"However, I now know this. I now will not buy any Lenovo laptop again."
+The problem also caused a storm on Twitter, where both Lenovo and Superfish were among the most popular discussion topics.

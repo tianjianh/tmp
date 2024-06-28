@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150719033611/http://www.bbc.co.uk/news/technology-33567981
+
+[SN]TITLE[SN]
+Microsoft releases tool to spot abuse images
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has released a free tool that lets website owners spot when images of child abuse are being shared by users.
+
+[SN]RESTBODY[SN]
+It said it had made the PhotoDNA tool available to tackle the 720,000 abuse images uploaded to the net every day.
+Police forces, anti-abuse organisations and large social networks have been using the tool for some time to dig out the illegal images.
+Microsoft said the online tool was for small firms that lack the resources to do image-checking themselves.
+Spotting abuse images among the 1.8 billion pictures uploaded to online services every day was an almost impossible task, said Courtney Gregoire, a senior lawyer at Microsoft's Digital Crimes Unit in a blogpost outlining the initiative.
+While many large social networks such as Twitter, Facebook and Flipboard were already using PhotoDNA, before now it had not been available to smaller online services, she said.
+"We needed an easier, more scalable way to identify and detect these worst-of-the-worst images," said Ms Gregoire.
+The PhotoDNA system has been used to analyse and classify images of child sexual abuse held by Interpol, police forces and the US National Center of Missing and Exploited Children.
+The technology generates a signature or hash for each image that can be compared with any new image to see if there is a match. It can spot images it has seen before even if they are cropped or otherwise manipulated to avoid detection systems.
+Many of the images shared online have been seen before and spotting people trading them can help police forces unearth abusers previously unknown to them.
+The free service puts PhotoDNA in the cloud and lets websites check images uploaded by users.
+"It's definitely going to help," said Christian Berg of NetClean which uses the PhotoDNA technology in the image analysis software it makes for police forces and large companies. "Especially for the smaller firms that cannot afford to do this themselves.
+"Those smaller services are regularly exploited by people that like to share abuse images online," he said.

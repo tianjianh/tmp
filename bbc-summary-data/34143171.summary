@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150913052644/http://www.bbc.com/news/technology-34143171
+
+[SN]TITLE[SN]
+Intelligent machines: Making AI work in the real world
+
+[SN]FIRST-SENTENCE[SN]
+As part of the BBC's Intelligent Machines season, Google's Eric Schmidt has penned an exclusive article on how he sees artificial intelligence developing, why it is experiencing such a renaissance and where it will go next.
+
+[SN]RESTBODY[SN]
+Until recently, AI seemed firmly stuck in the realm of science fiction. The term "artificial intelligence" was coined 60 years ago - on August 31 1955, John McCarthy proposed a "summer research project" to work out how to create thinking machines.
+It's turned out to take a bit longer than one summer. We're now entering the seventh decade, and just starting to see real progress.
+So, it's worth asking: why the long wait, and what has made for today's renaissance in AI research?
+Well, as is usually the case with technology "revolutions," there's actually been a steady evolution of hard research leading up to today.
+For example, Geoff Hinton, one of the pioneers of artificial neural networks, came up with many of his key insights in the 1980s, when computers were too slow for the insights to have a big practical pay-off. He continued to work for the next 20 years, and in 2009 he and his students beat the state of the art for speech recognition.
+Google quickly adopted their methods (and later hired the team) and cut errors in speech recognition on the Google app by around 25% - the equivalent of about ten years of research all at once. So it was really a long effort.
+But something changed in those last few years, an inflection point, a final push over the line from "This could work" to "Wow, this works better than anything else we've come up with!"
+Indeed, deep learning really took off when it got an infusion of computing at immense scale, using networks of thousands of computers working together.
+And it's been accelerated by tackling real-world problems: how do you build a system that recognises speech in 58 languages? How do you find someone's first photo of their golden retriever when it's never been labelled? (These aren't just rhetorical questions; the Google app and Google Photos do this, and many other companies are working on similar real-world applications of machine learning).
+In other words, the same consumer needs that gave rise to the web and the cloud computing that powers it - people wanting to get any question in the world answered or communicate effortlessly across languages - were what refreshed and refocused the basic research in AI.
+These turn out to provide tougher and more rewarding challenges than the "toy" problems that had been the benchmarks of AI research in decades past, such as getting a program to navigate a simple maze. The real world is far bigger and messier, and it provides a much higher bar for machine learning.
+It's not until the theoretical bumps up against the practical that you get real progress. That's why we bring dozens of visiting faculty from universities every year to Google, and why our researchers publish their research openly and go to all the major academic conferences on AI.
+We offer computing resources, real-world problems and practical expertise building systems; outside researchers bring long experience and ideas for novel approaches.
+We love the exchange, and we welcome experts in machine learning to conduct their research at Google. (And, by the way, there are other benefits to closing the gap between theory and practice: it makes a lot more sense to ground long-term concerns over AI in a practical discussion of what's actually possible and how we might build the most beneficial technologies.)
+In the future, we need to do even more blending of AI research with solving real-world challenges.
+In the next generation of software, machine learning won't just be an add-on that improves performance a few percentage points; it will really replace traditional approaches.
+To give just one example: a decade ago, to launch a digital music service, you probably would have enlisted a handful of elite tastemakers to pick the hottest new music.
+Today, you're much better off building a smart system that can learn from the real world - what actual listeners are most likely to like next - and help you predict who and where the next Adele might be.
+As a bonus, it's a much less elitist taste-making process - much more democratic - allowing everyone to discover the next big star through our own collective tastes and not through the individual preferences of a select few.
+In order for AI to fulfil its long-term potential for society, we need to direct research even more toward real-world messiness: how do you help someone plan a last-minute great vacation when they've got limited budget, two picky kids, and only a few days to squeeze it into?
+Can we reduce the noise of modern life by giving you smarter filters on your emails, your social media feeds, your schedule - can we give you less spam and more time?
+And how can we help scientists make sense of the overwhelming amount of data in genomics, energy and climate science?
+All those areas stand to benefit from smart, directed, thoughtful innovations in AI,  which is why we need to keep thinking first and foremost about people's real needs, and the real world we all inhabit.

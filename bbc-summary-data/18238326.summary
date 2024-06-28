@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150307112025/http://www.bbc.com/news/technology-18238326
+
+[SN]TITLE[SN]
+Flame: Massive cyber-attack discovered, researchers say
+
+[SN]FIRST-SENTENCE[SN]
+A complex targeted cyber-attack that collected private data from countries such as Israel and Iran has been uncovered, researchers have said.
+
+[SN]RESTBODY[SN]
+Russian security firm Kaspersky Labs told the BBC they believed the malware, known as Flame, had been operating since August 2010.
+The company said it believed the attack was state-sponsored, but could not be sure of its exact origins.
+They described Flame as "one of the most complex threats ever discovered".
+Research into the attack was carried out in conjunction with the UN's International Telecommunication Union.
+They had been investigating another malware threat, known as Wiper, which was reportedly deleting data on machines in western Asia.
+In the past, targeted malware - such as Stuxnet - has targeted nuclear infrastructure in Iran.
+Others like Duqu have sought to infiltrate networks in order to steal data.
+This new threat appears not to cause physical damage, but to collect huge amounts of sensitive information, said Kaspersky's chief malware expert Vitaly Kamluk.
+"Once a system is infected, Flame begins a complex set of operations, including sniffing the network traffic, taking screenshots, recording audio conversations, intercepting the keyboard, and so on," he said.
+More than 600 specific targets were hit, Mr Kamluk said, ranging from individuals, businesses, academic institutions and government systems.
+Iran's National Computer Emergency Response Team posted  
+          a security alert
+ stating that it believed Flame was responsible for "recent incidents of mass data loss" in the country.
+The malware code itself is 20MB in size - making it some 20 times larger than the Stuxnet virus. The researchers said it could take several years to analyse.
+Mr Kamluk said the size and sophistication of Flame suggested it was not the work of independent cybercriminals, and more likely to be government-backed.
+By Professor Alan WoodwardDepartment of Computing, University of Surrey
+This is an extremely advanced attack. It is more like a toolkit for compiling different code based weapons than a single tool. It can steal everything from the keys you are pressing to what is on your screen to what is being said near the machine.
+It also has some very unusual data stealing features including reaching out to any Bluetooth enabled device nearby to see what it can steal.
+Just like Stuxnet, this malware can spread by USB stick, i.e. it doesn't need to be connected to a network, although it has that capability as well.
+This wasn't written by some spotty teenager in his/her bedroom.  It is large, complicated and dedicated to stealing data whilst remaining hidden for a long time.
+Prof Alan Woodward on Twitter
+He explained: "Currently there are three known classes of players who develop malware and spyware: hacktivists, cybercriminals and nation states.
+"Flame is not designed to steal money from bank accounts. It is also different from rather simple hack tools and malware used by the hacktivists. So by excluding cybercriminals and hacktivists, we come to conclusion that it most likely belongs to the third group."
+Among the countries affected by the attack are Iran, Israel, Sudan, Syria, Lebanon, Saudi Arabia and Egypt.
+"The geography of the targets and also the complexity of the threat leaves no doubt about it being a nation-state that sponsored the research that went into it," Mr Kamluk said.
+The malware is capable of recording audio via a microphone, before compressing it and sending it back to the attacker.
+It is also able to take screenshots of on-screen activity, automatically detecting when "interesting" programs - such as email or instant messaging - were open.
+Kaspersky's first recorded instance of Flame is in August 2010, although it said it is highly likely to have been operating earlier.
+Prof Alan Woodward, from the Department of Computing at the University of Surrey said the attack is very significant.
+"This is basically an industrial vacuum cleaner for sensitive information," he told the BBC.
+He explained that unlike Stuxnet, which was designed with one specific task in mind, Flame was much more sophisticated.
+"Whereas Stuxnet just had one purpose in life, Flame is a toolkit, so they can go after just about everything they can get their hands on."
+Once the initial Flame malware has infected a machine, additional modules can be added to perform specific tasks - almost in the same manner as adding apps to a smartphone.

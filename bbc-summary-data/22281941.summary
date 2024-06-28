@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150729121350/http://www.bbc.co.uk/news/technology-22281941
+
+[SN]TITLE[SN]
+BitTorrent Sync challenges cloud-based file management
+
+[SN]FIRST-SENTENCE[SN]
+Developers of the BitTorrent file-sharing process have opened an experimental data-synchronising tool up to the public.
+
+[SN]RESTBODY[SN]
+BitTorrent Sync uses peer-to-peer technology to send information between users' PCs.
+It eliminates the need to upload data to a third party's computer servers, as is the case with services such as Dropbox, Google Drive and SkyDrive.
+But one analyst said businesses were unlikely to be tempted by the idea.
+Davies Murphy Group's Chris Green said companies would worry about their lack of control over the new process even though it did not rely on a third-party's data centre to update what might be sensitive files.
+But he said it might appeal to some members of the public for private use.
+BitTorrent is an eight-year old San Francisco-based company offering a range of free-to-use products designed to make it easy and quick to send large files over the internet.
+They work by co-ordinating the process so that devices downloading material also share small pieces of already-accessed data with others in order to share the load.
+Although the technology has become associated with media piracy due to its use by some media-sharing sites, BitTorrent itself is a legal company that makes money by licensing its technology and brands to business customers.
+It began testing the new tool at the start of the year. The facility is categorised as alpha - signalling it is still being tested and may be unstable - but the firm announced on its blog that it was now ready to invite the public to try it out.
+It suggested users might find it quicker and more private than the alternatives.
+"Since Sync is based on P2P [peer-to-peer technology] and doesn't require a pit-stop in the cloud, you can transfer files at the maximum speed supported by your network," it said.
+"Your information is never stored on a server in the cloud; your data is protected by encrypted keys. Your files belong to you, and stay on the devices of your choice."
+To prevent unauthorised access to shared data, the software generates a private key for each synched folder on the original device.
+This is made up of at least 32 characters and must be entered into all the other devices to which the information is sent to in order for the files to be accessible.
+One of the benefits of synching software is that it allows a user to ensure any changes made to a document on one machine are copied to all their other devices.
+In its current state, BitTorrent Sync achieves this by noting the change and then copying the whole updated file to other computers, replacing any earlier version.
+This means it may be less efficient in some cases than some of the cloud-based services that can detect which parts of a file have been changed and only copy over those bits of the data.
+However, BitTorrent has indicated that it too hopes to introduce "differential sync" later this year.
+The technology has the potential to disrupt the nascent file-synching industry.
+Although Dropbox, Google, Microsoft, Apple, SugarSync and others offer a limited amount of free storage on their services, they make money by charging customers who need to transfer and synch large files such as video footage or lots of smaller documents.
+However, Mr Green suggested the earlier cloud-based technique could ultimately prove superior.
+"One of the reasons why Dropbox and Google Drive use central servers as middle-men between your devices is that the server plays an important role in ensuring the most recent version of the document gets pushed to each device and doesn't overwrite more recent updates.
+"When you are working on a straight device-to-device peer-to-peer method like this it's a lot harder to ensure that safety net.
+"However, there's obvious appeal for some people who like the idea of not being beholden or reliant on a third-party who may have technical problems or go bust taking all their data with them."

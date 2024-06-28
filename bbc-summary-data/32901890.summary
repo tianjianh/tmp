@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150528020106/http://www.bbc.co.uk/news/technology-32901890
+
+[SN]TITLE[SN]
+Criminals access 100,000 IRS tax returns
+
+[SN]FIRST-SENTENCE[SN]
+A security breach has allowed criminals to access the tax returns of more than 100,000 people in the United States.
+
+[SN]RESTBODY[SN]
+It appears that the criminals used stolen personal data taken from other websites that had been hacked, to pretend to be legitimate users.
+The Internal Revenue Service was warned of the potential for unauthorised access to the accounts in March.
+The online IRS' Get Transcript app involved in the breach has been shut down and an investigation is underway.
+The scam's perpetrators managed to set up fake tax returns and file for tax refunds. The IRS told the New York Times that it had paid nearly $50m (Â£32.5m) in refunds before it had detected the scheme.
+The IRS says more than 200,000 attempts to view past tax returns using stolen information were made from February to mid-May with around half of those being successful.
+"We're confident that these are not amateurs," said John Koskinen, the IRS commissioner.
+"These actually are organized crime syndicates that everybody in the financial industry is dealing with."
+Security experts are concerned that the IRS' system appeared not to use multi-factor identification, for example sending a one-off code to a users' mobile phone for them to tap into the website, so as to verify that the person giving the information has access to the phone number on record.
+The cybersecurity blog Krebs on Security warned in March that the IRS' system could be breached when it reported on the case of Michael Kasper, who had tried to file his tax return only to be told that he had already done so.
+In that case criminals had set up an account in Mr Kasper's name using his social security number, but with a different email address. They filed a false tax return in order to claim a tax refund and had conned the IRS into paying that "refund" into a bank account that Mr Kasper did not recognise.
+"The IRS' process for verifying people ... is vulnerable to exploitation by fraudsters because it relies on static identifiers and so-called "knowledge-based authentication"  â€” ie challenge questions that can be easily defeated with information widely available for sale in the cybercrime underground and/or with a small amount of searching online," said the security website, commenting on Mr Kasper's case.
+The IRS has sent letters to the taxpayers whose accounts had been compromised, and said it would offer them free credit monitoring.
+The authority said its main computer system, which handles tax filings, had not been breached.

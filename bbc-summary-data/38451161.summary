@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170101051259/http://www.bbc.com/news/technology-38451161
+
+[SN]TITLE[SN]
+'Frequent flyer points put at risk by website flaws'
+
+[SN]FIRST-SENTENCE[SN]
+Airline booking systems lack basic security checks that would stop attackers changing flight details or stealing rewards, warn experts.
+
+[SN]RESTBODY[SN]
+The problems emerge because the six-digit codes booking systems use to identify travellers are easy to guess.
+Two researchers demonstrated the weaknesses by changing a flight booking and seat assignment for a reporter.
+The security investigators presented their findings at the Chaos Communications Congress in Germany.
+In a blog detailing their work Karsten Nohl and Nemanja Nikodijevic of Security Research Labs (SRL) said the computer systems behind the airlines' travel bookings system dated from the 1970s and 1980s. Though these have been updated with web services they lack security systems that would prevent abuse, they said.
+In particular, they added, the systems have no way to check, or authenticate, who is querying the system for flight details.
+Few of the reservation checking systems limit how many attempts can be made to query details.
+These flaws can be exploited, said the pair, because the codes used to identify travellers and their itineraries use a restricted character set. This makes it possible to bombard servers with queries to find out a person's details.
+"Given only passengers' last names, their bookings codes can be found over the internet with little effort," they wrote.
+This access would let attackers steal personal information, divert frequent flyer benefits or use the data to lend credibility to phishing attacks.
+In some cases, said Mr Nohl, getting at a booking would let an attacker completely change flight details potentially letting them travel for free.
+SRL showed how the flaws could be exploited by working with German TV station ARD to change the flight of a reporter and putting him in a seat next to a German politician.
+Airlines and travel agents should move quickly to protect traveller data, urged the two researchers. The first step should be to limit the number of queries that can be made for a particular booking, they said.
+The vast majority of flight bookings are handled by three firms: Amadeus, Sabre and Travelport.
+Booking firm Amadeus said it was "assessing" the researchers' findings. It added that it planned to "address" the problems that had been exposed and would work with its partners to close the loopholes.
+It added that it had already limited the number of queries that could be made about a booking.
+Sabre said it had "numerous layers" of security surrounding flight itinerary systems.
+"Discussing how we maintain security and the privacy of travellers undermines those safeguards and the security of our systems," it told the Reuters news agency.
+Travelport has not yet responded to the release of the information by SRL.

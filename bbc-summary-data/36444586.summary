@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170413231124/http://www.bbc.co.uk/news/technology-36444586
+
+[SN]TITLE[SN]
+Mitsubishi Outlander hybrid car alarm 'hacked'
+
+[SN]FIRST-SENTENCE[SN]
+The alarm on Mitsubishi's Outlander hybrid car can be turned off via security bugs in its on-board wi-fi, researchers have found.
+
+[SN]RESTBODY[SN]
+The loophole could mean thieves who exploit the bugs gain time to break into and steal a vehicle.
+The vulnerability can also be used to fiddle with some of the car's settings and drain its battery.
+Mitsubishi recommended that users turn off the wi-fi while it investigates the issues with the system.
+Security expert Ken Munro said the investigation started when he was waiting to collect his children from school and noticed an unusual wi-fi access point pop up on a list on his smartphone.
+He realised it was on a nearby Mitsubishi Outlander that belonged to a friend who then showed him the associated app and how it could be used to control some aspects of the vehicle.
+"I got playing with it and soon realised it was vulnerable so I stopped," he told the BBC.
+Mr Munro then bought an Outlander and set about investigating how the car's owner communicates with their vehicle via the app.
+Many other car makers use a web-based service that supports apps for connected cars so owners can lock them remotely or otherwise control them. Typically, commands sent to a car pass through these servers before being sent to the car over the mobile network.
+By contrast, Mitsubishi has decided to only let apps talk to cars via the onboard wi-fi. Unfortunately, said Mr Munro, there were serious shortcomings with the way the wi-fi has been set up.
+To begin with, said Mr Munro, the format for the name of the access point on the car is very distinct. This has led to the location of many Mitsubishi hybrids being logged on websites that gather the names of access points.
+"Some were spotted while driving and others when parked at their owner's house," wrote Mr Munro in a blog outlining his findings. "A thief or hacker can therefore easily locate a car that is of interest to them."
+Although Mr Munro owned the vehicle, he and his colleagues at Pen Test Partners security firm carried out their investigation as if they had no special access to it. This involved using well-known techniques that let the researchers interpose themselves between car and owner and watch data as it flowed between the two.
+The team used this access to replay commands sent to an Outlander allowing them to flash the lights, tweak its charging settings and drain the battery.
+Mr Munro said he was "shocked" to find out that he could also turn off the car alarm via this replay attack.
+A thief who is sure the alarm could not go off would have plenty of time to use other techniques to unlock a car and gain entry, he said.
+The Mitsubishi Outlander is the latest in a series of cars that have been found wanting when it comes to security.
+Chrysler's 2014 Jeep Cherokee, the Tesla Model S and the Nissan Leaf have all been shown to be vulnerable to hack attacks of different degrees of severity.
+The most startling was the attack staged on the Jeep which allowed the researchers to take control of the vehicle remotely. The discovery led to 1.4 million vehicles being recalled for a software update.
+Security researchers fear that the more cars get connected to phones and the web, the more holes will be found.
+But car makers are always playing catch-up when it comes to security as it takes far longer to develop a vehicle than it does to find, expose and share the flaws in their onboard computer systems.
+"Once unlocked, there is potential for many more attacks," he said. "The on-board diagnostics port is accessible once the door is unlocked."
+Access to the diagnostics port could allow thieves to connect customised hardware that would let them start the car, suggested Mr Munro.
+A demonstration of the problems with the on-board wi-fi was given to Mitsubishi in the UK on 3 June where the bugs were shown to still work on the latest version of the app.
+Mr Munro said he had been impressed by the cooperation he had received from Mitsubishi in exploring the bugs and seeking ways to fix them.
+In a statement, Mitsubishi said: "This hacking is a first for us as no other has been reported anywhere else in the world."
+It said it "took the matter seriously" and was keen to get Mr Munro talking to its engineers in Japan to understand what he found and how it could be remedied.
+It added that although the bugs were "obviously disturbing" the hack only affected the car's app and would give an attacker limited access to the vehicle's systems.
+"It should be noted that without the remote control device, the car cannot be started and driven away," it said.
+While Mitsubishi investigated it recommended that owners deactivate their onboard wi-fi via the "cancel VIN Registration" option on the app or by using the remote app cancellation procedure.
+A longer-term fix would require some action from Mitsubishi, said Mr Munro.
+"New firmware should be deployed urgently to fix this problem properly, so the mobile app can still be used," he said.

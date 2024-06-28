@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107165640/http://www.bbc.com:80/news/technology-30447248
+
+[SN]TITLE[SN]
+How to conquer the galaxy on a computer
+
+[SN]FIRST-SENTENCE[SN]
+Space is big. Really big.
+
+[SN]RESTBODY[SN]
+And not just in terms of the mind-boggingly vast distances between the stars and planets out there in the Universe at large.
+It's also big in video games. All of a sudden there are lots of games based in space available to play or under testing and development.
+Tomorrow sees the formal launch of Elite Dangerous, the update of the classic that established the whole space-trading and fighting genre. But there are many others too.
+Rodina, Space Engineers, No Man's Sky, Limit Theory, Skyjacker, Enemy Starfighter, Eve Valkyrie, Star Citizen and many others are all space-based.
+Lots of them put the player in the role of a starship pilot. Some emphasise exploring, some trading or fighting. A few combine all three.
+But if you are making a space-based game, where do you start when trying to fit solar systems and galaxies into a desktop PC?
+Brendan Anthony, developer of Rodina, has created a game that gives players an entire solar system in which to adventure.
+Creating just a single solar system from scratch has been tough. The sheer scale of what he was attempting to create has proved programmatically problematic.
+"I can define planets to be any size," he said. "That is quite a big issue because computers have limits to the accuracy they can support."
+By "accuracy" he means how well the surface of a planet is depicted when seen from deep space, orbit or after a player lands. In most games, he said, graphics are rarely called on to preserve the fidelity of features visible from space all the way down to when they are seen beneath a pilot's boots.
+"Just to support the idea of having full-size planets means you have to put in special code to get around those limitations," he said.
+Early on in Rodina's development he realised that, sometimes, faithful physics would have to be sacrificed on the altar of good gameplay.
+For instance, he said, it would have been possible to have spaceships fly according to Newtonian or realistic mechanics. Except, he said, that would have crushed the open-ended freedom he wanted to give players.
+"The main thing that Newtonian flight models imply is that when you try to turn your ship towards somewhere you want to go you'll still be flying in your original direction because you still have the momentum and inertia from that initial acceleration," he said.
+While there are space games, such as Kerbal Space Program, that are faithful to such mechanics, Rodina and most other space games, do away with them.
+"You do not want the game to become all about the physics," he said.
+Ignoring the laws of physics is particularly important when it comes to faster-than-light travel - a mechanic essential for any game involving different star systems. A game faithful to only sub-light travel would mean players spent most of their time schlepping through an inky void.
+Martin Hendry, professor of gravitational astrophysics and cosmology at the University of Glasgow, said faithful physics had to be done away with because of what happens as a spaceship accelerates towards the speed of light.
+It is at those vast speeds that a phenomenon known as time dilation starts to make itself felt, he said. This means that time on board the craft passes much more quickly than it would on the planet it left.
+"If the spacecraft was travelling at 0.99c, it would cover one light year in 1.01 years as earth clocks would measure it, but to an on-board clock only about 52 days would have passed," he said, adding: "Relativity is weird".
+Space games have to ignore such effects if they are to maintain cohesion in the solar systems, planets and star-spanning empires they depict. This is especially true for Elite Dangerous which claims to be representing all 400 billion star systems in the Milky Way.
+"The distances are just so vast that you need some kind of deus ex machina-like hyperdrive or warp drive to make a game work and maintain the dramatic action," he said.
+Strangely, he said, relativity has little to say about what happens when spaceships travel beyond the speed of light.
+"For a spacecraft travelling faster than light, or using some other 'trick' such as travelling through a wormhole, all bets are off and it isn't really clear what the actual elapsed time for such a journey would be," he said.
+In that respect, the reality depicted in games that let ships jump from star to star or cruise at FTL speeds within systems to reach space stations or other planets might be accurate.
+Ditching physics in favour of gameplay does not seem to have deterred fans as many of these titles have sought funds for development on Kickstarter and other crowdfunded sites. Via such means Star Citizen, which is due for release in 2016, has built up a massive $66M (Â£42m) development fund.
+"Clearly, the thirst for space games never went away but the appetite of big firms to create them did," said Alec Meer from game news site Rock, Paper, Shotgun.
+"When there aren't publishers or distributors making doomy statements about margins or demographics, not to mention there being less men in suits and who couldn't care less about games on a creative level taking a cut, a game developer can take that much more of a punt," he said.
+However, said Mr Meer, the sheer number of such games out now and set to debut could cause problems.
+"Overcrowding may become an issue," he said. "Massively multi-player online games suffered when too many, ultimately too similar games arrived in a hype-laden rush, and the same might happen here," he said.
+Suddenly, space does not look that big after all.

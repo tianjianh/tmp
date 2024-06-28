@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160106205106/http://www.bbc.co.uk/news/science-environment-35171408
+
+[SN]TITLE[SN]
+'Sewing' with molten glass and maths
+
+[SN]FIRST-SENTENCE[SN]
+US researchers have developed what they call a "molten glass sewing machine" by combining 3D printing of glass with a mathematical model of how a liquid thread forms different types of loop.
+
+[SN]RESTBODY[SN]
+When the nozzle releasing a stream of molten glass is raised above a certain level, that thread begins to wobble.
+It traces out waves or loops - which the team found could be controlled by adjusting the speed of the nozzle.
+Those shapes then become the building blocks for intricate, 3D objects.
+Engineers at the Massachusetts Institute of Technology pioneered a method for glass 3D printing in 2015. They then started to work with mathematician Pierre-Thomas Brun, who has studied the fluid dynamics of liquid "ropes".
+The results are documented in a video, which the team presented in the American Physical Society's "Gallery of Fluid Motion" in November.
+It all started with a collaboration between two labs at MIT, Dr Brun told the BBC - one specialising in glass and the other in "mediated matter".
+Runny honey
+"Normally when you 3D print, the nozzle is very close to the piece that you're printing - that's the conventional method. But what they started working with was having a large offset.
+"And in that case, instead of having a thread that falls down and moves straight, you can create coil-like patterns like honey on toast."
+That coiling process, as it happens, is exactly what Dr Brun studied during his PhD.
+"I came up with a reduced model that explained the dynamics of these things," he said. "So I have a way to rationalise the patterns they observed, and we started working together in order to create some structures that take those patterns as building blocks."
+Suddenly, instead of being a potential flaw in the system, the wobbling of the liquid glass became a tunable design feature.
+And what is more, some of the tiny loops are smaller than anything that could be created by moving the nozzle itself around. The physics of the dribbling glass itself was now a precision instrument.
+What most impressed Dr Brun was how simple it was to control that instrument. For a given nozzle height, he explained, everything boils down to how fast the glass is being poured, relative to how fast the nozzle is moving forward.
+"These coils may seem complex, but you can rationalise them in a very simple way. And to do that you need one number: how fast is the glass falling onto the surface?"
+If the dribbling of the glass starts to outstrip the forward progress of the nozzle, the thread will trace out a meandering, wavy line instead of a straight one.
+Then if the forward motion gets even slower, the glass will start to trace small, alternating loops. Even slower, and the loops become one big coil.
+It was a surprise, Dr Brun said, that this simple ratio produced such a variety of shapes.
+"This is a very complex system, but you can forget about all the other properties. That's a big statement, which has no reason to be true - but it is, in this case."
+Following the lead of other researchers, studying the dynamics of viscous liquid threads nearly 10 years ago, Dr Brun and his colleagues called their system a "sewing machine".
+"It does exactly what a sewing machine does," he observed. "You go from a thread, to patterns which are tied to each other like stitching patterns - but this time they're made out of glass."
+Many of his collaborators at MIT are interested in potential applications for architecture, and the design may also prove useful in sculpture and in 3D printing - or "additive manufacturing" - more widely.
+"There are many possibilities, but for now this is just a proof of concept," Dr Brun said.
+Follow Jonathan on Twitter

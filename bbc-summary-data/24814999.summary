@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150926192736/http://www.bbc.co.uk/news/technology-24814999
+
+[SN]TITLE[SN]
+Microsoft warns users of hacker attacks
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has warned that hackers could exploit a "vulnerability" in its operating system to gain user rights to the affected computers.
+
+[SN]RESTBODY[SN]
+It said attackers could exploit this by requesting users to preview or open a specially crafted email or web content.
+Microsoft said it was "aware of targeted attacks" and was investigating.
+The issue affects Microsoft Windows Vista, Windows Server 2008, Microsoft Office 2003 - 2010, and Microsoft Lync.
+Recent versions of Microsoft Windows and Office are not affected by the issue - which centres on a graphics component. Details of which products are at risk are listed on the firm's site.
+Microsoft said it would take appropriate action to address the issue, which "may include providing a security update through our monthly release process or providing an out-of-cycle security update, depending on customer needs".
+In the meantime, it has advised customers to apply workarounds - a setting or configuration change that "does not correct the underlying issue but would help block known attack vectors before a security update is available".
+According to Microsoft, the flaw lies in the handling of the Tagged Image File Format (TIFF) image files by a graphics processing component in the affected software versions.
+In a blog post on the Microsoft Security Response Centre, Dustin Childs a communications manager, said any move by hackers "requires user interaction".
+He said that the attacks are disguised as an email requesting potential targets to open a specially crafted Word attachment.
+If the attachment is opened or previewed, it attempts to exploit the issue using a malformed graphics image embedded in the document.
+"An attacker who successfully exploited the vulnerability could gain the same user rights as the logged on user," Mr Childs said.
+Microsoft added that hackers could also exploit the issue via a web-based attack.
+"An attacker could host a specially crafted website that is designed to exploit this vulnerability and then convince a user to view the website," it said.
+However, it added that an attacker would have "no way to force users to view the attacker-controlled content".
+"Instead, an attacker would have to convince users to take action, typically by getting them to click a link in an email message or in an Instant Messenger message that takes users to the attacker's website."

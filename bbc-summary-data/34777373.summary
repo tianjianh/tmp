@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170215130440/http://www.bbc.co.uk/news/technology-34777373
+
+[SN]TITLE[SN]
+Microsoft to open UK data centres
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has announced plans to build two data centres in the UK next year.
+
+[SN]RESTBODY[SN]
+The move will allow the tech company to bid for cloud computing contracts involving sensitive government data, which it was restricted from providing before.
+Consumers should also benefit from faster-running apps.
+The announcement, made by Microsoft chief executive Satya Nadella in London, follows a similar declaration by Amazon last week.
+The two companies vie to provide online storage and data crunching tools via their respective platforms Microsoft Azure and Amazon Web Services.
+Microsoft's existing clients include:
+Amazon's corporate customers include:
+One expert said the companies' latest efforts should address highly regulated organisations' privacy concerns.
+In a related development, the firm has also announced plans to offer its Azure and Office 365  cloud services from two German data centres controlled by a third-party, a subsidiary of Deutsche Telekom.
+"Microsoft will not be able to access this data without the permission of customers or the data trustee, and if permission is granted by the data trustee, will only do so under its supervision," it said.
+The move will make it even harder for overseas authorities to gain access to the files.
+Microsoft is currently engaged in a legal battle with the US Department of Justice, which is trying to make it hand over emails stored on a server in Ireland - the tech firm says the government is trying to exceed its authority.
+Mr Nadella announced the plan to open a data centre near London and another in elsewhere in the UK - whose location has yet to be named - in 2016.
+They will bring the company's tally of regional data centres to 26.
+He added Microsoft had also just completed the expansion of existing facilities in Ireland and the Netherlands.
+"[It] really marks a huge milestone and a commitment on our part to make sure that we build the most hyperscale public cloud that operates around the world with more regions than anyone else," he told the Future Decoded conference.
+Scott Guthrie, Microsoft's cloud enterprise group chief, added that the move would address privacy watchdogs' concerns about "data sovereignty".
+"We're always very clear that we don't move data outside of a region that customers put it in," he told the BBC.
+"For some things like healthcare, national defence and public sector workloads, there's a variety of regulations that says the data has to stay in the UK.
+"Having these two local Azure regions means we can say this data will never leave the UK, and will be governed by all of the local regulations and laws."
+Amazon has also committed itself to multiple UK data centres, but has not said how many at this stage. It will make the UK its 15th regional base.
+Although that is fewer than Microsoft's, the company is currently the global leader in this field in terms of market share.
+Announcing its move, Amazon said an added benefit of having a local data centre was that the public would experience less lag when using net-based services.
+"It will provide customers with quick, low-latency access to websites, mobile applications, games, SaaS [software as a service] applications, big data analysis, internet of things (IoT) applications, and more," wrote Amazon's chief technology officer, Werner Vogels.
+Amazon's other EU-based data centres are in Ireland and Germany.
+The recent legal battle over Safe Harbour highlighted the benefits of storing and processing data locally.
+The trade agreement - which used to make it easy to send EU-sourced personal information to the US - was ruled invalid, causing companies to take on additional administrative work if they wanted to continue using US-based cloud services.
+One expert said that the latest move should allay many IT chiefs' concerns.
+"Microsoft's new UK data centre will be a big deal for enterprises here - especially in highly regulated industries," said Nick McGuire, from the tech research company CCS Insight.
+"It unlocks one of the key restraints on those bodies wishing to embrace cloud services."
+Although outsourcing computing work to one of the big tech companies offers the potential for savings - as they do not have to build and maintain their own equipment - there are also risks involved.
+A fault with Azure knocked many third-party websites offline last year, and Amazon has experienced glitches of its own.
+However, major faults taking clients' services offline are a relatively rare occurrence.

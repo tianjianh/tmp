@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150716214655/http://www.bbc.co.uk/news/technology-32844123
+
+[SN]TITLE[SN]
+Starbucks says gift card hack was 'fraudulent activity'
+
+[SN]FIRST-SENTENCE[SN]
+A hacker who reported a security hole in Starbucks' website has criticised the company's handling of the matter.
+
+[SN]RESTBODY[SN]
+Egor Homakov found a flaw that let him duplicate funds on a gift card, which he spent in a store to test his theory.
+He told Starbucks so they could fix the flaw, but said that the company had then called his actions "malicious".
+"The unpleasant part is a guy from Starbucks calling me with nothing like "thanks" but mentioning "fraud" and "malicious actions" instead," he wrote.
+A spokeswoman for Starbucks told BBC News: "After this individual reported he was able to commit fraudulent activity against Starbucks, we put safeguards in place to prevent replication."
+The company did not answer questions about its response to Mr Homakov.
+Starbucks gift cards can be registered online so customers can top up their account and transfer money between cards.
+Mr Homakov worked out that making two web browsers transfer money between the same cards, at the same time, sometimes duplicated the transfer and added funds to a gift card that had not been paid for.
+After buying some drinks and a sandwich in a store to test if the process had worked, Mr Homakov topped up the card to repay the $1.70 (Â£1.10) he owed to the company.
+There is an ongoing debate about the ethics of bug hunting between hackers and their targets.
+Some people think that hackers should seek a company's permission before attempting to find holes in its software.
+"I can appreciate why Starbucks was disgruntled," security expert Graham Cluley told the BBC.
+"It didn't want everyone digging around in its systems looking for bugs."
+"In an ideal world you'd always approach the company first, but if you're trying to identify a problem there can be a lot of dead ends.
+"Starbucks should be grateful this bug was found by somebody who worked with it to fix the problem," he added.
+The idea of responsible disclosure, giving companies time to fix security holes, is not new.
+Big technology companies like Google, Mozilla and Facebook already offer cash incentives to hackers who report bugs and help fix them, rather than publishing information online.
+"Bounties are a good idea, because they encourage any researcher who stumbles across a flaw to work with you to fix it," explained Mr Cluley.
+"Companies like Starbucks need to wake up and smell the coffee. Criminals could have used this exploit to make a lot of money, so Mr Homakov has done it a favour."

@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150923005654/http://www.bbc.co.uk/news/technology-18898971
+
+[SN]TITLE[SN]
+Huge spam botnet Grum is taken out by security researchers
+
+[SN]FIRST-SENTENCE[SN]
+A botnet which experts believe sent out 18% of the world's spam email has been shut down, a security firm said.
+
+[SN]RESTBODY[SN]
+Grum's control servers were mainly based in Panama, Russia and Ukraine.
+Security company FireEye and spam-tracking service SpamHaus worked with local internet service providers (ISPs) to shut down the illegal network.
+A botnet is a network of computers that has been hijacked by cybercriminals, usually by using malware.
+"Grum's takedown resulted from the efforts of many individuals,"  
+          wrote Atif Mushtaq
+, a security researcher with FireEye.
+"This collaboration is sending a strong message to all the spammers: Stop sending us spam. We don't need your cheap Viagra or fake Rolex."
+Mr Mushtaq wrote that on Monday he learned that a Dutch server involved in Grum had been shut down. He said it "at least made a dent" in the botnet.
+On Tuesday, the command and control servers (CnCs) in Panama had been shut down.
+"This good news was soon followed by some bad news," he explained.
+"After seeing that the Panamanian server had been shut down, the bot herders moved quickly and started pointing the rest of the CnCs to new secondary servers in Ukraine.
+"So at one point, I was thinking that all we needed was to take down one Russian server, but right in front of my eyes, the bot herders started pointing their botnet to new destinations."
+He noted that in the past Ukraine has been something of a "safe haven" for bot herders.
+"Shutting down any servers there has never been easy."
+Disabling Grum is just one of many high-profile efforts to neutralise botnets worldwide.
+Russian Georgiy Avanesov was in May sentenced to four years in jail for being behind the Bredolab botnet which was believed to have been generating more than Â£80,000 a month in revenue.
+Microsoft has been working to disrupt Zeus, another huge network responsible for, researchers said, millions of pounds in theft.
+FireEye collaborated with other experts in the worldwide security industry to apply pressure to local ISPs to suspend the illegal operation.
+Mr Mushtaq said more than 20,000 computers were still part of the botnet, but that without the active CnCs they would soon be rendered ineffective.
+Grum's closure was an encouraging development in clamping down on botnets across the world, he said.
+"When the appropriate channels are used, even ISPs within Russia and Ukraine can be pressured to end their cooperation with bot herders.
+"There are no longer any safe havens. Most of the spam botnets that used to keep their CnCs in the USA and Europe have moved to countries like Panama, Russia, and Ukraine thinking that no one can touch them in these comfort zones.
+"We have proven them wrong this time. Keep on dreaming of a junk-free inbox."

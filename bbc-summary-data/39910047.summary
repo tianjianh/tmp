@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170514010106/http://www.bbc.com/news/world-39910047
+
+[SN]TITLE[SN]
+Cyber-attack victim: 'I said we should just pay'
+
+[SN]FIRST-SENTENCE[SN]
+Organisations worldwide have been scrambling to get systems back online after a massive ransomware cyber-attack.
+
+[SN]RESTBODY[SN]
+John Lumsden Donaldson, 61, is well aware of what those organisations have been going through.
+His business was "virtually closed down for 24 hours" when he was the victim of a similar attack.
+And it was only the efforts of his computer programmer son Mark which got his business back up and running.
+"It's not just the big companies that have been attacked," John told the BBC.
+"We were attacked on Thursday 4 May."
+When John opened his doors that day as usual, he had little idea of the problems that lay in store.
+He runs an auction company in Spain, where he lives in Formentera del Segura. It is a small business, employing fewer than ten people.
+"None of the software would work on our network of computers in the office," he said.
+"I thought my son might be updating the network."
+He rang his son to check.
+"Within five minutes he rang back and told me to unplug the servers and close down the system.
+"He said we were being hacked."
+John's business had been targeted with ransomware - software which infects vulnerable machines, locks data away and demands payment to unencrypt those files.
+"They didn't take anything from us. They just wanted $500 (Â£390)," John said.
+"I said we should just pay. But my son said there was no guarantee they would unencrypt the files after we had paid and they might ask for more money."
+John's business uses two servers in England and two physical servers in Spain. All four use Windows operating systems - those in England running the newer Windows 10; those in Spain using an older iteration of Windows Server.
+"They locked up our system files so we couldn't run any of our software or access customer data. We could not pay our customers.
+"I was worried about the security of our clients but they didn't access any of that part. It was our physical servers in Spain.
+"They found a backdoor in Windows Server through our telephone line."
+John and Mark worked overnight to resolve the problem.
+"Even now we still have issues," John said. "According to my son it's all linked to old Windows software.
+"I really felt for our customers. It was a bit embarrassing to say the least.
+"Thank God I had my son."
+By UGC and Social News team

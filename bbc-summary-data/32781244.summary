@@ -1,0 +1,50 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160119052630/http://www.bbc.co.uk/news/technology-32781244
+
+[SN]TITLE[SN]
+Bitcoin's baby: Blockchain's 'tamper-proof' revolution
+
+[SN]FIRST-SENTENCE[SN]
+For Bitcoin, 2014 was not a good year. The virtual currency's value slumped as scandal after scandal struck, resulting in many people losing significant amounts of money.
+
+[SN]RESTBODY[SN]
+Over recent months the "cryptocurrency" has stabilised, however it is still worth less than a quarter of its peak value against the dollar.
+But while Bitcoin's long-term prospects may remain in doubt, some are suggesting that its underlying technology - the Blockchain - has a bright future.
+Blockchain businesses take the technology that underpins Bitcoin - the Blockchain - and use it for things the virtual currency's unidentified creator, "Satoshi Nakamoto", never envisaged when he first published his system for a "truly peer-to-peer electronic cash system".
+In Bitcoin, the Blockchain is used to store financial transactions.
+The emerging Blockchain companies believe it can be used for much more.
+The new projects have been dubbed "Bitcoin 2.0" - but some Blockchain evangelists are wary of the term because of negative associations with Bitcoin.
+In Bitcoin the Blockchain is a ledger.
+Imagine walking into the head office of a bank some 80 years ago. Arranged along shelves are a number of hefty, leather-bound books.
+You take one down, blow the dust from the cover and open it up. This is the ledger, and each page contains a number of lines, and on each line is listed a transaction: a credit here, a debit there.
+The Blockchain is simply a representation of this ledger in the form of an ever-expanding computer file. You can think of a block in the Blockchain representing a page in the ledger.
+Other characteristics of the  Blockchain are:
+The uncoordinated nature of the network is what keeps it honest.
+To corrupt the system - in other words to hack it - you would have to commandeer more than 50% of the computers on the system. More on this later.
+It does.
+"Blockchain bloat" is a problem the Bitcoin community is already trying to address.
+At the time of writing, the current size of the Blockchain is a touch under 36GB.
+For comparisons sake, that's more storage than many smartphones provide, and enough to fill more than 50 standard CD-Roms.
+Just about any kind of data you can think of that is transactional in nature and requires immutability - ie information that absolutely cannot be changed after it has been created.
+A good example is land titles.
+Texas-based Factom is working with a Central American client to try to get their system for registering land titles into a Blockchain.
+According to Factom president Peter Kirby, this country had "built a database of all their land title records and some bureaucrats got hold of that and they started giving themselves beachfront property".
+He added: "With Blockchain technology, you could create a truly tamper-proof record system. Those land title records can go into the Blockchain in a way that I know if anybody tries to change it."
+Other candidates for insertion into the Blockchain include contracts, royalty payments, certificates for authenticating art and even government budgets.
+Can I look at a Blockchain?
+Yes you can.
+You can download the Bitcoin Blockchain at any time and view transactions in near real-time.
+Alternatively visit  www.blockexplorer.com and use its simplified interface. Just type in a random block number to view the transactions contained within that block.
+Sure is.
+And for many this is the most crucial point of all: the Blockchain lacks a central, controlling authority.
+With banks, it's the bank that acts as the sole arbiter of the validity of the ledger.
+With land, it's the officials controlling the registry.
+Both are examples of what techies are fond of calling a single point of failure.
+Anti-corruption group Transparency International says there is great potential in a Blockchain's ability to bypass the need for such traditional "gatekeepers".
+"Corruption appears when you have a monopoly, somebody with discretionality to decide and when you have opacity," Alejandro Sales, the body's regional director for the Americas tells the BBC.
+Not so fast.
+The Blockchain's distributed nature and the ability for anyone in the world with a powerful enough computer to participate is both its strength and weakness.
+According to the theory, so long as nodes - programs that validate transactions and blocks - don't cooperate to break the system, all goes to plan.
+But when it comes to putting all this into practice, one Harvard internet law professor thinks he has spotted a flaw.
+"Why would we assume that now and forever no one entity could command more than half of the computing power of the people mining a Blockchain?" asks Prof Jonathan Zittrain.
+"I haven't really heard a satisfying answer to that."

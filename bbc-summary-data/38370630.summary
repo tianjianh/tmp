@@ -1,0 +1,55 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170106155312/http://www.bbc.com/news/world-us-canada-38370630
+
+[SN]TITLE[SN]
+Can US election hack be traced to Russia?
+
+[SN]FIRST-SENTENCE[SN]
+US President Barack Obama has directed his intelligence agencies to declassify as much as possible of their review into US election hacking. But just what kind of evidence might there be to link the activity to Russia and how much of it is likely to be made public?
+
+[SN]RESTBODY[SN]
+Attributing cyber-attacks is hard - the ones and zeroes of online activity can be manipulated to mask an attacker's identity.
+But the details of the breach into the Democratic National Committee (DNC) are unusually public.
+The DNC called in the company CrowdStrike to investigate this spring and then allowed them to publish much of the technical information.
+That has allowed the wider community of cyber-security investigators to pore over the details.
+The detective work involves comparing the types of malicious software - or malware - used in the attack with previous activity, the equivalent of fingerprints, as well as looking at patterns of who is targeted.
+In this case, CrowdStrike identified two actors inside the DNC network that it had seen before - one that it calls Cozy Bear (linked to Russia's FSB) and the other Fancy Bear (linked to the GRU, Russian military intelligence).
+Cozy Bear breached the network and stole data. Fancy Bear was linked to the release of the data from the DNC and other political figures.
+"We did attribution back to the Russian government," Shawn Henry of CrowdStrike told me before the election. "We believed with a high level of confidence that it was tied to Russia."
+Other experts say they saw custom Russian malware artefacts not available in the criminal marketplace on the DNC's network.
+Analysts also traced the route the information then took to get into the public domain.
+"It is not a clear chain of custody," says Toni Gidwani, director of research operations at threat intelligence firm ThreatConnect, while adding that the evidence still points to Russia.
+A hacker called Guccifer 2.0, who claimed responsibility for getting hold of the material and passing it on, appears to be more than one person.
+This kind of analysis by the private sector produces an assessment rather than irrefutable proof, but it is one that can be contested in the public domain.
+There are other methods that intelligence agencies can use, but they are far less public.
+The material released by Edward Snowden revealed the ability of America's National Security Agency (NSA), allied with Britain's GCHQ, to watch data move at a global level, including spying on traffic passing through fibre-optic cables at key junction points.
+This kind of signals intelligence (SIGINT) is a key part of cyber-defence.
+It provides a unique ability to not just spy on others but also watch other spies do their spying.
+Sometimes countries will even steal what other spies are taking from a third country - known as fourth-party collection.
+"We are looking for patterns, signatures, segments which betray a compromise - the discovery that a hostile actor has penetrated a sensitive network (and) somehow is exfiltrating data which had been thought to be secure," the head of GCHQ, Sir Ian Lobban, told me in an interview in 2013, before the Snowden revelations.
+This "passive" SIGINT capacity is one possible reason why, as early as September 2015, the FBI was trying to warn the DNC about a possible breach.
+Spies can also use active methods to try to get inside the networks of their adversaries, and plant malware in their machines in order to watch what they are doing.
+GCHQ and NSA staff have sometimes found themselves wading through data on hackers' computers, including pictures of pets and old family photos to tie hacks to specific users.
+Sometimes such searches are useful - such as pictures of hackers from the Chinese People's Liberation Army, later publicised in an indictment for commercial espionage by the US Department of Justice.
+The public attribution in that case was designed to induce a change of behaviour on the part of China. US officials say it had some success.
+The US faced a similar dilemma about what to reveal in 2014 when it said North Korea attacked Sony Pictures.
+A range of options was put to the president - including military strikes, cyber-retaliation and financial sanctions.
+But there were questions over how sure the US was about North Korea's responsibility.
+That confidence was reportedly based on implants it had placed within the North Korean network.
+But the North Koreans had also been sloppy with their use of IP addresses, using ones already associated with Pyongyang's activity for the hacking.
+Russian spies are generally seen as among the stealthiest and most effective of the world's intelligence services when it comes to hiding their trails, though.
+There is also the world of human intelligence.
+Attributing a cyber-attack can sometimes be done by having an agent inside Moscow who can communicate back what the country's spies are up to.
+Crucially such an agent may also be able to offer insight into the intent and the motivation of a cyber-operation - something which is not always evident from purely technical details.
+But if the US did have this kind of source they would do everything they could to protect and avoid exposing them.
+It is the last thing they would want to talk about.
+American intelligence has said it believed the election hack was ordered from the highest levels in the Kremlin.
+"Not much happens in Russia without Vladimir Putin," President Obama said on 16 December.
+They may have intelligence backing this, but it could also be a case that based on past behaviour, the US simply believes that an operation of this kind of sensitivity would not be undertaken by spies without clearance from senior officials.
+A similar conclusion was reached by a British judge regarding the role of the Kremlin in the killing of Alexander Litvinenko in London.
+The issue of sources creates a dilemma for US intelligence and the White House: How much does it need to reveal?
+The debacle over Iraq's absent weapons of mass destruction created a suspicion of claims based on intelligence.
+Donald Trump himself pointed to that failure in response to reports Russians sought to help his election campaign.
+One legacy of Iraq has been a reduced willingness to take the word of spies at face value, instead of asking for more proof.
+Now the challenge for US intelligence will be deciding how much evidence it places into the public domain and how to balance the benefit of increased transparency with the potential risks.
+It also may be that in such a politicised case, whatever they produce, the sceptics will not be convinced.

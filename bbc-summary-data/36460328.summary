@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170306085540/http://www.bbc.co.uk/news/technology-36460328
+
+[SN]TITLE[SN]
+Amazon-driven services hit by blackout
+
+[SN]FIRST-SENTENCE[SN]
+Australian food-ordering and ticket-selling apps, TV-streaming platforms and a car-sharing site temporarily stopped working because of problems at one of Amazon's data centres.
+
+[SN]RESTBODY[SN]
+The businesses all rely on the US company's cloud computing division - Amazon Web Services - to power their internet operations.
+Amazon has acknowledged that some of its servers lost power early on Sunday morning.
+This coincided with a major storm.
+Local reports have linked the severe weather conditions to the blackout, but this has not been confirmed by Amazon.
+Affected services included:
+AWS's status dashboard indicated that its automated systems had managed to restore the majority of its affected compute servers within 70 minutes.
+However, it noted that "a couple of unexpected issues" had caused problems to persist into Monday.
+By this point, however, most of the affected services were working as normal again.
+AWS is designed so its customers can choose to power their online services via several of its data centres at the same time.
+In theory, this means that even if one site stops working, the client's online service should continue uninterrupted.
+It is not clear whether the affected services had made use of the facility.
+Amazon competes with Microsoft, Google and others to sell virtual computing facilities.
+They suggest they can save companies the greater cost of building and maintaining their own servers.
+Sunday's fault - and others before it - highlight a potential risk in centralising online services together in this way.
+But one expert highlighted how quickly AWS had been able to handle its blackout.
+"The speed at which Amazon got stuff back up and running is impressive and represents one of the big plus points of going down the distributed cloud route," said Chris Green, a tech analyst at the consultancy Lewis.
+"When problems do happen, it can rectify them or shunt systems off to another data centre far faster than most companies could do in-house."
+Several banks in Australia also reported problems with their apps over the weekend.
+Some customers were unable to make online purchases, while others could not use smartphone fingerprint sensors to log into their accounts.
+Melbourne-based Members Equity Bank blamed "server issues that have affected several banks following the storms on the east coast".
+An AWS spokesman told the Sydney Morning Herald newspaper that it was not involved with the banks' issues.

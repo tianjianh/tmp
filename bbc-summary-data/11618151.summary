@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160503170909/http://www.bbc.co.uk/news/technology-11618151
+
+[SN]TITLE[SN]
+UK robots prepare for world cup
+
+[SN]FIRST-SENTENCE[SN]
+UK researchers are preparing one of the nation's first teams to compete in the 2011 robot football world cup.
+
+[SN]RESTBODY[SN]
+Researchers at the University of Edinburgh are currently refining the smart systems that control the team of three humanoid robots on the pitch.
+They will enter their trio of robots in the main RoboCup competition which pits standardised robots against each other.
+Competition to reach the finals will be fierce as the 2010 RoboCup attracted entrants from 40 nations.
+"Football is a beautiful game and a difficult game," said Dr Subramanian Ramamoorthy, an assistant professor in the School of Informatics at Edinburgh University who is overseeing the creation of the robotic team.
+Research students Aris Valtazanos, Efstathios Vafeias, Thomas McGuire, Jayant Bansal, Chris Towell, Ioannis Havoutis and Majd Hawasly are coaching the team and getting them to play together.
+Dr Ramamoorthy said preparing the small humanoid robots to play a game of football was a good way to create and refine software for robots that will spend time helping humans.
+"It's a nice contained experimental testbed for trying out a lot of different things that are hard in robotics," said Dr Ramamoorthy. "The robot has to look, to move, to kick and all of these have to be done in the context of team work."
+The Edinburgh researchers are planning to enter a team in the standard platform league of the RoboCup tournament. This sees all entrants use the same robot - a small humanoid called Nao made by French firm Aldebaran Robotics.
+This part of the tournament typically attracts the most entrants and national qualifiers are run to find the best teams to go forward to the main RoboCup competition.
+When playing together the three robots must act autonomously and get no help from their handlers. The robots can communicate via wi-fi to co-ordinate teamwork.
+The challenge of getting them to work together is made more acute, said Dr Ramamoorthy, by the limited vision and processing power of the Nao robot.
+Current work is going into improving the visual processing system of the robots so they can spot the bright orange tournament ball.
+"Vision for robots is very difficult," said Dr Ramamoorthy, "They lack peripheral vision - something humans use extensively. We also have much better low light vision, if something changes in your environment you get a trigger."
+Visual cues have to be tied in to the motion system of the robot so it can note where the ball has gone and move towards it. In doing so they will also have to take into account the actions of team mates or opponents. A touch is an automatic foul in RoboCup rules.
+"The rules are strict, you have to play the game fairly," said Dr Ramamoorthy.
+As well as a tournament for humanoids, the RoboCup also has competitions for simulated teams, humanoids, mid-sized and small robots. The RoboCup was set up with the aim of, by 2050, creating a team of humanoid robots that can take on and beat the best human players.
+Other UK teams that have competed in the RoboCup are the Bold Hearts team, which came fourth in the 2009 humanoid simulation competition, and Prenton High School for girls which competes in the junior league.
+UK robots from the University of Plymouth also played in the robo- football tournament run by FIRA - the Federation of International Robot-soccer Association.

@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161126092026/http://www.bbc.co.uk/news/technology-34346806
+
+[SN]TITLE[SN]
+NHS-approved apps found 'leaking' ID data
+
+[SN]FIRST-SENTENCE[SN]
+Many NHS-accredited smartphone health apps leak data that could be used for ID theft and fraud, a study has found.
+
+[SN]RESTBODY[SN]
+The apps are included in NHS England's Health Apps Library, which tests programs to ensure they meet standards of clinical and data safety.
+But the study by researchers in London discovered that, despite the vetting, some apps flouted privacy standards and sent data without encrypting it.
+The apps that leaked the most data have now been removed from the library.
+"If we were talking about health apps generally in the wider world, then what we found would not be surprising," said Kit Huckvale, a PhD student at Imperial College London, who co-wrote the study.
+But given that the apps the study looked at were supposed to have been vetted and approved, finding that most of them did a poor job of protecting data was a surprise, he added.
+Mr Huckvale and colleagues looked at 79 separate apps listed in the NHS library. Over six months they periodically supplied the apps with fake data to assess how they handled it.
+The apps in the library are aimed at helping people lose weight, stop smoking, be more active and cut back on drinking.
+Of the total, 70 sent personal data to associated online services and 23 did so without encrypting it.
+The study found that four apps sent both personal and health data without protecting it from potential eavesdropping.
+If intercepted the data could be used for ID theft or fraud, said Mr Huckvale.
+More than half of the apps had a privacy policy but many of these were vaguely worded and did not let people know what types of data were being shared.
+Mr Huckvale said the most of the data the apps gathered and shared was about a person's phone or their identity, with only a handful collecting information about the health of users.
+The results of the study are published in the open access journal BMC Medicine.
+Mr Huckvale added that the NHS needed to work harder on testing because of how apps were likely to be used in the future.
+"The study is a signal and an opportunity to address this because the NHS would like to see strategic investment in apps to support people in the future," he told the BBC.
+"We will see them used more often and become much more complex over time."
+NHS England said: "We were made aware of some issues with some of the featured apps and took action to either remove them or contact the developers to insist they were updated.
+"A new, more thorough NHS endorsement model for apps has begun piloting this month."
+Security expert Ken Munro of Pen Test Partners said the study revealed the shortcomings of many developers who were not following well-established ways of handling personal data.
+"It's worrying information," he said of the study. "Where insecure storage of personal data often fails is with developers not understanding the consequence of poor security practice."

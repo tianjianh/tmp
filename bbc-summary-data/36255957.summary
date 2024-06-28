@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160512082530/http://www.bbc.co.uk/news/science-environment-36255957
+
+[SN]TITLE[SN]
+Sentinel's first map of sea-surface 'hills and valleys'
+
+[SN]FIRST-SENTENCE[SN]
+The EU's Sentinel-3a satellite has given a sneak peek at what will be one of its most fundamental products - a map of sea surface height anomalies.
+
+[SN]RESTBODY[SN]
+Launched in February, the spacecraft carries an altimeter to sense the oceans' "hills" and "valleys".
+It is basic information that is needed to track currents and eddies, inform ocean forecasts and track variability in climate-driven sea-level rise.
+This first Sentinel-3a global map contains just one month's data.
+The acquisition was made between 3 March and 2 April 2016.
+Red shows (positive) areas where the sea surface is higher than the reference sea level, and blue (negative) areas reveal where it is lower.
+Positive anomalies are normally associated with warmer waters and a deeper thermocline, with negative anomalies associated with cooler waters and a shallower thermocline.
+The thermocline is the transition layer between warmer mixed water at the ocean's surface and cooler deep water below.
+The "reference" against which Sentinel-3a is looking is the historical dataset gathered by satellite altimeters since the early 1990s.
+Some of the big features immediately recognisable in the map are the Gulf Stream moving up the US East Coast and across the North Atlantic, the Brazil-Falklands Confluence Zone in the southeast Atlantic, the Benguela and Agulhas currents that hug the southern tip of Africa, and the Kuroshio current that sweeps east of Japan into the central Pacific.
+Sentinel-3a joins five other space altimeters already in orbit that are contributing this kind of data. This number of instruments is unprecedented.
+"The main reason you want so many space altimeters is to provide good sampling of mesoscale details," explained Dr Craig Donlon, the European Space Agency's (Esa) mission scientist on Sentinel-3a.
+"Given the very narrow field of view which is at nadir (straight down), you only get to see a few km in width, depending on the sea state.
+"With a series of altimeters flying in a constellation, you can improve the sampling of the global ocean. But you have to make sure that at least one of those altimeters is working as a reference. This one must be an accurate, well-monitored system, and a consistent system throughout the historical altimeter constellation as well.
+"That's been the Topex/Jason series, soon to become Sentinel-6/Jason-CS in a few years' time. The reference altimeter orbit is a 66 degree (relative to the equator) orbit, that was chosen very deliberately because you minimise tidal aliasing, because as you can imagine, if you have tides in your signal it's very confusing."
+But being in a 66-degree orbit means behaviour at the poles is lost. That is where S-3a comes in. It goes to much higher latitudes, enabling it for example to have a look at what is happening in the Arctic Ocean.
+It is hard to overstate the importance of sea surface elevation to the study of the oceans. Just as surface air pressure reveals what the atmosphere is doing above, so ocean height will betray details about the behaviour of water down below.
+The data gives clues to temperature and salinity, and when combined with gravity information, it is possible to gauge not just current direction but speed as well.
+The oceans store vast amounts of heat from the Sun, and how they move that energy around the globe and interact with the atmosphere are what drive our weather and climate systems.
+The sea surface anomalies map, processed by the French space Agency CNES, was released here in Prague at Esa's Living Planet Symposium - a conference dedicated to Earth observation.
+Many of the talks are centred on data coming from the EU's new Sentinel satellites - the biggest EO project in the world.
+Four spacecraft have now been launched, with many more to follow.
+Esa's Earth observation director Prof Volker Liebig showed a recent image from the colour camera on Sentinel-2a. This featured a giant algal bloom off the coast of Chile.
+The bloom was powered by the warm waters brought to the eastern Pacific last year by the El Nino phenomenon.
+"Twenty-four million salmon in fish farms died as a consequence of this event," he said.
+"The El Nino led to warm water there; normally it is cold water. The industry was unprepared. Eight-hundred-million US dollars have been lost.
+"We hope governments and industry will become more aware of these (Sentinel satellite) tools and use them in the future to be better prepared."
+A multitude of services based on Sentinel and other satellite data is already available under the EU's Copernicus programme.
+The European-funded Sentinel series
+What is the Copernicus programme?
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

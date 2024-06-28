@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170414020945/http://www.bbc.co.uk/news/technology-38092196
+
+[SN]TITLE[SN]
+Convict-spotting algorithm criticised
+
+[SN]FIRST-SENTENCE[SN]
+An experiment to see whether computers can identify criminals based on their faces has been conducted in China.
+
+[SN]RESTBODY[SN]
+Researchers trained an algorithm using more than 1,500 photos of Chinese citizens, hundreds of them convicts.
+They said the program was then able to correctly identify criminals in further photos 89% of the time.
+But the research, which has not been peer reviewed, has been criticised by criminology experts who say the AI may reflect bias in the justice system.
+"This article is not looking at people's behaviour, it is looking at criminal conviction," said Prof Susan McVie, professor of quantitative criminology at the University of Edinburgh.
+"The criminal justice system consists of a series of decision-making stages, by the police, prosecution and the courts. At each of those stages, people's decision making is affected by factors that are not related to offending behaviour - such as stereotypes about who is most likely to be guilty.
+"Research shows jurors are more likely to convict people who look or dress a certain way. What this research may be picking up on is stereotypes that lead to people being picked up by the criminal justice system, rather than the likelihood of somebody offending."
+The researchers took 1,856 ID photographs of Chinese citizens that fitted strict criteria of males aged between 18 and 55 with no facial hair or markings.  The collection contained 730 ID pictures - not police mugshots - of convicted criminals or "wanted suspects by the ministry of public security".
+After using 90% of the images to train their algorithm, the researchers used the remaining photos to see whether the computer could correctly identify the convicts.  It did so correctly about nine times out of 10.
+The researchers from Shanghai Jiao Tong University said their algorithm had identified key facial features, such as the curvature of the upper lip and distance between eyes, that were common among the convicts.
+But Prof McVie said the algorithm may simply have identified patterns in the type of people who are convicted by human juries.
+"This is an example of statistics-led research with no theoretical underpinning," said Prof McVie, who is also the director of the Applied Quantitative Methods Network research centre.
+"What would be the reason that somebody's face would lead them to be criminal or not? There is no theoretical reason that the way somebody looks should make them a criminal.
+"There is a huge margin of error around this sort of work and if you were trying to use the algorithm to predict who might commit a crime, you wouldn't find a high success rate," she told the BBC.
+"Going back over 100 years ago, Cesare Lombroso was a 19th Century criminologist who used phrenology - feeling people's heads - with a theory that there were lumps and bumps associated with certain personality traits.
+"But it is now considered to be very old and flawed science - criminologists have not believed in it for decades."
+Prof McVie also warned that an algorithm used to spot potential criminals based on their appearance - such as passport scanning at an airport, or ID scanning at a night club - could have dangerous consequences.
+"Using a system like this based on looks rather than behaviour could lead to eugenics-based policy-making," she said.
+"What worries me the most is that we might be judging who is a criminal based on their looks. That sort of approach went badly wrong in our not-too distant history."

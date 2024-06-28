@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170612062615/http://www.bbc.co.uk/news/business-37541594
+
+[SN]TITLE[SN]
+Is that app you're using for work a security threat?
+
+[SN]FIRST-SENTENCE[SN]
+OK, so how many of you have downloaded Pokemon Go on to your work phone? Come on, admit it.
+
+[SN]RESTBODY[SN]
+If you were surprised the IT department let you do this, don't be - many companies have absolutely no idea what their staff are up to it seems.
+For example, when cybersecurity firm Imperva asked one of its banking clients how many apps it thought its staff were using, the firm estimated between 75 and 100 in total. The figure was actually closer to 800.
+Why does this matter?
+Cloud-based apps often gain access to the camera, location, data and contacts on your phone. So you never know how much sensitive company information they may be snaffling.
+We could be giving hackers, fraudsters and spies the keys to our company's back door, particularly if we naively use the same log-in details for external apps as we do for internal work apps.
+"It's a mission-critical problem if you don't know which third-party apps have access to your data," says Ryan Kalember, senior vice president of cybersecurity strategy at Proofpoint.
+Big tech companies such as LinkedIn, MySpace and Dropbox have suffered major data breaches, with security research company Ponemon putting the average cost per breach at $4m (Â£3.2m), or $158 per stolen record.
+And our cavalier attitude to apps at work could be contributing to the problem, experts warn.
+"If the enterprise doesn't provide the users with the tools they expect to do the job, they'll find the tools themselves," says Jon Huberman, chief executive of file-sharing company Syncplicity.
+"But it's a huge issue for the company - data leakage is a big problem."
+While apps such as Slack, Evernote, WhatsApp, and Dropbox, can help us do our jobs more efficiently - in the office and away from it - we often don't know if they've been approved by our IT departments or how much corporate data we may be sharing - wittingly or unwittingly - with the cloud.
+Terry Ray, Imperva's chief product strategist, says: "Staff often don't think about security or know what is or isn't sensitive data.
+"And the risks of a data breach are massively exacerbated by the cloud, even though cloud-based apps, such as Microsoft's Office 365, are proving increasingly popular because they dramatically reduce IT costs."
+The worry for IT departments is that these third-party apps may not have particularly robust security protocols in place because many were developed primarily with consumers in mind.
+And the data itself may be stored in foreign countries governed by less stringent data protection laws.
+"App security is the skeleton in the closet," says Cesare Garlati, chief security strategist at Prpl Foundation, a non-profit body promoting open source software standards.
+"Software is assembled these days, not written - developers use libraries, so you don't know what bits of defective code may be lurking in an app compromising its security," he says.
+"Bring Your Own Device [using your own smartphone, tablet or laptop for work purposes] was always a big threat to the security model - corporations lose control."
+While companies take great pains to protect personally identifiable information, such as social security and credit card numbers, it's often the seemingly innocuous information that can give fraudsters the ammunition to make a phishing email more believable, say, or an invoice payment request more plausible.
+Many apps are also laden with malware - another threat to corporate security.
+"Most [malware-laden] mobile apps are being monetised by selling users' information and phishing for banking credentials," says Mr Kalember.
+"Many organisations have lost money via these phishing apps - which often pretend to be something else, such as a Flash player or even a Bible app - when they've allowed people in their finance departments to access corporate bank accounts via mobile devices."
+And Syncplicity's Mr Huberman points out that if a company doesn't know what apps their staff are using or what data is being shared, it poses a problem when those staff leave for other companies.
+"All that data goes with them," he says, "possibly to your competitors."
+And web-based email programs can be just as risky.
+Before doctors were given a secure environment in which to share confidential patient details with each other, many would use open email programs such as Gmail, in clear breach of data privacy regulations, says Mr Huberman.
+"They realised this but their argument was that they needed to consult with colleagues to save lives. We were able to give them the right tools to share data securely on any device without violating any regulations."
+So what should businesses be doing about this issue?
+The advice from security experts is pretty consistent and can be boiled down to a few bullet points:
+Of course, none of this is easy, and for many companies the horse has already bolted. But when you're in a tug of war and feel the rope slipping between your hands, you don't immediately let go, do you?
+Follow Matthew on Twitter
+Click here for more Technology of Business features

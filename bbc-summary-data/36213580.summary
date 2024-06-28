@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170105173731/http://www.bbc.com:80/news/technology-36213580
+
+[SN]TITLE[SN]
+Bitcoin 'creator' backs out of Satoshi coin move 'proof'
+
+[SN]FIRST-SENTENCE[SN]
+The Australian entrepreneur who has claimed to be the inventor of Bitcoin has reneged on a promise to present new "proof" to support his case.
+
+[SN]RESTBODY[SN]
+Craig Wright had pledged to move some of the virtual currency from one of its early address blocks, an act many believe can only be done by the tech's creator.
+This would have addressed complaints that earlier evidence he had published online was misleading.
+Dr Wright said that he was "sorry".
+"I believed that I could put years of anonymity and hiding behind me," he blogged.
+"But, as the events of this week unfolded and I prepared to publish the proof of access to the earliest keys, I broke. I do not have the courage. I cannot.
+"When the rumours began, my qualifications and character were attacked. When those allegations were proven false, new allegations have already begun. I know now that I am not strong enough for this."
+Dr Wright's claims were first reported by the BBC, the Economist and GQ magazine on Monday.
+Dr Wright had earlier indicated that he would transfer some bitcoins from "block 9" by using a private key thought to be known only to Satoshi Nakamoto, a pseudonym used by the person or team that designed the crypto-currency.
+Satoshi is known to have used the address in 2009 to send coins to a computer scientist.
+Dr Wright had promised the "extraordinary proof" in light of a growing backlash against one of his blogs.
+On Monday, he had posted what seemed to be evidence that he had Satoshi's key by describing a process that led to the creation of a "digital signature".
+But soon after, this was attacked by security researchers who linked the signature to an earlier Satoshi Bitcoin transaction that could be found via a search engine.
+Dr Wright subsequently wrote that he was the victim of "false allegations" and would prove his case by both moving the coins and by sharing "independently verifiable documents".
+Dr Wright's claims had initially been bolstered by the fact that two senior members of the Bitcoin Foundation - an organisation set up to protect and promote the virtual currency - had said they were convinced he was indeed behind the technology.
+Dr Wright had shown Gavin Andresen and Jon Matonis other evidence in private.
+He apologised to the two men in his latest blog.
+"I know that this weakness will cause great damage to those that have supported me, and particularly to Jon Matonis and Gavin Andresen," he wrote.
+"I can only hope that their honour and credibility is not irreparably tainted by my actions. They were not deceived, but I know that the world will never believe that now. I can only say I'm sorry. And goodbye."
+Mr Matonis has tweeted that there "won't be another Satoshi".
+The BBC understands that this tweet signifies that Mr Matonis still believes Dr Wright is indeed Satoshi.
+"A lot more people in the Bitcoin community are going to be unconvinced of Dr Wright's claims than will believe he is Satoshi, based upon what's happened to date," commented Dr Garrick Hileman, an economic historian at the Cambridge Centre for Alternative Finance.
+"But many of the doubters don't want to be convinced. Satoshi has been mythologised and if you pull back the curtain, you shatter a lot of people's fantasies.
+"There are very credible people besides Gavin and Jon who still think he is Satoshi - people who are privy to other information and whose judgement I respect.
+"But personally, I have more questions than answers at this point."
+Security researcher Dan Kaminsky was more sceptical.
+"I'm glad it's over," he said.
+"I can't believe Wright's last scheme was to demand Â£5 be sent to the real Satoshi. I wouldn't call that courage but it's definitely chutzpah."
+Dr Wright's website no longer contains his original blogs, but only his final message.
+Bitcoin is often referred to as a new kind of currency.
+But it may be best to think of its units being virtual tokens rather than physical coins or notes.
+However, like all currencies its value is determined by how much people are willing to exchange it for.
+To process Bitcoin transactions, a procedure called "mining" must take place, which involves a computer solving a difficult mathematical problem with a 64-digit solution.
+For each problem solved, one block of bitcoins is processed. In addition the miner is rewarded with new bitcoins.
+This provides an incentive for people to provide computer processing power to solve the problems.
+To compensate for the growing power of computer chips, the difficulty of the puzzles is adjusted to ensure a steady stream of several thousand new bitcoins a day. There are about 15 million bitcoins currently in existence.
+To receive a bitcoin a user must have a Bitcoin address - a string of 27-34 letters and numbers - which acts as a kind of virtual post-box to and from which the bitcoins are sent.
+Since there is no registry of these addresses, people can use them to protect their anonymity when making a transaction.
+These addresses are in turn stored in Bitcoin wallets which are used to manage savings.
+They operate like privately run bank accounts - with the proviso that if the data is lost, so are the bitcoins owned.

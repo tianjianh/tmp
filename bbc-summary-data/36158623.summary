@@ -1,0 +1,45 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160503220744/http://www.bbc.co.uk/news/business-36158623
+
+[SN]TITLE[SN]
+Eureka! How to make discoveries at the speed of light
+
+[SN]FIRST-SENTENCE[SN]
+The Roskilde music festival in Denmark is a huge logistical undertaking, attracting 130,000 visitors each year.
+
+[SN]RESTBODY[SN]
+Over eight days guests camp out and watch 170 live performances. They buy and consume 200 tonnes of food and generate 300 tonnes of waste.
+Running the event efficiently and safely is a must, and now a team at Copenhagen Business School (CBS) says it has found a way to help organisers do just that - using "cloud analytics".
+Working with computing giant IBM, it began to collect mountains of real-time data during the festival last year, from mobile phone geo-locations, social media posts, food and ticket sales, to weather reports.
+All this data was stored on off-site servers and analysed to glean real-time insights, such as correlations between the ways crowds moved, the bands they watched, the products they bought, and the changing temperature.
+"We could see which areas of the festival would need more beer and when, which were getting overcrowded, and which would become muddy and dangerous when it rained," says Per Ostergaard Jacobsen, the academic who led the project.
+This year organisers hope to share the findings with festival ground staff via mobile phone alerts so they can respond more quickly to developing situations.
+"We could also see that people watching an artist like Paul McCartney were walking a long way to get to a certain stall or bar after the gig, which should help us decide where to place stalls in the future," adds Mr Jacobsen.
+Businesses and organisations have long analysed raw data to gain strategic insights that aid decision-making, but the advent of cloud computing is taking this to a new level.
+This is partly because the cloud allows you to store much larger amounts of data for a fraction of what it once cost.
+It also lets you access and analyse that information at lightning speed, as well as merge it with external data sets - such as meteorological forecasts or publicly available demographics - for even deeper insights.
+Take Germany's Aeria Games, whose free-to-play online games are used by 70 million people globally.
+The firm has been using the cloud software platform Tableau to get a better understanding of its customers and share those insights quickly among staff.
+"The free-to-play games industry is very competitive because players are free to play but also free to leave and try something else," says Alessio Romito, manager of the business intelligence team at Aeria.
+"So the only way to keep our players is to offer them the best possible user experience, and we rely heavily on data analysis for that."
+More Cloud Computing features from Technology of Business
+Using Tableau the firm can crunch hundreds of gigabytes of user data in real time, assessing how long people play its games for, the in-game purchases they make - and crucially what makes them come back for more.
+"In many of our games, players can collect inventory, like gold coins or weapons, to enhance gameplay," says Mr Romito.
+"But in one of our games, S4 League, we realised that players were more keen on things that customised the way their characters looked.
+"It could have been a virtual set of glasses or a jacket, and so we were able to adapt quickly and offer more of that."
+Cloud analytics is not just about customer intelligence; it can also drive efficiencies inside your business.
+US industrial multinational GE, for example, has a cloud-based platform called Predix that connects machines, sensors, systems and smart devices to one another, to garner insights in industrial settings.
+GE says that at its Grove City plant in Pennsylvania, where it repairs locomotive engines, it used to take five days to gather the data needed to alert employees to possible machine faults.
+But with Predix, sensors constantly track machine performance and a predictive analytics system can warn of impending failures - something GE says has reduced unplanned breakdowns by 20% and cut costs.
+Cloud analytics is also helping organisations protect the public.
+For example, the US Financial Industry Regulatory Authority (Finra), an independent regulator for securities brokers, collates data feeds from nearly 4,000 securities firms and numerous market exchanges to find evidence of market manipulation.
+It stores this data - amounting to some 50 billion market events a day - on cloud servers supplied by Amazon Web Services and sifts through them with the support of big data analytics platform, Cloudera.
+Lloyds Banking Group meanwhile has been testing cloud analytics tools supplied by Google and the Advanced Skills Institute to enhance both customer experience and fraud detection.
+The company says that it was able to analyse a year's worth of data in under a minute and react in real time to customer needs.
+Using Google's machine learning techniques, it was also able to improve fraud detection by finding "new patterns which could potentially form part of our normal detection process", a spokesperson tells the BBC.
+"That might mean we could spot a pattern which only occurs once every million events, and that's really valuable."
+Some have warned that hackers are increasingly targeting the growing swathes of data being stored in the cloud. But others believe it is safer there than anywhere else.
+"There have been stories in the press about data leaks and privacy for the past 30 years, so it's an issue people will have to deal with, be it in the cloud or not," says Laurie Miles, director of the global cloud analytics division at big data specialist, SAS.
+"I personally think data is more secure on the cloud because you're leaving it with a business that specialises in looking after data and protecting it."
+Those companies deriving valuable insights from real-time cloud analytics will argue that the benefits outweigh the risks.
+Follow Technology of Business editor @matthew_wall on Twitter.

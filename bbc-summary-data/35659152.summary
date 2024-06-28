@@ -1,0 +1,56 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170427014703/http://www.bbc.co.uk/news/technology-35659152
+
+[SN]TITLE[SN]
+How did governments lose control of encryption?
+
+[SN]FIRST-SENTENCE[SN]
+The clash between Apple and the FBI over whether the company should provide access to encrypted data on a locked iPhone used by one of the San Bernardino attackers highlights debates about privacy and data security which have raged for decades.
+
+[SN]RESTBODY[SN]
+Cryptography was once controlled by the state and deployed only for military and diplomatic ends. But in the 1970s, cryptographer Whitfield Diffie devised a system which took encryption keys away from the state and marked the start of the so-called "Crypto Wars".
+Whitfield Diffie and three other experts spoke to the BBC World Service Inquiry programme about the tensions at the heart of the spat between Apple and the FBI.
+In 1975, cryptographer Whitfield Diffie devised "public key cryptography", which revolutionised encryption.
+"The basic techniques we used until public key cryptography come from around 1500 in the western world, and were known from about 800 in the Middle East.
+"They are basically arithmetic. Not ordinary integer arithmetic, but something like clock arithmetic - it's 11 o'clock and you wait three hours and you get 2 o'clock - and table lookups. What's the 5th element in the table? What's the 20th element?
+"The trouble is you can't do them very well without some kind of mechanical computation. A human being can't do enough of those calculations to produce a secure system without making too many mistakes.
+"Before what we did, you could not have supported cryptography outside a fairly integrated organisation. If you look at the US Department of Defense, it's very large, but very centralised; everybody knows the chain of command.
+"They can have a trusted entity run by the National Security Agency (NSA) to manage the keys [used by the military and government]. If you were in the military, and it was part of your assignment to talk to somebody securely in another part of the military, they would supply you with a key, and every morning you come out and put one in your teletype machine or phone or whatever.
+"But the internet is not just meant for friends to talk to friends, it's for everybody to talk to everybody. Until you have public key cryptography you have no way of arranging the keys on demand at a moment's notice for these secure communications.
+"That's what browsers do with websites all the time. Amazon, eBay, all of the merchants on the internet encrypt at least some of the traffic you have with them, at the very least the payment portion of it.
+"[At the time] the NSA reacted like any other enterprise that has had a monopoly in a market for a long period of time. Suddenly somebody was treading on its turf, and it made several attempts to recapture its market."
+Susan Landau is professor of Cyber Security Policy at Worcester Polytechnic Institute.
+"Public-key cryptography was mathematically elegant and also quite elementary. That's what made it so powerful and so wonderful.
+"The NSA said 'Wait a minute: this work should be classified.' They had been accustomed to being the only place that cryptography was done. They didn't want a competitor developing algorithms that maybe they would have trouble breaking into. They wanted to hold the keys to the kingdom.
+"There was a big fight between the academic and industry research community and the NSA. But it was settled fairly amicably, fairly quickly. The next problem was who would control the development of cryptography standards for the US government.
+"The NSA does this for military and diplomatic communications, but there's a vast need for cryptography for civilian agencies such as health and human services, education, agriculture. The National Bureau of Standards had been doing this in the 1970s but in the 1980s the NSA began pushing in this direction.
+"Congress, who had always looked more favourably on the civilian side, put the National Institute of Standards and Technology in charge.
+"But the law also included this little thing about three people from NSA approving certain things. They exercised tremendous control, and kept blocking standards that were more friendly to the commercial sector. That battle went on between 1987 until the mid 1990s. It was quite ugly.
+"Another battle was over the clipper chip. Clipper was a very hard algorithm with a secure key, but the key was split and was to be shared with agencies of the federal government. The idea was [that] a business person travelling overseas would be able to use a clipper-enabled phone and talk securely with the office back at home.
+"But if you're doing something illegal the US government will be able to decrypt easily, because the keys are held by its agencies.
+"It was a complete flop. Outside the US, no one wanted it. Inside the US, no one bought it. It was a total failure.
+"The controls on cryptography in the 1990s were very odd because they were controls on an export. If you wanted to export a computer or communications device with cryptography, you needed an export licence from the US government.
+"Much of the time you would get 'We're looking at it, we'll get back to you.' Of course, when you're selling high tech, you don't need a delay of two months, [so] you decide not to have strong encryption within the device - you put in something very weak that the US government will allow to go without a licence. The effect was to not have strong encryption domestically as well as abroad.
+"In 2000, the US government loosened the controls on export of devices with strong encryption; it looked as if the private sector won the battle."
+Alan Woodward is an expert in signals intelligence, intelligence gathered from communications, who has worked for the UK government in various roles.
+"Suppose you got intelligence that people appeared to be mobilising their military forces. You'd need to know whether that was a prelude to war, or just an exercise. One of the ways to do that was by analysing the signals and communications traffic going around on the other side.
+"In the early 2000s, it got harder. Previously they'd had the ability to decrypt things that were weakly encrypted. You could throw a super computer at the problem and try all the possible keys until you unlock the message.
+"You just physically couldn't do that for the number of encrypted messages that were starting to pile up. But also, the forms of encryption were becoming stronger. The encryption that was being used by governments themselves back in the 1970s was called the Data Encryption Standard. With a modern PC, you can break that in a matter of seconds. That kind of evolution in encryption and decryption has been going on ever since.
+"It got worse because there were various other forms of technology that were based on encryption, where you were able to remain anonymous, completely hidden. There's a thing called the Tor network which causes security agencies a great deal of trouble, because you don't even know where that person is based, never mind who they're communicating with.
+"Governments recognised that there wasn't a lot you could do about this technically or from a policy perspective. It's out there. So what you have to do is  be able to get at it before it is encrypted or after it's decrypted.
+"They recognised that they needed to work more closely with the technology providers because they were the ones that owned the infrastructure that was being used.  They were the ones running it; it was no longer governments and state telecommunications companies.
+"They had very good relationships. Microsoft produced a suite of software called Cofee (Computer Online Forensic Evidence Extractor), which is only given to government and Law Enforcement Agencies. It's a forensic tool that allows you to analyse Windows systems.
+"You used to be able to go along to Apple and they could unlock the phone. With messaging services it was possible for governments with the right authorisation to go along and sit in the middle of the conversation and look at the messages in a non-encrypted form.
+"All of that changed when Edward Snowden got his leaks out."
+Jeff Larson is a reporter at New York investigative newsroom ProPublica. It worked with the Guardian newspaper on the sensitive material leaked by Edward Snowden from the US National Security Agency in 2013.
+"I had seen something in the Snowden tranche of documents that made me suspicious that the NSA and GCHQ had been working behind the scenes to crack encryption that powers internet technologies.
+"When you log into your bank or Twitter or Facebook, your web browser talks to those servers over what's known as TLS, which is an encryption layer that protects the confidentiality of that traffic.
+"The intelligence agencies - not only NSA and GCHQ, but Canada and Australia and New Zealand- had spent 10 years and untold billions of dollars trying to break these fundamental encryption technologies.
+"They honed things, like their power with super computers, but they were also able to mount a programme of inserting back doors into cryptographic software, and - perhaps a bit more troubling - the NSA launched a covert campaign to influence the very standards that programmers rely on to create encryption.
+"So standards bodies write up 'here's how encryption works, here's how you implement it in your software', and the NSA was actually working against that effort.
+"Ever since [the Snowden revelations were published in] 2013, there's been quite a movement to further encrypt the internet.
+"I think there's been an awakening on the part of private companies that it is important to their users to keep [their data] confidential and secret.
+"Apple saw these revelations about the overreach of intelligence services and law enforcement services, and created a phone that was harder to crack because they wanted to increase the security of their users. I do believe that.
+"The Apple case is very hard. I see the arguments on both sides. I see the fact that the FBI wants access to this information, and I also see Apple's need to protect its customers' privacy.
+"I hope that we come to a conclusion that is more open and transparent. What I would say is I like that this fight is happening in public so that we can have debates like this."
+The Inquiry is broadcast on the BBC World Service on Tuesdays from 12:05 GMT. Listen online or download the podcast.

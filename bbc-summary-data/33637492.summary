@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160227091104/http://www.bbc.co.uk/news/business-33637492
+
+[SN]TITLE[SN]
+Foil-lined wallet 'cuts contactless card fraud risk'
+
+[SN]FIRST-SENTENCE[SN]
+Putting a contactless payment card in a foil-lined wallet should prevent it being "read" by accident or fraud, a consumer body has said.
+
+[SN]RESTBODY[SN]
+Contactless cards allow people to wave a card near a retailer's reader to pay without entering a four-digit Pin.
+Researchers for consumer group Which? used a reader and decoding software to grab a card number and expiry date from cards, raising concern about theft.
+But a card industry trade body said fraud levels on contactless were low.
+The Which? researchers said they gathered enough detail to buy items, including a Â£3,000 TV, on the internet using these card details.
+They said that although the risks were low, it would be possible for somebody standing very close to "lift" card details without the owner knowing.
+However, wrapping the card in tin foil, or putting it in a foil-lined wallet would guard against this.
+Richard Koch, head of policy at the UK Cards Association, said: "The method shown by Which? is not a new discovery and was first reported two years ago. However, any such technology can only obtain the card number and expiry date - information that has always been available simply by looking at the front of a card.
+"The vast majority of online retailers require additional data such as the card security code, along with the cardholder's address, which cannot be harvested electronically. Any retailers that do not will do so at their own risk and will be liable for any fraudulent transactions."
+Some retailers ask for other information, other than the three-digit security code on the back of a card.
+"Instances of fraud on contactless cards are in fact extremely rare, with losses of less than a penny for every Â£100 spent on contactless - far lower even than overall card fraud," Mr Koch said.
+He added that consumers were fully protected against any fraud losses on contactless cards and would never be left out of pocket.
+Card providers should reimburse victims of contactless fraud, assuming victims acted reasonably to keep their card safe.
+New technology is allowing consumers to use a smartphone or smartwatch to make tap-and-go payments.
+Firms adopting the technology are also marketing it as being a more secure alternative to physical payment cards because of their use of a technique called "tokenization".
+Apple Pay is based on the system, and both Google Pay and Samsung Pay are set to adopt it when they launch soon.
+So how does it work?
+In the case of Apple Pay, the US firm requires participating banks and payment networks involved to create two new elements:
+The token and encryption key are installed into a dedicated chip on the devices, which their operating systems cannot access.
+To authorise an in-store sale, the device's token and an associated cryptogram are transmitted via the contactless terminal to the payment provider, who checks they belong together.
+Even if a thief did manage to intercept the information, they could not re-use the token without knowing a way to make new matching cryptograms.
+This is similar to way banks protect their online accounts by issuing customers with card readers that generate time-limited codes.
+Just as criminals are not able to access online accounts by typing in a user's membership number without a corresponding authentication code, so are they unable to use a stolen smartphone token without a related cryptogram.
+Furthermore, there is no easy way to reverse-engineer a token to reveal the original payment card's details.
+Even if Apple's own servers were hacked, it does not store the complete account number itself.

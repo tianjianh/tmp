@@ -1,0 +1,43 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150818125331/http://www.bbc.co.uk/news/technology-33833074
+
+[SN]TITLE[SN]
+‘I’m a professional cyberstalker'
+
+[SN]FIRST-SENTENCE[SN]
+"Stupidity is the best vulnerability. That and greed."
+
+[SN]RESTBODY[SN]
+Ken Westin openly, and enthusiastically, calls himself a professional cyberstalker. And foolish people are his target.
+He uses some of the tools that are popular with the web's creepiest patrons, hacks used to spy on webcams.
+But if you're wondering why he's so proud of it, it's because he's using that technology for good.
+He developed a suite of tools that people could willingly install on their technology.
+If something is stolen, say, a laptop, the tech would kick in - gathering reams of data that in many cases have secured serious prosecutions.
+His work has snared everyone from have-a-go thieves to crime syndicates working across the United States.
+He's also adept at piecing together clues left automatically from tech activity, like the raw data hidden in photographs taken on many popular cameras.
+His expertise has been used by law enforcement, including those trying to catch people creating and distributing child abuse images.
+The techniques Westin has used go beyond typical measures like Find My iPhone or other mainstream anti-theft tools.
+It also provides a quicker method for the authorities to locate stolen items, offering intricate details instantly, reducing the risk that thieves be able to just move the device miles and miles away.
+Westin's first significant success was in retrieving a stolen laptop. Using the software, he was able to take a picture of the suspect and tag GPS co-ordinates.
+The picture was interesting. In the background - lots of expensive looking gear. When police arrived, they found the owner of a local tattoo parlour. At the property, three stolen laptops, and a host of stuff.
+One of the most satisfying results, Westin said, was when they caught up with a gang routinely stealing computers from several schools in Portland, Oregon.
+They would work on a rotation basis: Steal machines, wait for them to be replaced, steal  again.
+They set up computers loaded with the spy software, and left them as bait. Sure enough, they were stolen, and tracked to a Russian gang operating in the area.
+Police didn't tell the gang how they'd been tracked down.
+"They arrested six or seven people," explained Westin.
+"They got them to think they'd all ratted on each other."
+Often, Westin said, thieves come undone due to their own stupidity.
+Take Viktor. He stole a laptop, changing the machine's log-in name to his real full name, and then used the machine to upload pictures of his car, complete with number plate.
+And then there's the two men who stole a mobile phone that had Westin's software installed. They took pictures of themselves doing drugs, while driving, at 110mph.
+While some of the thieves snared by Westin and police relied on the specially created, and wilfully installed, software - there are other ways to cleverly track down stolen goods.
+One of the smartest is Stolen Camera Finder, a web service which examines the EXIF that many cameras, especially high-end models, include in each picture file. It can include the time and location of pictures, as well as the serial number of the camera that took the picture.
+So, if your camera is stolen, you can upload a picture you've taken in the past to Stolen Camera Finder, and it will search the internet for other pictures with matching EXIF data.
+If the camera thief has uploaded a picture, you could find a match and some crucial clues to the camera's whereabouts.
+This technique is sometimes put to use, Westin said, by authorities trying to find and prosecute those creating child abuse images - seeing if the same camera was used to take any other pictures that might provide more information that could lead to an arrest.
+There are, inevitably, privacy concerns with the work Westin carries out.
+The nature of the software he created - unnoticeable to the user - means the same techniques could be used for nefarious purposes. Spying on people, for instance, or collecting private data.
+But he told me he put measures in place to at least limit that possibility.
+Images from a webcam, for instance, can only be taken once every 30 minutes or so. This limits the spying potential if the software is abused.
+His argument is that there's software freely available that can do much worse. "Ratting" is a term given to people who hijack people's machines with a view to spying on them - usually through built-in webcams.
+Fifteen people were arrested in the UK and Europe last year for "ratting" unsuspecting members of the public.
+Follow Dave Lee on Twitter @DaveLeeBBC

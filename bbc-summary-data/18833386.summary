@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20120716115636/http://www.bbc.com/news/science-environment-18833386
+
+[SN]TITLE[SN]
+Light trick to see around corners
+
+[SN]FIRST-SENTENCE[SN]
+Scientists have found a novel way to get images through "scattering" materials such as frosted glass or skin, and even to "see around corners".
+
+[SN]RESTBODY[SN]
+Much research in recent years has focused on correcting for scattering, mostly for medical applications.
+But the new trick,  
+          reported in Nature Photonics
+, is quick, simple and uses natural light rather than lasers.
+It uses what is called a spatial light modulator to "undo" the scattering that makes objects opaque or non-reflecting.
+A camera that can "see around corners"  
+          garnered much attention in 2010
+, using a series of timed laser pulses to illuminate a scene and working out what is around a corner from the timing of the reflections.
+The prototype device was just one of a great many research efforts trying to crack the problem of scattering.
+But for some applications, the "time-of-flight" approach that the laser-based camera uses is not sufficient.
+"If you want to look to see an embryo developing inside an egg but the eggshell scatters everything, or you want to look through the skin, scattering is the main enemy there, and time-of-flight is not a good solution," explained senior author of the study Prof Yaron Silberberg.
+For those kinds of problems, Prof Silberberg and his colleagues at the Weizmann Institute of Science in Israel have pushed the limits of what spatial light modulators (SLMs) can do.
+SLMs modify what is known as the phase of an incoming light beam. Like a series of waves on the ocean that run over rocks or surfers, the waves in light can be slowed down or redirected when they hit scattering materials.
+SLMs are made up of an array of pixels that can correct for this by selectively slowing down some parts of the beam and allowing others to pass untouched - when an electric field is applied to a pixel, it changes the speed at which light passes through it.
+Prof Silberberg and his team first set up their SLM by shining light from a normal lamp through a highly scattering plastic film and allowing a computer to finely tune the SLM until they could see a clear image of the lamp through the film.
+Keeping the SLM set this way, they were then able to obtain clear images of other objects through the film - the SLM effectively turns the film back into a clear sheet.
+"What we have shown is that you don't need lasers - everybody else was doing this with lasers, and we showed you can do it with incoherent light from a lamp or the Sun - natural light," Prof Silberberg told BBC News.
+But the team then realised that the same approach can work in reflection - that is, not passing through a scattering material but bouncing off of it, such as the case of light bouncing off a wall at a corner.
+They then showed the procedure works just as well when the light from an object bounces off a piece of paper; the SLM could "learn" how to undo the paper's scattering effect, making it a nearly perfect reflector.
+As Prof Silberberg puts it: "You can take a piece of wall and effectively turn it into a mirror, and this is the part that makes everybody raise an eyebrow."
+However, he said that the primary use for the technique will be in biological and medical studies - especially tackling the highly scattering white brain matter in neurological imaging - rather than the business of seeing through thin materials or around corners.
+"I don't want to say that it solves the problems of secret organisations and Peeping Toms and so on, that's not going to be so simple. But the principle is there.
+"We have not started to tackle these things... but I see how much interest this raises and think maybe we should."

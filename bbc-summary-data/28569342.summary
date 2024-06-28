@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170331115747/http://www.bbc.co.uk/news/technology-28569342
+
+[SN]TITLE[SN]
+Smart home kit proves easy to hack, says HP study
+
+[SN]FIRST-SENTENCE[SN]
+A study of some of the most popular app-controlled devices for the home suggests the majority of the products tested were vulnerable to hackers.
+
+[SN]RESTBODY[SN]
+HP's Fortify security division reviewed 10 pieces of internet-connected kit.
+It said the majority did not require a password of sufficient complexity and length and that most did not encrypt the data they transmitted.
+One independent security expert said the findings were "shocking".
+HP has not named the manufacturers involved, but has identified the 10 types of net-connected products studied:
+One of the report author's biggest concerns was that eight of the devices surveyed did not require consumers to use hard-to-hack log-ins.
+It said that most allowed passwords as simple as "1234" or "123456", which could then be used to access both the app and a website providing access to the owner's records.
+In addition, the team said, the interfaces used by six of the devices' websites had other security flaws that could cause them to be compromised. For example, it said, in some cases hackers could exploit the password reset facility to determine which accounts were valid, allowing them to focus follow-up attacks.
+A lack of encryption - the digital scrambling of data to make it unreadable without a special key - was also flagged as a worry.
+HP said that seven of the devices failed to encrypt communications sent to the internet and/or a local network.
+It added that six of the pieces of kit did not use encryption when downloading software and firmware updates. It said hackers could take advantage of this to intercept, modify and retransmit the code, potentially allowing them to take control of many customers' equipment.
+The report also suggested that eight of the devices raised broader privacy concerns.
+"With many devices collecting some form of personal information such as name, address, date of birth, health information and even credit card numbers, those concerns are multiplied when you add in cloud services and mobile applications that work alongside the device," it stated.
+"And with many devices transmitting this information unencrypted on your home network, users are one network misconfiguration away from exposing this data to the world via wireless networks.
+"Do these devices really need to collect this personal information to function properly?"
+HP is not the first firm to highlight problems with smart home devices.
+Earlier this month, another security firm revealed that wi-fi-controlled light bulbs sold by an Australian firm, Lifx, could reveal their owner's username and passwords if a hacker used a device that masqueraded as being another bulb.
+In January, another report highlighted the case of a smart fridge that had been hacked and used to send out spam emails.
+And last year, LG was prompted to issue a fix for its smart TVs after one owner discovered his set was monitoring his watching habits and then transmitting the information over the internet unencrypted.
+Ian Brown, professor of information security and privacy at the University of Oxford, said HP's report should act as a wake-up call.
+"We're used to hearing about vulnerabilities in computing systems, but those are often legacy products designed before today's greater focus on security," he told the BBC.
+"It's slightly shocking to see these brand new internet-of-things devices being created with so many security holes.
+"I hope device manufactures realise they have to do much better if they want to avoid damaging consumer trust in the whole sector before it even takes off."

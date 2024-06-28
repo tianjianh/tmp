@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170509003540/http://www.bbc.co.uk/news/technology-36139310
+
+[SN]TITLE[SN]
+Beautiful People dating site data sold online
+
+[SN]FIRST-SENTENCE[SN]
+Data stolen from a dating website aimed at "beautiful people only" has been traded online.
+
+[SN]RESTBODY[SN]
+The details of more than a million members including their weight, height, job, and phone numbers were discovered unencrypted online in December 2015.
+They have now been sold on the black market, said security expert Troy Hunt.
+The firm said the data belonged to members who joined before July 2015 and that no passwords or financial information were included.
+Security researcher Chris Vickery, who originally discovered it, told the BBC the firm acted quickly after he notified them - but by then, data had already been sold on.
+"They published it openly to the world with no protection whatsoever," he said.
+Beautiful People originally claimed the content was from a test server but Mr Vickery said the data itself was still genuine.
+"Whether or not it's in the test database makes no difference if it's real data," he added.
+It also transpired that a second researcher had identified the same weakness on the same day.
+"The breach involves data that was provided by members prior to mid-July 2015. No more recent user data or any data relating to users who joined from mid-July 2015 onward is affected," Beautiful People said in a statement.
+"As far as we were aware, at that time [in December 2015], only the two security researchers who informed us of the breach had access to this data."
+Now the compromised data appears to have been sold on the black market, security expert Troy Hunt told Forbes.
+"Now it's public, cybercriminals have the opportunity to use this information to steal personal identities or more," said David Emm, principal security researcher at Kaspersky Lab.
+"Unfortunately, once a breach of this nature has been made, there is not much that can be done."
+Cybercriminals use the genuine identities to synthesise new ones, and they tend to act within a month of receiving stolen data, said John Lord, managing director at identity data intelligence firm GBG.
+"Organisations need to take action and use more data, analytical insights and triangulation of multiple-identity proofing techniques to minimise the potential effects of identity theft for both the user and the businesses serving them," he said.
+People hoping to join the Beautiful People website submit photographs which are then rated by existing members of the opposite sex for 48 hours.
+If they get enough positive votes, they are then granted membership.
+The firm claims more than 700 marriages have taken place between people who met on its website.

@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160612120939/http://www.bbc.co.uk/news/technology-35690688
+
+[SN]TITLE[SN]
+Raspberry Pi-powered transmitters broadcast Syrian radio
+
+[SN]FIRST-SENTENCE[SN]
+Raspberry Pi computers are being used to power "micro" radio transmitters in Syria.
+
+[SN]RESTBODY[SN]
+The Pocket FMs, as they are called, were designed by a German organisation as a way of providing Syrians with independent radio.
+The devices have a range of between 4 to 6km (2.5 to 3.75 miles), which is enough to cover an entire town.
+At the heart of each is a Raspberry Pi, the credit card-sized single-board computers.
+About two dozen have been built, and the designer says they are intended to be as easy to set up as a piece of flat-pack furniture.
+"We lost one device in Kobane", Philipp Hochleichter told BBC Radio 4's PM programme.
+"But due to the bombing - not due to a malfunction."
+The Pocket FMs are deployed in situations in which larger transmitters would be difficult to set up and operate.
+"We tried to develop a small box that is easy to carry around, easy to transport, easy to hide [and] that is based on 12 volts so you can connect it to a solar system or a car battery", Mr Hochleichter explained.
+The Pocket FMs broadcast a channel created by a network of nine stations based in the region called Syrnet.
+The devices pick up a satellite feed of the channel, and rebroadcast it on a FM frequency, so people in Syria can listen on ordinary radios.
+Eventually, the devices will be capable of picking up the Syrnet channel via wi-fi and mobile data. The channel is also available to listen to online, and via a mobile app.
+The group behind the project is Media in Cooperation and Transition, a Berlin based non-governmental body.
+As well as designing the Pocket FMs and maintaining Syrnet, MiCT employs a team of journalists, many of whom are expatriate Syrians. They help the small independent stations make programmes.
+The Pocket FMs operate in the areas not controlled by either President Bashar al-Assad's regime or the so-called Islamic State militants.
+"There is a space, it might be tiny, where people are against Assad and not part of the Islamic movements" said Najat Abdulhaq, who manages the Berlin-based journalists.
+Welat FM is a member of Syrnet.
+The station is based in Qamishli in the far north-east of Syria. An airport visible from the studio window is still under the control of the Assad regime.
+"What is really annoying is you look from the  window, and you see the airport and you hear the noise of the warplanes, every day, at night, the whole time," the editor-in-chief of Welat FM tells the BBC.
+"A few years ago the repression of the Syrian government was everywhere," but now, he adds, radio has become an important means of communication.
+Hara FM is produced in Turkey but broadcasts to Aleppo and hears from contributors in the town.
+"At the moment our journalists are safe with the opposition, but it's still a war zone with gunfire and shelling," said Marwa, a Hara FM journalist based in Turkey
+"I worry about our staff in Aleppo, but no journalist can be 100% safe anywhere in the world.
+"For any journalist, telling the truth puts them in danger."
+One of the benefits of using Raspberry Pis is that it is relatively easy to add new components.
+Mr Hochleichter's latest design includes a GSM module, which allows the small transmitters to be controlled remotely by text message. The feature potentially could help the operator reduce the risk of capture.
+Mr Hochleichter hopes ultimately to make the designs open source, meaning they can be shared without cost and enhanced by a wider community.
+The project is funded by the German government and for Najat Abdulhaq their Berlin base is entirely apt.
+"The media system in Syria under Assad is nearly a copy of the [former East Germany] GDR media system," she remarks.
+"We are in the heart of East Berlin and the wall was less than 400m [1,312ft] away."
+The project aims to support freedom of expression, but it is also about solidarity with people in crisis.
+"When I started working on this project I had no idea of Syria," Philipp Hochleichter said.
+"I now have 25 friends in this country and the way they try to make this a better country is a very good example [to others]."

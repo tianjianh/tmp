@@ -1,0 +1,42 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150106200459/http://www.bbc.co.uk/newsbeat/30693924
+
+[SN]TITLE[SN]
+Moonpig suspends app over concerns about customer security
+
+[SN]FIRST-SENTENCE[SN]
+Online card company Moonpig has disabled its mobile app "as a precaution" over claims the firm's online security is "vulnerable".
+
+[SN]RESTBODY[SN]
+The company insists "password and payments information is and has always been safe" but says it is investigating the claims.
+A web developer who says he uncovered the vulnerabilities says information belonging to millions of customers, including some credit card details, could be stolen.
+Paul Price claims he first alerted Moonpig to the issues back in August 2013.
+He says the "vulnerability still exists" despite "ample" time for a fix.
+"Given the timeframes I've decided to publish this post to force Moonpig to fix the issue and protect the privacy of their customers," he said.
+"Seventeen months is more than enough time to fix an issue like this. It appears customer privacy is not a priority to Moonpig."
+There is currently no clear way to close an existing Moonpig account - and no advice to customers regarding the protection of their data.
+Users of the site can only contact customer services via telephone or email.
+One customer, James Murphy, told Newsbeat he feels "disappointed and a little let down".
+"I emailed Moonpig customer services and I asked them to remove my personal details from the website", he said.
+"I also went on and removed my credit card details just to be sure".
+He added: "These are the sort of basic things companies should get right".
+As the app is still available for download, Newsbeat asked for clarification about the security measures which have been put in place.
+"Although you can download the app you cannot use it or pay for products - the API function [which was the source of the problem in the claims] has been disabled," a spokesperson for Moonpig confirmed.
+An API is a tool for transferring data, such as payment information, between software.
+"With just a small amount of computer knowledge, you would be able to interrogate Moonpig's database remotely. It would spit back names, email addresses, dates of birth, real addresses and partial credit card information.
+"There is an API call, which allows the app to speak to the Moonpig database on its website. When you use it, you just send a numerical value. You should only be able to do that for your own account but, if you just edit it, Moonpig presumes you mean another customer and returns their details.
+"It is not full credit card details but these are all pieces of the jigsaw and can be pieced together for ID theft."
+The vulnerability Mr Price describes involves using and manipulating existing customers' usernames and passwords.
+"There's no authentication at all and you can pass in any customer ID to impersonate them," he claims.
+"An attacker could easily place orders on other customers' accounts, add/retrieve card information, view saved addresses, view orders and much more."
+A spokesman for the Information Commissioner's Office said: "We are aware of the incident at Moonpig.com and are looking into the details."
+In its official statement, Moonpig said: "We are aware of the claims made this morning regarding the security of customer data within our apps.
+"We can assure our customers that all password and payment information is and has always been safe.
+"The security of your shopping experience at Moonpig is extremely important to us and we are investigating the detail behind today's report as a priority.
+"As a precaution, our apps will be unavailable for a time whilst we conduct these investigations and we will work to resume a normal service as soon as possible.
+"The desktop and mobile websites are unaffected."
+Parent company Photobox is currently recruiting for an Android developer for Moonpig.
+The business allows customers to create and personalise greetings cards online, which are then printed and posted.
+It was launched in 2000 before being bought by Photobox in 2011.
+According to the company website there are more than 3.6m active customers in the UK, Australia and USA and has sent more than 60m cards across the globe.
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube

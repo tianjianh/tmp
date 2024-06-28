@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150217135204/http://www.bbc.co.uk/newsbeat/31486858
+
+[SN]TITLE[SN]
+Facebook bug allows man to delete your photos
+
+[SN]FIRST-SENTENCE[SN]
+Public photos on Facebook could've been deleted with just four lines of code, says an online security researcher.
+
+[SN]RESTBODY[SN]
+Laxman Muthiyah was playing around with Graph API - the tool which developers use to make Facebook apps.
+Testing it on his own photos, Muthiyah found a way to manipulate the code so that it deleted one of his images.
+"What if your photos get deleted without your knowledge? Obviously that's very disgusting isn't it?" he wrote on his blog.
+"I got access to delete all of your Facebook photos (photos which are public or the photos I could see)," explained Mathuyah.
+He immediately reported the bug to Facebook's security team.
+"They were fast in identifying this issue and there was a fix in place in less than two hours from the acknowledgement of the report."
+It does not appear that any misuse has been reported as a result of this bug - and private photos and data were not affected.
+A Facebook spokesperson confirmed the sequence of events, saying in a statement: "We received a report about an issue with our Graph API and quickly fixed it
+"We'd like to thank the researcher who reported the issue to us through our bug bounty program."
+Facebook has a programme in place where "white hats" or ethical computer hackers, can report vulnerabilities to the site.
+"If you give us reasonable time to respond to your report before making any information public, and make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service during your research, we will not bring any lawsuit against you or ask law enforcement to investigate you," the social network says.
+A number white hats are also offered a "monetary bounty" for reporting bugs, while some have their names posted to a thank you page on the site.
+Muthiyah has posted a screenshot of a Facebook message saying he has been offered $12,500 (£8,130) as a reward for finding the fault.
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube

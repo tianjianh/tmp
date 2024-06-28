@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107230645/http://www.bbc.co.uk/news/technology-38331894
+
+[SN]TITLE[SN]
+Yahoo: How do state hackers break in?
+
+[SN]FIRST-SENTENCE[SN]
+Yahoo has revealed that login details for up to one billion accounts have gone missing.
+
+[SN]RESTBODY[SN]
+The massive breach was discovered while it investigated a separate attack that had compromised data on about 500 million accounts.
+Yahoo said it suspected a state-sponsored attacker was involved in both thefts.
+Perhaps because information about the breach came from intelligence agencies that monitor the groups and military units that conduct these kinds of operations. Analysis of the methods and tools the attackers used as well as their ultimate targets probably betrayed who was ultimately behind it.
+Pete Barbour, head of the incident response at security firm Context-IS, acknowledged that pinning the blame on someone for an attack is tricky but said nation-state operations have a "distinctive character" that becomes obvious during investigation. "You know it when you see it," he said.
+They vary widely and the sophistication of an attack is usually proportional to the defences attackers must overcome, said Mr Barbour.
+In the case of Yahoo, a large organisation struggling to manage networks and applications from lots of different divisions, well-known techniques including "cookie manipulation" and a password-beating approach known as "pass the hash" seem to have been enough.
+In others, far more innovative approaches have been used.
+Last year security firm FireEye uncovered stealthy malware it named Hammertoss, put together by a Russian group that used a combination of accounts on Twitter, Github and cloud services, to co-ordinate the theft of information.
+Not always. But attacks carried out by nation states and the most skilled cyber-crime groups are almost always targeted and contain some custom element.
+Often this can just involve trawling social media for information about the families, friends and hobbies of targets - typically senior executives.
+Spoofed emails from friends or sports clubs can lend credibility to messages so they are more likely to be opened. These phishing emails are a common staple of many types of attacks and often a lot of effort is put into crafting them to look more convincing.
+This goes just beyond making it look like it comes from someone you know.
+Chinese state-backed groups are known to create entire documents that targets will be tempted to read. Many use convincing letterheads, logos and language to make them look all the more legitimate.
+About 75% of all cyber-attacks have a financial motive, suggest figures gathered by Verizon for its annual data breach incident report.
+Espionage, nation-state attacks, counts for about 15% of the total. However, said Mr Barbour, the skill and resources government-backed or military groups can bring to bear means they are more likely to succeed.
+Typically, he said, attackers working for a foreign power are well-drilled and know exactly what to do.
+In one incident, forensic work by Context-IS analysts revealed that an attacker had accidentally triggered the shutdown on a Windows machine they were stealing data from. The attacker knew exactly what they had to do to cover their tracks and swiftly got it done before the machine went dark.
+They can't and shouldn't look to stop everything, said Jonathan Care, head of research at analysts Gartner. Companies had to accept that they were going to be breached, put in place detection systems and prepare for the day when it happens, he said.
+Gartner suggests that firms spend about 75% of their security budget on protecting their virtual borders. But it advised that they do more to spot intruders when they get in and to ensure they have a plan for how to handle a breach after it is uncovered.
+Every company had to realise they were a target, said Mr Care, citing an example of one firm that recycled old printers that never thought cyber-thieves would be interested in it. However, he said, the organisation was attacked because confidential data about high value individuals was sitting on the old printers.
+Companies did have some defences that were likely to start to make a difference in the near future, he added. Machine learning - a form of artificial intelligence in which computers gain skills without being explicitly programmed to solve a task - holds promise.
+Networks using this skill should be better at defending themselves, Mr Care explained, as they can analyse huge amounts of data and spot intrusions or data theft before they get too serious.

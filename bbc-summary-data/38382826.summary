@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20161220220454/http://www.bbc.co.uk/news/technology-38382826
+
+[SN]TITLE[SN]
+Security risk on in-flight entertainment systems, say researchers
+
+[SN]FIRST-SENTENCE[SN]
+Air passengers could be subjected to a series of "shocking" incidents if security flaws in cabin entertainment systems were abused, say researchers.
+
+[SN]RESTBODY[SN]
+Security experts said they found flaws that let them take over cabin entertainment systems.
+They said this could allow attackers to switch off lights, change altitude readings, display bogus maps and broadcast messages via the PA.
+But the maker of the systems dismissed the findings as "hypothetical at best".
+The weaknesses were found in the Panasonic Aero in-flight systems by Ruben Santamarta, a researcher at security firm IOActive.
+The Aero in-flight systems are used by many different airlines including Virgin, Emirates, AirFrance, American Airlines and KLM.
+"Security is not one of the system's main strengths," Mr Santamarta told the BBC, adding that the network of seat-back screens and on-board servers would not be able to withstand "solid attacks" from skilled adversaries.
+Mr Santamarta said he started researching the Panasonic systems two years ago when, during a flight to Dubai, he accidentally made the screen for his seat display debug data.
+Via online searches he slowly amassed a trove of information about the Aero system that included code that runs on the seat-back units as well as the on-board computers that keep the whole thing running.
+"I ended up having all the components in my computer so I could emulate the whole system," he said.
+Running a copy of the Aero network let Mr Santamarta winkle out flaws and other bugs that, he said, let him "compromise the entire system".
+Travelling on a flight where attackers got access to the Aero system and turned off the cabin lights, broadcast PA messages and changed maps to make it look like a plane was being diverted or was losing altitude would be "shocking", said Mr Santamarta.
+However, in a strongly worded statement, Panasonic said IOActive's conclusions from the copied network were "not based on any actual findings or facts".
+"The implied potential impacts should be interpreted as theoretical at best, sensationalising at worst, and absolutely not justified by any hypothetical vulnerability findings discovered by IOActive," said a spokesman for Panasonic Avionics Corporation, a subsidiary of the Japanese electronics giant.
+Panasonic said it had reviewed "all of the claims made by Mr Santamarta" and commissioned tests in 2015 and 2016 to ensure his concerns had been remedied.
+The company rejected claims that credit card information was accessible, saying Mr Santamarta made "incorrect assumptions about where credit card data is stored and encrypted".
+Panasonic also rejected any suggestion that hackers could gain access to flight controls through the in-flight entertainment system.
+In his findings, Mr Santamarta said it did not seem to be possible to cross from the in-flight systems to those that control an aircraft.
+However, he did not rule out the possibility that some airlines had inadvertently joined the two systems giving attackers a route into flight controls.
+"Panasonic strenuously disagrees with any suggestion by IOActive that such an attack is possible," the Panasonic spokesman said.

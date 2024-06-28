@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160401151518/http://www.bbc.co.uk/news/technology-32194202
+
+[SN]TITLE[SN]
+Google Gmail users hit by software glitch
+
+[SN]FIRST-SENTENCE[SN]
+Gmail users around the world saw errors and safety warnings over the weekend after Google forgot to update a key part of the messaging software.
+
+[SN]RESTBODY[SN]
+Google said a "majority" of users were affected by the short-term software problem.
+While people could still access and use Gmail many people saw "unexpected behaviour" because of the problem.
+Many reported the errors via Twitter seeking clarification from Google about what had gone wrong.
+The error messages started appearing early on 4 April and hit people trying to send email messages from Gmail and some of the firm's messaging apps.
+The problems arose because Google had neglected to renew a security certificate for Gmail and its app services. The certificate helps the software establish a secure connection to a destination, so messages can be sent with little fear they will be spied upon.
+Google's own in-house security service, called Authority G2, administers the security certificates and other secure software systems for the search giant.
+Information about the problem was posted to status pages Google maintains for its apps and email services.
+In the status message, Google said the problem was "affecting a majority of users" who were seeing error messages. It added that the glitch could cause programs to act in "unexpected" ways.
+The problem was resolved about two hours after it was first noticed.
+The glitch comes soon after Google started refusing security certificates issued by the China Internet Network Information Center (CNNIC). Google said a security lapse by the CNNIC meant the certificates could no longer be trusted. CNNIC called the decision "unacceptable and unintelligible".

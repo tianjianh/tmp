@@ -1,0 +1,25 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170201073005/http://www.bbc.co.uk/news/technology-31622306
+
+[SN]TITLE[SN]
+Police shut down network 'used to steal bank details'
+
+[SN]FIRST-SENTENCE[SN]
+A network of computers that has spread malware to millions of machines has been shut down, police have said.
+
+[SN]RESTBODY[SN]
+The National Crime Agency (NCA) worked with forces across Europe to tackle servers used by the Ramnit "botnet", which could be used to access sensitive information.
+The botnet spread malware that would give criminals control of users' computers, leaving them vulnerable.
+Officers have urged people to check whether their computers were infected.
+They said about three million machines had been affected, including about 33,000 in the UK.
+One of the botnet's command-and-control servers targeted by the NCA was in Gosport, Hampshire.
+An NCA spokesman said that Ramnit had spread the malware via seemingly trustworthy links sent out on phishing emails or social-networking websites.
+He said: "If users running Windows operating systems clicked on the links, the malware would be installed, infecting the computer.
+"Infected computers would then be under the control of criminals, enabling them to access personal or banking information, steal passwords and disable antivirus protection."
+The agency's National Cyber Crime Unit (NCCU) worked with the authorities in the Netherlands, Italy and Germany, in an effort coordinated through Europol's European Cybercrime Centre, to target the command-and-control servers used to run the scheme.
+A botnet is a series of infected computers that can be used to perform tasks remotely. For example, they are sometimes used in distributed denial of service attacks to flood servers with requests.
+In this case, it was being used to send out the malicious links.
+Steve Pye, from the NCCU, said "This malware effectively gives criminals a back door so they can take control of your computer, access your images, passwords or personal data and even use it to circulate further spam messages or launch illegal attacks on other websites."
+He added that thousands of ordinary computer users in Britain were "at risk of having their privacy and personal information compromised".
+The NCA said it was advising people to check whether their computer had been infected by downloading free specialist disinfection software.
+It said people could find the software by visiting Get Safe Online or Cyber Streetwise

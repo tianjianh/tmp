@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170811003603/http://www.bbc.co.uk/news/technology-40886418
+
+[SN]TITLE[SN]
+Ukrainian postal service hit by 48-hour cyber-attack
+
+[SN]FIRST-SENTENCE[SN]
+Ukraine's national postal service has been hit by a two-day-long cyber-attack targeting its online system that tracks parcels.
+
+[SN]RESTBODY[SN]
+Unknown hackers carried out a distributed denial of service (DDoS) attack against Ukrposhta's website.
+The attack began on Monday morning, but ended shortly after 21:00 local time (1900 BST).
+However, Ukrposhta reported on Facebook that the DDoS attack continued again on Tuesday.
+"Friends, we've been DDoSed," the company in a post on Tuesday. "During the first wave of the attack, which began yesterday in the morning, our IT services could normalise the situation, and after 17:00, all the services on the site worked properly.
+"But today, hackers are at it again. Due to their actions, both the website and services are working, but slowly and with interruptions."
+DDoS attacks occur when hackers flood a website's servers with a huge amount of web traffic, with the intent of taking the website offline.
+Attackers do this by secretly infecting computers, routers and Internet of Things-enabled devices, such as thermostats, washing machines and other home appliances, with malware and then roping the zombie computers into a botnet.
+"With critical systems exposed to the internet and inadequate protection, denial of service attacks can have an impact way beyond taking a website down or preventing online transactions from taking place," Sean Newman, director of Corero Network Security, told the BBC.
+"In this case, it was a service that was reportedly brought to its knees, but outcomes for other organisations could include manufacturing processes being interrupted or halted, potentially impacting productivity, quality and even safety.
+"This serves to highlight how any organisation, including those which don't transact directly with consumers, can be seriously impacted by denial of service attacks. With the level of sophistication of today's attackers, and without the latest generation of always-on, real-time automatic DDoS protection, all organisations are vulnerable to DDoS attacks of all sizes and durations."
+This is not the first time that Ukraine's postal service has been targeted this year - in June, Ukrposhta was hit by the NotPetya ransomware attacks, as part of a wider national attack on Ukrainian banks, the state power provider, television stations and public transport services.

@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151120163322/http://www.bbc.co.uk/news/technology-24925874
+
+[SN]TITLE[SN]
+Facebook protects users following Adobe hack attack
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has acted to protect users it suspects have been compromised by the recent theft of Adobe log-ins.
+
+[SN]RESTBODY[SN]
+The social network is asking those identified to answer security questions before granting them access.
+Online retailers Diapers.com and Soap.com are among other sites to have tried to pinpoint members who used the same email-password combinations.
+Adobe said in October that details from at least 38 million accounts had been stolen in a security breach.
+The software firm - which makes Photoshop and the Flash plug-in - had encrypted the accounts' passwords, but not their usernames or password hints.
+Security researchers have since demonstrated that this information could be used to expose at least some of the Adobe account holders' details.
+Despite this, a spokeswoman for Adobe said it had not seen any indication of unauthorised activity on the Adobe ID accounts involved in the incident.
+"Adobe welcomes the initiative taken by Facebook and other service providers to reset user passwords as a precaution in an effort to help protect our mutual customers," she added.
+News of the protective steps being taken by Facebook were first reported by investigative reporter Brian Krebs on his blog. The firm has since confirmed to the BBC that the details are accurate.
+Affected members are presented with a message warning that their account may have been accessed by someone else following the attack on Adobe.
+"Facebook was not directly affected by the incident, but your Facebook account is at risk because you were using the same password in both places," it states.
+"To secure your account, you'll need to answer a few questions and change your password. For your protection, no-one can see you on Facebook until you finish."
+Chris Long, a member of Facebook's security team, said it had developed an automated process to tackle situations like this.
+It works by taking the Adobe passwords that third-party researchers had managed to unencrypt and running them through the "hashing" code used by Facebook to protect its own log-ins.
+Hashing involves using an algorithm to convert a plaintext password into an unrecognisable string of characters. Utilising the tool means a service does not need to keep a record of the password in its original form.
+Although the process is designed to be irreversible - meaning a hacker should not be able to reverse-engineer the technique to expose the credentials - it does have the same effect each time, meaning the same original entry would always result in the same hashed code.
+Facebook took advantage of this to scan through its own records to see which of its users' hashed passwords matched those of Adobe's and had overlapping email addresses.
+"Through practice, we've become more efficient and effective at protecting accounts with credentials that have been leaked," said Mr Long.
+The details have coincided with news of a fresh hack attack.
+The latest target was MacRumors.com - a site used to discuss leaks and speculation about future Apple products.
+The site's administrator, Arnold Kim, has suggested its 860,000 users change their log-ins both for the website and any other services where they used matching credentials.
+Although MacRumors had hashed the log-ins, Mr Kim acknowledged the process used was "not that strong, so assume your password can be determined with time".
+One expert said this latest breach should be a wake-up call to anyone still using identical log-ins for different services.
+"Users have two options," said Mikko Hypponen, chief research officer at security advisers F-Secure.
+"Either remember a variety of passwords or use a password management tool - software that manages your passwords for you so you only need to remember one master password for the tool, and it then recalls and enters the credentials for you - I recommend the latter."

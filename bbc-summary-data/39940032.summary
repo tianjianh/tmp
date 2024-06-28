@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170517000057/http://www.bbc.co.uk/news/world-39940032
+
+[SN]TITLE[SN]
+Hunting the cyber-attackers
+
+[SN]FIRST-SENTENCE[SN]
+The hunt is on for the cyber-attackers who struck last week and the first clues are emerging - but they are far from conclusive.
+
+[SN]RESTBODY[SN]
+The initial assumption was that a criminal gang was behind the attack because ransomware is typical of such groups out to make money (rather than states, which tend to engage in espionage and sabotage).
+But officials say they are now not discounting the possibility of North Korean involvement, although emphasising the evidence so far is fragmentary.
+The code behind the attack might have been damaging but it was not actually that complex. Nothing, for instance, on the scale of Stuxnet (developed by the US and Israel) which targeted Iran's nuclear programme and took years of development.
+"Devious rather than sophisticated," was how one person described it, particularly devious in the way it used a replicating worm to spread the code from machine to machine.
+There remains some mystery as to how the campaign was first launched. Experts are looking for "patient zero" - the first computer to be infected to understand the method of delivery.
+From that point on, the malware spread virulently because it looked for computers to spread to within an organisation but also looked across the internet for other computers it could connect to and infect.
+There were some unusual elements to the ransomware. The amount demanded was relatively small, as were the number of Bitcoin wallets into which it was to be paid.
+So far, experts at Elliptic, a British company which works with law enforcement to track down such payments, says it has not seen any money taken out of the accounts. That is the point where investigators can sometimes try to follow the money trail.
+A cyber-security consultancy firm also says it knows of some people who had paid but had not yet had their data decrypted.
+Some of these signs have led people to question whether the attackers were relatively amateurish and did not understand quite what they had unleashed and what the consequences would be.
+Some researchers have also pointed to a possible state connection, namely North Korea.
+The possibility stems from an overlap in the malware used in an early version of the ransomware (later removed) with a tool previously exclusively used by a North Korean group often known as Lazarus.
+One cyber-security analyst also said that people watching the North Korean group had, in previous months, seen them tinkering with aspects of Bitcoin, which could be read as potential preparation to launch a campaign. No-one is pretending this is the smoking gun.
+In the past, North Korean cyber-attacks have been more targeted than this global blast of ransomware.
+Sony was hit (with both data theft and the wiping of computers) because it was releasing a film involving the North Korean leader. The Lazarus group was seen as responsible.
+North Korea may also have been linked to an attack on the Swift banking network which led to a massive theft from the Bangladesh Central Bank, with some experts believing this was carried out by an offshoot from the Lazarus group.
+The use of ransomware would be a departure for Pyongyang, although it is the one state which is thought to have used cyber-attacks for financial purposes.
+One thing that might make this more plausible is the timing, coming just after pressure was put on the country over missile and nuclear tests (which might themselves have been the target of US cyber-attacks to sabotage their success).
+It is possible North Korea looked for some way to strike back (similar to the way Iran struck back against US banks and Arabian Gulf energy companies after its nuclear programme was hit). However, it is too early to make any assessment of North Korean involvement with a high degree of confidence.
+As well as the possibilities that North Korea sought disruption or to acquire money, it is also possible that another group used the North Korean code or tried to pose as them. False flag operations - posing as someone else to mislead investigators - are particularly easy to undertake online.
+It may take time for any evidence to emerge. Some of this will come from researchers analysing code but some may come from secret signals intelligence collected from the United States' National Security Agency and the UK's GCHQ spying on global communications: this was reportedly used to attribute the attack on Sony to North Korea.
+Whoever was behind this attack, though, will know that there are a lot of people now looking for them.

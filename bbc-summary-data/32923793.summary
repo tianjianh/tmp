@@ -1,0 +1,62 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170522042144/http://www.bbc.com/news/technology-32923793
+
+[SN]TITLE[SN]
+Google gives first peek at Android M and new Cardboard VR kit
+
+[SN]FIRST-SENTENCE[SN]
+Google has shown off some of the functions of the next version of its Android mobile operating system.
+
+[SN]RESTBODY[SN]
+It will give users greater control over their privacy settings and will also introduce a new smart wallet service called Android Pay.
+The firm also unveiled a new photos and video storage app with "unlimited" free storage and an updated version of its Cardboard virtual reality headset.
+But there was no new hardware from its Nest "internet of things" division.
+"Google I/O lacked the headline announcements of recent years but nonetheless underlined the company's ecosystem advantage by virtue of the Android installed base, user knowledge, machine learning and highly integrated services," commented Geoff Blaber, from the tech consultancy CCS Insight.
+The new mobile system, which is codenamed Android M, addresses concerns about third-party apps' access to smartphone and tablet data by making it easier for users to control the permissions given to each app.
+In the future, apps will ask to be allowed access to location data, contacts, calendar, camera, microphone and other sensors the first time they need to use them, rather than at the point of installation.
+In addition, users can later go into their settings and see what permissions each app is using and revoke the ones they are not happy with.
+Android M will also allow fingerprints to be used as ID checks for purchases made through websites and in physical stores, where devices can be used in the place of payment cards via a new service called Android Pay.
+The firm has attempted to get people to use smartphones to make real-world tap-and-go payments in the past with Google Wallet.
+However, it suggested that the new Android Pay facility was superior as users would not need to open up a special app to make a transaction.
+"In March in the US only 7% of Android users used mobile payments," noted KWP Comtech analyst Carolina Milanesi.
+"Android Pay's easier user interface will help, but there's a long way to go."
+Android M should also extend battery life.
+This will be achieved via a new feature called Doze, which will suspend apps if a device's sensors indicate it is not being handled. Notifications and alarms, however, will continue to function.
+The firm said tests indicated that its Nexus 9 tablet could last up to two times longer between charges as a result.
+Many of the other announcements made at the I/O developers conference in San Francisco extended beyond Android.
+They include the promise of superior voice recognition for the firm's search tools, including better handling of mispronounced words and conversational requests.
+Google Maps users were also promised the ability to get turn-by-turn directions and destination reviews and opening times while offline, so long as the areas involved were downloaded in advance.
+That function will not become available until later in the year.
+But a new app unveiled at I/O, called Google Photos, is already available for download.
+The software - which runs on both Android and iOS - automatically organises user's pictures and self-made movies, which are stored on Google's computer servers.
+The app can suggest and create montages set to music, and create links that allow others to see streams of selected images.
+Users can save an unlimited amount of photos, up to 16 megapixels in quality, and videos, up to 1080p HD resolution, without charge.
+It could pose a challenge to Apple's rival Photos app, which charges consumers who need more than five gigabytes of online storage, and Yahoo's Flickr, which has a one terabyte limit.
+"It's little wonder Google is has offered unlimited storage on its new photos platform," said Mr Blaber.
+"Photos are becoming a hugely valuable asset to companies like Google and Facebook.
+"As techniques such as image analytics, auto tagging, face detection and machine vision improve, the information that can be derived from a simple photo is immense. By default it means images are of clear value to companies driven by targeted ad-sales."
+Wide ranging changes are also being made to the Google Play store, many of which are designed to make it more "family friendly".
+Read about the Google Play changes in this separate article
+Google also updated Cardboard - its low-budget virtual reality headset made out of a cardboard structure fitted with special lenses, which uses a smartphone as a screen.
+The fold-to-create device is now easier to assemble and can support larger phones with up to 6in (15.2cm) displays.
+The software required can now run on iOS in addition to Android.
+A single smartphone or tablet can now be used to control the footage streamed simultaneously to dozens of Cardboard kits. Google suggested this could make it a useful teaching tool in schools.
+In addition, it announced a tie-up with the action camera-maker GoPro to create a device that can capture 360-degree panoramas in a new format called Jump.
+The software that stitches together the captured views includes information about depth, which the firm said resulted in a virtual reality experience with a more realistic sense of perspective than existing alternatives.
+Jump-enabled footage should become available via YouTube over the coming months.
+"Google hasn't given us a cost for this Jump setup, but there are definitely a lot of makers of [expensive] VR capture equipment nervous right now," tweeted Tim Stevens, Cnet's editor-at-large, in response.
+A hugely discursive two hour keynote reflected the breadth of Google's ever-expanding ambitions.
+Its focus on the mobile experience was no surprise, heralding a new, refined version of Android.
+Features like a revised payment system and support for fingerprint authentication bring it up to speed with Apple.
+Offline maps will be a boon, especially in the developing world, where mobile data is often expensive and coverage patchy.
+But Google was also at pains to lay out its vision beyond the mobile experience we know of today.
+So far its emphasis on wearables has concentrated on smartwatches - where development continues apace - and the Glass headset, which is being reworked.
+But the Silicon Valley behemoth sees entirely new opportunities for us to interact with our environment in completely novel ways via virtual reality.
+Seeing the world in immersive 360-degree VR gives users an entirely new genre of experience - and after helping kickstart the field with its Cardboard headset last year, Google has now reinforced its intention to be at the forefront of arena.
+It will no doubt hope to monetise the effort in time.
+Google products chief Sundar Pichai also provided details about Brillo - a forthcoming Android-based operating system for "internet of things" devices, such as smart door knobs, thermostats and fridges.
+It will help device makers connect their gear to the internet without having to create their own OS, or requiring as much processor power and memory as the full Android system would need.
+But it is not the only firm to have pitched such an idea.
+In October, the chip designer ARM announced mbed OS as an alternative solution.
+"The problem with IoT standards is how many there are to choose from," commented Benedict Evans from the venture capital firm Andreessen Horowitz.
+"Brillo looks sensible. But this is a slow burn."

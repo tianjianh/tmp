@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151218162038/http://www.bbc.co.uk/news/technology-35131396
+
+[SN]TITLE[SN]
+Router maker finds 'unauthorised' code
+
+[SN]FIRST-SENTENCE[SN]
+Juniper Networks has issued a warning after discovering "unauthorised code" in its firewall software.
+
+[SN]RESTBODY[SN]
+Analysis of the rogue code shows that it can decrypt scrambled data being sent through virtual private networks.
+In a security advisory, the internet hardware maker said whoever wrote the code would be able to use it to spy on encrypted conversations.
+Juniper has released patches to strip the code out of its firewall software and urged customers to apply them.
+The code was found in Juniper's ScreenOS software with which many large firms using its hardware keep an eye on data traffic entering and exiting their networks.
+Juniper's routers and network switches are widely used in ISPs and by many large corporates.
+An internal code review revealed that ScreenOS was harbouring the unwanted passenger, said the firm. No information was given about where the code came from or how it found its way into the firewall's core software.
+The range of products affected suggests that the extra software has been lurking inside different versions of ScreenOS since 2012.
+Juniper added that it had no evidence that the loopholes the code opened were being actively exploited.
+It said it took the matter "very seriously" and had quickly produced software patches to remove the rogue code.
+"We strongly recommend that all customers update their systems and apply these patched releases as soon as possible," said Bob Worrall, Juniper's chief information officer.
+In a separate notice, Juniper provided more details about what was possible if the unauthorised code was used. One section gives attackers remote administrative access to a device and would let them hide any evidence of tampering.
+Another would let an attacker strip out the encryption many firms use to protect communications between staff.

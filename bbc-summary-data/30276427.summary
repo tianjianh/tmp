@@ -1,0 +1,47 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170626194428/http://www.bbc.co.uk/news/technology-30276427
+
+[SN]TITLE[SN]
+Amazon Web Service's bid to power the internet
+
+[SN]FIRST-SENTENCE[SN]
+The seemingly endless - yet still ever growing - range of products you can lay your hands on via Amazon has seen the internet company dubbed the "everything store".
+
+[SN]RESTBODY[SN]
+Yet it's a separate wing of the company, offering something altogether more intangible, that could prove more important to both its long-term future and yours.
+Amazon Web Services has a lower public profile than the firm's online stores, but it already touches many lives.
+From young tech titans, including Spotify, Dropbox, Netflix, Pinterest and Airbnb, to more established brands, such as General Electric, Samsung, the Commonwealth Bank of Australia and the BBC itself, a long list of organisations are turning to the US firm to provide some or all of their net-based services.
+It's proving popular too with governments seeking to cut their IT bills. Even the CIA recently became a customer.
+AWS's products range all the way from storage and data crunching tools to providing the code and computing power needed to offer "cloud-run" products.
+Many of the functions you might think as belonging to your smartphone apps - including the abilities to stream video, synchronise data between devices and get notification alerts - are frequently carried out by AWS's data centres.
+If centralising all this work with one company sounds a radical step, Amazon suggests there is precedent.
+"About 150 years ago lots of companies had their own electricity grids on premises, and that didn't seem like such a strange thing to do," Andy Jassy, chief of the AWS division, tells the BBC.
+"But then with the advent of the [national] grid, the economies were such that it didn't really make any sense.
+"The same is happening for computing, where traditionally most companies have had their own data centres.
+"We believe in the fullness of time, just like what happened with the electricity grid, relatively few companies will own their own data centres. All that computing is going to move to the cloud."
+Many outsiders agree that the pitch is compelling.
+"Any new class of application that is built to efficiently use resources only when it needs them is going to move - the economics are just too compelling," says James Staten, an analyst at the Forrester tech consultancy.
+"It's also incredibly empowering to a developer that so many of the services they want are just sitting there. You don't have to write them, you can simply connect to them and your application is finished."
+Source: Amazon, unless otherwise stated
+Amazon pioneered the idea of offering cloud computing as a service after discovering its own staff kept "reinventing the wheel" as they worked on different internal projects. It then figured out it could both use the tools to both streamline its own work and make money by charging others to access them.
+"There were a lot of pundits and people from larger companies that said, 'Well, nobody will ever use these services for anything real,'" says Mr Jassy.
+While it's true that many of AWS's first customers initially signed up only to test products behind the scenes, the success of various start-ups that dared employ it to provide public-facing services meant it didn't take long to gain mainstream appeal.
+"There is a very real chance that in the fullness of time that AWS will be the largest business in Amazon," says Mr Jassy.
+"It will take time, but it's a pretty significant statement if you think about our retail business being roughly a $70bn [sales a year] business."
+But the division faces headwinds.
+AWS no longer has the market to itself. Microsoft, IBM, and Google's rival crowd-computing platforms are smaller but reported to be growing at faster rates.
+Investors may become impatient. Amazon as a whole posted a $563m (Â£358m) loss for the last half of the year. That was in part because of all the resources poured into AWS and the fact that the unit keeps cutting its prices. Mr Jassy says the intention is for AWS to be a "high volume, low margin" member of the Amazon family, but several experts advocate its spin-off.
+Data sovereignty has also become a hot topic - the idea that people's information should be kept in the same country they live in to make sure the companies involved are subject to local privacy laws. AWS is somewhat protected, however, by the fact it has data centres in Germany, Brazil, China and Australia -  four of the countries making the most noise about the issue.
+In fact, the greatest drag on AWS's growth may be lingering doubts about its tech's maturity, particularly for critical services.
+Amazon and other leading cloud-computing providers suggest that because they operate many data centres, even if there's a problem at one, customers should not experience disruption.
+But that didn't stop services run on Microsoft's Azure platform dropping offline across the world last month after an update to its software proved problematic. And previously, AWS has faced failures of its own.
+"At this scale, small errors in operational procedures can have outsized impacts," says Mr Staten.
+"But each time that happens, the firms learn from those activities and the next time something happens, the likelihood of there being as broad an outage diminishes.
+"As a customer you have to expect that some of the services will go down periodically, but that also happens in corporate data centres today."
+And Mr Jassy indicates such worries could, in fact, play to Amazon's advantage.
+"There's no compression algorithm for experience," he says.
+"You can't learn the lessons that we've learned until you get to various levels of scale running cloud computing platforms, and none of the other providers have gotten to those levels of scale yet."
+Being entrusted with others' corporate secrets involves a high level of trust.
+Amazon stresses that the use of encryption means it can't peer into the files saved to its computers. But it doesn't stop there.
+No member of staff - not even Mr Jassy - is allowed access to both a physical data centre and the software used to operate it. Moreover, the exact location of the data centres themselves are kept secret and only provided on a need-to-know basis.
+And special machines are kept on site so that when hard disks fall out of use they can be de-magnetised and ground up to avoid the risk of anyone else retrieving information from the storage when it's disposed of off-site.

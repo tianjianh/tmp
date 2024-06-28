@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151118113003/http://www.bbc.co.uk/news/technology-28327117
+
+[SN]TITLE[SN]
+Google takes on top hacker George Hotz for Project Zero
+
+[SN]FIRST-SENTENCE[SN]
+Google has assembled a team to spot critical bugs and vulnerabilities - and taken on one of the world's most notorious hackers as an intern.
+
+[SN]RESTBODY[SN]
+George Hotz, 24, is best known for hacking Sony's PlayStation 3 and Apple's iPhone, actions that have seen him subject to legal action.
+Mr Hotz is part of Google's Project Zero, a new effort to identify problems within any software, not just Google's.
+A public database of vulnerabilities will be published by the company.
+It will give information on how long it took companies to react to the bug report and issue a fix.
+"Once the bug report becomes public (typically once a patch is available), you'll be able to monitor vendor time-to-fix performance, see any discussion about exploitability, and view historical exploits and crash traces," explained Chris Evans, the Google employee heading the project.
+The "well-staffed" team will focus on finding so-called zero-day vulnerabilities. This is the term given to problems with software that had not previously been identified, meaning hackers have the chance to exploit a bug fully before it is patched - fixed - by developers.
+"You should be able to use the web without fear that a criminal or state-sponsored actor is exploiting software bugs to infect your computer, steal secrets or monitor your communications," Mr Evans continued.
+"Yet in sophisticated attacks, we see the use of 'zero-day' vulnerabilities to target, for example, human rights activists or to conduct industrial espionage. This needs to stop.
+"We think more can be done to tackle this problem."
+Part of that effort requires bringing on the types of people that were previously the object of technology firms' ire.
+Mr Hotz - known as geohot online - was taken to court by Sony after he hacked the PlayStation 3 so it could play pirated games.
+The case was settled out of court, with Mr Hotz agreeing to not target Sony products in future.
+You've found it. A way in. A gap in the fence; a chink in the armour. The needle in the... stack of needles.
+But now what? Do you do the good thing? Tell the owner you've rumbled their security, help them fix it and get a well-meant pat on the back?
+Or do you take your new weapon out into the wild and sell it to the bad guys for thousands upon thousands of pounds?
+Read more: Big bucks paid to keep ahead of hackers
+Google also felt the sharp end of Mr Hotz's hacking ability - he was able to hack the firm's Chrome operating system.
+In contrast to the Sony lawsuit, Mr Hotz was awarded a $150,000 (Â£88,000) prize as part of a competition arranged by manufacturer HP.
+"I think what we've seen in the past 18-24 months is a change in attitude from a lot of companies on how to handle vulnerabilities in their applications," said security expert Brian Honan, who noted that Mr Hotz had also worked for Facebook.
+"We've seen Google be very proactive in this, but other companies like Facebook and Microsoft all have 'bug bounty' programmes whereby you can report a bug and be financially compensated."
+Mr Honan did not think that Google calling out other firms on security would backfire.
+"Other companies may begrudgingly accept Google reporting a vulnerability," he said.
+"But at the same time, most companies do now have a progressive attitude to receiving reports - I don't see them looking at Google in a negative way."

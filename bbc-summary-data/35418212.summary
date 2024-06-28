@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160129070455/http://www.bbc.co.uk/news/technology-35418212
+
+[SN]TITLE[SN]
+Digital safe offers solution to password thefts
+
+[SN]FIRST-SENTENCE[SN]
+A British firm that claims to have come up with a solution to the issue of bulk password theft has announced £1m in funding to launch its product.
+
+[SN]RESTBODY[SN]
+Silicon Safe has designed a special box - a piece of hardware which stores passwords separate to the network.
+Last year there were high-profile hacks at firms including TalkTalk, Ashley Madison and Vtech which exposed millions of users' passwords.
+One expert questioned whether new hardware is really solving the problem.
+Online identity theft is becoming one of the most common forms of cyber-attack and can leave large organisations with both financial and reputational losses.
+The founders of Silicon Safe, Dr Will Harwood and Roger Gross, initially came up with the solution - dubbed Password Protect - as an academic exercise.
+"We were seeing large-scale theft of passwords becoming an increasing problem and conventional security techniques were proving ineffective," Dr Harwood told the BBC.
+They quickly saw that there was commercial potential in their idea.
+Software is prone to bugs and flaws so their first step was to design bespoke hardware - effectively hard-coding a chip - and making sure that it did not run an operating system or any other conventional software. This design, the founders claim, makes it impenetrable via conventional attack routes.
+The box is designed to be secure and has only one purpose - to store passwords. It runs on 10,000 lines of code - far less than used for a back-end database where passwords are normally stored.
+There is no conventional interface with the back-end systems although it does allow web servers to send login credentials to the system in order to authenticate  passwords. It does not, at any point, reveal these passwords.
+Dr Harwood admits that hackers able to gain access to the back-end database of organisations could interrogate the box, but he has built in a safety feature.
+"After four attempts to authenticate the password, the account will be flagged to system adminstrators," he told the BBC.
+The device has been trialled by several large UK companies, including a retail bank and a telecoms firm, and is due to launch in April. Firms will pay an upfront cost of around £100,000 and will also have ongoing maintenance fees.
+It is, Dr Harwood said, easy to install and use with existing infrastructure - the box can be simply inserted into existing server racks and requires a few hundred lines of new code from IT managers.
+But not everyone was convinced it would be the panacea against mass password theft.
+"The system assumes that we all practise proper password hygiene and don't have the same passwords for different accounts. All the evidence suggests that this isn't the case," said Prof Alan Woodward, a computer security expert from the University of Surrey.
+It also might encourage laziness in the IT departments of large firms, he added.
+"You want developers to know what they are doing including knowing how to store data correctly. That might be preferable to paying £100,000 for a box engineered for one specific purpose."
+The Cambridge start-up remains confident in its solution and last year it launched a hacker challenge, inviting anyone to steal 100 unencrypted passwords from the system. To date, over 2.5 million attempts have been made, but none have been successful, according to the firm.

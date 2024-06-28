@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160605075312/http://www.bbc.co.uk/news/technology-36434099
+
+[SN]TITLE[SN]
+Facebook uses AI to understand text-based posts
+
+[SN]FIRST-SENTENCE[SN]
+Facebook has developed AI software to help understand what people are talking about in posts to the social network.
+
+[SN]RESTBODY[SN]
+The Deep Text engine can understand text with "near-human accuracy", a Facebook blogpost explained.
+It said the AI system was developed to help people get more out of the site and to help catch spam and other unwanted messages.
+Deep Text is being tested with Facebook Messenger and to generate responses to certain search queries.
+With Messenger, the system is primed to spot when people are talking about preparing to travel and this can lead to software robots - known as bots - asking if they need to call a cab.
+Similarly, if someone writes that they have something to sell, Deep Text-based bots will grab information about what is being sold and its price and suggest the seller uses Facebook's sales tools to make sure the ad reaches a wide audience.
+Deep Text has emerged from work Facebook is doing on bots that can automatically help the site's users.
+Future work will refine the AI engine's ability to get at the deeper meanings of text so it can spot subtle connections between words such as "bro" and "brother" that are often missed by other language analysis tools, said Facebook.
+Rather than be directed by humans, the software has been allowed to learn about human language by itself and has built a conceptual map of how words are used and how they relate to each other.
+The greater understanding of text could be useful when applied to lengthy text-based conversations that take place on Facebook to spot relevant or interesting comments.
+It will also be used to clean up message threads by weeding out spam or other unwanted replies.
+Facebook also said it planned to use Deep Text to improve its understanding of what people like so it can refine the information and adverts they are shown.
+Currently, said Facebook, Deep Text can analyse several thousand posts per second and can handle more than 20 languages.
+Mike Murphy, writing on the Quartz tech news website, said there were dangers involved in mapping people's interests ever more closely.
+"As Facebook gets better at offering us personalised search results from our networks, as useful as those might be, it also keeps us in a more insular version of the web," he wrote.

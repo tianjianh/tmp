@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151017074723/http://www.bbc.com/news/science-environment-34539056
+
+[SN]TITLE[SN]
+'Digital skin' activates brain cells
+
+[SN]FIRST-SENTENCE[SN]
+Engineers have built a flexible sensor that detects touch and, just like skin, produces electrical pulses that get faster when the pressure increases.
+
+[SN]RESTBODY[SN]
+They have also used those pulses to drive neuronal activity in a slice of mouse brain.
+They say the system is a more faithful replica of touch sensation than many other designs for artificial skin, making it a promising option for the development of responsive prosthetics.
+The work appears in Science magazine.
+The main advantage, according to senior author Zhenan Bao, is that the bendy, plastic-based sensor directly produces a pattern of pulses that makes sense to the nervous system.
+"Previously, with plastic material, we and others in the field have been able to make sensitive touch sensors - but the electrical signal that comes out from the sensor is not the right format for the brain to be able to interpret it," she told the BBC.
+That means that other designs, although they have produced some remarkable results in tests with patients, have required a processor or a computer to "translate" the touch information.
+"Our sensor is now coupled with a printed, simple electronic circuit. That circuit allows our sensor to generate electrical pulses that can communicate with the brain," said Prof Bao, a chemical engineer at Stanford University.
+"We see this as the first step towards using plastic materials for artificial skin on prosthetic limbs."
+In the more near-term, she added, the sensors might prove useful in wearable technology.
+"They are very thin and flexible, and are also stretchy. So you could mount a sensor on your skin and use it to detect vital signs like heartbeat and blood pressure."
+The heart of the design is a layer of flexible, rubbery polymer, laced with carbon nanotubes and shaped into tiny pyramids. When the sensor gets squashed, this semi-conductive layer offers a read-out of the pressure.
+"When pressure is applied, the pyramids are deformed," Prof Bao explained. "The top becomes more flat, and this changes the amount of current that can flow through these pyramids."
+Beneath that layer is an inkjet-printed circuit, called an oscillator, which turns the variable current into a train of pulses. With more pressure and more current, the rate of the pulses goes up.
+To show that this signal could communicate reliably with the nervous system, Prof Bao and her colleagues passed it to a blue LED and shone the light onto a slice of brain from a mouse.
+There, a subset of brain cells had been engineered to respond to this stimulation, by expressing a light-sensitive channel that floods the cell with charge when hit by blue photons.
+Sure enough, when the scientists measured the impulses of individual cells within the slice, they saw a faithful readout of the pulses being produced by the touch sensor, and flashed by the light - even when they were rattling out at 200 pulses per second.
+This light-based technique is referred to as "optogenetics" and is used by neuroscientists for all sorts of experiments, including manipulating memories by driving activity in specific sets of neurons.
+Prof Bao's team chose it because delivering electricity directly to nerve cells is often problematic.
+"Electrodes are made of hard material and they tend to damage neuronal cells," she said. "But using this technique, we don't have to directly contact the neurons."
+In the future, stem cell technology could generate an optogenetic interface for technology like the new sensors. Alternatively, Prof Bau said, there might be improved ways to deliver the electrical impulse directly.
+"There are quite a lot of developments right now in soft electrodes, for better bio-interfaces. That could be another approach."
+Polina Anikeeva, a materials scientist at the Massachusetts Institute of Technology, wrote a commentary for Science about the new sensors. She told BBC News the Stanford team's optogenetic demonstration was exciting.
+"A number of companies and clinical trials are already exploring optogenetics as an alternative to electrical stimulation," Prof Anikeeva said.
+"As the efficacy and safety of the method becomes better understood, it is not unrealistic to envision more applications of optogenetic neural stimulation in prosthetic interfaces - but it is going to take time and effort."
+Follow Jonathan on Twitter

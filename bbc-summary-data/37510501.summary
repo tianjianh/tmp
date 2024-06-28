@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170323011707/http://www.bbc.co.uk/news/technology-37510501
+
+[SN]TITLE[SN]
+How hackers handle stolen login data
+
+[SN]FIRST-SENTENCE[SN]
+We've all had them. Those emails you read with a growing sense of dread which tell you to change the password you use on this account, that social network or one of the many other online services you use.
+
+[SN]RESTBODY[SN]
+Those emails are common given that almost one billion login credentials have been stolen and shared online in the last year. Yahoo, MySpace, LinkedIn, Dropbox and Tumblr, have all been hit and the list goes on and on.
+The worst part is the uncertainty that comes in the wake of the warning - do you panic now or later?
+Computer scientist Jeremiah Onaolapo and colleagues from University College London decided to find out how quickly criminals react once they get access to an online account.
+The team set up 100 Gmail accounts and then accidentally-on-purpose shared their login credentials on forums and sites that data traders are known to frequent.
+The accounts were made to look "live" by having message threads, alerts and updates flow through them. They were also surreptitiously locked down to limit abuse.
+Mr Onaolapo was sure the webmail accounts would be tempting because of the way people use them. More often than not, he said, they have data from other accounts, such as bank details, passing through them.
+"It's information that can be used for ID theft," he said.
+They did indeed prove tempting. By the end of the study, 90 of the accounts had been visited by people who were not their rightful owner.
+"Judging by the activity on the accounts, I would say that the majority of the visitors did not know they were faked," he said.
+What was surprising, he said, was that the cyberthieves did not instantly take over and ransack the accounts for saleable data.
+Instead, he said, there was initial activity by "curious" people who checked that the login details worked and that the account was live. And then it went quiet.
+"For some of the accounts, where someone checked them, we did not see any more activity for some time," he said.
+As far as he could tell, the accounts were being monitored to let thieves assess the value of the information flowing through them.
+"If they find they are not valuable they do not get accessed again," he said. "For them, there's no point."
+Valuable accounts would be overflowing with messages and information from banks and other online services.
+By contrast, spammers sought accounts that are in good standing with an internet service or webmail provider and which can support lots of messages being pushed through them.
+Malicious hackers who wanted to send malware through the accounts were most keen to hijack them and shut out the original owner, he said.
+But no matter which type of cyberthief was interested, he said, there was often a period of days or weeks between the first access and the time when the account actually started to be abused.
+Dr Stephen Moody from security firm ThreatMetrix said the pattern of activity made sense given the way cyberthieves operate.
+"If you have got hold of data from a breach, if you have bought it or tapped it yourself, you have to test those creds," he said.
+Knowing that one set of credentials works, spurs hackers to test the same login name and password combinations on other sites, he added.
+"Most people have about 36 online accounts and far fewer passwords," he said. "There's a reasonable likelihood that if you get into one account you will get into others.
+"They automate the first part of the process and get the machine to run through them all," he said.
+Evidence of the checking being done could be seen in the "huge rise" in attempts by bots using stolen credentials to login to online accounts, he said. ThreatMetrix helps companies monitor logins to help them work out which ones are legitimate and which are not.
+"We've seen 450 million login attempts by bots in the first half of the year as hackers test the combinations across as many sites as they can," he said.
+That testing produces a list of "live" accounts associated with a given login/password pair. These, he said, are then compiled and then put up for sale on underground markets.
+Once data is sold off then it take a while for a separate thief to work through the list, he said. Hence the delay between initial test and subsequent action.
+The time between initial exposure and subsequent attack means people have a chance to shut out the hackers, said Dr Moody.
+"Changing your password is a very good first step," he said. "But it's never too late to change it, unless there has been fraud committed against that account."
+Password and security expert Per Thorsheim painted a more sober picture and said vast amounts of breach data had appeared this year for one good reason.
+"They put it up for sale so they can get the last bit of value out of it, the last few thousand dollars," he said.
+The data surfacing in 2016 was stolen years ago and had been steadily been worked over almost unseen, he said.
+"It's not just one hacker that does the initial breach and then exploits the data," he said. "The lists are split up and sold off to other brokers. They go through many different hands."
+The only upside of the massive amount of data being shared is that it will take the criminals time to process it all, he said.
+To protect themselves people should, where possible, set up two-factor authentication, he advised. That provides an extra layer of protection even on those accounts where people re-use a login name and password.
+"No matter how many times we talk about this people still re-use the same password across sites," he said.
+It was also worth people changing how they choose a password.
+"Use a sentence or a number of random words as your password," he said. "All services today should be able to handle a normal sentence with spaces between the words."
+"It's a good step, because length creates complexity,"  he said.

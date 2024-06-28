@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20130626042222/http://www.bbc.com/news/science-environment-23028083
+
+[SN]TITLE[SN]
+Lift-off for O3b satellite network
+
+[SN]FIRST-SENTENCE[SN]
+The O3b company has finally got its first four satellites in orbit.
+
+[SN]RESTBODY[SN]
+They were launched on a Soyuz rocket from French Guiana after a day's delay due to unfavourable winds at the Sinnamary spaceport.
+The satellites' deployment marks the first phase in O3b's construction of a novel telecommunications network.
+It plans to put a constellation in the sky to handle voice and data traffic for mobile phone, internet and other service providers.
+O3b is targeting parts of the world that currently have poor fibre-optic infrastructure.
+With support from blue chip companies such as Google, it believes its network can change the broadband experience for millions of people by providing an alternative "fibre in the sky" to backhaul traffic.
+"When you pull out your mobile phone and type google.com on it, it sends a signal from your phone to a tower nearby.  From that tower it has to reach Google's servers. That's the backhaul part. And most of the world does not have access to backhaul," explained O3b founder Greg Wyler.
+"In most of the world, you could put up a tower somewhere and reach it from your cell phone, but then you couldn't reach the server in California to get the information. That's where we come in."
+The Soyuz carrying the four satellites lifted clear of the Sinnamary launch gantry at 16:27 local time (19:27 GMT).  It took more than two hours and several burns from the rocket's Fregat upper-stage to get the spacecraft into their correct 8,000km-high orbit.
+Confirmation of separation from the Fregat and a successful mission came shortly before 22:00 GMT.
+The altitude is a critical part of the O3b design.
+By flying in this "medium-Earth orbit", the satellites will be a quarter of the distance from Earth than is the case with traditional geostationary (GEO) telecommunications spacecraft, which sit some 36,000km above the planet.
+This should reduce substantially the delay, or latency, of the signal as the voice or data traffic is routed via space.
+For standard satellites, the latency can be 600 milliseconds or more.  O3b is promising its customers a round-trip transmission time of a little more than 100 milliseconds.
+The satellites will operate in the high-frequency Ka-band and have the capability to deliver 10 beams, at 1.2Gbps per beam, to each of O3b's seven operational regions.  These are spread around the equator and reach latitudes of about 45 degrees North and South.
+The company expects to start services at the end of the year, once it gets eight spacecraft in orbit, but the intention is to put up perhaps as many as 20 eventually.
+"The architecture is very scalable," CEO Steve Collar told BBC News.  "We can keep launching satellites into that same arc and building the capacity we can deliver to our customers - and driving down the cost, importantly.
+"With all telecommunications, customers want more and more data for the same amount of money, and we have to continually drive those cost benefits into our network."
+The first place to benefit from the new system will be the Cook Islands in the Pacific. It has no connection to the global fibre-optic network.
+It has taken about six years to put the O3b project together. Key backers include not only Google but SES, one of the big players in the traditional satellite communications business.
+O3b was born from Mr Wyler's frustration with the difficulty of connecting a modern teleco in Rwanda to the global fibre-optic network, and the constraints that placed on performance.
+O3b actually stands for "other three billion" - the number of people whose poor communications experience is expected to improve over the coming decade.  O3b sees itself as an important agent of that change.
+The Jersey, Channel Islands-based outfit has raised more than $1bn to build its space and ground infrastructure.
+O3b's largest debt facility, over $0.5bn, is provided by HSBC, ING, CA-CIB and Dexia, and is underwritten by the French export credit agency, Coface.  The agency has been extremely active in supporting the new space constellations involving Thales Alenia Space (TAS), one of Europe's major satellite manufacturers.
+TAS has all but finished the second batch of four spacecraft for O3b, and has started work on units 9-12 which it hopes to deliver early next year.
+"We also have responsibility for LEOP (Launch and early orbit phase) activities," Philippe Nabet, the TAS programme manager on the O3b project, told BBC News prior to Tuesday's lift-off.
+"We will make sure that the satellites have the correct spacing. This is done at our control centre in Cannes. We also do the in-orbit testing of the platform and its payload. We should hand the satellites over to O3b in roughly one month."
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

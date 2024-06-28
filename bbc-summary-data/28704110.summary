@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160113020246/http://www.bbc.co.uk/news/technology-28704110
+
+[SN]TITLE[SN]
+Microsoft to drop support for outdated web browsers
+
+[SN]FIRST-SENTENCE[SN]
+Anyone using older versions of Microsoft's Internet Explorer browser will soon no longer get security updates and bug fixes for the software.
+
+[SN]RESTBODY[SN]
+From 12 January 2016 Microsoft will only support the latest copy of IE for the different versions of Windows.
+The shift ends a long-standing policy of providing support for different versions of IE for many years.
+Microsoft said the move would aid security and help developers, who would only need to support newer browsers.
+In a blogpost explaining the changes, Microsoft said commercial customers who had "standardised" on earlier versions of IE should start preparing plans now to migrate to more up-to-date releases.
+In addition, Microsoft said it would provide resources and help for customers to ensure web-based applications and programs created for older versions of IE continue to work with newer versions.
+The change should help developers, said Microsoft, because they will no longer be required to support the out-of-date technologies in those older browsers.
+Up to now, Microsoft's support for the versions of IE lasted as long as its support system for the version of Windows that the browser initially shipped with. In some cases, this meant it had to keep producing bug fixes and security updates for versions of IE that were more than 10 years old.
+The change means that it will only be supporting versions 9 and above of Internet Explorer. Users of different editions of Windows will be expected to be using the latest copy for that release. For instance, people and businesses running Windows 8.1 will only get bug fixes and security updates if they are on IE11.
+Microsoft has also made other moves to improve security on its browser. From 12 August, Explorer will start to block some out-of-date add-ons, known as ActiveX controls, for the program.
+In a blogpost, Microsoft said out of data add-ons were regularly targeted by cyber-thieves as a way to subvert browsers and steal data. The regular monthly update for IE will bring in the change that blocks out-of-date add-ons.

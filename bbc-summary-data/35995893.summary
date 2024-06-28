@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170713043553/http://www.bbc.com/news/technology-35995893
+
+[SN]TITLE[SN]
+Explicit 'furry' podcast airs on US radio after 'hack'
+
+[SN]FIRST-SENTENCE[SN]
+Several US radio stations played out an explicit podcast to listeners after an apparent hack.
+
+[SN]RESTBODY[SN]
+The Furcast group says the 90-minute podcast went out without its knowledge and it is "deeply sorry".
+Two Texas stations were among those which broadcast the material, aimed at "furries"- people interested in animals that are given human traits.
+Broadcasters have been advised to change passwords on the hardware many of them use.
+Barix streaming boxes are popular with broadcasters and PA professionals.
+Furcast said that multiple server requests for its content during the incident were in the name of "Barix Streaming Client" and that many of the individual boxes involved were visible on Shodan, a search engine for devices connected via the Internet of Things.
+The BBC has contacted Barix for comment but the problem appears to be with security settings not being updated by the box owners.
+"Someone is attacking Barix Boxes," wrote a member of the Alabama Broadcast Association.
+"Several radio stations and at least one radio network have been compromised. The Barix receiver is pointed to an obscene podcast and its password changed so it can only be reset manually."
+Furries are people who have a fascination with anthropomorphism and often dress in animal costumes.
+The furry group Furcast describes itself as "an improv comedy-themed furry podcast with no censor" and denies that its main aim is to create sexual material.
+"Our content is discovered by individuals who specifically seek what we produce, and they do not normally come into contact with it via public means," they wrote.
+"We have no interest in being discovered by a mainstream audience."
+Texas radio station KXAX found itself broadcasting Furcast's podcast on Tuesday.
+"At about 9am we were notified that a programme was playing on the station that did not originate from this studio," the station wrote on Facebook.
+"We found out that our equipment had been hacked and was broadcasting a podcast or a stream from an unknown source.
+"We were able to eventually get the problem resolved. But still want to apologise to anyone who may have heard the programming."
+KXAX general manager Jason Mclelland told Ars Technica there did not appear to have been a reason for the hack.
+Another station affected, KIFT, said in a statement that it had only been able to regain control of its output when an engineer physically went to the site of the hacked remote transmitter.
+"We are working with equipment manufacturers and auditing the security of our own systems to avoid any repeats of this incident," it said.

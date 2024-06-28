@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108030343/http://www.bbc.co.uk/news/technology-37084009
+
+[SN]TITLE[SN]
+Blogger turns tables on cyber-scammer
+
+[SN]FIRST-SENTENCE[SN]
+A French security researcher says he managed to turn the tables on a cyber-scammer by sending him malware.
+
+[SN]RESTBODY[SN]
+Technical support scams try to convince people to buy expensive software to fix imaginary problems.
+But Ivan Kwiatkowski played along with the scheme until he was asked to send credit card details. He instead sent an attachment containing ransomware.
+He told the BBC he wanted to waste the man's time to make the scheme unprofitable.
+Technical support scams are designed to scare people into buying useless and sometimes harmful software.
+Scammers send out emails, create fake websites or place advertisements online, falsely warning people that their computers have been infected with viruses.
+They encourage victims to contact "technical support" via a supplied telephone number or email address.
+"In most cases, the scammer's objective is to convince you that your machine is infected and sell you a snake-oil security product," Mr Kwiatkowski told the BBC.
+When Mr Kwiatkowski's parents stumbled across one such website, he decided to telephone the company and pretend he had been fooled.
+The "assistant" on the telephone tried to bamboozle him with technical jargon and encouraged him to buy a "tech protection subscription" costing 300 euros (Â£260).
+Mr Kwiatkowski told the assistant that he could not see his credit card details clearly and offered to send a photograph of the information.
+But he instead sent a copy of Locky ransomware disguised as a compressed photograph, which the assistant said he had opened.
+"He says nothing for a short while, and then... 'I tried opening your photo, nothing happens.' I do my best not to burst out laughing," Mr Kwiatkowski wrote in his blog.
+"I respond to email scam attempts most of the time, but this was the first time I responded to one over the telephone," Mr Kwiatkowski told the BBC.
+"I'm curious about how criminals operate and what they're trying to accomplish.
+"More often than not it ends up being fun and there's social utility in wasting their time. I believe that if more people respond and waste their time, their activities might not be profitable enough to continue."
+Mr Kwiatkowski said he could not be absolutely certain whether the ransomware had infected the scammer's computer, but there was a fair chance it had.
+"He did not let on that something had happened to his computer, so my attempt is best represented as an unconfirmed kill," said Mr Kwiatkowski.
+"But encrypting a whole file system does take some time."
+He acknowledged that some people may have found his retaliation unethical, but said responses had been "mostly positive".
+"People respond well to the story because this is such a David versus the Goliath setting," he said.
+However, Professor Alan Woodward from the University of Surrey warned that "hacking back" could have consequences,
+"There's a lot of talk around hacking back - and while it may be very tempting, I think it should be avoided to stay on the right side of the law.
+"But wasting their time on the phone I have no problem with. I even do that myself!"

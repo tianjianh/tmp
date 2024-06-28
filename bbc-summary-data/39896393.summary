@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170514010353/http://www.bbc.com/news/technology-39896393
+
+[SN]TITLE[SN]
+What is the ransomware causing chaos globally?
+
+[SN]FIRST-SENTENCE[SN]
+Tens of thousands of organisations have been caught out by a computer virus called WannaCry. The malicious software locks data away and demands a payment of up to $300 (Â£230) a time before it will restore scrambled files.
+
+[SN]RESTBODY[SN]
+In the UK, many hospitals fell victim and some health organisations diverted ambulances and cancelled non-essential services as they sought to contain and clean up the infection.
+Infections in more than 99 nations are being reported by security firms. It appears that the hardest hit are Russia and Spain.
+The most widespread and public malware outbreak for years has managed to infect a huge number of large organisations.
+The culprit is malware called WannaCry - which encrypts a computer's files and demands a ransom payment before allowing access again.
+It seems to have spread via a computer virus known as a worm.
+Unlike many other malicious programs, this one has the ability to move around a network by itself. Most others rely on humans to spread by tricking them into clicking on an attachment harbouring the attack code.
+By contrast, once WannaCry is inside an organisation it will hunt down vulnerable machines and infect them too. This perhaps explains why its impact is so public - because large numbers of machines at each victim organisation are being compromised.
+Currently, we do not know. Ransomware has been a firm favourite of cyber-thieves for some time as it lets them profit quickly from an infection. They can cash out easily thanks to the use of the Bitcoin virtual currency, which is difficult to trace.
+The competition among different ransomware gangs has led them to look for ever more effective ways of spreading their malicious code.
+WannaCry seems to be built to exploit a bug found by the US National Security Agency. When details of the bug were leaked, many security researchers predicted it would lead to the creation of self-starting ransomware worms. It may, then, have only taken a couple of months for malicious hackers to make good on that prediction.
+There could be a lot of reasons. The most likely one is because it is a huge organisation supported by a massive IT infrastructure. It also has lots of partners and suppliers that connect to its core network.
+Complexity is the enemy of security and it is a fair bet that some bits of that network, especially those operated by suppliers, are not as well maintained as they should be. This could mean that patches that would have thwarted WannaCry were not applied. So, as soon as the worm got in, it could run rampant.
+It depends. The WannaCry virus only infects machines running Windows. If you do not update Windows and do not take care when opening and reading emails then you could be at risk.
+You can protect yourself by running updates, using firewalls and anti-virus software and by being wary when reading emailed messages. It might also be worth taking a back up of key data so you can restore without having to pay up should you be infected.
+Not really. However, organisations can, and do, work hard to protect themselves. They set up firewalls, install anti-virus programs, apply file filters, run intrusion detection and regularly update software to keep malware and hackers out.
+However, no protection can ever be 100% perfect. Why? Because organisations are run by people and they make mistakes. Recognising this, many cyber thieves now rely on tricking insiders into opening booby-trapped attachments or links in emails to start off an infection - a practice known as phishing.
+And then there are the billions of login names and passwords stolen and shared by hackers over the last few years. Some cyber gangs now comb through these to find credentials from organisations they want to target. That lets them log in as if they were an employee and start their attack from the inside.
+In this case, a patch to close the bug has been available since 14 March but many organisations have clearly failed to apply it in time.

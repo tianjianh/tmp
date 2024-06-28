@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170820051312/http://www.bbc.co.uk/news/technology-40960053
+
+[SN]TITLE[SN]
+Daily Stormer: Cloudflare drops neo-Nazi site
+
+[SN]FIRST-SENTENCE[SN]
+A neo-Nazi site that disparaged a woman who died during protests in Charlottesville has faced another wave of rejection by web companies.
+
+[SN]RESTBODY[SN]
+The Daily Stormer's account with Cloudflare - which protects websites from distributed denial of service (DDoS) attacks - has been terminated.
+Cloudflare's chief executive Matthew Prince said he had "had enough", in a company email obtained by Gizmodo.
+However, he added that he felt conflicted over the decision.
+"Literally, I woke up in a bad mood and decided someone shouldn't be allowed on the internet," wrote Mr Prince.
+"No-one should have that power."
+On Sunday, the Daily Stormer published an article denigrating Heather Heyer, 32, who was killed after a car rammed into protesters against a far-right rally in Charlottesville, Virginia.
+This led to a backlash in which the site had to switch domain name registrars twice in 24 hours, after GoDaddy and Google both removed it from their services.
+Cloudflare's service involves handling web users' requests to view a site and filtering out those that appear to be coming from systems set up to overload the site.
+Without such protection, websites can sometimes be knocked offline.
+Mr Prince said leaving the site open to DDoS attacks could lead to "vigilante justice", in a blog post published later on Wednesday.
+However, he also said: "Our terms of service reserve the right for us to terminate users of our network at our sole discretion.
+"The tipping point for us making this decision was that the team behind Daily Stormer made the claim that we were secretly supporters of their ideology."
+Earlier in the week, the Daily Stormer was set up as a site on the dark web and later relocated its open web presence to a Russian domain name ending ".ru".
+A spokesman for the Russian media watchdog Roskomnadzor said it had asked web firm Ru-Center to shut this down.
+A BBC check on Thursday morning found that the .ru address no longer appeared to be working.
+The Daily Stormer has faced frustration elsewhere in recent days.
+Three Twitter accounts associated with the site that had previously been active were suddenly listed as "suspended" on Wednesday.
+And cyber-security researcher Joseph Evers announced that he had stopped hosting an internet chat channel he said was used by staff at the Daily Stormer.
+Describing himself as having once been a "free speech absolutist", Mr Evers added: "I'm glad to do my small part in countering white supremacy."
+Besides the Daily Stormer's case, this week Paypal reiterated its stance on blocking donations to organisations that promote hate, violence or racial intolerance.
+"This includes organizations that advocate racist views, such as the KKK, white supremacist groups or Nazi groups," the payment-processing firm said.
+Internet companies were facing a "dilemma" over how to balance support for freedom of speech with a desire not to encourage hate groups, said Prof Eric Heinze, at Queen Mary, University of London.
+"Had the Charlottesville events not occurred, the hate sites would still be operating from Cloudflare, GoDaddy, and other such venues," he told the BBC.
+"Some might call it satisfactory to wait until actual harm occurs before closing such a site. But others will say that's too little and too late."

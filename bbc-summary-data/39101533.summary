@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170301080530/http://www.bbc.com:80/news/technology-39101533
+
+[SN]TITLE[SN]
+MWC 2017: '22,000 hackable webcams in Barcelona'
+
+[SN]FIRST-SENTENCE[SN]
+A leading security company says it has discovered 22,000 hackable internet-connected baby monitors and other types of webcam in Barcelona.
+
+[SN]RESTBODY[SN]
+Avast carried out the check to coincide with the first day of the Mobile World Congress trade show in the city.
+In addition, it said it had found more than 470,000 other types of vulnerable smart devices.
+The firm warned that unsuspecting owners could be spied upon as a consequence.
+"If webcams are set to livestream for example, hackers or anyone can connect making it easy for cybercriminals to spy on... oblivious school pupils, workers or citizens nearby," said the firm's chief executive Vince Steckler in a statement.
+"[But] what is far more likely is the possibility of a cyber-crook hijacking an insecure webcam, coffee machine or smart TV to turn it into a bot which, as part of a wider botnet, could be used in co-ordinated attacks on servers to take down major websites."
+Avast used the connected-objects search engine Shodan to identify the devices.
+It said to qualify they needed to either:
+It carried out the study to help promote its own security tools.
+But another independent expert said he thought the public needed to be aware of the threat.
+"This research underlines just how easy it is to locate potentially vulnerable 'smart' devices and how they might be compromised," said Ken Munro, from the cybersecurity testing specialists Pen Test Partners.
+"That's not to say that all internet-connected devices can be easily compromised; for example some more recent kettles, coffee machines and fridges are much harder to hack than earlier models.
+"But consumers should exercise caution with smart devices. Ask yourself first if you actually need that device, then think about what data it might collect about you and expose.
+"For example, baby monitors with video and two-way audio would obviously be more concerning than a simple audio-only device."

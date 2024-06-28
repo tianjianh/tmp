@@ -1,0 +1,36 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719085656/http://www.bbc.co.uk/news/technology-32402481
+
+[SN]TITLE[SN]
+Rail signal upgrade 'could be hacked to cause crashes'
+
+[SN]FIRST-SENTENCE[SN]
+A hi-tech signalling system that will eventually control all of Britain's trains could potentially be hacked to cause a serious crash, according to a scientist who advises the government.
+
+[SN]RESTBODY[SN]
+Prof David Stupples told the BBC that plans to replace ageing signal lights with new computers could leave the rail network exposed to cyber-attacks.
+UK tests of the European Rail Traffic Management System are under way.
+Network Rail, which is in charge of the upgrade, acknowledges the threat.
+"We know that the risk [of a cyber-attack] will increase as we continue to roll out digital technology across the network," a spokesman told the BBC.
+"We work closely with government, the security services, our partners and suppliers in the rail industry and external cybersecurity specialists to understand the threat to our systems and make sure we have the right controls in place."
+Once the ERTMS is up and running, computers will dictate critical safety information including how fast the trains should go and how long they will take to stop.
+It is scheduled to take command of trains on some of the UK's busy intercity routes by the 2020s.
+The system is already used in other parts of the world and there are no reported cases of it being affected by cyber-attacks.
+In fact, it is designed to make networks safer by reducing the risk of driver mistakes.
+But Prof Stupples - an expert in networked electronic and radio systems at City University in London - said if someone hacked into the system they could cause a "nasty accident" or "major disruption".
+"It's the clever malware [malicious software] that actually alters the way the train will respond," he explained.
+"So, it will perhaps tell the system the train is slowing down, when it's speeding up."
+"Governments aren't complacent", the professor added.
+"Certain ministers know this is absolutely possible and they are worried about it. Safeguards are going in, in secret, but it's always possible to get around them."
+He added that he had spoken up to raise awareness of the threat.
+"We keep security arrangements under constant review to take account of the threat and any new challenges we face," responded a spokeswoman for the Department of Transport.
+According to the professor, the system is well protected against outside attack, but he says danger could come from a rogue insider.
+"The weakness is getting malware into the system by employees. Either because they are dissatisfied or being bribed or coerced," he explained.
+He added that part of the reason that transport systems had not already been hacked as frequently as financial institutions and media organisations was that much of the technology involved was currently too old to be vulnerable.
+All of that will change in the coming years, as aircraft, cars and trains become progressively more computerised and connected, he said.
+Independent security expert Graham Cluley agreed that the sector could be vulnerable.
+"Seeing as we have seen nuclear enrichment facilities targeted with state-sponsored malware attacks and 'massive damage' done to a German steelworks, you have to ask yourself whether it is likely that a train signal system would be any better defended?" he asked.
+"The most obvious danger is going to be human.
+"The risk is that staff will either be deliberately and clandestinely assisting attackers or - most likely - make poor decisions, such as plugging in a device that is malware-infected that could expose the system's security."
+Prof Stupples said he was working with Cranfield University to develop a security system that would tell when a train or other mode of transport was acting oddly.
+"It would take it back into a safe state," he explained.

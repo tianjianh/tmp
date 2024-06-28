@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150815093003/http://www.bbc.co.uk/news/technology-33906051
+
+[SN]TITLE[SN]
+Car immobiliser easy to crack, say researchers
+
+[SN]FIRST-SENTENCE[SN]
+Anti-theft devices found on millions of cars are vulnerable to a "trivial" attack, say security researchers.
+
+[SN]RESTBODY[SN]
+They found the encryption system used in many car immobilisers can be cracked, potentially letting a thief steal the car.
+Vehicles made by 26 separate car firms including Volkswagen, Porsche and Honda use the "weak" security system.
+The researchers first released their findings two years ago but legal action prevented publication.
+Security researchers Roel Verdult, Flavio Garcia, and Baris Ege from Radboud University in Holland investigated the encryption system used by the Megamos immobiliser.
+This stops a car engine being started if the correct radio chip in a key fob is not close by.
+These systems can be fooled with boosters that amplify the signal on the corresponding chip but the researchers took a different approach that tackled the data passing between car keys and the Megamos system.
+Eavesdropping on the exchange of data between the car key and crypto system a couple of times gave the trio useful hints about which secret key was being used to scramble the data.
+This helped them find which cryptographic key was being used in about 30 minutes. Some car makers were using very weak secret keys that could be found in just a few minutes using a laptop.
+In a paper describing their work, the three researchers said it was "trivial" to accomplish the attack on the immobiliser system. The research was completed three years ago but legal action by Volkswagen and French defence group Thales initially prevented publication. The restrictions on publication have now been lifted after the paper was edited.
+The BBC has contacted Megamos for a comment but the company has not yet responded.
+Fixing the flaws in the cryptographic system overseeing the data exchange will be hard as it involves replacing radio chips in car key fobs and the corresponding hardware in affected vehicles.
+The team said it had been talking to car makers about its findings, and measures had been taken to prevent some of the attacks working.
+The paper comes after several other security researchers revealed ways to take over in-car computer systems. Some researchers have attacked the Tesla Model S while others found a way to send a text message that can disable cars using a specific onboard modem.
+In one of the most dramatic hacks, hackers from security firm IOActive stopped a Chrysler Jeep from many miles away via its infotainment system.

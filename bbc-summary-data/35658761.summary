@@ -1,0 +1,19 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170520210725/http://www.bbc.co.uk/news/technology-35658761
+
+[SN]TITLE[SN]
+US court case reveals Tor attack deal
+
+[SN]FIRST-SENTENCE[SN]
+The FBI made security researchers hand over data that helped identify people suspected of using the Tor anonymising network, a court case has revealed.
+
+[SN]RESTBODY[SN]
+It used a court order to access data gathered by two researchers during a 2014 Carnegie Mellon University project funded by the US Department of Defense.
+The home IP address of American Brian Farrell was among those obtained by the FBI via its analysis of the CMU data.
+He denies helping to run the Silk Road 2.0 website, which sold drugs via Tor.
+Tor, also known as The Onion Router, lets people browse the web anonymously by bouncing data through a series of routers that encrypt it at each step.
+This has also given rise to a number of hidden sites, including many markets selling drugs and other illegal items and services, that sit on the Tor network.
+Once identified, the researchers said they would give a talk at the Black Hat security conference about the methods they had used to "de-anonymise hundreds of thousands Tor clients and thousands of hidden services".
+The talk never went ahead - but later in 2014, the FBI mounted a series of raids on people suspected of running sites sitting on Tor.
+The revelation comes as the FBI is embroiled in a row with Apple over a request to unlock an iPhone used by Syed Rizwan Farook who, with his wife, killed 14 people in California last year.
+The trial against Mr Farrell is due to start in April.

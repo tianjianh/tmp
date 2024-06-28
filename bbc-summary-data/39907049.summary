@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170514011414/http://www.bbc.com/news/technology-39907049
+
+[SN]TITLE[SN]
+Global cyber-attack: Security blogger halts ransomware 'by accident'
+
+[SN]FIRST-SENTENCE[SN]
+A UK security researcher has told the BBC how he "accidentally" halted the spread of the malicious ransomware that has affected hundreds of organisations, including the UK's NHS.
+
+[SN]RESTBODY[SN]
+The 22-year-old man, known by the pseudonym MalwareTech, had taken a week off work, but decided to investigate the ransomware after hearing about the global cyber-attack.
+He managed to bring the spread to a halt when he found what appeared to be a "kill switch" in the rogue software's code.
+"It was actually partly accidental," he told the BBC, after spending the night investigating. "I have not slept a wink."
+Although his discovery did not repair the damage done by the ransomware, it did stop it spreading to new computers, and he has been hailed an "accidental hero".
+"I would say that's correct," he told the BBC.
+Cyber-attack scale 'unprecedented'
+NHS 'robust' after cyber-attack
+"The attention has been slightly overwhelming. The boss gave me another week off to make up for this train-wreck of a vacation."
+The researcher first noticed that the malware was trying to contact a specific web address every time it infected a new computer.
+But the web address it was trying to contact - a long jumble of letters - had not been registered.
+MalwareTech decided to register it, and bought it for $10.69 (£8).  Owning it would let him see where computers were accessing it from, and give him an idea of how widespread the ransomware was.
+By doing so, he unexpectedly triggered part of the ransomware's code that told it to stop spreading.
+Analysis: How did it start?
+What is the ransomware?
+This type of code is known as a "kill switch", which some attackers use to halt the spread of their software if things get out of hand.
+He tested his discovery and was delighted when he managed to trigger the ransomware on demand.
+"Now you probably can't picture a grown man jumping around with the excitement of having just been 'ransomwared', but this was me," he said in a blog post.
+MalwareTech now thinks the code was originally designed to thwart researchers trying to investigate the ransomware, but it backfired by letting them remotely disable it.
+While the registration of the web address appears to have stopped one strain of the ransomware spreading from device-to-device, it does not repair computers that are already infected.
+Security experts have also warned that new variants of the malware that ignore the "kill switch" will appear.
+"This variant shouldn't be spreading any further, however there'll almost certainly be copycats," said security researcher Troy Hunt in a blog post.
+MalwareTech warned: "We have stopped this one, but there will be another one coming and it will not be stoppable by us.
+"There's a lot of money in this, there is no reason for them to stop. It's not much effort for them to change the code and start over."

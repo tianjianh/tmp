@@ -1,0 +1,35 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160926004243/http://www.bbc.co.uk/news/technology-33625961
+
+[SN]TITLE[SN]
+AI triumphs at Pictionary-like sketch recognition task
+
+[SN]FIRST-SENTENCE[SN]
+An artificial intelligence system has beaten humans at a sketch-recognition task.
+
+[SN]RESTBODY[SN]
+The software - called Sketch-a-Net - correctly identified a sample of hand drawings 74.9% of the time compared with the volunteers' score of 73.1%.
+It has been developed by researchers in London, who suggested their program could be adapted to help police match drawings of suspects to mug shots.
+However, one computing expert said a lot more work still needed to be done.
+Previous sketch-recognition efforts have examined drawings as finished works from which specific features are extracted and then classified, much in the same way they analyse photos.
+However, Sketch-a-Net makes use of information about the order the hand strokes were made in.
+When computer equipment is used to create a drawing, the resulting data includes information about when each line was made as well as where - and the team, from Queen Mary University, took advantage of this additional information.
+"Normal computer vision image recognition just looks at all of the pixels in parallel, but there is some additional information offered by the sequence [of the lines]," said Dr Timothy Hospedales, from the university's computer science department.
+"And there is some regularity in how people do it."
+For example, in the case of an alarm clock, he told the BBC, people usually started by drawing the device's outline before adding in the hands and then finally creating dashes to represent the hours.
+"Different shapes have different ordering - and that's what the network learns to discover," "Dr Hospedales added.
+The drawings involved in the test were sourced from a collection of 20,000 sketches known as the TU-Berlin dataset, which has been used in previous image-recognition tasks.
+When analysing the image library, Sketch-a-Net appeared to have a particular edge at determining some of the drawings' finer details.
+So, for example, it was able to better able to match drawings of birds to the descriptions "seagull". "flying-bird", "standing-bird" and "pigeon" than the humans were.
+The AI software achieved a 42.5% accuracy score at that specific task, compared with the volunteer's 24.8%.
+"It's been described as being like trying to solve the game Pictionary, which I thought was a nice explanation," Dr Hospedales said.
+"At the moment all we are claiming is that we can recognise the sketches, on average, a bit better than humans.
+"But in the future this could feed into work being done here on sketch-based face-recognition for police.
+"And the other area of interest is sketch-based image retrieval.
+"Imagine trying to search for a specific piece of Ikea furniture- that's hard to do with keywords and the difficult-to-remember names Ikea uses.
+"But if you could draw the shape of the table or chair or whatever as a sketch and retrieve the category of the furniture that looks the same, that could be useful."
+Prof Alan Woodward, from the University of Surrey's computing department, described the research as "promising" but said it could be some time before its potential would be realised.
+"Neural nets have proven highly successful in the past as the foundation for recognition and classification systems," he said.
+"However, this latest application is obviously at an early stage and quite a lot of development and testing will be needed before we see it emerge in a real-world application.
+"But I think it is one of many areas in which we'll see people using AI to improve on human abilities."
+The peer-review study will be discussed further at the British Machine Vision Conference in September.

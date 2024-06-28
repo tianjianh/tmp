@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170226000151/http://www.bbc.co.uk/news/business-39038615
+
+[SN]TITLE[SN]
+Genghis Khan: Could satellites help find his tomb?
+
+[SN]FIRST-SENTENCE[SN]
+For Shay Har-Noy it was an 800-year-old puzzle about the burial place of Mongolian ruler Genghis Khan that sparked a very 21st Century business.
+
+[SN]RESTBODY[SN]
+Mr Har-Noy was on an expedition to locate the lost tomb of the Mongol Empire founder, when satellite imagery firm DigitalGlobe donated some photos of potential areas for his team to scrutinise.
+These images, taken from space, were enormous, and as nobody knows what the tomb actually looked like, there was no obvious place to start the search.
+So Mr Har-Noy decided to crowdsource for clues.
+He returned to Mongolia three times to investigate what he calls "anomalies" in the photographs, submitted by eagle-eyed armchair enthusiasts.
+Could one of these have been the burial site?
+Alas, no - the search continues. But he says: "We did find some ancient archaeological sites that are still in need of investigation."
+The experience inspired him to set up crowdsourcing platform TomNod, which offered satellite imagery from DigitalGlobal to people running their own projects. DigitalGlobal eventually acquired the firm.
+It's an example of how increasingly complex, high-resolution satellite images are being offered to wider audiences - amateurs, scientists, businesses, governments - via cloud platforms that can handle and share these huge digital files.
+As well as looking for long-lost tombs and ancient civilisations, teams are collaborating to assess the damage following earthquakes or to monitor illegal logging and the destruction of the rainforests.
+Volunteers took part in the search for missing Malaysia Airlines flight MH370 and helped monitor the extend of flood damage in Haiti after Hurricane Matthew struck.
+And there are plenty of business applications, too.
+For example, DigitalGlobe's images are helping car-sharing service Uber find the best pick-up and drop-off locations for its drivers, telecoms companies site their wireless antennae more efficiently, and countries like Nigeria improve its maps.
+"We collect [images of] 3.5 million square kilometres a day, in high resolution," says Mr Har-Noy, who is now a vice president at DigitalGlobe.
+"Every road, building, backyard, business - every animal, stream, lake."
+This amounts to 70 terabytes of digital images every day - imagine filling up 140 500GB laptops to the brim with data.
+And DigitalGlobe has had satellites in space for the last 17 years.
+This massive image archive is like "a giant high-resolution time machine", he says, because it provides a detailed record of how our world has changed - and is changing.
+DigitalGlobe uses Amazon Web Services' cloud platform to store all this data, with the advantage that users don't have to download large files but can rely on AWS' flexible computing power to handle them.
+"Instead of moving the giant files I can run analytics against them where the files are," says Mr Har-Noy.
+The European Space Agency (ESA), which runs the Copernicus satellite earth observation programme, is also making its archive of images available to scientists and businesses across the world via the cloud.
+"We realise our planet is a system and now we have humans as part of the equation," says Pierre-Philippe Mathieu, a data scientist at ESA.
+"The only way to understand it is from space."
+The archive, hosted by private cloud network Interoute, is being shared with everyone, from governments to entrepreneurs looking for ways to turn all this data into business opportunities.
+ESA's pairs of Sentinel satellites are equipped with a range of sensors, from radar to interferometers, as well as high-resolution cameras.
+These instruments are accurate enough to measure changes in ocean levels or soil quality, for example, or the shockwaves caused by an earthquake.
+They can also track the spread of water pollution, the impact of fossil fuel burning, and changes in the size of the ozone layer hole.
+"This kind of data has a very strong scientific impact," says Mr Mathieu. "Observation is the foundation of science - and it can lead to data-driven decision making."
+Thanks to an open data initiative in common with many public bodies, academics, government ministers, even Inuit ice trekkers and the beauty industry, have benefited from access to this enormous gallery of "earth selfies", as Mr Mathieu once described them in a Tedx talk.
+Some entrepreneurs have created apps for farmers, combining weather data, plant and soil analysis, and local intelligence, to help them maximise production.
+Another app takes pollution imagery and localises it to allow runners to choose a route with the cleanest air.
+"We're building a highway of information, and the backbone of that highway is the cloud," says Mr Mathieu. "Data is like money - if it doesn't move it has no value."
+But analysing this growing treasure trove of images will soon require machines as well has humans, Mr Har-Noy believes.
+This is why he is heading up an ambitious machine-learning project which he hopes will eventually enable images to be analysed and processed automatically by artificial intelligence rather than human eyes.
+"Over the last three years there's been this explosion in the applicability of this technology and we are well poised to take advantage of that," he says.
+His army of crowdsourcers now has a different mission.
+"As machines get better we are using the humans to train the machines."
+But will they be any better at finding Genghis Khan's tomb?
+Follow Technology of Business editor Matthew Wall on Twitter and Facebook
+Click here for more Technology of Business features

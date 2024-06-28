@@ -1,0 +1,32 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160104141812/http://www.bbc.co.uk/news/technology-35198435
+
+[SN]TITLE[SN]
+AVG's Web TuneUp put millions of Chrome users at risk
+
+[SN]FIRST-SENTENCE[SN]
+It has emerged that a popular tool meant to ward off malware contained a flaw that put millions of people's personal data at risk.
+
+[SN]RESTBODY[SN]
+AVG's Web TuneUp software is marketed as a free way for users to defend themselves from "hidden threats".
+But earlier this month Google's security team spotted that it was overriding safety features built into the search firm's Chrome browser.
+AVG said it had addressed the problem, but it now faces repercussions.
+Google's Tavis Ormandy first flagged the issue to other members of his Project Zero team on 15 December.
+He highlighted that Web TuneUp was "force installing" a plug-in into Chrome, meaning that users of the product had no way to opt out of it altering the browser's settings.
+As a result, he said, people's internet history and other personal data could be seen by others if they knew where to look online. Furthermore, he said, the code could potentially let hackers spy on people's email and other online activities.
+On 15 December, he contacted the Amsterdam-based cybersecurity firm.
+"Apologies for my harsh tone, but I'm really not thrilled about this trash being installed for Chrome users," he wrote.
+"My concern is that your security software is disabling web security for nine million Chrome users, apparently so that you can hijack search settings and the new tab page.
+"I hope the severity of this issue is clear to you, fixing it should be your highest priority."
+Messages between the two organisations reveal that AVG's initial attempt to address the flaw did not work.
+But on Tuesday, Mr Ormandy confirmed that a new version of the plug-in had resolved the issue.
+AVG confirmed the fact in a statement.
+"We thank the Google Security Research Team for making us aware of the vulnerability with the Web TuneUp optional Chrome extension," it said.
+"The vulnerability has been fixed; the fixed version has been published and automatically updated to users."
+However, Mr Ormandy also informed AVG it would be prevented from auto-installing the plug-in for new Web TuneUp users as a consequence of the debacle.
+"Inline installations are disabled while the CWS [Chrome Web Store] team investigate possible policy violations," he wrote.
+An independent security expert said the case should serve as a warning.
+"The vulnerability Google discovered is very serious, and allowed any website to access the passwords and other confidential information for any other website the AVG customer had visited," commented Dr Steven Murdoch from University College London.
+"Although it is now fixed, it shows that almost any software installed on a computer can introduce security vulnerabilities, even if that software is intended to improve security."
+This is the second time a problem with AVG's products has been highlighted this year.
+In March, researchers at Ensilo flagged that the firm's Internet Security 2015 program had contained a bug that made it possible for hackers to add code to Windows PCs that would disable some of Microsoft's own protection measures.

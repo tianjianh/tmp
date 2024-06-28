@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160327033205/http://www.bbc.co.uk/news/technology-35890902
+
+[SN]TITLE[SN]
+Wireless mice outed as 'security' loophole
+
+[SN]FIRST-SENTENCE[SN]
+Hackers could gain access to home and corporate networks via security flaws in wireless mice, suggests research.
+
+[SN]RESTBODY[SN]
+Weaknesses in the way mice swapped data with computers left them vulnerable, said security firm Bastille Networks.
+Attackers could spoof poorly protected signals letting them use PCs as if they were sitting in front of them, it said.
+Information about the loopholes have been passed to the makers of vulnerable mice, some of who are creating updates to make the mice more secure.
+The radio signals sent by many wireless mice to a "dongle" plugged in to a computer were often unencrypted, said Marc Newlin and Balint Seeber, from Bastille, who carried out the research.
+"That makes it possible for the attacker to send unencrypted traffic to the dongle pretending to be a keyboard and have it result as keystrokes on your computer," Mr Newlin said.
+By contrast, they said, signals sent by wireless keyboards were scrambled to stop attackers eavesdropping on or spoofing them.
+The pair found they could spoof signals for mice using a few lines of code and an antenna and dongle that cost $20 (Â£15).
+The attack worked at distances of up to 180m (590ft).
+Using this kit, they sent specially crafted mouse clicks that a computer interpreted as key presses, letting them run commands and take control of a target machine.
+The Bastille researchers said many companies spent a lot of time and money securing the physical devices sitting on their networks but often neglected to keep an eye on data sent via radio.
+Wireless mice produced by HP, Lenovo, Amazon and Dell were found to be vulnerable.
+Bastille said it had reported its findings to the hardware makers and to the company that made the chipset used inside the spoofable mice.
+Updates to the internal computer code, or firmware, for some of the vulnerable mice are now being made available,
+But Bastille said many of the insecure mice it had found could not be updated.

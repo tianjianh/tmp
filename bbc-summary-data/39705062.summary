@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170426045732/http://www.bbc.com/news/technology-39705062
+
+[SN]TITLE[SN]
+Russian hackers 'target' presidential candidate Macron
+
+[SN]FIRST-SENTENCE[SN]
+Russian hackers are targeting the campaign of French presidential candidate Emmanuel Macron, say security experts.
+
+[SN]RESTBODY[SN]
+Phishing emails, malware and fake net domains were all being used as attack techniques, said Feike Hacquebord, from security company Trend Micro.
+The attackers are believed to be part of the same group that targeted the US election.
+Russia has denied that it is behind attacks aimed at Mr Macron.
+In a report, Mr Hacquebord said the group behind the "aggressive" attacks was a collective of Russian hackers known widely as Fancy Bear, APT28 and Pawn Storm.
+He said the group was using an extensive arsenal of high-tech con tricks to grab the login names, passwords and other credentials of staff aiding Mr Macron's bid to be the next French president.
+Mr Macron got through the first round of the presidential election as did Marine Le Pen.
+In particular, said Mr Hacquebord, the hacker group had registered several net domains similar to those already registered by the French politician's staff.
+The fake domains were then used in phishing emails sent to key workers in an attempt to get them to visit the websites so login details could be scooped up.
+The hackers were also abusing a system called OAuth that let people log into one service using the credentials they use for another.
+Mr Hacquebord said telltale techniques of the group lent weight to the idea that the people involved in the French attacks were behind ones seen last year in the US.
+"We have seen that phishing sites were set up, and the fingerprints were really the same actors as in the Democratic National Congress breach," he told the Reuters news agency.
+A spokesman for the French national cyber-security agency, ANSSI, confirmed that it too had seen several attacks on Mr Macron's staff and back-office systems.
+However, a spokesman for the agency said it was difficult to be sure that the Pawn Storm group was behind the attacks.
+A spokesman for the Macron campaign said it knew about the range of attacks aimed at it and none had led to the release of sensitive data.
+"These are usual cyber-attack tactics," Mounir Mahjoubi told CNN.
+"We have set up a security team and every member of the staff is trained to report these attempts."
+A security researcher called The Grugq, who is known as an expert on operational security, said Mr Macron's campaign was an easier target than some because of its reliance on the Telegram app for messaging.
+"Its security is not particularly strong compared with alternatives, and the defaults guide users towards insecure practices," he wrote.
+The Pawn Storm group is also believed to have been involved in other attacks on political organisations, including the Christian Democratic Union of Germany, the Turkish government and Montenegro's parliament, as well as the World Anti-Doping Agency and Arabic television channel al-Jazeera.

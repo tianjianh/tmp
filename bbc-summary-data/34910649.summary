@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151125090418/http://www.bbc.co.uk/news/technology-34910649
+
+[SN]TITLE[SN]
+Dell admits security flaw was built in to computers
+
+[SN]FIRST-SENTENCE[SN]
+A security hole that could allow attackers to access users' personal data was inadvertently placed on Dell computers, the company has admitted.
+
+[SN]RESTBODY[SN]
+The hole represented a "profound security flaw" that could allow access to bank details and other personal data, experts said.
+Dell has issued guidance on removing the software that produced it.
+The news comes after Lenovo was also criticised for pre-installing adware that potentially compromised security.
+One user, posting on Reddit, reported finding that their Dell machine came pre-installed with a self-signed root certificate authority, called "eDellRoot", and the private key associated with it.
+In a statement released on Monday, Dell acknowledged the vulnerability and linked to a guide on permanently removing the software that caused it.
+"We became aware that a certificate (eDellRoot), installed by our Dell Foundation Services application on our PCs, unintentionally introduced a security vulnerability. The certificate was implemented as part of a support tool and intended to make it faster and easier for our customers to service their system. Customer security and privacy is a top concern and priority for Dell; we deeply regret that this has happened and are taking steps to address it."
+It stressed that the certificate was not itself "malware or adware", nor was it "being used to collect personal customer information".
+It said: "We will also push a software update starting on November 24 that will check for the certificate, and if detected remove it. Commercial customers who reimaged their systems without Dell Foundation Services are not affected by this issue. Additionally, the certificate will be removed from all Dell systems moving forward."
+The firm thanked users who brought it to their attention and invited others to flag up any further security issues.
+Certificates are used by computer operating systems and internet browsers to identify websites as safe. However, security experts said the software installed by Dell had two flaws: firstly, the software would allow traffic to be intercepted, potentially exposing sensitive information; secondly, the key could be used to make a user's computer misidentify unsafe connections as safe.
+"The [latter] means that you could think you were looking at, say, your bank's site. But, actually, it is a spoof site. The flaw means that the certificate could fool you into thinking you were looking at a site that normally uses a secure connection. You would check for the padlock in the browser - see it - and, unless you checked further, you would simply trust the fake site," Prof Alan Woodward, a cybersecurity expert at the University of Surrey, told the BBC.
+Security consultant Graham Cluley wrote on his blog that, in the former case, the certificate could intercept the traffic on each website visited by users. "In this way, supposedly secure communications can be eavesdropped upon, and passwords, usernames, session cookies and other sensitive information could fall into the hands of malicious hackers."
+The two experts said that hackers would have to perform a "man-in-the-middle" attack, in which they intercept the traffic going back and forth, in order to gain such access.
+Some people equated the security flaw with the Superfish adware that it emerged was being pre-installed on Lenovo computers earlier this year. The software was designed to help users shop online but experts warned that it was insecure.
+"[The Dell software] is similar to Superfish, in fact, it is slightly worse," said Prof Woodward.
+"What is really concerning is, after Lenovo, we have seen a number of these happening and the whole point of certificates is that they rely on trust. If you get manufacturers putting on certificates that drive a coach and horses through that trust, it harms the whole system."
+He said that some firms were now so suspicious of the certification processes run by some manufacturers that they were no longer allowing their browsers to trust the websites certified by the computers' operating systems and, instead, were relying on their own.
+"It is a profound security flaw because, when a browser says you can trust something, the general user thinks they can. It is so fundamental to the trust and security needed to deal with people through your browser - you have to trust that the manufacturer has checked it all out."

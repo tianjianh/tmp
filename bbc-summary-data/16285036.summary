@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160304023843/http://www.bbc.co.uk/news/science-environment-16285036
+
+[SN]TITLE[SN]
+Ultracold science finds new method to get even colder
+
+[SN]FIRST-SENTENCE[SN]
+Researchers have developed a clever way to achieve the lowest temperatures ever recorded on Earth.
+
+[SN]RESTBODY[SN]
+Achieving such temperatures is necessary to study fundamental properties of matter and the strange effects caused by quantum mechanics.
+The new method relies on "optical lattices" of atoms from which only the hottest atoms are selectively removed.
+The approach, reported in Nature
+, may be well-suited to create memory for future quantum computers.
+The limits of low temperature have been constantly pushed in recent years, and the current best lies somewhere in the nanoKelvin regime - that is, within just billionths of a degree of "absolute zero" at zero Kelvin or -273.15C.
+That ultimate limit is set formally as the lowest possible entropy, or disorder, that is achievable.
+Optical lattices are an ideal system in which to attain temperatures ever nearer that limit. The peaks and troughs of intensity in crossed beams of light form a kind of "egg-crate" structure in which atoms are inclined to remain in the troughs - a point of lowest energy.
+As the atoms are added to each trough - or each point in the lattice - it becomes more difficult to add another, in a situation called a blockade.
+But researchers from Harvard University have invented a modification to this effect called orbital exchange blockade.
+It is a way to cool these assemblages of atoms that could be extended to the picoKelvin regime: within trillionths of a degree of the coldest possible temperature.
+The team carefully adjusted the intensity of the crossed light beams. The trick was to do so in such a way that only the most energetic atoms in each lattice site absorbed energy from the light fields, becoming more energetic again.
+By adjusting how frequently the light beam intensities were changed, the team was able to remove these "hottest" atoms from the system, leaving only the "coolest" ones behind.
+The approach removed entropy, or in other words, reduced the overall temperature of the lattice.
+In an accompanying article in Nature
+, optical lattice expert Gretchen Campbell from US measurement agency Nist points out that this ability to specifically address single lattice sites, and potentially to cool to never-before-achieved temperatures, may make the approach useful in quantum computers.
+These devices, still in early developmental stages, would make use of the slippery nature of quantum states to perform computation at incredible speeds.
+But like any computer, they would need memory, and optical lattices that keep delicate quantum information preserved in cold atoms could be a suitable solution.

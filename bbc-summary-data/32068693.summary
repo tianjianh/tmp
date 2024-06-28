@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150328175655/http://www.bbc.co.uk/news/technology-32068693
+
+[SN]TITLE[SN]
+Tinder prank 'tricked men into flirting with each other'
+
+[SN]FIRST-SENTENCE[SN]
+A prank played by a developer has exposed a "serious lapse of security" in the dating app Tinder, according to one expert.
+
+[SN]RESTBODY[SN]
+The developer reportedly tricked men into flirting with each other, using fake profiles he created as bait.
+Men who sought to contact one of the fake women were matched up with each other, rather than with her.
+Security consultant Prof Alan Woodward said the episode "cannot help but knock one's confidence" in Tinder's security.
+The Verge reported on Wednesday that the anonymous developer had managed to manipulate Tinder's application program interface (API), which controls how apps and programs interact.
+The developer reportedly created a program that could detect when men on Tinder expressed an interest in talking to the fictitious women portrayed in his bait profiles.
+Two men who did so were then put in touch with each other, rather than with the woman, with the messages relayed via the dummy account. The developer, named by the Verge as "Patrick", then collected the messages they sent each other.
+The process had been, he said, "surprisingly easy".
+Prof Woodward told the BBC: "Put simply, it shouldn't be possible for someone to do this, so the fact that Tinder was 'tweaked' in this way is a serious lapse in security.
+"I am surprised that a company that is dealing with such sensitive interactions, which are billed as being truly private, has not seen this loophole in its own penetration testing."
+He said that companies that dealt with sensitive data were "trusted by default" by their users, adding: "I would have hoped that such companies would exercise the most stringent efforts as part of their duty of care".
+Patrick told the Verge that he was a Tinder user himself and had met his current girlfriend using the app.
+He was motivated, he said, by a desire to draw attention to the sometimes harassing nature of the messages many women received from men on it.
+"The original idea was to throw that back into the face of the people doing it to see how they would react," he said.
+He said that the first matches had been made within minutes of the program's activation and that he had been overseeing 40 conversations between men within 12 hours.
+Patrick told the website that he had intervened if a real-world meeting was imminent.
+Of the people he pranked, he said: "They ignore all the signs, they ignore all the weird things. When someone is so quick to meet up without any detail or know anything about the person at all, maybe it's deserved."
+While he sympathised with the developer's reasoning, Prof Woodward said: "There is no excuse for exploiting any such vulnerability and mounting this kind of interference.
+"If someone is researching security, then most companies now have a bounty programme that pays them for reporting problems such as this."
+It is not the first time Tinder has faced scrutiny over its security. In 2013, it was reported that some users could have been tracked to within 100ft (30m). That flaw was later patched.
+The developer could not be reached for comment. A spokesman for Tinder did not respond to a request for comment.

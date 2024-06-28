@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107104009/http://www.bbc.co.uk:80/news/technology-37021957
+
+[SN]TITLE[SN]
+'Project Sauron' malware hidden for five years
+
+[SN]FIRST-SENTENCE[SN]
+A sophisticated form of malware known as Project Sauron went undetected for five years at a string of organisations, according to security researchers.
+
+[SN]RESTBODY[SN]
+The malware may have been designed by a state-sponsored group.
+It can disguise itself as benign files and does not operate in predictable ways, making it harder to detect.
+Experts from Kaspersky Lab and Symantec said it allows the attacker to spy on infected computers.
+In September last year, Kaspersky first detected the malware on an unspecified "government organisation" network.
+Since then, the firm claims to have found evidence of Project Sauron at more than 30 organisations in Russia, Iran and Rwanda.
+These were generally government, scientific, military, telecoms and financial organisations, according to Kaspersky.
+Separately, Symantec said it had found the malware in other countries, including at an airline in China and an embassy in Belgium.
+Project Sauron is able to disguise itself in a wide variety of ways - as files with names similar to those published by organisations like Microsoft, for example, and does not always use the same methods for sending data back to the attacker.
+"The attackers clearly understand that we as researchers are always looking for patterns," the company notes in its report. "Remove the patterns and the operation will be harder to discover."
+The malware can steal files, log all keystrokes and open a "back door" allowing wide-ranging access to the compromised computer, according to Symantec.
+Project Sauron did not share any code with other known examples of similarly powerful malware, said Kaspersky's director of threat research Costin Raiu.
+"It really stands out by itself as something very, very sophisticated," he told the BBC.
+Mr Raiu also pointed out that two of the malware's victims had been infected with other highly sophisticated malicious programs. One victim was found to have Regin spyware on their systems, for example.
+"This would suggest that the actor behind Project Sauron is perhaps different," suggested Mr Raiu.
+One aspect of Project Sauron that demonstrates the malware's sophistication is its ability to steal sensitive data - such as encryption keys - from computers that are not actually connected to the internet.
+This is known as "jumping the air-gap".
+For this, Project Sauron relies on an infected USB drive being inserted into the target computer.
+A hidden cache of files on the drive is then able to deposit malware on to that PC.
+It is not yet clear how the attackers would have used this method to control an air-gapped computer, but they believe it might have been via a "zero day" - previously undetected - exploit that they have not yet found.
+"We believe it was probably deployed in rare, hard-to-catch instances," notes the Kaspersky report.
+Project Sauron is characteristic of state-sponsored style malware, according to cybersecurity expert Graham Cluley.
+"These are very stealthy, insidious attacks that can lurk in the background for years gathering information," he told the BBC.
+"We have seen the steady progression and evolution of these sorts of attacks. As governments try to protect themselves and get clued up, it is essentially an arms race."

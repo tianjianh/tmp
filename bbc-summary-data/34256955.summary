@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150920050409/http://www.bbc.co.uk/news/science-environment-34256955
+
+[SN]TITLE[SN]
+Sound waves used to activate brain cells in a worm
+
+[SN]FIRST-SENTENCE[SN]
+For the first time, scientists have directly controlled brain cells using sound waves, in a tiny laboratory worm.
+
+[SN]RESTBODY[SN]
+They used ultrasound to trigger activity in specific neurons, causing the worms to change direction.
+As well as requiring a particular gene to be expressed in the brain cells, the technique bathes the animals in tiny bubbles to amplify the sound waves.
+These complications temper the technique's promise for controlling brain activity in a non-invasive way.
+Writing in the journal Nature Communications, the researchers argue that their new method for controlling brain cells could improve on "optogenetics", a technique that uses light rather than sound.
+The problem with light is that it cannot penetrate through tissues - it is scattered very quickly. Consequently, using optogenetics to control brain circuits in a mammal currently requires a fibre-optic implant.
+By contrast, ultrasound travels relatively unimpeded through the body; this is the property that makes it useful for medical sonograms.
+"This could be a big advantage when you want to stimulate a region deep in the brain," said the study's first author Stuart Ibsen, from the Salk Institute for Biological Studies in California.
+Dr Ibsen and his colleagues hope to capitalise on this advantage, and their next aim is experiments in mice.
+"The real prize will be to see whether this could work in a mammalian brain," said Dr Sreekanth Chalasani, who runs the lab behind the work.
+For now, the team's research relies on the worm Caenorhabditis elegans, a well-studied critter with precisely 302 neurons.
+Those neurons responded to the ultrasound waves thanks to a type of channel on their surface, called TRP-4, which opens when the cell membrane is stretched - such as by the incoming ultrasound wave.
+A handful of brain cells in the worm naturally express TRP-4, and so "wild-type" worms do react to ultrasound by changing their movement. But after genetically installing the channel in other cells, the researchers were able to trigger particular responses - such as the worms reversing - with pulses of ultrasound.
+To get any responses at all, however, the researchers had to give the worms a bubble bath. Tiny "microbubbles" of gas boosted the power of the low-frequency sound waves.
+"The microbubbles grow and shrink in tune with the ultrasound pressure waves," Dr Ibsen explained. "These oscillations can then propagate noninvasively into the worm."
+Bubbles like these are already used to improve the contrast in some medical ultrasound imaging. They can be injected into the bloodstream, which is one reason the team believes their method could eventually work in humans.
+They have dubbed the system "sonogenetics", although this term had already been applied to the idea of combining ultrasound scans with genetic tests for prenatal diagnosis.
+"Light-based techniques are great for some uses and I think we're going to continue to see developments on that front," Dr Chalasani said. "[But] when we make the leap into therapies for humans, I think we have a better shot with noninvasive sonogenetics."
+That leap faces huge technical hurdles, however - including the delivery of TRP-4 or a similar gene into the brain, probably by injecting a virus.
+Michael Hausser, a professor of neuroscience at University College London, described the study as "a nice 'proof-of-principle' demonstration... using probably the simplest nervous system on the planet".
+He told the BBC: "I would urge extreme caution about extrapolating this work to other species - especially mice or humans.
+"The important thing to remember here is that the worm is only 1mm long... with the neurons only 25 micrometres beneath the surface: a quarter of the diameter of a human hair. This makes it an ideal organism for ultrasound to influence neural activity.
+"It will be a much greater challenge to get such a technique to work in a big brain within a skull."
+Follow Jonathan on Twitter

@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108131631/http://www.bbc.co.uk:80/news/technology-25227592
+
+[SN]TITLE[SN]
+Microsoft disrupts ZeroAccess web fraud botnet
+
+[SN]FIRST-SENTENCE[SN]
+ZeroAccess, one of the world's largest botnets - a network of computers infected with malware to trigger online fraud - has been disrupted by Microsoft and law enforcement agencies.
+
+[SN]RESTBODY[SN]
+ZeroAccess hijacks web search results and redirects users to potentially dangerous sites to steal their details.
+It also generates fraudulent ad clicks on infected computers then claims payouts from duped advertisers.
+Also called Sirefef botnet, ZeroAccess, has infected two million computers.
+The botnet targets search results on Google, Bing and Yahoo search engines and is estimated to cost online advertisers $2.7m (Â£1.7m) per month.
+Microsoft said it had been authorised by US regulators to "block incoming and outgoing communications between computers located in the US and the 18 identified Internet Protocol (IP) addresses being used to commit the fraudulent schemes".
+In addition, the firm has also taken control of 49 domains associated with ZeroAccess.
+David Finn, executive director of Microsoft Digital Crimes Unit, said the disruption "will stop victims' computers from being used for fraud and help us identify the computers that need to be cleaned of the infection".
+The ZeroAccess botnet relies on waves of communication between groups of infected computers, instead of being controlled by a few servers.
+This allows cyber criminals to control the botnet remotely from a range of computers, making it difficult to tackle.
+According to Microsoft, more than 800,000 ZeroAccess-infected computers were active on the internet on any given day as of October this year.
+"Due to its botnet architecture, ZeroAccess is one of the most robust and durable botnets in operation today and was built to be resilient to disruption efforts," Microsoft said.
+However, the firm said its latest action is "expected to significantly disrupt the botnet's operation, increasing the cost and risk for cyber criminals to continue doing business and preventing victims' computers from committing fraudulent schemes".
+Microsoft said its Digital Crimes Unit collaborated with the US Federal Bureau of Investigation (FBI) and Europol's European Cybercrime Centre (EC3) to disrupt the operations.
+Earlier this year, security firm Symantec said it had disabled nearly 500,000 computers infected by ZeroAccess and taken them out of the botnet.

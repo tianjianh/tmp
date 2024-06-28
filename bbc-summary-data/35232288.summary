@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160325163300/http://www.bbc.com/news/technology-35232288
+
+[SN]TITLE[SN]
+T-Mobile 'breaks' net neutrality rules with Binge On
+
+[SN]FIRST-SENTENCE[SN]
+T-Mobile is breaking net neutrality rules with its new video streaming service Binge On, a report has said.
+
+[SN]RESTBODY[SN]
+The service lets users download unlimited amounts of low-resolution video from partners such as Netflix.
+But the Electronic Frontier Foundation said Binge On was affecting the quality of other providers' videos too - even if they were not partnered with the service.
+T-Mobile has not commented on the claims.
+Binge On is offered to all new T-Mobile customers in the US - giving them the chance to watch more video without exceeding their data allowances.
+But YouTube has complained it was being affected by the so-called "zero-rating" service.
+In December it said users were receiving its content at reduced download speeds - even though YouTube is not a Binge On partner.
+A representative of the Google-backed company told the Wall Street Journal: "Reducing data charges can be good for users, but it doesn't justify throttling all video services, especially without explicit user consent."
+T-Mobile did not respond to BBC requests for comment, but told DSL Reports last week that the term "throttle" was misleading.
+"We aren't slowing down YouTube or any other site. In fact, because video is optimised for mobile devices, streaming from these sites should be just as fast, if not faster than before," it said.
+It said that a better phrase would be "mobile optimised or a less flattering 'downgraded'".
+However, the EFF has since tested the service and disputes the claims.
+In a blog published this week, it said that when Binge On was enabled, T-Mobile "throttles all HTML5 video streams to around 1.5MB per second, regardless of whether or not the video provider enrolled in Binge On".
+It added that if a video was more than 480 pixels resolution - and the server sending it did not have a way to adapt the bit rate - the result was "stuttering and uneven streaming".
+"[This is] exactly the opposite of the experience T-Mobile claims their 'optimisation' will have," it said.
+It said T-Mobile was breaking US net neutrality rules, which forbid the prioritising or de-prioritising of certain types of internet traffic.
+However, so-called zero-rating services still represent a legal grey area in the US. The Federal Communications Commission is set to meet T-Mobile and other service providers next week to discuss the matter.
+T-Mobile has not commented on EFF's net neutrality claims, but did clarify that by "optimisation", it simply meant it was reducing the bandwidth allocated to video streams.
+Mark Mulligan, an analyst at Midia Research, said partnerships between telecoms and content providers would become more common.
+"The telcos are looking to add value, but they tend to lose money through these tie-ups because the rights costs are so high and they cost so much to market," he said.
+"However, T-Mobile seems to have got around that problem by opening up Binge On to video services, simply by zero rating their content."

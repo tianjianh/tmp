@@ -1,0 +1,58 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170719064612/http://www.bbc.co.uk/news/business-27784437
+
+[SN]TITLE[SN]
+Can technology help combat the modern slavery business?
+
+[SN]FIRST-SENTENCE[SN]
+Growing up in rural Cambodia, Khai Socheung knew that life was tough, and that she might have to leave her homeland to find work.
+
+[SN]RESTBODY[SN]
+Special Report: The Technology of Business
+Battery technology playing catch-up
+Councils 'wasting millions' on IT
+Tech promises sustainable healthcare
+Mobile brightening Africa's future
+Can we 'green' our toxic buildings?
+So, when she was offered a job in China paying up to $1,000 (Â£590) a month - more than she could earn at home - she decided to go.
+It would help her family pay off their debts, and she thought, would be "a good opportunity for me to leave the country for a better life".
+It did not turn out that way.
+Socheung had fallen victim to a Chinese and Cambodian gang of people traffickers. When she arrived, instead of giving her a job, the gang sold her to a man for $15,000.
+"On the first night he tried me to force me to sleep with him but I refused, then he turned angry. He just raped me repeatedly every night," she says.
+Determined to escape, Socheung persuaded the gang's leader to buy her a Sim card, saying she needed it to keep in contact with her family.
+Eventually she managed to get in contact with Licadho, a human rights charity based in Phnom Penh, which helped her get repatriated to Cambodia.
+Socheung says she refused to give up: "I was so angry at them for tricking me, but I could not do anything.
+"I needed to control myself until I was able to contact the NGO [non-governmental organisation]."
+Her story is not uncommon and the trafficking of poor Cambodian women into China is on the increase, says Pung Chiv Kek of Licadho.
+"If you don't punish everybody, especially the officials, then they will continue. It's good business."
+According to the International Labour Organization, there are 21 million modern slaves across the globe - trafficked and working as forced labourers.
+Slavery in all its forms is tough to beat partly because it crosses so many borders and involves organisations which do not always work together effectively.
+If a woman is reported missing in one country, and is then recorded as a prostitute in another, her plight will not automatically be flagged up.
+Yet there are now some technical solutions that could help put the trafficking gangs out of business.
+One man who is trying to change this is Kevin Montgomery of Stanford University, who has set up Collaborate.org.
+Collaborate takes input from sources such as GIS (geographic information system) data, news and social media feeds, sensor networks, weather reports, shipping movements, and collates this in a single global mapping platform.
+Its 3D world view then allows a user to zoom in on a location and see all the information there is about that place.
+It currently has up to 10 petabytes worth of data - five times the information stored in all US academic research libraries - a figure which is increasing all the time.
+"When you can bring all of those layers together, and everything that everyone knows about this problem together - you can really get some co-ordinated action planned," says Dr Montgomery.
+However, one basic problem for many modern slaves - is how to call for help.
+Hugh Bradlow, the chief technology officer for the Australian telecoms firm, Telstra, is pushing for a single global emergency number for victims of slavery.
+But there are various challenges to overcome first before there is a single global help.
+"Often the people who are being trafficked don't know what country they are in, so it needs to be the same number in every country.
+"They could be illiterate so they may not be able to use texts. They could be in a different language zone, so it needs to be multi-lingual."
+Keeping callers safe from retribution is also vital.
+"The people who are trafficking them have access to their phones, if they are using phones," says Mr Bradlow.
+This means traffickers can see which numbers their captives are dialling or texting messages to.
+He says the safest way to do this securely could lie with a relatively little-used piece of technology called USSD, or Unstructured Supplementary Services Data.
+USSD is built in to all GSM (global system for mobile communications) phone signalling systems, and is a way of sending short commands from the mobile to the network.
+Most commonly, USSD is used by prepaid phone users to check their available balance - the text messages can be up 80 characters in length.
+"It's a very simple system, you put in a hash before and after a number, and then you press send -  it doesn't leave a trace on the phone," says Mr Bradlow.
+"On the receiving side it's very easy then to redirect that message globally and it tells you which network the phone is attached to and what home number it's got.
+"And that would enable the local authorities in that country to go then and locate the phone."
+Mr Bradlow hopes that this could be operational relatively soon.
+"I wouldn't like to declare victory at this stage - globally you've got to get some changes made to the networks of different carriers - but it is feasible and not beyond the realms of cost."
+For her part, now safely in Cambodia, Socheung says she is simply happy to be home.
+"When in China, my life was hell - my life now is much better."
+There is a curious coda to her story. The trafficking gang's leaders are now on the run, and if caught it will be Socheung's testimony that will be used as evidence against them.
+Recently she got a call from the daughter of the gang's ringleader. It was an offer of a bribe if she dropped her case. The sum offered was insultingly low - just $50.
+Socheung says she refused outright: "It's ridiculous - a pig is worth much more than this!"
+For more on technological solutions to slavery, listen to Ed Butler on BBC World Service's Business Daily programme

@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170625195944/http://www.bbc.com/news/technology-36844712
+
+[SN]TITLE[SN]
+BT fault hits broadband users and banks
+
+[SN]FIRST-SENTENCE[SN]
+Many of BT's customers have experienced problems with its broadband services.
+
+[SN]RESTBODY[SN]
+The firm first acknowledged the issues in a tweet shortly after 09:00 BST and said they had been resolved three and a half hours later.
+Its troubles also caused several banks to be unable to offer online services.
+BT said that a power fault at one of its partners' sites in London was the cause, but did not name the company involved.
+However, the BBC discovered that ultimate responsibility lay with the California-based data centre operator Equinix.
+"We're sorry that some BT and Plusnet customers experienced problems accessing some internet services this morning," said a spokeswoman for BT.
+"Around 10% of customers' internet usage was affected following power issues at one of our internet connection partners' sites in London. The issue has now been fixed and services have been restored."
+BT's service status pages had indicated that subscribers in parts of England, Wales, Scotland and Northern Ireland had all been affected.
+The event occurred six months after Equinix took control of the data centre involved as part of its takeover of the Telecity Group.
+"Equinix can confirm that we experienced a brief outage at the former Telecity LD8 site in London earlier this morning," said Russell Poole, managing director in the UK for Equinix.
+"This impacted a limited number of customers, however service was restored within minutes. Equinix engineers are on site and actively working with customers to minimise the impact."
+BT's problems turn out to have been caused by a 20 minute power cut at a data centre in London's Docklands.
+The London Internet Exchange (Linx) - one of the world's biggest internet nodes - tells me that the fault was at Equinix Telecity's Harbour Exchange data centre. It said it lasted from 07:55 to 08:17 BST.
+A spokesman told me: "We take any outage very seriously. We will be having very serious conversations with Telecity about how this happened."
+He added that other operators in the same building had also lost power to their equipment.
+But he dismissed the idea that the incident had shown up the vulnerability of the internet's architecture in the UK.
+"This was not the internet stopping - there are other routes for traffic to flow, including our own. Over 80% of our traffic continued to flow and it immediately started to recover even before the power was restored," he said.
+Linx's 700 members include major internet providers such as BT and Virgin Media, as well as content providers
+Virgin Media said it had received no reports that it had been affected by this morning's problems.
+Some internet banking customers at Lloyds, Barclays, Natwest, Halifax, Ulster Bank, Santander, HSBC, Nationwide and Royal Bank of Scotland have been unable to log into their accounts.
+Lloyds confirmed this was caused by a fault with an internet service provider.
+Although it did not identify the ISP as being BT, the BBC understands from speaking with others in the industry that was the case.
+Barclays told the BBC that access to its services returned to normal at about midday.
+The problem comes a day after BT's Openreach internet infrastructure business was criticised by MPs over its alleged failure to "adequately" invest in fast fibre.
+The chief executive of TalkTalk, a rival telecoms firm, has reiterated her call for the unit to be split off and run as a separate business.
+"My business spends hundreds of millions of pounds a year with BT - my single largest competitor, also my single largest supplier," Dido Harding told the BBC's Today programme.
+"The reason why I care about this is that my customers are fed up with the fact that the network doesn't work well enough and they know that they're not getting the service they deserve."
+BT said on Tuesday that it had invested more than Â£1bn a year in infrastructure and was improving service levels.
+The communications regulator Ofcom is currently considering the matter and is due to make a decision on whether Openreach should be spun off soon.
+Shares in BT ended the day down by nearly 1%.

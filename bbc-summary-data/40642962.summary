@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170719100928/http://www.bbc.com/news/technology-40642962
+
+[SN]TITLE[SN]
+Hacks 'probably compromised' UK industry
+
+[SN]FIRST-SENTENCE[SN]
+Some industrial software companies in the UK are "likely to have been compromised" by hackers, according to a document reportedly produced by British spy agency GCHQ.
+
+[SN]RESTBODY[SN]
+A copy of the document from the National Cyber Security Centre (NCSC) - part of GCHQ - was obtained by technology website Motherboard.
+A follow-up by the BBC indicated that the document was legitimate.
+There have been reports about similar cyber-attacks around the world lately.
+Modern, computer-based industrial control systems manage equipment in facilities such as power stations.
+And attacks attempting to compromise such systems had become more common recently, one security researcher said.
+The NCSC report specifically discusses the threat to the energy and manufacturing sectors.
+It also cites connections from multiple UK internet addresses to systems associated with "advanced state-sponsored hostile threat actors" as evidence of hackers targeting energy and manufacturing organisations.
+According to Motherboard, one line in the document reads: "NCSC believes that due to the use of widespread targeting by the attacker, a number of industrial control system engineering and services organisations are likely to have been compromised."
+A spokesman for the NCSC did not confirm nor deny the contents of the document cited by Motherboard.
+"We are aware of reports of malicious cyber-activity targeting the energy sector around the globe," he said in a statement.
+"We are liaising with our counterparts to better understand the threat and continue to manage any risks to the UK."
+The case had the hallmarks of an attack orchestrated by a nation state, said security expert Mikko Hypponen at F-Secure.
+"I can easily see an intelligence agency being tasked with the mission of creating a foothold in energy distribution systems in case it is needed during a crisis or conflict," he said.
+There had been a spate of such cases recently, said Ruben Santamarta, principal security consultant at cyber-security company IOActive.
+"It's not a very targeted attack, it's affected a lot of countries, a lot of different companies," he told the BBC.
+"It doesn't mean that someone is going to use these capabilities to turn off the lights in our cities in the near future, but it's interesting that they are trying to get those capabilities."
+Hackers have also affected Ireland's Electricity Supply Board (ESB), according to a report in the Times on 15 July citing anonymous sources.
+The newspaper noted that industrial control systems at ESB were implicated, which could mean parts of the electricity grid in Northern Ireland were made vulnerable.
+And in the US earlier this month, it was reported that hackers had gained access to a company in charge of a nuclear power plant in Kansas.

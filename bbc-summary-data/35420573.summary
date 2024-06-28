@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170117113835/http://www.bbc.co.uk/news/technology-35420573
+
+[SN]TITLE[SN]
+Apple fixes Safari crash search bug
+
+[SN]FIRST-SENTENCE[SN]
+Apple believes it has fixed a problem that caused its Safari web browser to crash when users carried out a search via its address bar.
+
+[SN]RESTBODY[SN]
+The problem appears to have begun earlier in the day.
+Users had complained that they had experienced the bug on both the firm's mobile devices and its Mac computers.
+Apple recently updated its iOS and OS X operating systems, but users who had not installed the new versions had also reported the fault.
+This would suggest that the immediate cause was a process happening at Apple's data centres. However, some experts have suggested that an additional flaw in Safari itself may have led to the program crashing as it was unable to handle the invalid input.
+Apple has not provided a comment about the fault.
+But the BBC understands that the fix may take some time to go through for everyone.
+Users can, however, speed up the process by clicking on the "clear history and website data" in Safari's preferences.
+The issue only impacted people whose "suggestions cache" had updated while they were using the phone between 09:00 GMT and 12:00 GMT.
+As a result, Europe-based device owners were more likely to have been affected than those in Asia or the US.
+Earlier in the week, it emerged that a web link had gone viral that forced Safari to crash.
+The page the browser was sent to used JavaScript to put the software into a loop forcing it to fail.
+However, the more recent problem appears to have been much more widespread, and was replicated by the BBC.
+Apple revealed on Tuesday that there are about one billion of its core devices in use.
+The vast majority of those may have been affected, although the number also includes its set-top TV boxes and smartwatches, which do not use the browser.

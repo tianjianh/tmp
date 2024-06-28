@@ -1,0 +1,18 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160325183649/http://www.bbc.co.uk/news/technology-35543578
+
+[SN]TITLE[SN]
+Cyber-thieves steal Pin codes from US Revenue
+
+[SN]FIRST-SENTENCE[SN]
+The US government's tax collection agency has said attackers fooled its computers into generating more than 100,000 tax return Pin codes.
+
+[SN]RESTBODY[SN]
+The codes could have been used to seek payouts had the scam not been detected.
+The Internal Revenue Service (IRS) said no personal taxpayer data had been compromised or disclosed by its systems.
+It added it was monitoring use of its web application for any further signs of fraudulent activity.
+The agency said the attackers had used personal data stolen from elsewhere to compromise its systems.
+The information had then been processed by a software bot - meaning an automated program - to make one application after another for a Pin.
+"Based on our review, we identified unauthorised attempts involving approximately 464,000 unique social security numbers, of which 101,000 SSNs were used to successfully access an e-file Pin," it said in a statement.
+Affected taxpayers should receive a letter to alert them to the fact their social security number had been misused in this way, the IRS said.
+Furthermore, it said, it had marked the affected accounts to protect them against any further attempt of tax-related fraud.

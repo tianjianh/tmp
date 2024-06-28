@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150602225339/http://www.bbc.co.uk/news/technology-32958624
+
+[SN]TITLE[SN]
+Hola rocked by botnet accusations
+
+[SN]FIRST-SENTENCE[SN]
+Virtual private network Hola has downplayed concerns that its 47 million users could become part of a botnet.
+
+[SN]RESTBODY[SN]
+A botnet is a network of hijacked computers that can be used for criminal activity without the knowledge of their owners.
+Hola says it has always been open about sending other data via users' devices when they are not in use.
+The Israeli company offers a free service but on the condition it can use customers' bandwidth "securely".
+It also operates a commercial network called Luminati, which can be used to "route data through any of our millions of IPs [computer addresses] that are located in every city around the world", according to its website.
+The website goes on to say the Luminati network consists of "personal PCs, laptops and mobile devices of participating users".
+They are the private devices of Hola users, it has been claimed.
+"The concern with Hola is that it appears to operate like a botnet, and one that is potentially insecure at that," said cybersecurity expert Prof Alan Woodward, from Surrey University.
+"There is mounting anecdotal evidence that the network is being used as a real botnet.
+"I haven't seen that in practice but the way in which the service can use your machine appears to have the potential to do something like that."
+Last week, the founder of message board 8Chan said the site had suffered a distributed denial of service (DDOS) attack - when a website is overwhelmed by false requests from computers - that could be traced back to the Luminati network.
+Hola founder Ofer Vilenski confirmed that a hacker had claimed to have used the Luminati network in the attack on 8Chan.
+But Mr Vilenski told tech news site Torrent Freak that the network had just been unlucky.
+He said: "8chan was hit with an attack from a hacker with the handle of BUI.
+"This person then wrote about how he used the Luminati commercial VPN network to hack 8chan.
+"He could have used any commercial VPN network, but chose to do so with ours."
+The account belonging to BUI had been terminated, he added.
+Hundreds of people have posted on community site Reddit, calling for users to uninstall the network over fears that their devices could unintentionally be used for criminal activity, and Android users have been leaving warning messages in the review section of the app on Google's Play Store.
+Mr Vilenski said: "We have always made it clear that Hola is built for the user and with the user in mind.
+"We've explained the technical aspects of it in our [frequently asked questions] and have always advertised in our FAQ the ability to pay for non-commercial use."
+In the FAQ section on its website, updated on 29 May, Hola explains how its "peer-to-peer" model works.
+"When your device is not in use, other packets of information from other people may be routed through your device," it says.
+"Hola does this securely, not allowing any access to any of your information. Your device is used only as a router."
+It also says that users of its premium service, for a monthly fee of $4.99 (Â£2.28), are not part of the network.

@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150719033614/http://www.bbc.com/news/technology-33549916
+
+[SN]TITLE[SN]
+Intel delays chip making changes
+
+[SN]FIRST-SENTENCE[SN]
+Intel has delayed changes to its factories that would have made its chips faster and more powerful.
+
+[SN]RESTBODY[SN]
+It said it had hit problems upgrading its fabrication systems so they could manufacture components that were only 10nm (nanometres) in size.
+Instead, Intel said, it would seek to boost processor performance by different means.
+The news comes days after IBM said it had solved problems that would have stopped it using smaller components.
+The delay was revealed by Intel boss Brian Krzanich during a conference call with the press and financial analysts.
+"The lithography is continuing to get more difficult as you try and scale, and the number of multi-pattern steps you have to do is increasing," he said.
+On the current generation of chips emerging from Intel factories, the smallest parts are about 14 nm in size.
+Originally, Intel said these would be phased out in favour of the 10nm chips in the second half of 2016. Now, it said, 10nm chips may not appear before 2017 - a delay of about 6-9 months.
+The delay will derail the two-step "tick tock" system it has been using for years to steadily improve processor power.
+This process alternates changes to the gross layout of a chip (tock) with refinements to fabrication of individual components (tick).
+Mr Krzanich did not elaborate on what would drive the improved number-crunching power of the 14nm chips it will be producing instead of the processors built around 10nm components.
+Intel's admission could be a signal that Moore's law - which defines the steady year-on-year improvement in processor power - could be coming to an end.
+When first formulated by Intel co-founder Gordon Moore 50 years ago, this suggested that chip power could double every 12 months.
+Often, this improvement comes about by shrinking the millions of transistors on a chip.
+Since then, the law's estimate of how long it would take to refine production systems to make it economic to produce faster chips has stretched.
+Now, improvements are expected approximately every 24 months.
+Last week, IBM announced that it had found ways to reliably produce chips that had 7nm components.
+However, it said, these techniques had so far only been shown to work in the laboratory and not in large-scale chip fabrication plants.

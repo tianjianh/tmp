@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150630152451/http://www.bbc.com/news/technology-33327759
+
+[SN]TITLE[SN]
+Washington Post encrypts its news website
+
+[SN]FIRST-SENTENCE[SN]
+The Washington Post has begun encrypting parts of its website to make it harder for cyberspies and hackers to monitor the stories users are reading.
+
+[SN]RESTBODY[SN]
+The US newspaper said it wanted users to "feel secure", adding that it was the "first major general news organisation" to make such a move.
+It acknowledged, however, that it might see a fall in ad sales as a result.
+Several government agencies, including the UK's GCHQ, have expressed concern about the increasing use of encryption.
+In November, the British communications surveillance agency's director, Robert Hannigan, criticised social-media companies for frustrating its efforts to monitor terrorists and other criminals.
+But one expert suggested the body might be more relaxed about the Washington Post's move.
+"I can think of scenarios where intelligence agencies would want to monitor what people are accessing on newspaper websites, but I think they would be quite limited," said Dr Ian Brown, from the Oxford Internet Institute.
+"Having said that, this is part of a much broader trend of apps and services enabling encryption, and of course that does make it more difficult for the agencies that intercept internet communications to know actually what is being transmitted."
+GCHQ declined to comment.
+The Freedom of the Press Foundation called on the wider news industry to adopt the HTTPS encryption protocol in September 2014, saying it would "protect the integrity of their content and the privacy of their readers", following allegations about Western spy agencies' surveillance efforts.
+"Eavesdropping on people reading the news is a real danger that has already happened, as demonstrated by the NSA and GCHQ spying on visitors to WikiLeaks.org," it said.
+"And last year we learned how GCHQ employees used a "Quantum insert" technique against readers of Slashdot.org, a popular technology news website."
+By deploying HTTPS - which can be recognised by the padlock icon that appears in a web browser's window - the Washington Post causes traffic to be digitally scrambled as it is transmitted between the company's computer servers and its users' devices.
+It said this would not only make it harder for its visitors to be monitored but should also prevent countries from censoring single articles.
+"When visitors go to a site using the technology, someone monitoring their traffic can only see the domain they are visiting - not the specific page," it said.
+"So, a country won't have the option to filter only some content; it would be forced to block an entire site."
+The move, however, has consequences for advertisers. They will have to determine whether their adverts will load properly over HTTPS.
+Some ad platforms are not compatible. As a consequence, some companies may decide to promote their products elsewhere to avoid extra costs.
+"Every third party we use on the site needs to be HTTPS-compliant, or it either stops working or the browser will warn about it being insecure," said Greg Franczyk, chief digital architect of the Washington Post's website.
+For now, the security measure is limited to the newspaper's front page, as well as its national security page and its technology policy blog. However, it said the measure would be applied to other parts of its site over the coming months.
+Other, less mainstream, news organisations have already taken similar steps.
+Vice News, Techdirt and the Intercept are among those to have already deployed HTTPS technology.

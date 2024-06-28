@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170111211955/http://www.bbc.com/news/technology-35463347
+
+[SN]TITLE[SN]
+UK radio disturbance caused by satellite network bug
+
+[SN]FIRST-SENTENCE[SN]
+An error with the Global Positioning System (GPS) network has been blamed for causing problems with digital radio broadcasts last week.
+
+[SN]RESTBODY[SN]
+The US Air Force said that removing a satellite from service had caused a software error.
+A BBC spokesman confirmed that the decommissioning of a GPS satellite led to difficulties for listeners receiving digital radio signals.
+The BBC understands several other satellites were affected.
+"I live on the Worksop side of Sheffield and for the past two days the reception of the BBC National Ensemble [BBC radio stations] has been virtually non-existent indoors," wrote Darcy72 on Digital Spy's online forums last week.
+In a response to the reported issues, the BBC said: "The outages were caused by a rogue GPS satellite (SVN23), which was taken out of service in the evening of 26 January."
+The BBC has now learned that the problem occurred after a decommissioned satellite caused software problems which affected several other satellites.
+DAB transmitters must broadcast at exactly the same frequencies and, in order to synchronise, they lock on to GPS satellite signals.
+The GPS signals themselves broadcast the time and are supposed to be accurate to within a few nanoseconds.
+However, on 26 January, one of the GPS satellites - named SVN23 - orbiting the Earth was decommissioned.
+This unexpectedly caused problems for the whole network.
+"While the core navigation systems were working normally, the co-ordinated universal time timing signal was off by 13 microseconds which exceeded the design specifications," said the US Air Force in a statement.
+"The issue was resolved at 06:10 MST, however global users may have experienced GPS timing issues for several hours."
+In fact, as a result of the problem, some GPS positioning would have been thrown off by nearly 4km.
+The time discrepancy was picked up by the Metsahovi Radio Observatory in Finland.
+It is not yet clear whether other systems around the world, such as navigational tools, were affected.
+The BBC is still chasing the US Air Force for further details about the incident.
+"They knew they were decommissioning it so shouldn't they have been aware this would happen?" questioned Prof Danielle George, a radio engineer at the University of Manchester.
+"It was decommissioned after 25 years - actually it should have just had a seven-and-a-half-year lifespan so it lasted a lot longer than it should have done."
+Prof George added that had there only been a problem with one satellite, DAB transmitters would probably not have experienced difficulties.
+"They shouldn't have seen an issue with that because as far as I understand the way they work is they need two frequencies to lock and there are a number of GPS [signals] to look at," she told the BBC.
+"This should be treated as a warning of what could go wrong," said Martyn Thomas, a fellow at the Royal Academy of Engineering who has criticised technological reliance on GPS.
+"The world is dependent on GPS for a vast range of critical applications from navigation to financial trading, and precision docking of oil tankers to high tech farming."
+In the future, Prof Thomas said, it was "essential" that there was back-up.

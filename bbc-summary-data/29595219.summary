@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151227130426/http://www.bbc.co.uk/news/technology-29595219
+
+[SN]TITLE[SN]
+Malicious worm seeks vulnerable home data stores
+
+[SN]FIRST-SENTENCE[SN]
+A malicious worm that can roam the net seeking data stored on insecure hardware has been created by a security researcher.
+
+[SN]RESTBODY[SN]
+The proof-of-concept worm was written to illustrate how vulnerable such data stores are to malicious attack.
+The worm can exploit the many bugs researcher Jacob Holcomb found in popular home data storage systems.
+Already, he said, there was evidence cybercriminals had noticed how easy it was to exploit these data stores.
+Mr Holcomb started work on the worm after carrying out a series of tests on Network Attached Storage (NAS) systems made by 10 separate manufacturers.
+Many people connect these devices to a home router to give family members a place to put important files such as photos and films or to act as a back-up for other gadgets. Some home routers can also connect to hard drives to turn them into an NAS-type device.
+Mr Holcomb's investigation revealed 30 separate undocumented vulnerabilities in the NAS devices. Many of these, if exploited, would give an attacker complete control over a device letting them plunder the data on it, or use it as a way to get at other devices on that home network and spy on what people did online.
+Most of the exploitable problems he found were in the web-based interface typically used to administer these devices.
+"I took the series of exploits I found and wrapped them into a software package that's in essence self-replicating," said Mr Holcomb.
+The worm runs on an infected system and once it has taken control uses that system's resources to scan net addresses seeking out other vulnerable devices.
+If an address gives an appropriate response, it sends a series of data requests to "fingerprint" that device so it knows which vulnerabilities to try against it.
+"Once these devices are exposed to the internet, it's pretty much game over because most vulnerabilities can be exploited using authentication bypass techniques or with no authentication at all," he told the BBC.
+Mr Holcomb is set to demonstrate how the worm works during a speech at the Black Hat Europe security conference being held in Amsterdam this week. To safeguard vulnerable hardware, he plans to run it on a closed network rather than live on the net.
+Although Mr Holcomb's worm was written to demonstrate the danger these insecure data stores represent, he said there was evidence that cyber-thieves were waking up to the treasure trove of data these devices can contain.
+In early 2014, a malicious program called TheMoon targeted hardware made by Linksys and in early October a malicious campaign was launched against NAS boxes made by Qnap.
+"These attacks are definitely becoming more widespread," said Mr Holcomb.
+Information about the vulnerabilities found in NAS boxes has been passed to manufacturers, said Mr Holcomb, and many were now updating the software that controls the devices to fix the bugs.
+Qnap has issued an update for the firmware running on the gadgets vulnerable to the bug abused earlier this month.
+Mr Holcomb said it was possible to use NAS safely if owners took some straightforward steps such as turning off unwanted features and services and ensuring the device can only be administered from within a home network rather than across the web.

@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170820014547/http://www.bbc.co.uk/news/technology-35916425
+
+[SN]TITLE[SN]
+Warning over 'nasty' ransomware strain
+
+[SN]FIRST-SENTENCE[SN]
+The FBI is seeking help from US firms as it investigates a nasty strain of ransomware, Reuters reports.
+
+[SN]RESTBODY[SN]
+Ransomware encrypts data on infected machines and then asks for money before restoring access to information.
+The FBI is analysing a strain of ransomware called MSIL/Samas that tries to encrypt data across entire networks rather than single computers.
+The plea comes as security firms warn about other novel strains of the fast-growing, data-scrambling cyber-threats.
+The FBI sent out the request for help after discovering that the group behind MSIL/Samas had stepped up its efforts to find victims.
+In the confidential advisory obtained by Reuters, the FBI said the group used a publicly available security program called Jexboss to scan networks looking for vulnerable versions of the widely used JBoss software.
+When a vulnerable system is found, the malware launches an attack that seeks to scramble data on servers. It also finds and deletes the back-up files firms could use to restore data scrambled by ransomware.
+Cisco said it had seen a "widespread campaign" using Samas targeting firms involved in healthcare. Early versions of the malware charged a ransom of one bitcoin (£300) for every machine hit but later versions upped this to 1.5 bitcoins.
+"It is likely the malware author is trying to see how much people will pay for their files," wrote Cisco security analyst Nick Biasini in an advisory. "They even added an option for bulk decryption of 22 bitcoin (£6,600) to decrypt all infected systems."
+The FBI's request for aid comes as security firms warn about recently created ransomware variants that use different methods to lock up systems and force victims to pay.
+The Petya malware targets a key Windows system file called the Master Boot Record that helps a PC get started. By overwriting this file, people are prevented from getting at any data on their PC unless they pay up.
+Trend Micro said it had seen Petya distributed in email messages crafted to look like they are from someone looking for work. The CV attached to the message is a booby-trapped program that launches Petya, said Trend security engineer Jasen Sumalapao in a blogpost. Petya charges a ransom of 0.9 bitcoins (£265) to unlock infected machines.
+Security firm Carbon Black has found another novel strain that goes after many firms that use Windows PowerShell - a scripting program widely used to administer machines running Windows.
+Dubbed PowerWare, this strain hides malicious code in Word documents and calls on PowerShell to execute the attack code when the booby-trapped files are opened.
+"Deceptively simple in code, 'PowerWare' is a novel approach to ransomware, reflecting a growing trend of malware authors thinking outside the box in delivering ransomware," said Rico Valdez from Carbon Black.

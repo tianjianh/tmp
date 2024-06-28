@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160719000326/http://www.bbc.co.uk/news/technology-32033766
+
+[SN]TITLE[SN]
+Bee behaviour mapped by tiny trackers
+
+[SN]FIRST-SENTENCE[SN]
+A tiny new tracker designed to monitor bee behaviour is being tested by ecologists at Kew Gardens in London.
+
+[SN]RESTBODY[SN]
+It is made from off-the-shelf technology and is based on equipment used to track pallets in warehouses, said its creator Dr Mark O'Neill.
+Readers, used to pick up a signal from the kit, are connected to Raspberry Pi computers, which log the readings.
+The device has a reach of up to 2.5m (8.2ft). Previously used models were restricted to 1cm (0.4in).
+The tracker consists of a standard RFID (radio frequency identification) chip and a specially designed aerial, which Dr O'Neill has created to be thinner and lighter than other models used to track small insects, allowing him to boost the range.
+The engineer, who is technical director at the Newcastle-based tech firm Tumbling Dice, is currently trying to patent the invention.
+"The first stage was to make very raw pre-production tags using components I could easily buy", he said.
+"I want to make optimised aerial components which would be a lot smaller."
+"I've made about 50 so far. I've soldered them all on my desk - it feels like surgery."
+The average "forage time" for a worker bee is around 20 minutes, suggesting they have a forage range of around 1km (0.6 miles) , Dr O'Neill explained.
+The idea is to have readers dotted around a hive and flower patch in order to track the signals as the bees move around freely in the wild.
+The tiny trackers, which are just 8mm (0.3in) high and 4.8mm (1.9in) wide, are stuck to the bees with superglue in a process which takes five to 10 minutes. The bees are chilled first to make them more docile.
+"They make a hell of a noise," acknowledged Dr O'Neill.
+He told the BBC he hoped that the trackers - which weigh less than a bee and are attached at their centre of gravity so as not to affect their flight - would remain attached for their three-month expected lifespan.
+They have only been fitted to worker bees, which do not mate.
+"If an animal ate one, I guess it would have a tracker in its stomach," Dr O'Neill said.
+"But the attrition rate for field worker bees is very low. Most die of old age - they are very competent, and good at getting out of the way."
+Dr Sarah Barlow, a restoration ecologist from Kew Gardens, was involved in testing the as-yet unnamed trackers.
+"These tags are a big step forward in radio technology and no one has a decent medium to long range tag yet that is suitable for flying on small insects," she said.
+"This new technology will open up possibilities for scientists to track bees in the landscape.
+"This piece of the puzzle, of bee behaviour, is absolutely vital if we are to understand better why our bees are struggling and how we can reverse their decline."

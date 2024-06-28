@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170730014626/http://www.bbc.com/news/technology-40760648
+
+[SN]TITLE[SN]
+Robot cracks open safe live on Def Con's stage
+
+[SN]FIRST-SENTENCE[SN]
+Using a cheap robot, a team of hackers has cracked open a leading-brand combination safe, live on stage in Las Vegas.
+
+[SN]RESTBODY[SN]
+The team from SparkFun Electronics was able to open a SentrySafe safe in around 30 minutes.
+The robot is able to reduce the number of possible combinations from one million to just 1,000, before quickly and automatically trying the remaining combinations until it breaks in.
+After the robot discovered the combination was 51.36.93, the safe popped open - to rapturous applause from the audience of several hundred hackers.
+SparkFun’s Nathan Siedle told the BBC: "That was one of the scariest things we’ve done. Lots of things can go wrong, and this was a very big audience.
+"We’re really happy it opened up.”
+A spokeswoman for SentrySafe could not be reached on Friday.
+But speaking to Wired magazine earlier this month, when the team demonstrated its method on a smaller safe, a spokeswoman for the safe maker said: "In this environment, the product accomplished what it was designed to do.
+“[It] would be realistically very difficult, if not impossible, for the average person to replicate in the field.”
+The latest demonstration was performed at Def Con, the largest gathering of underground hackers in the world.
+The SparkFun team was not able to travel with a weighty safe, and so bought a new one that was opened up for the first time on stage.
+The team joked the safe could have been cracked sooner - but they had to fill their 45-minute time slot.
+The robot, which cost around $200 to put together, makes use of 3D-printed parts that can be easily replaced to fit different brands of combination safe.
+It cannot crack a digital lock - although vulnerabilities in those systems have been exposed by other hacking teams in the past.
+The team’s work began when Mr Siedle’s wife Alicia bought a safe on eBay that was cheap due to the previous owner not knowing what the combination was.
+“She gave it to me for Christmas,” Mr Siedle said.
+The mechanism in the safe consists of three dials which, when aligned, allow the safe to be opened. Each dial can be any two digit number - meaning one million potential combinations.
+But the robot doesn’t simply try every combination. It is able to suss out one of the dials within 20 seconds by detecting the size of indents on the dial. In simple terms, the “solution” indent is slightly larger than the “incorrect" indents. In the demonstration, this method meant the team discovered the third and final number was 93.
+The other two dials cannot be measured - but eliminating one greatly reduces the number of possible combinations.
+It was made easier when the team also discovered that the safe’s design allows for a margin of error to compensate for humans getting their combination slightly wrong.
+For example, if one dial is set to open at 14, using 15 and 13 will work as well. It meant the robot could check every third number, making it possible to quickly test the remaining combinations much faster than a human being.
+Using this method, they could cut down the number of possible combinations to around 1,000 - a far more manageable challenge.
+Before the attempt, Mr Siedle told the BBC the robot could be easily adapted to tackle any combination safe.
+“We designed it for a particular type of safe, but it doesn’t really matter - you can actually 3D-print a coupler that can match any safe that you may have.”
+Some SentrySafe models come with an additional lock and key, but the team was able to unlock it by using a Bic pen.
+“No matter how much money you spend on a safe… nothing is impervious,” Mr Siedle said.
+___________
+Follow Dave Lee on Twitter @DaveLeeBBC
+You can reach Dave securely through encrypted messaging app Signal on: +1 (628) 400-7370

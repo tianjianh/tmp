@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160215220244/http://www.bbc.co.uk/news/technology-33409311
+
+[SN]TITLE[SN]
+BBC Micro Bit computer's final design revealed
+
+[SN]FIRST-SENTENCE[SN]
+The BBC has revealed the final design of the Micro Bit, a pocket-sized computer set to be given to about one million UK-based children in October.
+
+[SN]RESTBODY[SN]
+The device - which features a programmable array of red LED lights - includes two buttons and a built-in motion sensor that were not included in a prototype shown off in March.
+But another change means the product no longer has a slot for a thin battery.
+That may compromise its appeal as a wearable device.
+An add-on power pack, fitted with AA batteries, will be needed to use it as a standalone product.
+The BBC's director general Tony Hall said the device should help tackle the fact children were leaving school knowing how to use computers but not how to program them.
+"We all know there's a critical and growing digital skills gap in this country and that's why it's so important that we come together and do something about it," he said at a launch event in London.
+Children will be encouraged to write simple code for the Micro Bit via a new website, which will be accessible on both PCs and mobile devices.
+They will be able to save and test their programs on the site before transferring them to the tiny computer via a USB cable or wireless Bluetooth connection.
+The Micro Bit can then be made to interact with its built-in sensors and buttons to make its 25 LEDs flash in different patterns, letting it display - for example - letters and numbers.
+In addition, it can be connected to other computing kit via its input-output rings - including the Raspberry Pi,  Arduino and Galileo - to carry out more complex tasks.
+It is suggested:
+The BBC describes the 4cm by 5cm (1.6in by 2in) device and an associated Make It Digital campaign as its "most ambitious education initiative" since the release of the BBC Microcomputer System in the 1980s.
+But while the earlier computer was sold for hundreds of pounds, the Micro Bit is being given away to every 11- and 12-year-old child in Year 7 or equivalent at school.
+BBC Learning head Sinead Rocks said: "The BBC Micro Bit is all about young people learning to express themselves digitally.
+"As the Micro Bit is able to connect to everything from mobile phones to plant pots and Raspberry Pis, this could be for the internet-of-things what the BBC Micro was to the British gaming industry."
+When the device was announced, four months ago, the BBC promoted the fact it could be easily pinned to a child's clothing.
+However, one of the revisions has involved replacing a watch-battery slot with a bulkier battery pack, which may make that less practical.
+A spokesman said: "The initial prototype utilised a smaller battery, however in reviewing the design and examining the health and safety implications of using small batteries for a young audience, where siblings may be able to access the device, the partnership took the decision to re-engineer this element.
+"Each BBC Micro Bit will now use a discrete battery pack, which can be removed from the device."
+While the BBC instigated the project, other organisations - including the chip designer ARM, Barclays Bank, Samsung, Microsoft and Lancaster University - are also providing expertise and funds to bring the scheme to fruition.
+In addition, the Wellcome Trust, ScienceScope and others will help prepare school teachers for the rollout, while volunteer-led groups, including Coderdojo and Code Club, have also promised support.
+Although supplies will initially be limited to the schoolchildren qualifying for a free Micro Bit in late October, the BBC has confirmed that the computers will go on sale to others in the UK and overseas before the end of the year.
+It also intends to make the machine's specifications open source.
+Prof Mitchel Resnick, who leads the team developing Scratch, a popular programming tool already used to help children learn to code, at Massachusetts Institute of Technology, said: "I see coding as a new type of literacy.
+"When kids learn to code, they learn new ways of expressing themselves and organising their ideas.
+"These skills are important for everyone, not just those who plan to pursue computing careers."
+One advantage the BBC's original computer had over the new Micro Bit was the fact that you could write programs directly onto it without requiring a separate PC or mobile device.
+But in many other ways the new device has its advantages, not least because you do not need to plug it into a TV to see what it is doing and it is many times cheaper to manufacture.
+The broadcaster has highlighted three other advances:

@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170108131631/http://www.bbc.co.uk:80/news/technology-26352439
+
+[SN]TITLE[SN]
+'Contagious' wi-fi virus created by Liverpool researchers
+
+[SN]FIRST-SENTENCE[SN]
+A computer virus that can spread via wi-fi like a "common cold" has been created by researchers in Liverpool.
+
+[SN]RESTBODY[SN]
+In densely populated areas with lots of wi-fi networks, the virus can go from network to network finding weaknesses.
+Once in control of a wi-fi access point, it leaves computers on the network extremely vulnerable.
+The team's lead researcher told the BBC it was working on software to prevent such attacks being possible.
+"Rather than rely on people to use strong passwords, you want to integrate intrusion detection systems to the access points," said Alan Marshall, professor of communication networks at the University of Liverpool.
+He would not go into detail about the methods in order to prevent the attack being used on real victims but said a proof-of-concept attack had been developed at the university.
+The virus, dubbed Chameleon, seeks out wi-fi access points - devices that transmit the wi-fi signal, found in many homes - that have not had their admin password changed.
+This password is different from the one used to log on to the wi-fi network itself, and is often left unchanged from the default setting.
+Once an access point is under a hacker's control, new firmware can be installed.
+"So it's now under our control," explained Prof Marshall.
+"Once you do that you can then do other things with it. You can recover passwords, steal data - anything you want."
+But it is the next step of the virus that is most unusual.
+Once installed on one access point, the virus can - without being controlled by a human - automatically seek out other vulnerable access points, taking them over as and when they are found.
+Prof Marshall told the BBC that this was unlikely to be a threat to big business wi-fi networks, which should have enhanced security in place.
+However, networks in homes, or at small premises like coffee shops, are typically found with less stringent protection measures in place.
+Now that his team has demonstrated the threat, Prof Marshall said attention would turn to creating a product that could be installed in wi-fi access points to prevent this kind of hijacking - without requiring the user to take responsibility.
+Follow Dave Lee on Twitter @DaveLeeBBC

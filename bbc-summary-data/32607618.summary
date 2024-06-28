@@ -1,0 +1,31 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150525054658/http://www.bbc.co.uk/news/technology-32607618
+
+[SN]TITLE[SN]
+Lenovo: researchers find 'massive security risk'
+
+[SN]FIRST-SENTENCE[SN]
+The Chinese PC manufacturer Lenovo has been accused of running a "massive security risk" after researchers found flaws in its software.
+
+[SN]RESTBODY[SN]
+Three vulnerabilities could be exploited to install malware on users' systems or to hand attackers a measure of control over them, it was reported.
+Lenovo acknowledged the findings and urged users to download a patch to resolve the issues.
+The news follows revelations about pre-installed adware on Lenovo systems.
+The vulnerabilities were discovered by researchers at security firm IOActive, who alerted Lenovo to them in February this year.
+The patch was released in April, but the researchers' findings were only made public this week.
+One flaw would allow both local and remote attackers to "bypass signature validation checks and replace trusted Lenovo applications with malicious applications", the researchers found.
+That might have exposed Lenovo users to so-called "coffee shop attacks", in which attackers hijack a connection to a public wi-fi network.
+The attacker could "exploit this to swap Lenovo's executables with a malicious executable", the researchers wrote.
+The other two flaws would allow attackers to gain a greater level of control over a system than they should have.
+That would potentially allow them to run malicious commands, according to Prof Alan Woodward, a security expert at Surrey university.
+"Lenovo have been found wanting again on the security front," he said.
+"They seem to be exposing users to potential remote hacking this time."
+Prof Woodward said that, following February's reports that Lenovo had exposed users with adware installed on its systems, the latest revelations were "very disappointing".
+Lenovo was building a "lamentable record for security", he added.
+The firm was forced to remove hidden "Superfish" adware that had been pre-installed on its machines, potentially compromising users' security.
+It offered customers a tool to remove the software, which has been likened to malware in the way it interacts with systems.
+A Lenovo spokesman said that its development and security teams had worked with IOActive on the vulnerabilities it found in Lenovo's system update feature.
+The researchers gave Lenovo time to fix the problems before their findings were made public.
+The computer manufacturer added that users would now be prompted to install the updates.
+"Alternatively, users may manually update System Update as described in the security advisory," it said.
+"Lenovo recommends that all users update System Update to eliminate the vulnerabilities reported by IOActive."

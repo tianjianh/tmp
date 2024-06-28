@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170120090529/http://www.bbc.com/news/business-36762962
+
+[SN]TITLE[SN]
+How our voices could unlock the connected world
+
+[SN]FIRST-SENTENCE[SN]
+How often do you ring your bank and forget the special dates, places or names needed just to get through security?
+
+[SN]RESTBODY[SN]
+Apparently, it takes us 45 seconds on average just to confirm who we are.
+Now that might not seem very long, but if you're a global bank like Citi receiving 35 million calls a year in Asia alone, that adds up to 437,500 hours of staff time a year.
+That's a lot of money.
+But by using computers to identify our voices, this authentication process can be cut to 15 seconds on average, saving the bank pots of cash and us lots of hassle.
+Citi has just begun rolling out this kind of voice biometrics authentication for its 15 million Asian banking customers, starting in Taiwan, Australia, Hong Kong and Singapore.
+The bank expects to have one million Asian customers using the technology after a year, and three million after three years.
+Other banks, like Barclays, have used voice biometrics for private banking customers, and are now working to expand it for retail customers.
+In voice biometrics, there are two approaches.
+You can speak a fixed phrase - a popular one is "my voice is my password". Record a "voiceprint" of this a few times, and afterwards your voice gets checked against this saved sample.
+The other approach involves "free speech" - monitoring your natural conversation as you chat with the call centre. After a few seconds, a message on the customer service representative's screen tells them the system has verified your voice, or asks them to conduct further traditional checks if not.
+This "free speech" method has become possible at much greater scale due to better algorithms analysing voices in more detail.
+Whereas fingerprints give you fewer than 20 points of measurement and comparison, voices offer more than 1,000, says Brett Beranek, director of voice biometrics product strategy at Nuance Communications.
+Physical characteristics, such as the length of your tongue and the thickness of your vocal cords, contribute to the uniqueness of your voice. Then there are personality traits - the tone and pitch, the way you pronounce certain syllables and words.
+The latest computer algorithms can analyse all these hundreds of variables and come up with a near-certain authentication within three seconds.
+The fixed "passphrase" method takes just 1.5 seconds to authenticate.
+"If in the serious research community you said you'd be able to do free-form speech in three seconds, most people would've laughed at you five years ago," Mr Beranek says.
+Citi uses the "free speech" method to begin a more natural conversation with the customer immediately, says Derek Allgood, managing director of Citi's telephone banking in Asia.
+This approach works better in talkative cultures like Australia, he says.
+"Whereas in Singapore, Hong Kong and Taiwan, customers tend to be less chatty," says Mr Allgood.
+So in these countries the bank has had to adapt the script to be more interrogative, to get enough audio for a voiceprint.
+Free speech has another advantage: it's harder to fake a realistic conversation using recordings. With the passphrase method it's plausible that fraudsters could record a customer's voice as he or she says the phrase and then use this high-quality recording to try to spoof their way through security in future.
+So does voice biometrics actually help reduce banking fraud?
+Given that the average person has 19 passwords and many of those are weak and easily guessed, the fact that you can't forget your voice and that it's unique to you, should prove to be an advantage.
+And as the authentication process takes place at the bank's end of the call, it's certainly easier from the customer's perspective.
+Five years ago, the technology was mostly about compiling a watchlist of voiceprints associated with known fraudsters and checking this against all incoming calls, says Erica Thomson from Israel-based software company, NICE.
+Checking your voice against a "whitelisted" voiceprint - known to be yours - has only become possible at scale in the last two years, she says.
+But it isn't cheap.
+It tends to cost businesses about Â£10m ($13m; â‚¬12m) to begin authenticating customers with voiceprints, says Matt Smallman, a consultant who has worked with several banks on their voice biometrics.
+"But it does pay for itself in both security and efficiency," he adds - global financial fraud losses run into billions.
+This is why banks in particular are investing so heavily in it. Of 150 million voluntarily enrolled voiceprints in the world at the moment - up from 70 million a year-and-a-half ago - the financial services sector accounts for slightly more than 50% of the total.
+"Government and telecommunications are tied next at around 20%," says Dan Miller from San Francisco-based Opus Research.
+The drawback with the system is that banks need to obtain customers' permission before recording voiceprints.
+From 2018, the European Union's General Data Protection Regulation will require organisations to say what data they collect on you, for which purposes, and to obtain your explicit consent.
+Some customers say no, but usually only around a quarter, says Ms Thomson. Citi's Asian efforts seem to bear this out, with a 75% uptake so far.
+A few banks - Atom Bank in the UK and USAA in the US, for example - ask new customers to register their voice, face and passcode, and let them choose which to use.
+And as the technology gets cheaper over the next five years, we could soon be talking to parking meters, vending machines, robot hotel concierges and driverless taxis, to pay for things and check in.
+Our voices could unlock the connected world.
+Follow Technology of Business editor @matthew_wall on Twitter
+Click here for more Technology of Business features

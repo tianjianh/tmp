@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170317221642/http://www.bbc.com/news/technology-27143341
+
+[SN]TITLE[SN]
+How to mint your own virtual money
+
+[SN]FIRST-SENTENCE[SN]
+I am the richest person in the world but, sadly, only when it comes to Beebcoins.
+
+[SN]RESTBODY[SN]
+That is the name of the virtual crypto-currency I created to see how easy it is to leap on the virtual cash bandwagon.
+That bandwagon briefly propelled each Bitcoin, the best known crypto-currency, to be worth about $1,200 (Â£715). Currently each virtual coin trades for much less than half of the value of that November 2013 peak.
+It is a bandwagon that others, notably Litecoin and Dogecoin, have jumped on to as well.
+More are leaping aboard every day according to figures gathered by crypto-cash tracking site Cryptsy which currently lists more than 170 virtual currencies.
+"Most of the new crypto-currencies which have come into existence since the advent of Bitcoin are basically Bitcoin-duplicates with a different brand name," says economic historian Garrick Hileman from the London School of Economics.
+"Because Bitcoin is open source anyone is free to 'copy and paste' Bitcoin's core software protocol to create a new crypto-currency."
+Many of those newer virtual currencies have sought to outdo Bitcoin by sharpening up the computer code behind the currency to avoid some of the technical troubles that dog the market leader, he says.
+Talking about alternative crypto-currencies, which are known as alt-coins, made me wonder how easy it is to create one.
+Jeff Garzik, one of Bitcoin's core developers, told me; "It is trivial to create your own currency.  It doesn't really take much programming skill, even."
+Mr Garzik pointed me towards Matt Corallo who is behind the Coingen.io website that makes it very straightforward to roll your own money.
+The first step was to get hold of some Bitcoins to pay the small fee Mr Corallo charges for a copy of the coin-generating software.
+This proved a hurdle because it is difficult to buy Bitcoins quickly. I was keen to put a layer of security between me and whoever I bought them from so ended up using the Barclays Pingit app on a smartphone to buy coins via the BitBargain website.
+With Bitcoins safely in my digital wallet I transferred a few to Mr Corallo and, like many hundreds of others, filled in the form that defined how my coin, now dubbed Beebcoins, would work.
+I decided there would be a maximum of 21 million Beebcoins, picked an abbreviation (BBC), uploaded a logo and made some choices about the technical innards of the Beebcoin system.
+The next step was to install the software on several computers and then get them talking to each other to form the little network needed to mine the coins. Crypto-currencies are inherently community-based and I happen to have enough computers at home, seven at the last count, to form that community and get mining.
+Coingen provides precious little in terms of support so I scoured the web for help and found a checklist to run through to get the network humming.
+Technical considerations drove the choice of crypto-cash enthusiast Sean Houlihane who is now a dedicated miner of Vertcoins.
+Vertcoin's developers have modified its mining algorithm which generates the coins. Despite its name, mining actually involves getting a computer to search for the answer to a hard mathematical problem. The miner who finds the answer typically gets rewarded with newly minted coins.
+Mr Houlihane liked Vertcoin because, he said, it is designed to be hard to mine with dedicated processors. The rise of these purpose-made processors have made it all but impossible for the vast majority of people to mine Bitcoins. The mining is dominated by groups that have tied together hundreds of dedicated processors with which the average home miner cannot hope to compete.
+By contrast, he said, Vertcoin cuts out the professionals in favour of the amateurs.
+"The combination of needing different software and being new means that not too many people are mining Vertcoin today," said Mr Houlihane. "Obviously if the popularity increases significantly, the price goes up and what I've mined so far becomes worth more."
+I typed commands into the command line, helped the machines see each other and connect on my home network and got each one doing the complicated maths to generate coins.
+Within 20 minutes the first message popped up telling me some coins had been mined. Sadly, that did not mean I could spend or share them straight away. Instead the Beebcoins had to "mature" - this meant that any computer had to complete a lot more mining work before it was rewarded. There is no free lunch with an alt-coin.
+In total, it took the machines I used more than six hours running at full speed to complete the work needed to get those coins to mature. I now have thousands of the things. I wonder what I've spent in electricity to do all that work?
+It struck me then that if I wanted to turn Beebcoins into an actual currency it would take much more than just computers. It would require a marketing job to get people to value the coin and back it with more computers or even real cash. Also needed would be people with far better web-programming skills than mine to add a friendlier layer to that virtual cash-generating system.
+The sheer hard work involved in getting beyond the basics was exposed by tech news site Ars Technica which created its own crypto-currency - Ars Coins. It recruited a few developers to help and even so hit real problems when it rolled out the currency to readers. Solving them and then getting people to buy in was hard. Even then the only reward it could offer Ars Coin miners was special icons on messages they post to the magazine's discussion forums.
+For me the Beebcoin experience has given me a greater understanding of how crypto-currencies work and why some of them fail and others succeed. The value of these virtual currencies lies, like the real things, in what people are willing to pay for them.
+That's perhaps why so many of these alt-coins revolve around an online community as people are already invested in that group and have a ready need to reward the good behaviour of other members.
+At the moment, Beebcoins have zero monetary value unless there is someone out there that wants to take the network off my hands. One careful owner. All offers considered. Going cheap.

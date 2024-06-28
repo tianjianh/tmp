@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170209001146/http://www.bbc.com/news/technology-38170563
+
+[SN]TITLE[SN]
+Spyware tracks child sex abuse site users
+
+[SN]FIRST-SENTENCE[SN]
+Hidden code that tracked visitors to a child sex abuse image website has been discovered by its members.
+
+[SN]RESTBODY[SN]
+The script in the site targeted visitors using the anonymising web browser Tor and sent information about their computers to a server in France.
+The code may have been written by a law enforcement agency and there are fears it could have been used on other sites to track law-abiding people.
+An update to the Tor browser has disabled the tracker.
+Tor is designed to let people access pages from the so-called dark web and browse free from surveillance.
+But the hidden code in the illicit website exploited a security flaw in Tor to send user information back to a mysterious server in France.
+The vulnerability also affected the Mozilla's Firefox browser, on which Tor is based.
+Technology news site Motherboard found online posts referring to the discovery of the tracking code on the child sex abuse website.
+One user described the code as a network investigative technique (Nit), which can be used by law enforcement to help identify people browsing the web anonymously.
+The website in question was shut down on 15 November.
+The party behind the tracking code has not been identified, but one security researcher told news site Ars Technica that a majority of the code matched a script deployed by the FBI in 2013.
+Daniel Veditz, security lead at Firefox-maker Mozilla, said in a blog: "The exploit in this case works in essentially the same way as the 'network investigative technique' used by [the] FBI to deanonymise Tor users.
+"This similarity has led to speculation that this exploit was created by FBI or another law enforcement agency.  As of now, we do not know whether this is the case.
+"If this exploit was in fact developed and deployed by a government agency, the fact that it has been published and can now be used by anyone to attack Firefox users is a clear demonstration of how supposedly limited government hacking can become a threat to the broader web."
+The security flaw has now been patched in both Firefox and Tor.

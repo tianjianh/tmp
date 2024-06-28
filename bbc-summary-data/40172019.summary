@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170609013305/http://www.bbc.co.uk/news/technology-40172019
+
+[SN]TITLE[SN]
+Apple's iOS 11 update ends support for iPhone 5 and 5C
+
+[SN]FIRST-SENTENCE[SN]
+Apple's iOS 11 mobile operating system will not be available for the iPhone 5 and 5C or the iPad 4 when it is released in the autumn.
+
+[SN]RESTBODY[SN]
+It means those with the older devices will no longer receive software or security updates.
+The iPhone 5S and newer devices will receive the upgrade but some older apps will no longer work afterwards.
+The news is the result of Apple's decision to end support for devices and apps using 32-bit processors.
+Apple has been making devices with 64-bit processors rather than 32-bit processors since 2013, when it introduced them with the iPhone 5S and the iPad Air.
+Apps that only run in 32-bit will not show up in search results in the new version of the App Store, or be available from the Purchased tab if they have been downloaded previously.
+A 64-bit processor can handle vastly more data at once - four billion times as much - as a 32-bit processor, which can help make it faster in use.
+"Apple has been warning of this migration to its 64-bit hardware for a number of years, but this news will still undoubtedly blindside a number of its customers, " Ernest Doku, a telecoms expert at uSwitch.com told the BBC.
+"Most apps from the last four years or so should be compatible, unless they haven't been updated since 2015."
+When Apple released iOS 10.1 in October 2016, users trying to open a 32-bit app on an updated device would receive a warning message telling them that it may slow down their iPhone.
+The update to iOS 10.3 included a tool to detect apps that cannot run in 64-bit mode.
+Affected apps will be listed under Settings > General > About > Applications > App Compatibility.
+All new apps and updates to existing apps have had to support 64-bit since June 2015, so any that have been updated in the past two years should be unaffected.
+But some popular games and educational apps have not been updated since the 64-bit requirement was introduced.
+They include titles from Fisher Price and WeeWorld, creators of the WeeMe avatar app.
+Apple is also starting to phase out 32-bit support for the Mac, telling developers at WWDC that Mac OS High Sierra would be the last to have 32-bit capability "without compromises".
+From June 2018, all new apps submitted to the Mac app store will need to support 64-bit, and from June 2018 updates to existing apps must also be 64-bit compatible.

@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170523115238/http://www.bbc.com/news/technology-40010996
+
+[SN]TITLE[SN]
+More evidence for WannaCry 'link' to North Korean hackers
+
+[SN]FIRST-SENTENCE[SN]
+A hacking group closely tied to North Korea was behind the massive WannaCry attack earlier this month, security company Symantec says.
+
+[SN]RESTBODY[SN]
+The way the attack was set up made it "highly likely" that the Lazarus group was responsible, it said.
+Lazarus has been blamed for a 2014 attack on Sony and the theft of $81m (Â£62m) from Bangladesh's central bank.
+In those attacks, the group is believed to have worked on behalf of North Korea's government.
+In a blog, Symantec said "substantial commonalities in the tools, techniques, and infrastructure used by the attackers" led it to conclude that the Lazarus group had instigated the WannaCry attack.
+However, Symantec added that the character of the attack suggested it had not been carried out on behalf of North Korea.
+Rather than being a nation-state campaign, it said, it looked more like a "typical" cyber-crime campaign that sought to enrich its operators.
+North Korea has denied any involvement with WannaCry, branding any claims it was behind it "ridiculous".
+The virulent WannaCry worm is believed to have infected computers at more than 200,000 companies.
+Victims included more than 60 NHS trusts in the UK as well as Fedex, Renault and Telefonica.
+On compromised computers, the worm encrypted files and demanded a ransom of $300 (Â£231) in bitcoins to unlock them.
+Symantec pointed to small-scale attacks carried out prior to the massive May event that used the same basic malware but also employed other technical tricks Lazarus is known to use.
+The earlier attacks did not exploit the vulnerability that helped WannaCry spread so far, so fast but instead used six other malicious programs favoured by Lazarus.
+Two of these are known to have been used in the Sony attack.
+In addition, Symantec  said, code inside WannaCry was shared with a separate program also linked to Lazarus.
+Symantec's analysis builds on work by other researchers who have studied WannaCry and found evidence that some of its core code is shared with other malicious programs Lazarus is believed to have used.
+Despite Symantec's lengthy analysis, some experts remained cautious about blaming Lazarus.
+"Attributing hacking operations and malware to specific groups is an imprecise undertaking that's frequently fraught with errors," wrote Dan Goodin, security editor at Ars Technica.
+So far, 300 victims are believed to have paid to have their files unlocked, generating a total ransom payment of $109,245.
+The money is being paid into three separate bitcoin wallets that are being closely scrutinised for activity to see if they can help identify the criminals.

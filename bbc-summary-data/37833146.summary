@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170505163313/http://www.bbc.com/news/technology-37833146
+
+[SN]TITLE[SN]
+Microsoft attacks Google's Windows hack alert
+
+[SN]FIRST-SENTENCE[SN]
+Google's revelation of a security flaw in the Windows operating system has caused anger at Microsoft.
+
+[SN]RESTBODY[SN]
+Google published details of the yet-to-be-fixed bug on Monday after giving Microsoft a week to react.
+Google said the issue was "particularly serious because we know it is being actively exploited".
+But Microsoft said the alert could do more harm than good at this point because it needs more time to develop a patch.
+"We believe in co-ordinated vulnerability disclosure, and today's disclosure by Google puts customers at potential risk," a Microsoft spokesperson told the VentureBeat news site.
+The flaw involves a file called Win32k.sys, which the operating system requires to display graphics. It should not be deleted or otherwise altered by users because doing so can cause system errors that result in the so-called "blue screen of death".
+However, Google outlines a way hackers can exploit the file to cause a "security sandbox escape", meaning that once it is compromised they can access and alter other unrelated computer functions to cause problems.
+Since 2013, Google has operated a policy of giving developers 60 days to fix a flaw it has identified if it does not believe anyone else is making use of it, but only seven days if it thinks it is being actively abused.
+It acknowledged at the time that this was "an aggressive timeline" that might be too short to create a fix but added that it should be enough time to publish advice about "possible mitigations".
+"By holding ourselves to the same standard, we hope to improve both the state of web security and the co-ordination of vulnerability management," it added.
+The search firm suggests one way users could limit their exposure would be to use its Chrome web browser, which it says is not exposed to the vulnerability.
+For its part, Microsoft says that so long as Flash users have installed the latest version of the media plug-in, they should be safe.
+"We disagree with Google's characterisation of a local elevation of privilege as 'critical' and 'particularly serious' since the attack scenario they describe is fully mitigated by the deployment of the Adobe Flash update released last week," a Microsoft spokeswoman told the BBC.
+"Additionally, our analysis indicates that this specific attack was never effective in the Windows 10 Anniversary Update due to security enhancements previously implemented."
+One cybersecurity expert said it was hard to say which tech giant was in the wrong without knowing more.
+"What Google has done is understandable, bearing in mind it says the bug is already being exploited," commented Dr Steven Murdoch from University College London.
+"But whether or not it was right to have made the flaw public is a matter of debate - there are reasonable arguments on both sides, and we still don't know who are the attackers and who are the targets."

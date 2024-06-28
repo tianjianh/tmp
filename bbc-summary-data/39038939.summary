@@ -1,0 +1,21 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170222020219/http://www.bbc.com/news/technology-39038939
+
+[SN]TITLE[SN]
+Lemur facial recognition tool developed
+
+[SN]FIRST-SENTENCE[SN]
+A team of researchers has developed a facial recognition system that can identify individual lemurs in the wild with high levels of accuracy.
+
+[SN]RESTBODY[SN]
+The plan is to use the technology to help radically improve the way the endangered species is tracked.
+LemurFaceID proved 97% accurate when comparing the faces of two different lemurs.
+The animals were named the world's most endangered group of mammals in 2012.
+The system was developed by a team of lemur experts and computer scientists.
+The researchers have published a paper detailing their work in the journal BioMed Central Zoology.
+Co-author Rachel Jacobs, a biological anthropologist from George Washington University, said: "The ability to consistently study individuals over long periods of time, as well as integrate data across different studies, are some of the challenges we face when studying wild animal populations.
+"Senior author Stacey Tecot, (University of Arizona), and I weren't particularly satisfied with the common approaches used in lemur research, so we aimed to do something different with red-bellied lemurs, and we sought the expertise of our computer science collaborators."
+Previous efforts to track wild lemurs usually required researchers to trap and individually tag the animals.
+Identifying individuals relied on cataloguing unique identifiers such as differences in body size or shape or the presence of scars or injuries.
+The system, developed by Prof Anil Jain and his students at Michigan State University, used 462 photographs of 80 red-bellied lemurs living in Madagascar. The system also contained 190 images of other lemur species. Using a modified version of human facial recognition software, it was able to correctly identify the 80 individuals.
+Dr Jacobs said that the method could be applied to other species such as red pandas and other bears.

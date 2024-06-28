@@ -1,0 +1,91 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170313023008/http://www.bbc.co.uk/news/business-38677721
+
+[SN]TITLE[SN]
+Grace Hopper's compiler: Computing's hidden hero
+
+[SN]FIRST-SENTENCE[SN]
+One, zero, zero, one, zero, one. Zero, one, oneâ€¦
+
+[SN]RESTBODY[SN]
+That is the language of computers. Every clever thing your computer does - make a call, search a database, play a game - comes down to ones and zeroes.
+Actually, it comes down to the presence (one) or absence (zero) of a current in tiny transistors on a semiconductor chip.
+Thankfully, we do not have to program computers in zeroes and ones.
+Microsoft Windows, for example, uses 20GB, or 170 billion ones and zeroes.
+Printed out, the stack of A4 paper would be two and a half miles (4km) high.
+Imagine setting every transistor manually.
+Ignoring how fiddly this would be - transistors measure just billionths of a metre - if it took a second to flip each switch, installing Windows would take 5,000 years.
+50 Things That Made the Modern Economy highlights the inventions, ideas and innovations that have helped create the economic world.
+It is broadcast on the BBC World Service. You can find more information about the programme's sources and listen online or subscribe to the programme podcast.
+Early computers really were programmed rather like this.
+Consider the Automatic Sequence Controlled Calculator, later known as the Harvard Mark 1.
+It was a 15m-long (50ft), 2.5m-high concatenation of wheels, shafts, gears and switches.
+It contained 530 miles (850km) of wires.
+It whirred away under instruction from a roll of perforated paper tape.
+If you wanted it to solve a new equation, you had to work out which switches should be on or off, which wires should be plugged in where.
+Then, you had to flip all the switches, plug all the wires, and punch all the holes in the paper tape.
+Programming it was not just difficult, but involved tedious, repetitive and error-prone manual labour.
+Four decades on from the Harvard Mark 1, more compact and user-friendly machines such as the Commodore 64 found their way into schools.
+You may remember the childhood thrill of typing this:
+"Hello world" would fill the screen, in chunky, low-resolution text.
+You had instructed the computer in words that were recognisably, intuitively human.
+It seemed like a minor miracle.
+One reason for computers' astonishing progression since the Mark 1 is certainly ever-tinier components.
+But it is also because programmers can write software in human-like language, and have it translated into the ones and zeroes, the currents or not-currents, that ultimately do the work.
+The thing that began to make that possible was called a compiler.
+And behind the compiler was a woman called Grace Hopper.
+Nowadays, there is much discussion about how to get more women into tech.
+In 1906, when Grace was born, not many people cared about gender equality.
+Fortunately for Grace, her father wanted his daughters to get the same education as his son.
+Sent to a good school, Grace turned out to be brilliant at maths.
+Her grandfather was a rear admiral, and her childhood dream was to join the US Navy, but girls were not allowed.
+Then, in 1941, the attack on Pearl Harbor dragged America into World War Two.
+Male talent was called away.
+The US Navy started taking women. Grace signed up at once.
+If you are wondering why the navy needs mathematicians, consider aiming a missile.
+At what angle and direction should you fire?
+The answer depends on many things: target distance, temperature, humidity, wind speed and direction.
+These are not complex calculations, but they were time-consuming for a human "computer" armed only with pen and paper.
+As Lt (junior grade) Hopper graduated from midshipmen's school in 1944, the navy was intrigued by the potential of an unwieldy machine recently devised by Harvard professor Howard Aiken - the Mark 1.
+The navy sent Lt Hopper to help Prof Aiken work out what it could do.
+Prof Aiken was not thrilled to have a female join the team, but Lt Hopper impressed him enough that he asked her to write the operating manual.
+This involved plenty of trial and error.
+More often than not, the Mark 1 would grind to a halt soon after starting - and there was no user-friendly error message.
+Once, it was because a moth had flown into the machine - that gave us the modern term "debugging".
+More often, the bug was metaphorical - a wrongly flipped switch, a mispunched hole in the paper tape.
+The detective work was laborious and dull.
+The iPhone at 10: How the smartphone became so smart
+The simple steel box that transformed global trade
+How the barcode changed retailing
+Why the falling cost of light matters
+Lt Hopper and her colleagues started filling notebooks with bits of tried-and-tested, re-useable code.
+By 1951, computers had advanced enough to store these chunks - called "subroutines" - in their own memory systems.
+By then, Grace was working for a company called Remington Rand.
+She tried to persuade her employers to let programmers call up these subroutines in familiar words - to say things such as: "Subtract income tax from pay."
+She later said: "No-one thought of that earlier, because they weren't as lazy as I was."
+In fact, Grace was famed for hard work.
+But what Grace called a "compiler" did involve a trade-off.
+It made programming quicker, but the resulting programmes ran more slowly.
+That is why Remington Rand were not interested.
+Every customer had their own, bespoke requirements for their shiny new computing machine.
+It made sense, the company thought, for its experts to program them as efficiently as they could.
+Grace was not discouraged: she simply wrote the first compiler in her spare time.
+And others loved how it helped them to think more clearly.
+Kurt Beyer's book, Grace Hopper and the Invention of the Information Age, relates many tales of impressed users.
+One of them was an engineer called Carl Hammer, who used the compiler to attack an equation his colleagues had struggled with for months.
+Mr Hammer wrote 20 lines of code, and solved it in a day.
+Like-minded programmers all over the US started sending Grace new chunks of code, and she added them to the library for the next release.
+In effect, she was single-handedly pioneering open-source software.
+Grace's compiler evolved into one of the first programming languages, COBOL.
+More fundamentally, it paved the way for the now-familiar distinction between hardware and software.
+With one-of-a-kind machines such as the Harvard Mark 1, software was hardware.
+No pattern of switches would also work on another machine, which would be wired completely differently.
+But if a computer can run a compiler, it can also run any program that uses it.
+Further layers of abstraction have since come to separate human programmers from the nitty-gritty of physical chips.
+And each one has taken a further step in the direction Grace realised made sense: freeing up programmer brainpower to think about concepts and algorithms, not switches and wires.
+Grace had her own views of why colleagues had been initially resistant: not because they cared about making programs run more quickly, but because they enjoyed the prestige of being the only ones who could communicate with the godlike computer.
+The "high priests", Grace called them.
+She thought anyone should be able to programme.
+Now, anyone can.
+And computers are far more useful because of it.
+Tim Harford writes the Financial Times's Undercover Economist column. 50 Things That Made the Modern Economy is broadcast on the BBC World Service. You can find more information about the programme's sources and listen online or subscribe to the programme podcast.

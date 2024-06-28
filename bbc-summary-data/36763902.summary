@@ -1,0 +1,29 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170228151352/http://www.bbc.co.uk/news/technology-36763902
+
+[SN]TITLE[SN]
+'Dalek' commands can hijack smartphones
+
+[SN]FIRST-SENTENCE[SN]
+Researchers have demonstrated how garbled speech commands hidden in radio or video broadcasts could be used to control a smartphone.
+
+[SN]RESTBODY[SN]
+The clips, which sound like the Daleks from Doctor Who, can be difficult for humans to understand but still trigger a phone's voice control functionality.
+The commands could make a smartphone share its location data, make calls and access compromised websites.
+One security expert said users could switch off automatic voice recognition.
+The researchers - from the University of California, Berkeley and Georgetown University - explored whether audio commands "unintelligible to human listeners" were still interpreted by smartphones as voice commands.
+They took a series of voice commands, such as: "OK Google, call 911," which would activate an Android phone's voice control if enabled, and heavily distorted the audio so that it was difficult for human listeners to understand.
+The low-pitched speech could be hidden among background noise and still trigger smartphone features.
+"Our research was mostly geared towards answering the scientific question: can one leverage the differences in how computers and humans understand speech to produce commands that could be understood by the former and not by the latter?" said Micah Sherr, one of the researchers from Georgetown University.
+"We found that the answer to this question is yes - but there's certainly a lot more work to be done to investigate what it would take to make these attacks more practically deployable.
+"While the attack should be considered seriously - especially given the growing popularity of voice-only interfaces such as Amazon Echo, Apple Watch and Android Wear - we aren't trying to make the case that these attacks are easy to conduct."
+The researchers have uploaded a sample of their garbled voices commands to YouTube, but have pointed out that the online clips may not activate a smartphone.
+"The hidden voice commands are quite fragile.  We tried to produce audio files that sit right on the intersection between what a human cannot understand and what a computer can understand," said Mr Sherr.
+"Depending on the setup in your room, the quality of your loudspeaker, and the distance between the speaker and the smartphone, the audio might have been sufficiently 'pushed' in a direction that prevents computer understanding.
+"Apple's Siri seems to be much more conservative as to what it accepts as human speech.  Our attacks worked best against Google's app."
+The team also highlighted that people found it easier to understand the garbled speech once they were aware of what was being said.
+Although such an attack is unlikely to be deployed in the wild, Ken Munro from cybersecurity company Pen Test Partners said changing a smartphone's settings remained a good idea.
+"It's a really interesting attack and serves to reinforce why it's so important to disable voice recognition without authentication," he told the BBC.
+"It may be possible to broadcast obfuscated speech to get a mobile browser to visit a rogue web site, or dial a premium rate phone number that the hacker owns, creating large-scale fraud.
+"It is easy to set up a phone to require authentication such as a fingerprint before the device will recognise voice commands. Do that, then the problem is fixed."
+The researchers will present their paper at the Usenix Security Symposium in August.

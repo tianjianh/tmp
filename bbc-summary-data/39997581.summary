@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170523234147/http://www.bbc.com/news/technology-39997581
+
+[SN]TITLE[SN]
+Windows 7 hardest hit by WannaCry worm
+
+[SN]FIRST-SENTENCE[SN]
+The majority of machines hit by the WannaCry ransomware worm in the cyber-attack earlier this month were running Windows 7, security firms suggest.
+
+[SN]RESTBODY[SN]
+More than 97% of the infections seen by Kaspersky Lab and 66% of those seen by BitSight used the older software.
+WannaCry started spreading in mid-May and, so far, has infected more than 200,000 computers around the world.
+In the UK, some hospitals had to turn away patients as the worm shut down computer systems.
+Many suggested that the reason UK hospitals suffered was because many of them still relied on programs that required Windows XP - a version of Microsoft's OS that debuted in 2001.
+But infections of XP by WannaCry were "insignificant" said Costin Raiu from Kaspersky Lab.
+Windows 7 was first released in 2009 and the most widely infected version was the x64 edition, which is widely used in large organisations, showed figures from Kasperksy.
+Many organisations seem to have been caught out because they failed to apply a patch, issued by Microsoft in March. that blocked the vulnerability which WannaCry exploited.
+Spanish telecoms firm Telefonica, French carmaker Renault, German rail firm Deutsche Bahn, logistics firm Fedex, Russia's interior ministry and 61 NHS organisations were all caught out by WannaCry.
+After encrypting files, the WannaCry worm demanded a payment of Â£230 ($300) in bitcoins before they were unfrozen. So far, a reported 296 payments totalling $99,448 (Â£76,555) have been made to the bitcoin wallets tied to the ransomware.
+There have been no reports that anyone who paid has had their data restored by the gang behind the attack.
+Security experts also found that the worm spread largely by seeking out vulnerable machines on the net by itself. Before now, many thought it had got started via an email-based phishing campaign.
+Adam McNeil, a senior malware analyst at Malwarebytes, said the worm was primed to look for machines vulnerable to a bug in a Microsoft technology known as the Server Message Block (SMB).
+"The attackers initiated an operation to hunt down vulnerable public facing SMB ports and, once located, used the newly available SMB exploits to deploy malware and propagate to other vulnerable machines within connected networks," he wrote.
+Mr McNeil said he suspected that whoever was behind the worm first identifed a "few thousand" vulnerable machines which were used as the launch platform for the much larger waves of infection.

@@ -1,0 +1,51 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170225054415/http://www.bbc.co.uk/news/technology-26969629
+
+[SN]TITLE[SN]
+Heartbleed bug: What you need to know
+
+[SN]FIRST-SENTENCE[SN]
+This week it has emerged that a major security flaw at the heart of the internet may have been exposing users' personal information and passwords to hackers for the past two years.
+
+[SN]RESTBODY[SN]
+It is not known how widely the bug has been exploited, if at all, but what is clear is that it is one of the biggest security issues to have faced the internet to date.
+Security expert Bruce Schneier described it as "catastrophic".  He said: "On the scale of one to 10, this is an 11."
+The BBC has attempted to round up everything you need to know about Heartbleed.
+The bug exists in a piece of open source software called OpenSSL which is designed to encrypt communications between a user's computer and a web server, a sort of secret handshake at the beginning of a secure conversation.
+It was dubbed Heartbleed because it affects an extension to SSL (Secure Sockets Layer) which engineers dubbed Heartbeat.
+It is one of the most widely used encryption tools on the internet, believed to be deployed by roughly two-thirds of all websites. If you see a little padlock symbol in your browser then it is likely that you are using SSL.
+Half a million sites are thought to have been affected.
+In his blog chief technology officer of Co3 Systems Bruce Schneier said:  "The Heartbleed bug allows anyone to read the memory of the systems protected by the vulnerable versions of the OpenSSL software. This compromises the secret keys used to identify the service providers and to encrypt the traffic, the name and passwords of the users and the actual content," he said.
+"This allows attackers to eavesdrop communications, steal data directly from the services and users and to impersonate services and users," he added.
+The bug is so serious it has its own website Heartbleed.com which outlines all aspects of the problem.
+Some security experts are saying that it would be prudent to do so although there is a degree of confusion as to when and if this needs to be done.
+Many of the large technology firms including Facebook and Google have patched the vulnerability.
+Confusingly though Google spokeswoman Dorothy Chou specifically said: "Google users do not need to change their passwords." A source at the firm told the BBC that it patched the vulnerability ahead of the exploit being made public and did not believe that it had been widely used by hackers.
+Some point out that there will be plenty of smaller sites that haven't yet dealt with the issue and with these a password reset could do more harm than good, revealing both old and new passwords to any would-be attacker.
+But now the bug is widely known even smaller sites will issue patches soon so most people should probably start thinking about resetting their passwords.
+"Some time over the next 48 hours would seem like sensible timing," the University of Surrey's computer scientist Prof Alan Woodward told the BBC.
+Mikko Hypponen of security firm F-Secure issued similar advice: "Take care of the passwords that are very important to you. Maybe change them now, maybe change them in a week. And if you are worried about your credit cards, check your credit card bills very closely."
+The exploit was not related to weak passwords but now there are calls for a mass reset of existing ones, many are reiterating the need to make sure they are as secure as possible.
+People should regularly change their passwords, said Prof Woodward, and they need to make sure that they choose something that does not relate to themselves, such as a pet's name. Words that don't appear in a dictionary are preferable as is a mixture of words and numbers.
+For people whose attitude to passwords is to reset them each time they visit a site because they have forgotten them, there is help on hand.
+Tools are now widely available that will store and organise all your passwords and PIN codes for computers, apps and networks. They can also generate passwords and can automatically enter your username and password into forms on websites.
+Such tools store your passwords in an encrypted file that is accessible only through the use of a master password.  Examples of such services include KeePass, LastPass and 1Password.
+Some firms are starting to offer alternatives to passwords.
+Mobile firms including Apple and Samsung are integrating fingerprint-readers which allow users to access their phone and certain functions on it just by swiping their finger on the screen.
+There are half a million believed to be vulnerable so too many to list but there is a glut of new sites offering users the chance to check whether the online haunts they use regularly are affected.
+The LastPass website has compiled a list as has new website Mashable. Meanwhile security firm Kaspersky directs people to the Heartbleed test.
+While Facebook and Google say that they have patched their services, according to the Kaspersky blog, there is a long list of sites that are still vulnerable, including Flickr, OkCupid and Github.
+One of the biggest tech firms remaining on the vulnerable list was Yahoo but, as of last night, it too seemed to have remedied the problem saying it "had made the appropriate corrections across our entire platform".
+Many more sites will spend the coming days scrambling to do the same.
+Bruce Schneier called on internet companies to issue new certificates and keys for encrypting internet traffic. Doing so would render stolen keys useless, he said.
+The bad news, according to a blog from security firm Kaspersky is that "exploiting Heartbleed leaves no traces so there is no definitive way to tell if the server was hacked and what kind of data was stolen".
+Security experts say that they are starting to see evidence that hacker groups are conducting automated scans of the internet in search of web servers using OpenSSL.
+And Kaspersky said that it had uncovered evidence that groups believed to be involved in state-sponsored cyber-espionage were running such scans shortly after news of the bug broke.
+The bug was first spotted by Google Security and a Finnish security firm Codenomicon which said that it was introduced by a programming error.
+Because OpenSSL is open source, researchers were able to study the code in detail which is why it was found in the first place.
+But such code libraries are immensely complex so it can take some time for those who routinely examine the code to come across such problems.
+"It was such an unexpected problem that it wasn't something that researchers would necessarily have been looking for," Prof Woodward told the BBC.
+There is no direct evidence although lots of speculation that there is a link after details emerged that the National Security Agency (NSA) explored ways to break encryption.
+GCHQ simply said it had a "longstanding policy that we do not comment on intelligence matters".
+And many seemed to think that the problem was down to bad code rather than anything more sinister.
+"More of a cock-up than a conspiracy," said Prof Woodward, who has undertaken consultancy work for GCHQ.

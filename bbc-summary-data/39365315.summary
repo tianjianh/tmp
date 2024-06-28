@@ -1,0 +1,22 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170324193600/http://www.bbc.co.uk/news/technology-39365315
+
+[SN]TITLE[SN]
+Google and Symantec clash on website security checks
+
+[SN]FIRST-SENTENCE[SN]
+Search giant Google and security firm Symantec have clashed over the way websites are kept secure.
+
+[SN]RESTBODY[SN]
+Google claims Symantec has done a poor job of using standard tools, called certificates, that check the identity of thousands of websites.
+It will change its Chrome browser to stop recognising some Symantec certificates, causing problems for people who visit sites using them.
+Symantec said Google's claims were "exaggerated" and "irresponsible".
+The row concerns identity checks known as "security certificates", which underlie the HTTPS system that ensures data is encrypted as it travels to and from a website.
+Symantec is one of the biggest issuers of basic security certificates as well as their extended versions, which are supposed to give users more confidence in the security of a site.
+Google alleges that Symantec has not done enough to ensure that these basic and extended certificates are being issued correctly. It claims to have evidence that over the past few years 30,000 certificates are suspect.
+In a bid to tackle the problem, Google said it would change the way many versions of Chrome display information derived from Symantec certificates. This could mean many users get warnings that sites are insecure or are blocked from visiting them.
+In response, Symantec said it "strongly objected" to the way Google had acted, saying its decision was "unexpected".
+Its statement added that Google's statements about the way it issues certificates was "exaggerated and misleading". It threw doubt on the claim that 30,000 certificates had been issued incorrectly and said only 127 had been identified as wrongly issued.
+Symantec said it had taken "extensive remediation measures" to improve the way it issued certificates and noted that many other certificate issuers had not gone as far.
+It queried why it had been "singled out" by Google when other certificate issuers were also at fault.
+"We are open to discussing the matter with Google in an effort to resolve the situation in the shared interests of our joint customers and partners," it concluded.

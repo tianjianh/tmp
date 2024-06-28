@@ -1,0 +1,40 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160721150932/http://www.bbc.co.uk/news/technology-28583283
+
+[SN]TITLE[SN]
+Israeli Iron Dome firms 'infiltrated by Chinese hackers'
+
+[SN]FIRST-SENTENCE[SN]
+The BBC has seen evidence that appears to confirm hackers stole several secret military documents from two government-owned Israeli companies that developed the Iron Dome missile defence system.
+
+[SN]RESTBODY[SN]
+The breaches were first publicised by security blogger Brian Krebs on Monday.
+The companies denied their classified networks had been infiltrated.
+However, the team that discovered the incidents has given the BBC access to an intelligence report, which indicates hundreds of files were indeed copied.
+The documents, which were stolen over a period of many months, relate to:
+Cyber Engineering Services (CyberESI) tracked the activities of the hackers over eight months between 2011 and 2012.
+It said the data taken by the hackers suggested they had been after intelligence relating to Iron Dome.
+Iron Dome is a complex anti-missile defence system, which can intercept and destroy rockets and shells.
+The technology has been widely credited with preventing the deaths of many Israeli civilians during the ongoing conflict with militants from Gaza.
+CyberESI's report, compiled in 2013, also indicates the attacks were made using highly sophisticated tools resembling those used by Chinese hackers to infiltrate US defence firms - an attack in which the Chinese government denies any involvement.
+"The data collected makes strong indications that the actors behind this attack originated from China," it says.
+"This assertion is based on the activity during the past year that Cyber Engineering Services has observed on compromised networks, as well as the geo-location of the IP [internet protocol] addresses retrieving the exfiltrated data."
+"The nature of exfiltrated data and the industry that these companies are involved in suggests that the Chinese hackers were after information related to Israel's all-weather air defence system called Iron Dome."
+CyberESI, which operates out of Maryland in the US, monitored data being stolen from two leading Israeli defence contractors:
+A spokeswoman for IAI initially confirmed to Mr Krebs the attack had taken place and been "reported to the appropriate authorities".
+However IAI subsequently said the "information reported regarding the leakage of sensitive information is incorrect" and only its "civilian non-classified" network had been hacked.
+A spokesman for Rafael said the company did "not recall such an incident".
+But the report seen by the BBC suggests sensitive data was taken from IAI and that Rafael's network was compromised, with hackers able to deactivate security software and harvest authentication data, including passwords.
+In total, the report says, gigabytes of data were stolen from the Israeli companies, including:
+Some of the stolen technical documents are said by CyberESI to have contained intellectual property data and were marked as being controlled by US government International Traffic in Arms (ITAR) regulations.
+Both IAI and Rafael were heavily involved in developing the Iron Dome missile defence system, which allows Israel to intercept rockets fired by Hamas from the Gaza Strip.
+The US, which already collaborates with Israeli firms over Arrow III - jointly designed by IAI and Boeing, now wants to invest in future versions of Iron Dome technologies.
+In May 2013, the Pentagon accused China of carrying out a sophisticated cyber-spying campaign on US diplomatic, economic and defence organisations.
+The raid on the Israeli companies bore similar characteristics, experts at CyberESI told the BBC, using tools that were "known to originate from" China.
+The attacks were part of an advanced persistent threat (APT) - a form of highly organised and targeted hacking.
+APTs have been used for industrial espionage in the past and tend to use sophisticated methods not easily available to the vast majority of cyber-thieves.
+CyberESI's report also featured a third Israeli company, Elisra, originally a US company and now a leading supplier to the Israel Defense Forces (IDF).
+Elisra, which is not involved in Iron Dome, appears to have been comprehensively infiltrated by the hackers, who stole data from folders named "Military Spacs" and "UAV" and infiltrated the email accounts belonging to the chief executive and several senior managers.
+The attackers also stole passwords and sign-in details, allowing them to roam around the networks undetected.
+Elisra did not respond to a BBC request for comment.
+In January 2014, another security company reported that 15 Israeli defence computers had been compromised via a malicious email attachment.

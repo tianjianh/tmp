@@ -1,0 +1,30 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160310190348/http://www.bbc.co.uk/news/technology-21058591
+
+[SN]TITLE[SN]
+'Nightclub bouncer' phishing scam found by researchers
+
+[SN]FIRST-SENTENCE[SN]
+Cyber-criminals have invented a cunning new method of targeting victims by developing a system that behaves like a bouncer at an exclusive nightclub.
+
+[SN]RESTBODY[SN]
+Security firm RSA revealed how attackers assigned targets with a unique ID, meaning the scam could be aimed at specific people.
+If a person's ID was not on the list, their computer would not be affected.
+RSA said the advanced threat posed a new "detection challenge" to the security industry.
+In a blog post, RSA cybercrime specialist Limor Kessem wrote: "As we adapt and improve our detection systems, we are reminded that in the never-ending cat-and-mouse game, only the nimble will survive."
+The so-called Bouncer Phishing Kit targets preset lists of email addresses. For each target, a unique ID is automatically generated, creating a unique web address for the user to click on.
+If someone has an ID that does not match the list of intended targets, they will simply be presented with a 404 Error page, and will be unharmed.
+Phishing is a tactic used by cybercriminals to trick users into sharing personal data.
+Typically, this is by pretending to be a legitimate website - such as as popular social network, or online banking. Assuming they are on the real site, users will enter their username and password, only for them then to be stolen.
+Other phishing attacks can make use of emails designed to look like they come from a trustworthy source.
+Internet users can take several common-sense steps to prevent being caught out, such as double-checking web addresses look legitimate, rather than a misspelling such as Facebok.com.
+Using the latest version of your internet browser, as well as up-to-date security software, will give you extra help.
+The UK Payment Council has set up a website with advice on how to stay protected from phishing scams.
+If, however, a person is one of the unfortunate ones, the same page will instead spring into life as an "attack page" ready to steal user credentials.
+Using this method means attackers can harvest data from certain groups of users, rather than having to sift through large amounts of data.
+For example, the Bouncer Phishing Kit could be used to gather personal details on people in one particular country.
+"It holds this [bouncer] moniker because much like many high-profile night-time hotspots - if your name is not on the list, you're staying out," Mr Kessem said.
+"Traditional phishers like to cast as wide of a net as possible.
+"But with this tactic the phisher is laser-focusing the campaign in an effort to collect only the most pertinent credentials for his purposes.
+"Keeping out uninvited guests also means avoiding security companies and prompt take-downs of such attacks."
+Phishing is a growing problem for internet users. According to RSA's data, attacks of this type were up 59% in 2012 compared with the previous year, and cost the global economy $1.5bn (Â£940m).

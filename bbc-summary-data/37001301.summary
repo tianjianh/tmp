@@ -1,0 +1,27 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160807043954/http://www.bbc.co.uk/news/technology-37001301
+
+[SN]TITLE[SN]
+Security of seismic sensor grid probed
+
+[SN]FIRST-SENTENCE[SN]
+Thousands of seismic sensors monitoring geological activity are vulnerable to cyber attack, suggests research.
+
+[SN]RESTBODY[SN]
+The poor security controls around the way the sensors transmit data were detailed in a presentation at the Def Con hacker convention.
+Researchers found ways to fool and overload sensors so monitoring systems would get wildly inaccurate readings.
+The findings have been reported to the US computer emergency organisation that oversees national infrastructure.
+"We have not seen any research previously in this field," said Bertin Bonilla, a security expert based in Costa Rica who, with colleague James Jara, carried out the work.
+Mr Bonilla said the network of sensors came to light during a different project that tried to find and map smart devices connected to the net to create a search engine for the Internet of Things.
+The devices stood out because of the distinctive fingerprint of data they surrendered to scanning software and because of their location, said Mr Bonilla.
+"These devices are located in extreme environments like the middle of the ocean and around active volcanoes," he said.
+Closer scrutiny revealed that it was easy to connect to the sensors, each of which costs $30,000 (Â£23,000), and see the data they were gathering and transmitting.
+Tracing links to central servers that collate data revealed a series of flaws, including common default passwords, that could be exploited by attackers to take control of the network, said Mr Bonilla.
+"We got a root shell," said Mr Bonilla.
+"That's the highest level of privilege on the system so we could do anything we wanted. It was completely compromised."
+Mr Bonilla said the risks associated with the network and sensors were low but the easy access might be of interest to particular types of attackers.
+"These devices measure natural disasters," he said.
+"Abusing them could lead to financial sabotage for a specific company or country."
+Information about the series of flaws has been reported to the US Computer Emergency Readiness Team (US Cert) which co-ordinates work to harden national infrastructure systems.
+US Cert has passed information about the security flaws to Canadian firm Nanometrics which makes the sensors and data-gathering equipment that makes up a lot of the seismic monitoring network.
+Nanometrics has not responded to a request for comment from the BBC.

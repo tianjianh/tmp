@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160921220054/http://www.bbc.co.uk/news/technology-28776282
+
+[SN]TITLE[SN]
+Michael J Fox Foundation tests sensors to track Parkinson's
+
+[SN]FIRST-SENTENCE[SN]
+The Michael J Fox Foundation is attempting to use wearable sensors to monitor the symptoms of Parkinson's disease.
+
+[SN]RESTBODY[SN]
+The charity has teamed up with Intel to equip patients with smartwatches which record continous data about them.
+The organisations carried out tests earlier in the year and now plan to release an app to help doctors study the effects of different medications.
+The effort has been given a cautious welcome by other researchers.
+The actor Michael J Fox created his New York-based foundation in 2000 after being diagnosed with the degenerative neurological disorder.
+It is believed that Parkinson's is brought on by a mixture of genetic and environmental factors, but the exact cause is still unknown.
+Its symptoms can include tremors and other uncontrollable movements, impaired balance and co-ordination, stiffness, slowness of movement, loss of smell, a decline in intellectual functioning, and speech and swallowing problems.
+It is estimated to affect about five million people worldwide and usually, but not always, occurs in old age.
+The link-up with Intel came about through the tech firm's former chief executive Andy Grove, who serves as a senior advisor to the foundation and has been diagnosed with Parkinson's himself.
+"This opportunity really will allow us the chance to uncover novel breakthroughs in Parkinson's disease by truly understanding how people are living with the disease today, how are they responding to treatments, what are their unmet needs," said Todd Sherer, chief executive of the foundation.
+The wearables study is intended to provide researchers with more accurate data than can be obtained via traditional, subjective methods.
+A preliminary test was funded by the two organisations earlier this year that equipped 16 Parkinson's patients and nine control volunteers with the devices for four days.
+The watches allowed more than 300 data points to be recorded every second, translating to one gigabyte of data per patient a day. The information was then uploaded to Intel's system by a smartphone carried by those involved.
+Over the period the participants kept paper-and-pen diaries and attended two clinical visits where they engaged in tests designed for the disease.
+Intel data scientists are still processing the findings.
+In addition to checking that the wearable tech's records correlate with those taken by the parties involved, they aim to develop algorithms that will allow body movement symptoms and sleep patterns to be automatically measured and made available for review in real time.
+The next phase of the study involves releasing an app that allows patients to record how they are feeling and to report their medication intake, to help scientists measure the efficacy of the drugs and inform medics when they are deciding prescriptions.
+This stage of the trial will be carried out in Boston, New York and Israel.
+"We're looking for the accelerometer data," Ronald Kasabian, general manager of big data solutions at Intel, told the BBC.
+"We want to be able to understand gait, fluidity of movement, tremors.
+"The researchers are dying for the insight. The ability to see what is happening to the patient on a minute-by-minute, 24 hours a day, 365 days a year basis - the tremors, the sleep habits - to see that in real time will be one of the most eye-opening opportunities."
+Intel said it would encrypt and anonymise the data to safeguard patients' privacy.
+It added that the intention was to eventually open up the platform to other research centres and  wearable devices.
+Parkinson's UK welcomed the development, but cautioned that it was too soon to know how useful the results would be.
+"The potential of using new technology to aid clinical decision making and help people with Parkinson's to get the right treatment is exciting," Suma Surendranath, professional engagement manger at the charity, told the BBC.
+"However, it would be crucial that any device should demonstrate its effectiveness in robust clinical trials before becoming more widely available.
+"New technology that has been proven to accurately represent the complexity of symptoms of people with Parkinson's could be a very useful addition to the tools currently available to professionals."
+The Michael J Fox Foundation acknowledged that the study was still at an early stage, but it said it still believed a sensor-driven platform could be delivered within "years and not decades" to allow doctors to better tailor treatments to each patient.
+"What happens is that you have 'on-off' periods as a patient," explained Sohini Chowdhury, senior vice president of research partnerships at MJFF.
+"When you're 'on', your medication is working, you're able to move, you're able to do the tasks you want. When you are 'off' you are basically frozen, you can't do anything.
+"The question treating physicians tackle with is: 'Are we giving you the optimal dose to be able to get you the right amount of on-off time during the day?"
+Several other major tech firms have also announced plans to become more involved with health tracking tech.
+In May, Samsung unveiled Simband, a prototype wristband that can be fitted with third-party sensors to gather a range of data about the wearer's body that would then be shared with a platform called Sami (Samsung Architecture Multimedia Interactions).
+Then in June, Apple unveiled HealthKit - an app for its forthcoming iOS 8 operating system that is designed to gather data from a wide range of third-party sensors, which can contact health professionals if it notices irregularities.
+Later the same month, Google announced Google Fit, the Android-maker's own software to amass health-related data from other services and devices.

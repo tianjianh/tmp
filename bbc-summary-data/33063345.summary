@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170321021528/http://www.bbc.co.uk/news/technology-33063345
+
+[SN]TITLE[SN]
+Hospital drug pumps are hackable, experts warn
+
+[SN]FIRST-SENTENCE[SN]
+Hospital drug pumps produced by a leading medical supplier could be hacked because of security weaknesses, a cybersecurity expert has said.
+
+[SN]RESTBODY[SN]
+Billy Rios said Hospira had still not fixed weaknesses he identified in 2014.
+There is no suggestion that a pump has ever been maliciously hacked.
+Hospira told the BBC that patient safety was its "priority" and that it was working with regulators to fix the issues.
+"Exploiting cybersecurity vulnerabilities requires penetrating several layers of network security enforced by the hospital information system, including secure firewalls," the firm told the BBC.
+"As we have been doing with DHS (Department of Homeland Security) and FDA (Food and Drug Administration) for some time, we will continue to investigate any feedback we receive on our devices. We will also continue to communicate with customers regarding cybersecurity, and software and infusion pump updates and/or enhancements."
+The firm added that it had submitted a new version of its LifeCare Infusion System for approval to the FDA.
+The US Department of Homeland Security said Hospira had "validated" vulnerabilities in this product and the new version would "mitigate" those security weaknesses.
+In a blog post, Mr Rios said he had found that drug library updates - the upper and lower limits for the amounts of medication a patient can safely receive - could be altered remotely.
+Mr Rios said he had tested five other pumps sold by Hospira and found similar flaws.
+"What I found was very interesting, many of Hospira's infusion pumps utilise identical software on their infusion pumps' communications module, making them vulnerable to the exact same security issues associated with the PCA3 [the model originally identified with weaknesses]," he wrote.
+He found that they used outdated software and had identical encryption certificates, private keys and service credentials, he added.
+Another security researcher, Jeremy Richards from Oxtech Security, described the PCA3 as "the least secure IP-enabled device I've ever touched in my life".
+"I would personally be very concerned if this devices was being attached to me.
+"It is not only susceptible to attack, it is so poorly programmed it can be rendered a useless brick with a single typo," he wrote in a blog post.
+In 2007 there were more than 400,000 Hospira pumps in use in hospitals around the world, according to the company's website.
+Hospira was acquired by pharmaceutical giant Pfizer in February 2015 in a deal worth $17bn (Â£11bn).

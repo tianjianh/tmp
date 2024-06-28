@@ -1,0 +1,46 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170107104009/http://www.bbc.co.uk:80/news/technology-36923794
+
+[SN]TITLE[SN]
+Can machines keep us safe from cyber-attack?
+
+[SN]FIRST-SENTENCE[SN]
+After robot cars and robot rescue workers, US research agency Darpa is turning its attention to robot hackers.
+
+[SN]RESTBODY[SN]
+Best known for its part in bringing the internet into being, the Defence Advanced Research Projects Agency has more recently brought engineers together to tackle what it considers to be "grand challenges".
+These competitions try to accelerate research into issues it believes deserve greater attention - they gave rise to serious work on autonomous vehicles and saw the first stumbling steps towards robots that could help in disaster zones.
+Next is a Cyber Grand Challenge that aims to develop software smart enough to spot and seal vulnerabilities in other programs before malicious hackers even know they exist.
+"Currently, the process of creating a fix for a vulnerability is all people, and it's a process that's reactive and slow," said Mike Walker, head of the Cyber Grand Challenge at Darpa.
+This counted as a grand challenge, he said, because of the sheer complexity of modern software and the fundamental difficulty one computer had in understanding what another was doing - a problem first explored by computer pioneer Alan Turing.
+He said the need for quick fixes would become more pressing as the world became populated by billions of small, smart net-connected devices - the so-called internet of things.
+"The idea is that these devices will be used in such quantities that without automation we just will not be able to field any effective network defence," he said.
+The cyber challenge climaxes this week at the Def Con hacker convention, where seven teams will compete to see whose software is the best hacker.
+But automated, smart digital defences are not limited to Darpa's cyber arena.
+Software clever enough to spot a virus without human aid is already being widely used.
+A lot of what anti-virus software did had to be automatic, said Darren Thomson, chief technology officer at Symantec, because of the sheer number of malicious programs the bad guys had created.
+There are now thought to be more than 500 million worms, Trojans and other viruses in circulation. Millions more appear every day.
+That automation helped, said Mr Thomson, because traditional anti-virus software was really bad at handling any malware it had not seen before.
+"Only about 30-40% of all the things we protect people against are caught by these programs," he said.
+For the rest, said Mr Thomson, security companies relied on increasingly sophisticated software that could generalise from the malware it did know to spot the malicious code it did not.
+Added to this are behavioural systems that keep an eye on programs as they execute and sound the alarm if they do something unexpected.
+Some defence systems put programs they are suspicious about in a virtual container and then use different techniques to try to make the code "detonate" and reveal its malicious intent.
+"We simulate keystrokes and make it look like it is interacting with users to make the malware believe it's really being used," Mr Thomson said.
+The rise of big data has also helped spur a step towards security software that can help improve the chances of catching the 60-70% of malicious threats that traditional anti-virus can miss.
+"Machine learning helps you look at the core DNA of the malware families rather than the individual cases," said Tomer Weingarten, founder and chief executive of security company SentinelOne.
+The approach had emerged from the data science world, said Mr Weingarten, and was proving useful because of the massive amount of data companies quickly gathered when they started to monitor PCs for malicious behaviour.
+"There is a lot of data, and a lot of it is repetitive," he said.
+"Those are the two things you need to build a very robust learning algorithm that you can teach what's bad and what's good.
+"If you want to do something malicious, you have to act, and that is something that will be forever anomalous to the normal patterns."
+Automating this anomaly detection is essential because it would be impossible for a human, or even a lot of humans, to do the same in a reasonable amount of time.
+And it is not just PCs that are better protected thanks to machine learning.
+When it comes to large companies and governments, cyber-thieves are keen to lurk on their internal networks while seeking out the really juicy stuff such as customer databases, designs for new products or details of contract negotiations and bids.
+It was another situation in which the machines outstripped their human masters, said Justin Fier, director of cyber-intelligence at security company Dark Trace.
+"You can take a large dataset and have the machine learn and then use advanced mathematics to pull out the needle in the haystack that does not belong," he said.
+"Sometimes, it will get the subtle anomaly that you might not catch with the human eye."
+However, said Mr Fier, it would be wrong to think of machine learning as true AI.
+It was a step towards that kind of approach, he said, but regularly needed human intelligence to make the final decision about some of the events the smart software picked out.
+And, he said, the usefulness of machine learning might not lie entirely with those who used it for defence.
+"We had one incident in which we caught malware that was just watching users and logging their habits," he said.
+"We have to assume that it was trying to determine the most suitable way to exfiltrate data without triggering alarms.
+"Where the malware starts to use machine learning is when it's going to get really interesting."

@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170715020011/http://www.bbc.co.uk/news/technology-40590080
+
+[SN]TITLE[SN]
+Google announces London cloud computing data centre
+
+[SN]FIRST-SENTENCE[SN]
+Google has revealed it has built a London data centre for the cloud computing services it rents to third parties.
+
+[SN]RESTBODY[SN]
+The facility is its second in Europe, after Brussels, and promises to provide faster access times to nearby clients.
+Google is currently the third most capable cloud computing service provider, according to a recent study.
+But the report, by Gartner, suggested Amazon and Microsoft had a clear lead.
+The technology consultancy added that in terms of sales to the "cloud infrastructure as a service" market, Google's share was also a "distant third".
+Until now, the search giant has focused on opening data centres for its cloud computing platform in the US and Asia, where it has bases in Singapore, Taiwan and Tokyo.
+But in announcing the London centre, it also disclosed plans to open facilities in Finland, the Netherlands and Frankfurt.
+"GCP [Google Cloud Platform] customers throughout the British Isles and Western Europe will see significant reductions in latency when they run their workloads in the London region," said product manager Dave Stiver, referring to processing delays caused by the distances data has to travel.
+"In cities like London, Dublin, Edinburgh and Amsterdam, our performance testing shows 40% to 82% reductions in round-trip latency when serving customers from London compared with the Belgium region."
+A spokeswoman for the company added that the decision to build a London centre had been taken before the Brexit vote and was therefore unrelated to speculation that the UK's data privacy laws may diverge from the EU's in the future.
+Google's platform allows clients to offload data processing tasks and information storage, including support for apps they may offer to the public and analysing feedback gathered from internet-connected devices.
+By charging customers for the amount of compute time they use rather than a flat rate, Google seeks to provide IT departments with a cheaper alternative to maintaining their own data centres.
+The company's existing customers include the Telegraph newspaper, Coca-Cola and the online education service Khan Academy.
+At present, GCP offers fewer features than Amazon Web Services or Microsoft Azure, but it is catching up, according to Gartner.
+"Google uses deep discounts and exceptionally flexible contracts to try to win projects from customers that are currently spending significant sums of money with cloud competitors," its June report said.
+And that had led some companies to use Google to supplement their use of Amazon or Microsoft's rival platforms.
+Gartner added: "GCP is increasingly chosen as a strategic alternative to AWS by customers whose businesses compete with Amazon."
+Last month it emerged that Wal-Mart had urged its IT vendors not to use Amazon's service because it did not want its "most sensitive data... sitting on a competitor's platform".
+Google does not disclose revenue for its cloud platform, but analysts estimate that it generated about $1bn (Â£776m) of sales last year and forecast it will double that amount in 2018.
+By contrast, market leader AWS generated $12.2bn of sales in the past financial year, and is more profitable than Amazon's better-known retail business.
+Microsoft will update investors on Azure's performance when it posts its full year's results next week.
+On Monday, it announced a new hybrid service that would allow customers to run Azure's technologies on their own servers.
+Azure Stack is being targeted at operations that have slow or non-existent internet connections - such as oil rigs and ships - as well as countries where data must be stored locally.
+In a related development, Apple has announced it is setting up its first data centre in China.
+The facility is being developed in conjunction with a local company - Guizhou-Cloud Big Data Industry - and will be used to deliver its iCloud services to the public.
+"This data centre will allow us to improve the speed and reliability of our products and services while also complying with newly passed regulations," Apple said in a statement.
+"No backdoors will be created into any of our systems."
+China introduced a law in June that requires overseas-based companies to both store data about its citizens locally and to give Chinese companies control over the operation of the computer servers involved.
+Apple has said it will retain the relevant encryption keys and has indicated the move will not compromise users' privacy.
+But some experts have suggested it could put the company under more pressure to acquiesce to government demands in the case of future disputes.

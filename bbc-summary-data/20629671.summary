@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160824020155/http://www.bbc.co.uk/news/science-environment-20629671
+
+[SN]TITLE[SN]
+The hum that helps to fight crime
+
+[SN]FIRST-SENTENCE[SN]
+A rape victim has come forward to the police. She says she has confronted her attacker and has secretly recorded him admitting his guilt.
+
+[SN]RESTBODY[SN]
+A suspected terrorist has been taped planning a deadly attack, and the police want to use this evidence in court.  Or someone has been captured on CCTV threatening an assault.
+Increasingly, recordings like these are playing a role in criminal investigations.
+But how can the police be sure that the audio evidence is genuine, that it has not been tampered with or cleverly edited?
+Forensic scientists have come up with the answer: they can authenticate these recordings with the help of a hum.
+For the last seven years, at the Metropolitan Police forensic lab in south London, audio specialists have been continuously recording the sound of mains electricity.
+It is an all pervasive hum that we normally cannot hear. But boost it a little, and a metallic and not very pleasant buzz fills the air.
+Rebecca Morelle looks at forensic audio and phonetics on Frontiers on Wednesday 12 December 2100 GMT on Radio 4
+Or listen later on iPlayer
+"The power is sent out over the national grid to factories, shops and of course our homes. Normally this frequency, known as the mains frequency, is about 50Hz," explains Dr Alan Cooper, a senior digital forensic practitioner at the Met Police.
+Any digital recording made anywhere near an electrical power source, be it plug socket, light or pylon, will pick up this noise and it will be embedded throughout the audio.
+This buzz is an annoyance for sound engineers trying to make the highest quality recordings. But for forensic experts, it has turned out to be an invaluable tool in the fight against crime.
+While the frequency of the electricity supplied by the national grid is about 50Hz, if you look at it over time, you can see minute fluctuations in the order of a few thousandths of a hertz.
+"It's because the supply and demand is unpredictable," says Dr Cooper.
+If millions of people suddenly switch on their kettle after watching their favourite soap, the demand for electricity may outstrip the supply, and the frequency will go down.
+But when electricity generation is greater than demand, the frequency will rise.
+"The grid operators will try and compensate for this, but you can sometimes see some very significant fluctuations," explains Dr Cooper.
+A decade ago, a Romanian audio specialist Dr Catalan Grigoras, now director of the National Center for Media Forensics at the University of Colorado, Denver, made a discovery: that the pattern of these random changes in frequency is unique over time.
+By itself, this might be an interesting electrical curiosity. But when you take into account that most digital recordings are also embedded with this hum, it becomes a game changer.
+Comparing the unique pattern of the frequencies on an audio recording with a database that has been logging these changes for 24 hours a day, 365 days a year provides a digital watermark: a date and time stamp on the recording.
+Philip Harrison, from JP French Associates, another forensic audio laboratory that has been logging the hum for several years, says: "Even if [the hum] is picked up at a very low level that you cannot hear, we can extract this information."
+It is a technique known as Electric Network Frequency (ENF) analysis, and it is helping forensic scientists to separate genuine, unedited recordings from those that have been tampered with.
+Dr Harrison said: "We can extract [the hum] and compare it with the database - if it is a continuous recording, it will all match up nicely.
+"If we've got some breaks in the recording, if it's been stopped and started, the profiles won't match or there will be a section missing. Or if it has come from two different recordings looking as if it is one, we'll have two different profiles within that one recording."
+In the UK, because one national grid supplies the country with electricity, the fluctuations in frequency are the same the country over. So it does not matter if the recording has been made in Aberdeen or Southampton, the comparison will work.
+Elsewhere around the world, it is slightly more complicated because some countries can have two or more grids. But in these cases, all it takes is for the hum to be continuously logged on each power system and for a recording to be compared against each of them.
+Dr Harrison said: "This has really been a key tool in the box to help us with this kind of work."
+Recently, Dr Cooper was called as a witness on ENF in court for the first time.
+A gang were accused of selling weapons, and undercover police had recorded an arms deal. But the defence claimed that the police had tampered with the recording and had edited together several separate recordings together to make their case.
+Dr Cooper said: "The defence made the allegations and we were asked if we could authenticate the recordings.
+"We carried out various forms of analysis, including the mains hum frequency analysis and we found some good quality signals, and that the alleged date and times of the recordings matched with the extracted data from the recordings themselves."
+The analysis revealed that the recordings had not been tampered with - and this proved crucial to the trial. The trio - Hume Bent, Carlos Moncrieffe and Christopher McKenzie - were found guilty and jailed for a total of 33 years for being involved in the supply of firearms.
+The Met Police were the first to automate the system, and Dr Cooper says the technique is now starting to be used widely by this force, as well as others around the world.  But even with advances like this, he admits there are always new challenges ahead.
+He says: "Digital forensics is constantly in flux, and the technology is changing every day. Every time a new format comes out, we need to be able to extract the data from those recordings and find different techniques to find out more about them"
+Frontiers: Forensic Phonetics is broadcast on BBC Radio 4 on Wednesday 12 December at 2100 GMT

@@ -1,0 +1,38 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170331115747/http://www.bbc.co.uk/news/technology-28582479
+
+[SN]TITLE[SN]
+Why your washing machine is a security risk
+
+[SN]FIRST-SENTENCE[SN]
+"Hello! Do you need any help, sir?"
+
+[SN]RESTBODY[SN]
+"No thanks, I'm just browsing."
+This is a lie. I am not just browsing. I am trying to make a smart washing machine on display in this electronics store cough up its deepest secrets.
+On this model, that means I need to simultaneously press a couple of buttons on the control panel to jog it into a mode that shows how it connects to wi-fi. But I need to hold the buttons down for five seconds or so and every time I do that a hovering salesman or woman comes over and I have to abandon the attempt.
+Maybe there is a better way to plumb the secrets of smart devices. I'm curious about the security on these gadgets as I've just bought a washing machine that can communicate its well-being via an app.
+More and more domestic gadgets that, since their creation, have been as isolationist as North Korea are now becoming decidedly verbose. And they do most of their chatting via apps. With home routers regularly getting enrolled into scams, I'm wondering if smart washing machines, ovens, tumble dryers and fridges will be next.
+"Get hold of the .apk," said Mark Schloesser, a senior researcher at security company Rapid7 when I asked him about ways to investigate the security, or otherwise, of these gadgets.
+By .apk he means the Android file for the app. The relatively open nature of Google's Android means it is possible to download an app and decompile it to reveal its innards. This I do. And soon after, I realise that all my years of tinkering with computers and software have not accidentally turned me into a competent reverse engineer.
+I can see how the code breaks down into functions but the opaque nature of the language in which it is written, Java, defeated my attempts to understand which bit did what.
+Mr Schloesser reassured me that this kind of static analysis was difficult for everyone.
+"Java has a big standard library and a big amount of tools to choose from," he said. "In addition, on Android you have the whole Google SDK [software developers' kit] at your disposal."
+Also, he said, there was no set way that developers lay out the code inside an app.
+"It will be pretty much arbitrary. The structure is not standard," he said.
+Given that, I let another professional, Stephen Tomkinson, of security company NCC Group, also have a look. From what he saw, the app in question is a bit of a mess. It has code in it to serve both washing machines and air conditioners. It has hardcoded passwords and communicated with a servicing and maintenance system in a way that might be insecure.
+The best way to see if the app, and by implication, the washing machine can be turned against its owners is to spy on the traffic that flows between the two and which they send out over the net to the service centre or head office.
+Daniel O'Connor did just that with his Samsung air conditioner, which can be controlled over wi-fi via a smartphone or laptop. He started to look at the traffic because soon after he installed it he lost the ability to control it via anything but a smartphone.
+"It was flaky and it was not clear why," he told the BBC. "That drew my attention, and led me to start figuring out how the heck this was working."
+By looking at the data passing over his home wi-fi network from the device he found that it was regularly sending updates about itself to a service website run by Samsung. He noticed it was sending back unique identifiers for his device and seemed to communicate whether he wanted it to or not.
+Mr O'Connor figured out the problem that made his air conditioner only talk to a smartphone, and it kicked off an effort to develop more ways to communicate with these smart devices.
+He is not alone. There are a growing number of projects run by amateurs and start-ups keen to make their software act as a central co-ordinator for devices that will be the "things" in the future Internet of Things. Many of the early IoT devices only talk to products from the same manufacturer. Without a central controller, the fear is that our homes will be populated by several internets of different things, making them a nightmare to control.
+Even though I do not have a smart washing machine I found a man that did - Dan Cuthbert, an analyst at security firm company. Even better, he has been looking at the apps used to control it and other gadgets, such as a tumble dryer, to see how easy they are to subvert.
+His investigations suggests that the app-based control system is something of an afterthought and few companies seem to have spent the money needed to ensure the apps are secure.
+He said analysis shows that code inside some of the apps has been borrowed from other places and, worryingly, they use some technologies, such as UPnP, known to have exploitable vulnerabilities.
+Right now though, he admits, the danger posed by these devices is largely theoretical.
+However, he said, that might soon change.
+"If you look at two or five years down the line there's a big push to have lots of internet-enabled devices," he said. "You start with the utility devices such as washing machines and fridges. Then it moves to other gadgets - and once you start doing that, there's the issue of data leakage."
+By having all those devices merrily connecting and swapping data it might get much easier for cyberthieves to grab information they can use to get at much more saleable data. Attackers could use an insecure fridge as a pivot to get at your laptop or tablet where login IDs, credit card numbers and other identifiers are located.
+A home full of smart devices will be gathering data on its occupants and that information is going to become very useful and valuable, he said. Already social media sites profit from the data people surrender as they post updates. Actual data about lifestyles was likely to be a juicy target for all kinds of firms, he said.
+"As a consumer I want to know what these devices are doing," he said. "I think I have a right."

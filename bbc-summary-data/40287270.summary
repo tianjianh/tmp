@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170615203654/http://www.bbc.co.uk/news/technology-40287270
+
+[SN]TITLE[SN]
+Microsoft AI plays a perfect game of Ms Pac-Man
+
+[SN]FIRST-SENTENCE[SN]
+One of Microsoft's artificial intelligence systems has conquered the 1980s video game Ms. Pac-Man.
+
+[SN]RESTBODY[SN]
+The team, from Microsoft-owned Canadian AI firm Maluuba, achieved the perfect score of 999,990.
+The software giant said that the method deployed in the game could also be used for teaching AI agents to perform complex tasks to help humans.
+However, Prof Nello Cristianini, a computer scientist from University of Bristol, sounded a note of caution.
+"It is exciting that so much progress is happening today in AI, however we should remember that historically AI has not always been able to replicate results in games when transferring methods to real world problems. This should be kept in mind whether we talk about Jeopardy, Chess, Go or Ms. Pac-Man."
+Google's DeepMind AI, which has beaten the complex game of Go, is widely seen as leading the pack on AI research.
+Doina Precup, an associate professor of computer science at McGill University in Montreal, said Microsoft's win was a significant achievement.
+"Lots of firms experimenting with AI test their system using video games, but Ms. Pac-Man has been among the most difficult to crack," she said.
+In a blogpost, Microsoft explained that the team used an AI technique known as reinforcement learning to master the Atari 2600 version of the game. To achieve the high score, the team divided the problem into small pieces which were distributed among AI agents.
+The system used more than 150 agents, each of which worked in parallel with other agents to master the game. Some were rewarded for successfully finding one specific pellet, while others were tasked with staying out of the way of ghosts.
+Then the researchers created a "senior manager" agent which took suggestions from all the others and used them to decide where to move Ms. Pac-Man.
+Its decision-making was complex so, for example, if 100 agents wanted to go right because that was the best path to their pellet, but three wanted to go left because there was a deadly ghost on the right, it would give more weight to the ones who had noticed the ghost.
+Harm Van Seijen, a research manager with Maluuba, said the best results were achieved when each agent acted very egotistically while the top agent took into account the best move for everyone.
+"There's this nice interplay between how they have to, on the one hand, co-operate based on the preferences of all the agents, but at the same time each agent cares only about one particular problem," he said.
+He has published a paper about the technique - known as Hybrid Reward Architecture - which has yet to be peer-reviewed.
+Some might question why a cutting-edge technology such as AI is training itself on games designed in the 1980s.
+Rahul Mehrotra, a program manager at Maluuba, explained that it is because such games are very complex and said: "A lot of companies working on AI use games to build intelligent algorithms because there's a lot of human-like intelligence capabilities that you need to beat the games."
+Steve Golson, one of the co-creators of the arcade version of the game, said in the blog that Ms. Pac-Man had been designed to be simple to play but nearly impossible to conquer, in order for people to put more money in the machines.
+"You want [them to think] 'Oh, oh, I almost got it! I'm going to try again'. Ka-ching! Another quarter."
+The reinforcement learning technique used by the team is increasingly being favoured by AI researchers. The other main method of teaching AI is via supervised learning, in which systems get better at doing something as they are fed more examples of good behaviour.
+With reinforcement learning, an agent gets both positive and negative responses and learns through trial and error to maximise the positive ones.
+Increasingly, reinforcement learning is being seen as a way to create AI that can make more autonomous decisions and perform more complex tasks.
+Microsoft has had past problems when it comes to AI.
+A chatbot dubbed Tay that was released on Twitter in 2016 was hastily removed after it was taught to swear and make racist comments.

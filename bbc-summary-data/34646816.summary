@@ -1,0 +1,37 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160730042713/http://www.bbc.co.uk//news/technology-34646816
+
+[SN]TITLE[SN]
+America’s crypto battles
+
+[SN]FIRST-SENTENCE[SN]
+John Miller reckons he can get into pretty much any safe. A court order to the owner is one option, another is a team he has with blow torches.
+
+[SN]RESTBODY[SN]
+The reason John Miller has such a team is because he is Deputy Commissioner of the New York Police Department (NYPD) for intelligence and counter-terrorism.
+Getting into safety deposit boxes and bank vaults has not been a challenge. But he says NYPD is now faced with a new problem.
+"We are now dealing with electronic compartments that we cannot get in[to], no matter the urgency," he told the BBC. "It is something we are going to have to deal with not as a department, but as a society."
+The phrase you hear from police and spies is "going dark" - concern that the spread of encryption, which encodes data - means there are places law enforcement and the state cannot get into.
+But privacy advocates and companies building encryption systems argue that the security those systems provide benefits society - and so far they seem to have the upper hand.
+The problem for law enforcement is not being able to access communications even if a warrant is produced, Mr Miller argued in an interview at London First's Global Resilience Forum.
+"There was a recent investigation into an ongoing terrorist plot in New York City where we came to a specific company with a court order from a judge based on probable cause to believe criminal activity that terrorism was occurring and said, 'Turn over the records of the conversations of this particular user,' and they said no.
+"We explained it was a court order, they said that they couldn't do it, 'they're encrypted, we can't unencrypt it.'"
+In the sights of John Miller and others at the FBI are the tech companies who design systems which they cannot unlock.
+"Is that where we want to be when a violent Bronx street gang, which is behind 13 separate homicides is using an app that is specifically designed not to be retrieved in terms of communications?" he asks.
+Those working for tech companies accept there may be a cost to law enforcement in reduced access.
+But they argue that evidence has not been produced to show that there are more than a small number of cases. And they say the vast majority of users will benefit from stronger encryption. They believe it is vital to protect privacy and prevent other types of crime where data is stolen, such as identity theft.
+As payments are increasingly made over communications platforms, they also argue it is vital to confidence in electronic commerce.
+The tech companies stress the need to see the problem in a global and not just national perspective. If the US (or UK) demands that keys are available for them on demand, they argue that other countries with worse human rights records will do the same.
+The rising tide of cyber crime - whether at the individual level of fraud and identity theft, or at the level of corporations or even government having large amounts of data stolen - has increased the pressure to use forms of encryption. And at the highest levels of the US administration the language is much more cautious than that of law enforcement.
+"This is one of the toughest problems that I have had to work on in my tenure. If there were an easy solution then we would have figured it out a long time ago," Michael Daniel, White House cyber co-ordinator told the BBC.
+"We are very much focused on trying to figure out a way to co-operate with our companies to ensure that we can have robust and strong encryption where we need it but also to ensure that our law enforcement agencies can lawfully obtain access to information pursuant to a court order."
+Is there a technical way of squaring the circle - of offering strong end-to-end encryption to protect privacy whilst retaining a means for law enforcement to gain access when authorised?
+There are differing views.
+Richard Ledgett, deputy director of the National Security Agency (NSA) in the US, told the BBC that claims that creating such a system is impossible are "a policy statement masquerading itself as a technical argument" and that if companies really wanted to solve this problem they could.
+"We have examples - mathematically provable examples - where you can show that in fact you can make it so nobody else could see inside this except an authorised person."
+Companies argue it is not their job to build systems with weaknesses or back doors. And some independent cryptographers remain unconvinced.
+Matthew Green, assistant professor at the Johns Hopkins Information Security Institute, is sceptical of the idea that either companies or governments are capable of making secure back doors that bad actors could not exploit.
+"If you threw this open to every company in Silicon Valley, 20% would do ok, 80% would make a mistake," he says.
+Meanwhile if the government is in control of back doors, Green argues, there are also problems. "You could put a huge lock on that back door and then have a key on that lock that only the government has. And then you have to pray that the government knows where to keep that key and that it isn't going to get stolen."
+The experiences of government securing data - for instance, the recent theft of millions of personnel records - leaves Green sceptical that government could keep its keys secure.
+The signs are that for all the protests of law enforcement, encryption is going to continue to spread with little sign in either the UK or the US that there is an appetite for policy-makers to legislate to stop that.

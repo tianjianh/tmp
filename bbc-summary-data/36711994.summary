@@ -1,0 +1,52 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170528115005/http://www.bbc.com/news/technology-36711994
+
+[SN]TITLE[SN]
+The DIY diabetes kit that's keeping us alive
+
+[SN]FIRST-SENTENCE[SN]
+"I was sending a seven-year-old to school with a drug that could kill him," says Alistair Samuelson, whose son George, now nine, has type 1 diabetes.
+
+[SN]RESTBODY[SN]
+Frustrated with traditional monitoring and its risks, Mr Samuelson and George have since joined a growing group of T1 sufferers who are building their own solutions to manage their diabetes - even though they come with their own uncertainties.
+Traditional monitoring involves taking blood samples from the fingertips several times a day and administering precise injections of insulin to maintain blood sugar levels. However, over the course of an hour they can change dramatically and too much insulin can be fatal.
+It works for many - new British Prime Minister Theresa May has talked openly about living with type 1 diabetes since her diagnosis in 2012.
+"In basic management terms, it's the same for everybody," she told Diabetes UK in an interview.
+"You have to get into a routine where you are regularly doing the testing."
+But Mr Samuelson and George are among thousands who have chosen a different approach.
+They are using Nightscout, an open source platform developed and run by a global community of type 1 diabetics.
+Open source means it is freely available for anyone to use and modify - in this case at their own risk.
+It's a combination of a commercial product called a Continuing Glucose Monitor (CGM), which provides constant updates, a DIY transmitter and the freely available Nightscout programming code which enables the CGM data to be shared with a cloud data storage area - where it can then be distributed to other devices.
+So both father and son now receive constant updates on their phones (and George's smartwatch) and are able to assess George's needs minute by minute.
+It has given George the gift of freedom - he can now join his friends on sleepovers and enjoy his favourite sports.
+Mr Samuelson acknowledges that it is not without risk.
+"I am using open source software to do calibrations. Open source software is giving me final numbers and it is not an approved algorithm - it's not going to be exactly the same as the proprietary algorithms," he says.
+"But you have to make an informed decision... compared to all the other risks the benefits massively outweigh them."
+Why not use the commercial products offering this shared data?
+There are not many on the market - and they are expensive.
+Rachel from Guildford is using G5, a system by Dexcom, to monitor her son Joe, also nine, but at current rates it will cost the family thousands of pounds a year.
+Most of Dexcom's apps are also only compatible with Apple devices.
+The homegrown alternatives aren't completely free either - you still need to buy a CGM and there is the cost of new sensors, which must be changed regularly.
+Rachel says she was too nervous about the DIY nature of Nightscout - creating the transmitter for the data involves being handy with a soldering iron - but agrees that the benefits of the continuous data being accessible to them all have proved life-changing.
+"We went climbing in the Peak District soon after we got it," she said.
+"If we hadn't had the tech we would have completely scaled back on what we were planning to do that week. But we were able to use the Bluetooth, walking behind him and tracking him."
+Another sufferer called Stephen Black created X Drip, which can pull data from Dexcom devices and share it with cloud storage.
+He is not alone - search the hashtag #wearenotwaiting and you will find active voluntary groups of those living with the condition creating their own systems and making them available to all, frustrated with the slow pace of the market leaders.
+Their activities are not subject to official testing and regulation as they are not commercial medical products.
+"I'm a big proponent of the idea that patients are the experts of their own disease and know what the real problems are in managing the disease," said Dr Joyce Lee from the Night Scout Foundation, which is based in the US.
+"They've created tools they need for their own daily management.
+"What the tech has done is allowed healthcare to become participatory but the healthcare system has yet to become comfortable with that," she adds
+"I'm a big fan of the maker movement - it will never go away. People will continue to innovate and create new versions."
+One such "maker" is Tim Omer, who created his own Android app to work with X Drip. Mr Omer has an insulin pump and his app also offers suggestions as to how it should function to keep his levels steady.
+Like Alistair Samuelson, Tim Omer believes the risks associated with the DIY tech are matched by the risks of living with type 1 diabetes itself.
+"Diabetes is really risky. Right now we are given this [potentially]  lethal medication called insulin and told, 'oh just inject and see what happens'," he said.
+"So moving to a more logical system with a lot more information available is actually safer."
+He says using his own app has been massively liberating.
+"I can look at my watch right now and know i have 'x' amount of insulin inside me," he said.
+"Twenty-five minutes ago my watch vibrated to tell me to turn my pump off because my blood sugars were low.
+"I can go about my daily life knowing the app will notify me if i need to make a change."
+There are many more out there - like Open APS (Artificial Pancreas System), another open source community project in which 85 people are managing their type 1 diabetes with kit which includes a Raspberry Pi microcomputer.
+Those who choose to try it must build their own and it is also not approved by any regulatory bodies.
+The diabetes charity JDRF is cautiously positive about these tools, throwing its own support behind a new project called Tidepool, which is FDA compliant and does not suggest insulin calculations.
+"Such technology does seem to offer benefits to people with the condition - particularly parents of children with type 1 diabetes who get peace of mind by remotely checking their child's blood glucose levels via their smartphone," it said in a statement.
+"But it's important to add that many of these open source systems available are unregulated. They are not yet subject to the stringent testing and assessment required before they can be approved for use by people with type 1 diabetes."

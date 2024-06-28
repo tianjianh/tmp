@@ -1,0 +1,39 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112013022/http://www.bbc.co.uk/news/technology-30554444
+
+[SN]TITLE[SN]
+What is FBI evidence for North Korea hack attack?
+
+[SN]FIRST-SENTENCE[SN]
+The FBI's analysis has concluded North Korea is to blame for the attack on Sony Pictures - but how can it be sure?
+
+[SN]RESTBODY[SN]
+As well as Pyongyang having a motive for taking serious issue with The Interview, there's a couple of pieces of key evidence the US is now using to pin the blame.
+However, they're not without flaws.
+As security researcher Brian Honan put it to me earlier: "I still don't see anything that in a court would convict North Korea beyond reasonable doubt."
+So let's take a look.
+First, the FBI says its analysis spotted distinct similarities between the type of malware used in the Sony Pictures hack and code used in an attack on South Korea last year.
+Suspicious, yes, but well short of being a smoking gun. When any malware is discovered, it is shared around many experts for analysis - any attacker could simply reversion the code for their own use, like a cover version of a song.
+This has happened in the past - most notably with Stuxnet, a cyber-attack malware believed to have been developed by the US, which was later repurposed by (it is believed) the Russians.
+So we turn to another, better clue: IP addresses - known to be part of "North Korean infrastructure" - formed part of the malware too.
+This suggests the attack may have been controlled by people who have acted for North Korea in the past.
+But what the FBI is very careful not to say is whether it thinks the attack was controlled from within North Korea itself - although in a press conference President Barack Obama did say there was no indication of another nation state being part of the hacking.
+This is an important detail to pick apart.
+Experts think it's unlikely, if indeed it was North Korea, that the country could have acted alone. Unnamed US officials quoted by Reuters said the US was considering that people operating out of China, with its considerable cyber-attack capability, may have been involved.
+Security researcher and former journalist Brian Krebs has quoted his own sources as saying Japan may also be in the picture. A piece of research by computer maker HP released this year noted the presence of North Koreans operating in Japan.
+"Known as the Chongryon, [they] are critical to North Korea's cyber and intelligence programs, and help generate hard currency for the regime," Mr Krebs wrote in a blog post.
+Moving on into next year, the attack being attributed to a nation state rather than an independent hacking group is the one glimmer of good news for Sony.
+There had been serious and mounting rumblings from both former employees and security analysts saying Sony did not take corporate security seriously enough - but words like "unprecedented" will bolster Sony's defence that no amount of security would have prevented what happened.
+"We have to wait and see what evidence they present later on but often nation states are the easier to blame," said Marc Rogers, a security researcher for Cloudflare, who is sceptical about the extent of North Korea's involvement.
+"If it is a nation state people shrug their shoulders and say that they couldn't have stopped it. It lets a lot of people off the hook."
+When the lawsuits come - and at least one has already been filed - Sony's defence will almost certainly be that it did everything it reasonably could.
+Mr Rogers is one of several security experts to question the use of The Interview as the obvious motive for the hack. It was not until the media made the link, Mr Rogers notes, that the hackers started mentioning the film.
+Up until that point, it was all about taking on the company, with language that hinted more at a grudge than a political statement.
+"When you look at the malware it includes bits and pieces from Sony's internal network and the whole thing feels more like someone who had an issue with Sony," Mr Rogers said.
+"They were dumping some of the most valuable information right at the start almost as if they wanted to hurt Sony."
+Truth be told, it's extremely difficult to know for sure who is behind any cyber attack. Equally, it's hard to prove who isn't. As well as the evidence cited here, the FBI said "undisclosed intelligence" was the clincher in pinning it to North Korea. We may never know what that information was.
+Some suggest that billing North Korea as a cyber villain is a convenient foe for the US. Respected technology magazine Wired went as far drawing a comparison between North Korea's cyber "capability", and Saddam Hussein's "weapons of mass destruction".
+As we head into 2015, at least one senior US politician is calling for North Korea to be re-designated as a state sponsor of terrorism.
+And with the government declaring it a matter of national security, the next thing for the US is to consider its response.
+President Obama said: "We will respond proportionally, and we will respond in a place and time and manner that we choose."
+Follow Dave Lee on Twitter @DaveLeeBBC

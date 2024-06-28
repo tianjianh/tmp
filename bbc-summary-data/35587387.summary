@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170105032522/http://www.bbc.co.uk:80/news/technology-35587387
+
+[SN]TITLE[SN]
+Bounty hunter finds Facebook account hijack bug
+
+[SN]FIRST-SENTENCE[SN]
+A British security analyst has been given $7,500 (£5,240) by Facebook after notifying it of a flaw on its website.
+
+[SN]RESTBODY[SN]
+Like many big tech firms, Facebook offers financial rewards, known as bug bounties, in exchange for issues reported directly to it rather than publicised.
+It is Jack Whitton's second big payout from Facebook - a previous find netted him $20,000.
+The more serious the bug, the higher the reward.
+It means that vulnerabilities can be fixed before they fall into the hands of hackers.
+Facebook recently announced that it had paid a total of $4.3m in bug bounties since it launched its programme in 2010.
+Last year, it awarded $936,000 to 210 people. The average payment was $1,780.
+Jack Whitton describes so-called bug hunting as a hobby. He has also identified weaknesses in platforms run by Paypal, Microsoft, Dropbox and Snapchat among others.
+"It can take a day to find, then more to investigate whether it's a real issue," he told the BBC.
+His most recent find involved an image that could be embedded with malicious code, which would enable its owner to take over a Facebook account once a particular member had clicked on it - a vulnerability known as cross-site scripting.
+It would not have affected the user's computer, but would have enabled their account to be accessed and controlled remotely - including sending private messages, posting links and pictures.
+"No-one had actually exploited it," Mr Whitton said.
+"Facebook were pretty pleased. They managed to get a quick fix - within six hours. They are a great company to report bugs to, they take it seriously."
+A permanent fix took longer, which is why he is only now able to talk about the bug although he found it last year.
+The social network has also included Jack Whitton in its "hall of fame" - a list of white hat - or ethical - hackers who have helped it to make the platform more secure.
+However, potential bug hunters should choose their websites carefully, he added.
+"Firms are becoming more aware that every company has issues, if you don't let people report them, the bad guys will use them and you just won't know about it," he said.
+"It's fun to find these things - and it is also very nice to get money from it - but only if the website has an official bug bounty policy.
+"Otherwise you might find yourself accused of hacking."
+Cybersecurity expert Prof Alan Woodward told the BBC that bug hunters were a cost-effective way for tech firms to find security flaws.
+"Compare the potential financial loss to a company and the bug bounties they pay and you soon realise it is a very cost-effective means of finding and plugging security holes," he said.
+Companies have a difficult balancing act to perform with the size of bounty they pay.
+If they pay too little, they can be accused of undervaluing the work of security researchers, and thereby not taking security seriously enough. If they pay too much, the companies might be accused of paying sums equivalent to protection money.
+"While there are security flaws and those willing to exploit them for criminal purposes, there will be a need to pay people a bounty to responsibly disclose what they find," Prof Woodward added.
+"Just like in the Wild West, it's not an ideal solution, but it works."

@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150406204927/http://www.bbc.co.uk/news/technology-32163248
+
+[SN]TITLE[SN]
+Google stops 'trusting' Chinese net regulator after lapse
+
+[SN]FIRST-SENTENCE[SN]
+A Chinese internet regulator has hit out at Google for no longer accepting its security certificates.
+
+[SN]RESTBODY[SN]
+When browsing the internet, certificates are designed to ensure the communication between a computer and web server is secure.
+Google said it would no longer accept certificates issued by the China Internet Network Information Center (CNNIC) following a security lapse.
+The CNNIC said Google's decision was "unacceptable and unintelligible".
+The CNNIC is responsible for providing certificates for websites with .cn domain names, as well as Chinese-language domains - including banks and government sites.
+It means users of Google's Chrome browser will see a warning notice when trying to access sites with CNNIC certificates.
+It will state that the website the user is attempting to access may be unsecure.
+Google discovered last month that unauthorised security certificates were issued to several of its own domains.
+After an investigation, conducted with the help of the CNNIC, it became clear that there was a problem with MCS Holdings, a Cairo-based firm contracted by the CNNIC to provide certificates.
+Google said domains with security certificates issued by MCS Holdings were vulnerable to man-in-the-middle attacks - a method of hacking that involves intercepting communications between, for example, a person's computer and a web server.
+MCS Holdings has said the problem was an accident and was due to human error.
+While Google welcomed the CNNIC's help with the investigation, it said the regulator had "delegated their substantial authority to an organisation that was not fit to hold it".
+As a result, Google has decided to no longer trust domains with certificates issued by, or on behalf of, the CNNIC.
+Users will be presented with a warning screen before being asked if they want to proceed to the "unsecure" site.
+However, there will be some exceptions.
+Google has offered a grace period to some major CNNIC-approved sites - such as banks - so they can obtain certificates from a different issuing authority.
+The search giant said the CNNIC was welcome to reapply for trusted status "once suitable technical and procedural controls are in place".
+But in a statement posted on Thursday, the regulator expressed anger, saying: "The decision that Google has made is unacceptable and unintelligible.
+"CNNIC sincerely urge that Google would take users' rights and interests into full consideration."

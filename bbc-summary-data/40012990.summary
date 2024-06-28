@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170524235455/http://www.bbc.com/news/technology-40012990
+
+[SN]TITLE[SN]
+Samsung S8 'eye security' fooled by photo
+
+[SN]FIRST-SENTENCE[SN]
+Samsung's eye-scanning security technology, used on the new Galaxy S8 smartphone, has been fooled with a photograph and a contact lens.
+
+[SN]RESTBODY[SN]
+The iris-scanner can be used to unlock the phone simply by looking at it, which Samsung says provides "airtight security".
+But researchers at Chaos Computer Club had easily tricked the device with a picture of an eye, Motherboard said.
+Samsung told the BBC it was "aware of the issue".
+The researchers first set up the phone's security by registering a volunteer's eyes using the S8 iris scanner.
+They then took a photograph of one of the volunteer's eyes, using a digital camera with an infra-red night vision setting.
+After printing the image, the researchers placed a contact lens over the photograph.
+The team posted a video showing the S8 smartphone unlocking itself when it saw the false eye.
+Samsung said its iris-scanning technology had been through "rigorous testing"  to "prevent attempts to compromise its security".
+"If there is a potential vulnerability or the advent of a new method that challenges our efforts to ensure security at any time, we will respond as quickly as possible to resolve the issue."
+Security expert Ken Munro said the discovery was "another reminder that biometrics is not a silver bullet".
+"Personally, I prefer fingerprints to iris unlock. Your fingers are already holding your phone, so why not use prints rather than wave your phone in front of your face?
+"If you want to be really secure, choose fingerprints and a secret number. If you must have iris unlock, please walk everywhere with your eyes closed, so your iris can't be photographed."
+Galaxy S8 owners have the option of using a password or secret number to unlock their phone, instead of using the iris scanner.

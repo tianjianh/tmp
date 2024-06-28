@@ -1,0 +1,23 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151120160935/http://www.bbc.co.uk/news/technology-24014926
+
+[SN]TITLE[SN]
+Raspberry Pi aids cyber 'safety net' for African rhino
+
+[SN]FIRST-SENTENCE[SN]
+Endangered rhinos in Kenya are being monitored with the aid of several Raspberry Pi computers.
+
+[SN]RESTBODY[SN]
+The bare-bones machines are controlling cameras to help form a cyber 'safety net' watching remote areas of the Tsavo National Park.
+The cameras will help rangers keep an eye on regions they do not usually patrol to spot rhinos or poachers.
+Images grabbed by the gadgets will be uploaded via satellite and available to anyone via a mobile app.
+The Instant Wild project has emerged from a collaboration between the Kenyan Wildlife Service (KWS), the Zoological Society of London (ZSL) and technology development firm Cambridge Consultants.
+Patrick Omondi, deputy director of wildlife conservation at KWS, said the cameras would vastly extend the reach of the agency.
+"We manage around 8% of the total land mass of Kenya - and these cameras will be critical in helping us monitor the well-being of rare animals and ensure their habitats remain protected from poachers," he said in a statement.
+Prof Jonathan Baillie, head of conservation at ZSL, said the cyber 'safety net' was a big part of a plan to significantly reduce poaching in Tsavo over the next two years. Poachers have been stepping up their activity in Africa recently, he said, and had killed more than 1,000 rhinos in the last 18 months.
+The project has led to the creation of small self-contained units that use the Raspberry Pi to monitor input from motion sensors, snap images as animals or people pass by and upload the pictures via the Iridium satellite network.
+The Pi was chosen because it uses so little power and will be able to get the most out of the onboard batteries, said Jonathan Pallant, senior engineer at Cambridge Consultants.
+"These cameras are going to be installed in locations where you really don't want to have to go and change the batteries all that often," he said.
+In order to ensure the Pi computers could withstand conditions in the field, Cambridge Consultants subjected them to the extremes of temperature and humidity found in Africa and even simulated attacks by the wild animals they will be helping to photograph.
+The cameras are being placed near water-holes and on game trails to snap animals as they drink and move around the bush. Images are uploaded to the Instant Wild website and distributed via an app to smartphones. Followers are helping to identify the species seen by the cameras.
+The Instant Wild project won Â£500,000 from Google in early 2013 to help get the idea off the drawing board and into the field. Other Instant Wild cameras have been placed in regions in Sri Lanka and Indonesia. There are further plans to put them in the Himalayas and the South Pole.

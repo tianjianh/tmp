@@ -1,0 +1,44 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150821082904/http://www.bbc.co.uk/news/technology-33957376/
+
+[SN]TITLE[SN]
+Samsung Pay: What is it and how does it compare to Apple Pay?
+
+[SN]FIRST-SENTENCE[SN]
+Samsung has launched its mobile wallet service Samsung Pay in South Korea.
+
+[SN]RESTBODY[SN]
+It joins Apple - which launched a rival facility last year - in trying to convince shoppers to use their handsets, rather than plastic cards, to make in-store purchases.
+And Samsung believes it has one critical fact that will work in its favour: its tech works with a much larger number of existing payment terminals.
+In truth, it's still unclear whether using mobiles to buy goods offline has much appeal beyond a novelty factor when it comes to non-geek members of the public.
+But with two of the biggest names in tech betting their mobile payment services will help their handsets stand out, the days of slipping a bulky wallet into your pocket or handbag could be numbered.
+At launch, Samsung Pay is only available in the company's home country.
+But it will expand to the US on 28 September, and the firm has indicated that the UK, Spain and China will be next to get the facility sometime in the near-future.
+That signals a more aggressive rollout than Apple Pay, which currently remains limited to the US and UK.
+However, there are two other additional factors to consider.
+Samsung Pay will only work with the firm's newest Android smartphones:
+And bank/credit card providers involved must be signed up to the scheme.
+Unlike Google Wallet and several other earlier payment apps, there's no need to unlock the phone and launch a special app to get started.
+Assuming you've already entered your payment card details, all you need do is swipe up from the bottom of the device's face and Samsung Pay will appear, even if the screen was turned off to begin with.
+Next, pick a credit card and scan your fingerprint or provide a Pin code.
+Finally, you have to bring the phone close to the payment terminal within 15 seconds to complete the sale.
+No - it should be able to work with two existing types of widely used kit.
+Like Apple Pay, Samsung's service is designed to work existing "tap-and-go" terminals that use near field communication (NFC) transmissions. This is the technology that was widely deployed across the UK alongside the introduction of chip-and-pin cards.
+But Samsung Pay's added trick is that it also works with magnetic stripe readers, which remain popular in the US and Asia.
+This is thanks to a proprietary technology it calls Magnetic Secure Transmission (MST).
+"Rather than swiping the card, which normally transmits the data, we are using electronic signals [made by alternating current through] coils inside the phone to send the signal over," Thomas Ko, vice president of Samsung Pay, explained to the BBC.
+"So, from the machine's perspective it is actually receiving the same amount of information that it would from a magnetic reader."
+Samsung has been able to deploy the innovation thanks to its takeover of LoopPay - an American company that initially tried to pioneer the tech via bulky add-on smartphone cases.
+Is that safe? Couldn't someone steal my account details by "eavesdropping" on the transmission?
+Payment cards have indeed been successfully targeted by thieves who clone the details coded on their magnetic stripes.
+However, Samsung Pay uses a security system called tokenisation to protect against this threat.
+Rather than transmitting the same, static "primary account number" (Pan) each time, a Samsung Pay handset instead sends:
+These two sets of data are sent to the payment processor, who checks they correspond before authorising the payment.
+Even if a thief were able to get close enough to intercept the transmission, there is no way for them to reverse-engineer the token to deduce the victim's card account details.
+And they would not be able to use the token with another magstripe reader unless they also had a way to generate a matching cryptogram. That should should be next to impossible to do without access to the encryption key.
+The system works without changes having to be made to the magstripe machine itself. It treats MST transmissions as if they are a traditional card swipe.
+Yes - but it's unlikely that many people will be swayed from Apple's iOS ecosystem solely because of the type of mobile payments Samsung supports.
+Perhaps the more important comparison is with Android Pay - Google's forthcoming mobile wallet service.
+Google is also pitching its service as simple to use because it doesn't need a special app to be launched. But it will require payment terminals to offer NFC support.
+Even so, one shouldn't totally discount app-based rivals - especially if they can offer distinctive services of their own.
+In South Korea Kakao Pay also allows users to make money transfers to each other and AliPlay does something similar in China. Meanwhile, in the US the forthcoming CurrentC service is promising "exclusive offers" to its users.

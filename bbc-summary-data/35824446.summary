@@ -1,0 +1,76 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170701092342/http://www.bbc.co.uk/news/technology-35824446
+
+[SN]TITLE[SN]
+Seven outstanding Micro Bit projects
+
+[SN]FIRST-SENTENCE[SN]
+The Micro Bit - a small computer designed to power internet-connected projects - is being handed out to thousands of British school children.
+
+[SN]RESTBODY[SN]
+The device has been made for Year Sevens (11-to-12-year-olds) and equivalents as part of an initiative spearheaded by the BBC.
+Microsoft, Samsung, ARM and several other organisations that teach coding to youngsters are also involved.
+The roll-out is happening later in the school year than originally planned.
+But there is undoubtedly pent-up enthusiasm for the computer.
+Unlike other budget computers - such as the Raspberry Pi - the machine is meant to be programmed via the web, rather than being connected to a keyboard and screen of its own.
+So, what can it do?
+As a standalone device it can be made to flash its LEDs in sequence and take readings from several built-in sensors, but when added to other hardware the possibilities are limitless.
+Below are seven projects by some of those who got their hands on the tech early.
+Read more:
+The Vamps help launch the Micro Bit
+Can the Micro Bit inspire a million?
+Microsoft chief checks out the Micro Bit
+What is the Micro Bit?
+The initial batch of Micro Bits were very limited in number. But that didn't stop one school launching their copy more than 32km (20 miles) into the air.
+One of the pupils at Rishworth School in West Yorkshire wrote a program that used a heat sensor to log changes in temperature and show the current reading on the computer's LEDs. Her classmates then attached the kit to a helium balloon and let it fly upwards.
+"Her code measured the temperature in the stratosphere, which is pretty awesome," recalled the teacher in charge, Peter Bell.
+"The kids were absolutely buzzing about the whole project."
+But he added that anyone thinking of repeating the initiative should not do so lightly.
+"We had to get civil aviation authority approval and were given a two-hour window to launch," he explained.
+"And on its descent, it initially fell for 14 seconds travelling at up to 180mph [290km/h].
+"At one point National Air Traffic Services apparently rerouted all the aircraft around Nottingham because there was essentially a missile travelling towards the airspace, but the parachute deployed when it got to an atmosphere where enough air was hitting it."
+The equipment was later recovered from a farmer's field.
+Micro Bits are by design small enough to fit inside a child's pocket. So, it seems a bit obtuse to try and turn them into a giant display board.
+Even so, Kitronik - an electronics parts supplier involved in the Micro Bit initiative - posed itself the challenge using 1,009 prototypes it had been given access to.
+The company's director used Microsoft's Touch Develop web interface to write three programs:
+"I realised early on that the big challenge on this project wasn't going to be writing the three different versions of code - though this did take a number of days - but was going to be to assemble the display," recalled Geoff Hampson.
+"Which is why we called on a team of volunteers to help wire it all up."
+A total of 230m (755ft) of wiring and 5,000 bolts were required to complete the project, which was unveiled at the Bett tech show in January.
+Six students from London's Highgate School came up with the idea of using the Micro Bit to help people with autism recognise other people's emotional states, as part of a one-day coding challenge earlier this year.
+People with the condition can struggle to read expressions and respond appropriately as a result of the disability.
+The team coded the computer so that a user could scroll through a series of graphics, shown via the LEDs, of faces presenting different moods.
+When they found a match they could press another button to make the LEDs state what the image represented - for example "happy", "sad" or "angry".
+"I think it was fantastic for these students to tackle a potentially difficult and complex issue such as disability and autism," said Holly Margerison from the Institution of Engineering and Technology, which organised the Faraday Projects event.
+"I also think this could be a great partnership activity, so students with and without autism could [further] work together on this product.
+"One thing which strikes me is that the students clearly understand the place of coding in the world and understand the ways in which it can enhance and improve their lives."
+ARM's in-house Micro Bit demo is deliberately simple by design.
+The chip creator - whose processor architecture is used by the mini-computer - got one of its team to juggle three of the devices and streamed data from their acceleration sensors to the internet via a Bluetooth link.
+To do so, they made use of Google's new Eddystone communication protocol and then tracked the readings - recorded at a rate of 200 times a second - via a web-based application. The information was used to create a graph tracking the rate that each of the Micro Bits sped up and slowed down.
+"We can detect in a program run on the Micro Bit when it is falling, and that means we can know how long it is falling for and how high we threw it," explained Jonny Austin, one of the engineers involved.
+"So, if I am juggling very unevenly you might see that every third throw I actually don't throw one of the Micro Bits nearly as high, and that would be represented by a much flatter peak on the graph."
+In theory, he added, it should be possible to spot patterns that could help a juggler-in-training identify problems with their technique.
+Heading North
+Pupils at Eastlea Community School in London came up with the idea of using a Micro Bit to keep a small aircraft on track as it headed toward the North Pole.
+The computer was programmed to trigger one of two motors whenever the vehicle drifted off course to steer it back to its destination.
+"The students came up with a working proof-of-concept but the gondola that they made was a little bit too weighty," said their teacher Steve Richards.
+"Air regulations would have also been a problem."
+But, he added, the class took these issues in their stride and are now developing a Micro Bit-steered paddle steamer boat that will make use of solar and wind energy.
+Mr Richards has previously taught classes using another British low-cost computer - the Raspberry Pi - but says he believes the Micro Bit is better suited for younger age groups.
+"It's been designed at a lower level that allows children to understand more quickly the concepts that you are trying to get across," he explained.
+"With the Raspberry Pi there are a lot of things that don't make immediate sense. So, I think the Micro Bit will make a great stepping stone that engages younger children before they want to do more serious projects that would require something like the Pi."
+Racing cars
+The Bloodhound Project - an effort to set a new land speed record of more than 1,000mph (1,609km/h) - has its own Micro Bit spin-off.
+Since the start of January, hundreds of children have been invited to carve their own model cars out of foam and blast them along a track using black-powder rockets fitted to their rears.
+The computers are slotted inside to measure the rocket cars' fastest speeds, average speeds and changes in thrust. The children then use the feedback to improve their designs.
+"This is something that teachers don't normally want to do because there is a lot of risk assessment involved," said Graeme Lawrie, one of the organisers and director of innovation at Sevenoaks school in Kent.
+"But these kind of wow factors are few and far between, and it provides the children with inspiration and enthusiasm for Stem (science, technology, engineering, and mathematics) subjects."
+As if that wasn't enough incentive to take part, the teams that make the fastest models are being promised a chance to have their names added to the fin of the actual Bloodhound supersonic car.
+Machine music
+Not all the early Micro Bit projects were targeted at children or involved coding.
+Dr Rebecca Fiebrink got hold of a device to use as part of her research into computer music at Goldsmiths, University of London.
+The lecturer used a program called Wekinator, which teaches a computer to recognise certain inputs and map them to different sounds.
+By connecting up a Micro Bit she was able to create music by twisting, tilting and drawing shapes in front of her with the mini-computer.
+"One example I made was a simple drum machine that I control using tilts," she told the BBC.
+"I can also use it to recognise gestures that I draw in the air and to create more experimental sounds.
+"It's a really exciting time right now because of the growing availability of relatively cheap-to-use sensing platforms, and the Micro Bit is a great way to get started building things."
+Watch a Q&A Rory hosted about the Micro Bit on the BBC Tech Facebookpage shortly after 1330GMT. page.

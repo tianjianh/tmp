@@ -1,0 +1,34 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170112035800/http://www.bbc.co.uk:80/news/business-36824256
+
+[SN]TITLE[SN]
+The tech helping Sir Ben's 'flying' boat go even faster
+
+[SN]FIRST-SENTENCE[SN]
+I'm clinging for dear life on to the back of a high-speed catamaran as it skims above the Solent near Portsmouth.
+
+[SN]RESTBODY[SN]
+Hydrofoils dipped into the sea have lifted both hulls clean out of the water and we're flying along at about 30 knots (35mph; 55km/h) in just a light breeze, the wind howling in my ears.
+When the wind is stronger, these catamarans can top 50mph powered by the huge sail that looks and behaves more like the wing of a passenger jet.
+As we take a tight turn around a buoy it feels like a powerful sports car hugging a bend. Only wetter.
+I've joined four-time Olympic gold medallist Sir Ben Ainslie and his team as they practise hard for the next leg of the Louis Vuitton America's Cup World Series race, which begins on Friday.
+The sailors are highly skilled and very fit, but their success will depend as much upon technology as human ability.
+"Technology is critical to the America's Cup," Sir Ben tells me as we take a breather between exercises. "It's a design race as much as it is a sailing race... the balance between design and actual sailing skill will be pretty much 50-50."
+Britain has never won the trophy, despite the competition's 165-year history, although Sir Ben did help Oracle Team USA win in 2013 - a feat he's aiming to recreate with his own crew.
+These boats are laden with sensors, hydraulics and composite materials taken from F1 motorsport and the aeronautics industry.
+They are designed to be as lightweight and aerodynamic as possible, even down to the suits of the crew, but they also have to withstand forces that are "significantly higher than F1 motorsport", says Martin Whitmarsh, former team principal of the McLaren Mercedes F1 team and now chief executive of Sir Ben's Land Rover BAR team.
+"The America's Cup is now the Formula 1 of sailing," he tells the BBC back at the team's purpose-built headquarters in Portsmouth harbour.
+"These are high-speed, dynamic, foiling multi-hulled boats with systems that help them fly and manoeuvre quicker than other boats.
+"They are inherently quite a lot more dangerous because they are travelling very fast and bearing enormous loads."
+The huge wing-sails can generate three times the speed of the wind, and the trick is to make the boats fly across the water without actually taking off.
+Hundreds of sensors dotted around the sail, hulls and foils measure the strains and pressures on the boat, as well as wind speeds and direction.
+All this data is sent back in real time to the technology centre where it is analysed to see how the team can squeeze even more speed from the equipment.
+Rob Lamb, cloud business director for EMC UK & Ireland - Land Rover BAR's data partner - says: "Telemetry data is transferred ashore using packet technology - like SMS - and then when the boat returns to shore a full download of all the data captured, including from the boat's high definition cameras, is downloaded and stored virtually."
+Given that legs of the America's Cup take place across the world, from Japan to Bermuda, a reliable data stream and storage facility is essential for all the teams.
+Jaguar Land Rover then applies machine learning techniques to this vast sea of data, perceiving patterns that humans could not and deriving insights that could lead to improved performance.
+Foil technology is not new - it's been used on ferries for years.
+Lifting the hull off the water using the lift created by the foil reduces drag and helps the boat go faster - that's simple physics.
+But now we have the materials, actuators, hydraulic and electronic control systems to operate them dynamically, responding to weather and sea conditions, argues Mr Whitmarsh.
+"Hydrofoils provide the opportunity for huge efficiency gains, not just on our boats but on many other waterborne vessels, so I think we're going to see something develop out of the America's Cup that's of benefit to the entire maritime industry."
+Follow Matthew on Twitter @matthew_wall
+Click here for more Technology of Business features

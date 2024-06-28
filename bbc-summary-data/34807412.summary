@@ -1,0 +1,28 @@
+[SN]URL[SN]
+http://web.archive.org/web/20151114102103/http://www.bbc.co.uk/news/technology-34807412
+
+[SN]TITLE[SN]
+Cost concerns over web spying proposals
+
+[SN]FIRST-SENTENCE[SN]
+UK MPs are investigating what it will cost ISPs to meet government proposals to log where Britons go online.
+
+[SN]RESTBODY[SN]
+The House of Commons Science and Technology committee is looking at whether gathering data on net-using citizens is even feasible.
+It also wants to look into the potential impact that logging browsing will have on how people use the web.
+The consultation comes as questions mount over the money the government will set aside to support monitoring.
+The draft Investigatory Powers Bill (IP Bill) was unveiled last week and it attempts to update the way the state, police and spies gather data to fight crime, terrorism and other threats.
+One of the most contentious aspects of the IP Bill obliges ISPs to record information about the services, websites and data every UK citizen uses. These "Internet Connection Records" would hold a year's worth of data.
+The Science and Technology committee has said it wants to look more deeply into this and its potential cost.
+In a notice announcing the inquiry, the Committee said it wanted to find out if it was possible for ISPs to meet the IP Bill's requirements. The text of the Bill asks ISPs to log where people go but not what they do when on a site or using a service.
+MPs also want to find out how easy it is for ISPs to separate data about a visit to a site from what happens once people log in, because more stringent rules govern who can discover what people do on a site as opposed to the sites they use.
+The Committee will also look at how much it might cost the providers to do this.
+The government has said it will provide Â£175m to ISPs over 10 years to pay for data to be gathered and stored.
+Adrian Kennard, head of UK ISP Andrews and Arnold, said it was not clear whether that was enough because the government had not specified what exactly it wanted recorded.
+"Just getting a couple of racks, in different locations, with physical security will be many thousands [of pounds] per month," he said. "Then [you need] multiple redundant servers and disk storage at each site and then the back-haul links to send and access the data, with suitable encryption."
+Added to this will be the "big issue" of how to meet the need to separate data about the sites people visit from what they do, he said.
+Sebastien Lahtinen from the Thinkbroadband site said disentangling site visit datastreams was "a very difficult question to answer directly" because of the way the web works.
+"A website visit is hard to quantify because visiting a site could result in several connections that may be logged under this system," he said. "It's still a bit unclear what would need to be stored for each visit and how you split up visits."
+ISPs watch the flows of data across their networks to help manage traffic, he said, but they typically only sample these streams because they deal with such massive quantities of information every day.
+Added to this, he said, was the question of how to log which device was being used for which visit.
+"I don't doubt it is technically feasible to do all this, it's just a question of cost and proportionality," he said.

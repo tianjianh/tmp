@@ -1,0 +1,24 @@
+[SN]URL[SN]
+http://web.archive.org/web/20150504040908/http://www.bbc.co.uk/news/technology-32531268
+
+[SN]TITLE[SN]
+Windows 'open' for Apple and Android
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft is releasing software tools that make it easier to run popular Apple and Android apps on Windows mobile devices.
+
+[SN]RESTBODY[SN]
+By changing a "few percent", Apple app makers should be able to run code on Windows 10 mobile devices, it said.
+And many Android apps should run with no changes.
+Experts said the move was an "imperfect solution" to Microsoft's problems persuading people to use Windows mobile.
+For iOS, Microsoft has unveiled an initiative called Project Islandwood, which has led to the creation of a software interpreter that works with the development tools Apple coders typically pick.
+By piping code through this interpreter and changing a few other parts, it would be possible to transfer or port iOS apps to Windows 10, Microsoft said in a presentation at its Build developer conference in Seattle.
+Already developers working for game-maker King have ported the massively popular Candy Crush Saga to Windows using these tools.
+A separate initiative, called Project Astoria, is aimed at Android and involves code built in to Windows itself that spots when an Android app is running and gives it the responses it expects.
+Microsoft said this meant many Android apps would run with no changes on Windows mobile devices.
+However, the way that Android is built means changes will have to be made to some apps.
+The tactic is seen as a way for Microsoft to to boost its popularity and persuade developers to include Windows 10 in their plans.
+While many apps are already available on the Windows store, some popular ones, such as Pinterest and Plants v Zombies 2, are absent.
+Microsoft has also added tools that let Android apps reach some parts of Windows, such as its Cortana personal assistant, they would not otherwise be able to use.
+CCS Insight analyst Geoff Blaber said: "The decision to embrace Android and iOS applications is an imperfect solution to an undesirable problem.
+"Nonetheless, it's a necessary move to attract developers otherwise lost to Apple and Google."

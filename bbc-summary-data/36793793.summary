@@ -1,0 +1,20 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160716000733/http://www.bbc.co.uk/news/technology-36793793
+
+[SN]TITLE[SN]
+Cheap ransomware takes files 'hostage'
+
+[SN]FIRST-SENTENCE[SN]
+Malware that gives victims 96 hours to pay a ransom before it starts deleting files from their PC has been spotted on the dark web.
+
+[SN]RESTBODY[SN]
+If the ransom remains unpaid, it continues deleting random files every six hours.
+The Stampado malware is for sale for less than $50 for a lifetime's licence.
+Unlike other variants, it does not need administrator rights to start infecting computers.
+Ransomware is malicious software that scrambles the data on a victim's PC and then asks for payment before restoring the data to its original state.
+The costs of unlocking data vary, with individuals typically paying a few hundred pounds and businesses a few thousand.
+"Cryptoware is such a big segment of the malware economy, malware creators have to constantly release new products to keep their clients engaged and the money flowing," said security firm Heimdal in a blog.
+In June, researchers at Intel Security said they had seen an "alarming" rise in the volume of ransomware available to hackers.
+They said that they had logged 124 separate variants of the malware.
+The FBI also said that it had seen ransomware attacks double in the past year, with more than 2,400 complaints. It estimated losses from such attacks stand at $24m (Â£18m) in that timeframe.
+Banks, hospitals and educational institutions have all been hit by attacks in recent months. Most attempt to solve the issue internally before paying any ransoms.

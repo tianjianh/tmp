@@ -1,0 +1,33 @@
+[SN]URL[SN]
+http://web.archive.org/web/20160210220623/http://www.bbc.co.uk/news/technology-35027504
+
+[SN]TITLE[SN]
+Vtech breach: Passwords 'not securely stored'
+
+[SN]FIRST-SENTENCE[SN]
+Toy giant Vtech has been accused of not securely storing customer passwords in its database, security experts say - with one calling it "unforgivable".
+
+[SN]RESTBODY[SN]
+Hackers accessed more than six million children's account details last month.
+Security researchers say Vtech did not take common steps to protect customer passwords in the event of a breach.
+On Monday, Vtech emailed affected customers and said their passwords had been "encrypted" but it was "possible the hacker may have decrypted" them.
+However, Rik Ferguson, from cybersecurity firm Trend Micro, said Vtech had not properly scrambled customer passwords in its database and had also stored customers' security questions and answers in plain text.
+Secure websites never store your chosen password in a readable format.
+Instead, a mathematical algorithm scrambles or hashes the password into a string of code. Only the "hash" of your password is stored by the website.
+When you type your password on a website, it is hashed again and compared to the copy stored in the database. If the two hashes match, you are allowed in.
+Vtech did hash its customers' passwords, but this process alone is not complex enough to stop people working out the stored passwords.
+To add extra complexity to the hashing process, randomly generated text known as "salt" can be added to each user's password before it is scrambled.
+Salting makes every hash different, even if two people have chosen the same password.
+The process makes it very time-consuming and impractical for criminals to try and work out customers' passwords.
+However, Vtech did not salt its customers' passwords - exposing them to a hash table attack.
+Unlike encryption, which can be unlocked with the right key, hashing is a one-way process which cannot be reversed.
+However, hackers can sometimes work out passwords with a hash table attack.
+"If you know the algorithm, you can take a dictionary of known words or commonly used passwords and generate all the hashes for them," said Mr Ferguson.
+"That gives you a rainbow table and you can then look to see if any of the hashes match those in the customer database."
+Salting makes this method impractical because criminals would need to create a unique rainbow table for each person on the database.
+Mr Ferguson said Vtech had also used a vulnerable algorithm to hash its customers' passwords.
+"They made a poor choice. The MD5 algorithm has been known to be flawed for a decade," he told the BBC.
+"It is unforgivable, for a technology company making products for children.  They had an enormous duty of care and they failed.
+"If you used the same password on any other website, change it immediately - and let this be a lesson never to reuse passwords on more than one site.
+"Don't forget that the security password and question have been exposed too - so if you used those anywhere else, change them too."
+The BBC has invited Vtech to comment.

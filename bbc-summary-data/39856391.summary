@@ -1,0 +1,26 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170510232529/http://www.bbc.com/news/technology-39856391
+
+[SN]TITLE[SN]
+Microsoft makes emergency security fix
+
+[SN]FIRST-SENTENCE[SN]
+Microsoft has released an urgent update to stop hackers taking control of computers with a single email.
+
+[SN]RESTBODY[SN]
+The unusual bug, in Microsoft anti-malware software such as Windows Defender, could be exploited without the recipient even opening the message.
+Researchers working for Google's Project Zero cyber-security outfit discovered the flaw at the weekend.
+The fix has been specially pushed out hours before the software giant's monthly Tuesday security update.
+Hackers could exploit the flaw simply by sending an infected email, instant message or getting the user to click on a web browser link.
+Windows 8, 8.1, 10 and Windows Server operating systems are affected by the bug.
+Anti-virus software such as Windows Defender would merely have to scan the malicious content for the exploit to be triggered.
+On some computers, scans are set up to occur almost instantly - "real-time protection" - or to take place at a scheduled time.
+"Anti-virus normally tries to intercept these things before you get to them," said cyber-security expert Graham Cluley.
+He added it was "tremendous" that Microsoft had released the patch so quickly.
+The bug was discovered by Google Project Zero researchers Tavis Ormandy and Natalie Silvanovich.
+And Mr Ormandy later tweeted he had been "blown away" at the speedy response.
+The vulnerability allows for remote code execution: "the thing all the malicious attackers are aiming for", Mr Cluley told the BBC.
+"It means they can install code on to your computer without your permission - it means they can hijack your computer."
+Mr Cluley did add, however, that he thought the Project Zero protocol for announcing the vulnerability had been risky, because it included information that malicious hackers might have found useful.
+"That can help the bad guys," he said.
+Windows users can check that they are running the latest Windows Defender engine version (1.1.13704.0), which should download automatically, to make sure they are not at risk - or hit the update button.

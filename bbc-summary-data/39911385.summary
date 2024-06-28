@@ -1,0 +1,41 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515153946/http://www.bbc.com/news/uk-39911385
+
+[SN]TITLE[SN]
+Next cyber-attack could be imminent, warn experts
+
+[SN]FIRST-SENTENCE[SN]
+Another major cyber-attack could be imminent after Friday's global hit that infected more than 125,000 computer systems, security experts have warned.
+
+[SN]RESTBODY[SN]
+UK security researcher "MalwareTech", who helped to limit the ransomware attack, predicted "another one coming... quite likely on Monday".
+The virus, which took control of users' files, spread to 100 countries, including Spain, France and Russia.
+In England, 48 NHS trusts fell victim, as did 13 NHS bodies in Scotland.
+Some hospitals were forced to cancel procedures and appointments, as ambulances were directed to neighbouring hospitals free from the computer virus.
+UK Home Secretary Amber Rudd said on Saturday that the problem was largely resolved but that "there's always more" that could be done to protect against computer viruses.
+NHS trusts that appear to still be experiencing IT difficulties are:
+After taking computers over, the virus displayed messages demanding a payment of $300 (Â£230) in virtual currency Bitcoin to unlock files and return them to the user.
+BBC analysis of three accounts linked with the global attack suggests the hackers have already been paid the equivalent of Â£22,080.
+MalwareTech, who wants to remain anonymous, was hailed as an "accidental hero" after registering a domain name to track the spread of the virus, which actually ended up halting it.
+The 22-year-old told the BBC: "It's very important that people patch their systems now.
+"We have stopped this one, but there will be another one coming and it will not be stoppable by us.
+"There's a lot of money in this. There's no reason for them to stop. It's not really much effort for them to change the code and then start over.
+"So there's a good chance they are going to do it... maybe not this weekend, but quite likely on Monday morning."
+On Sunday he warned hackers could upgrade the virus to remove the "kill switch" that helped to stop it.
+"Version 1 of WannaCrypt was stoppable but version 2.0 will likely remove the flaw. You're only safe if you patch ASAP," he tweeted.
+Fellow security researcher Darien Huss, from tech firm Proofpoint, echoed MalwareTech's view.
+"I highly suspect that, with the amount of coverage that this incident is getting, there are probably already people that are working to incorporate the exploit that was used for spreading," he said.
+He said his research experience on targeted attacks made him doubt a nation state was involved here.
+"This attack was so simple and unsophisticated, that leads me to believe the people or person involved, even though they are quite capable, they're more along the lines of an amateur," he said.
+Investigators are working to track down those responsible for the ransomware used on Friday, known as Wanna Decryptor or WannaCry.
+The virus exploits a vulnerability in Microsoft Windows software, first identified by the US National Security Agency, experts have said.
+Europol described the cyber-attack as "unprecedented" and said its cyber-crime team was working with affected countries to "mitigate the threat and assist victims".
+Oliver Gower, of the UK's National Crime Agency, added: "Cyber criminals may believe they are anonymous, but we will use all the tools at our disposal to bring them to justice."
+In the UK, critics said the government had known about the threat of a cyber-attack for some time, but hospitals had not made the right upgrades to protect themselves.
+A security update - or patch - was released by Microsoft in March to protect against the virus, but it appears many NHS organisations had not applied it or were using an older version of the operating system no longer supported - namely Windows XP.
+NHS Digital said that 4.7% of devices within the NHS use Windows XP, with the figure continuing to decrease.
+But Kingsley Manning, a former chairman of NHS Digital, said several hundred thousand computers were still running the out-of-date operating system.
+Mr Manning told BBC Radio 4's PM programme: "Some trusts took the advice that was offered to them very seriously and acted on it and some of them may not have done.
+"If you're sitting in a hard-pressed hospital in the middle of England, it is difficult to see that as a greater priority than dealing with outpatients or A&E."
+The Liberal Democrats and Labour have both demanded an inquiry into the cyber-attack.
+Get news from the BBC in your inbox, each weekday morning

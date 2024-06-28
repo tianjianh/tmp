@@ -1,0 +1,49 @@
+[SN]URL[SN]
+http://web.archive.org/web/20170515212030/http://www.bbc.com/news/technology-39920141
+
+[SN]TITLE[SN]
+WannaCry ransomware cyber-attacks slow but fears remain
+
+[SN]FIRST-SENTENCE[SN]
+A computer malware that has spread across 150 countries appears to be slowing down, with few reports of fresh attacks globally on Monday.
+
+[SN]RESTBODY[SN]
+A spokesperson for police agency Europol said the situation in Europe "seems stable".
+In Asia, where many offices closed before the WannaCry ransomware struck on Friday, the attack has been less severe than expected.
+The ransomware takes over users' files, demanding $300 (Â£230) to restore them.
+Only about $50,000 (Â£39,000) has been paid so far, according to Elliptic Labs which tracks illicit use of the internet currency Bitcoin.
+However, the ransomware warning said that the cost would double after three days, so the payments may increase.
+It threatens to delete files within seven days if no payment is made.
+Computer giant Microsoft said the attack, which has affected hundreds of thousands of computers, should serve as a wake-up call.
+Among the organisations targeted worldwide have been Germany's rail network Deutsche Bahn, Spanish telecommunications operator Telefonica, US logistics giant FedEx and Russia's interior ministry.
+Many firms employed experts over the weekend to try to prevent new infections.
+Senior spokesman for Europol, Jan Op Gen Oorth, told the AFP news agency: "The number of victims appears not to have gone up and so far the situation seems stable in Europe, which is a success.
+"It seems that a lot of internet security guys over the weekend did their homework and ran the security software updates."
+UK Health Minister Jeremy Hunt confirmed to the BBC that UK intelligence services had found no evidence of a second wave of attacks on Monday.
+The badly affected National Health Service said seven out of 47 trusts that were hit were still facing serious issues.
+French carmaker Renault said its plant in the northern town of Douai would not reopen on Monday as it dealt with the cyber-attack.
+In Asia, the spread was reportedly slowing, with banking systems largely unaffected:
+In the US, a small number of critical infrastructure operators were affected but not significantly, a Department of Homeland Security official told Reuters. There were no victims within the US federal government, he added.
+This won't take long. Nobody knows. Europol's Jan Op Gen Oorth said: "A bit early to say... but we are working on a decrypting tool".
+Associated Press quoted Tim Wellsmore, of US security firm FireEye, as saying: "We expect this is a small operation... They just happened to hit the mother lode."
+Russian President Vladimir Putin said: "Russia has absolutely nothing to do with it."
+EU Commissioner for Security Julian King told the BBC on Monday that the EU was proposing legislation to reinforce cyber security in the wake of the attack.
+Companies in Asia and Europe have been warning employees to be careful when clicking on attachments and links in their emails.
+The message from the UK's National Crime Agency was "do not pay!" - there is no guarantee that systems will be restored.
+Michael Gazeley, of Network Box, a Hong Kong-based cyber-security firm, told Reuters there were still "many 'landmines' waiting in people's inboxes", adding that his firm had detected a new version that infected users directly via a malicious link on hacked websites.
+Becky Pinkard, from Digital Shadows, a UK-based cyber-security firm, also said it would be easy for the initial attackers or "copy-cat authors" to change the virus code so it is difficult to guard against.
+A UK security researcher known as "MalwareTech", who helped to limit the ransomware attack, had predicted "another one coming... quite likely on Monday".
+MalwareTech, whose name was revealed in UK media to be 22-year-old Marcus Hutchins, was hailed as an "accidental hero" after registering a domain name to track the spread of the virus, which actually ended up halting it.
+The computing giant says the tool used in this current attack had been developed by the US National Security Agency and was stolen by hackers.
+It is highly critical of the way governments store data on software vulnerabilities.
+Microsoft president and chief legal officer Brad Smith said on Sunday: "We have seen vulnerabilities stored by the CIA show up on Wikileaks, and now this vulnerability stolen from the NSA has affected customers around the world.
+"An equivalent scenario with conventional weapons would be the US military having some of its Tomahawk missiles stolen."
+The organisation also said that many organisations had failed to keep their systems up to date, allowing the virus to spread.
+Microsoft said it had released a Windows security update in March to tackle the problem involved in the latest attack, but many users were yet to run it.
+How roots can be traced to the US
+There are going to be some tough questions on Monday for those institutions which didn't do enough to keep their networks secure, as well as the organisations that were best placed to stop it happening in the first place - the NSA and Microsoft.
+The NSA keeps a chest of cyber-weapons to itself so it can hit targets, but Microsoft has long argued that this is dangerous. If there is a flaw in Windows, the company said, surely the safest thing to do is to let its team know straight away so it can be fixed.
+But then Microsoft also needs to consider what obligation it has to update all users - not just the ones who pay extra for security on older systems.
+Updating your computer if you're an individual is a piece of cake, but for a network the size of Britain's National Health Service? Tough - time-consuming, expensive and complex.
+For a company like Microsoft to say it won't keep those systems safe unless they shell out more money, then that in itself, I think, is something of a ransom.
+Get news from the BBC in your inbox, each weekday morning
