@@ -82,3 +82,82 @@ Generated: restaurant area centre, restaurant bookday saturday, restaurant bookp
 Truth: train arriveby 20:38, train bookpeople 1, train day saturday, train departure brisbane, train destination ahmedabad, train leaveat 19:48
 Generated: hotel area centre, hotel bookday, hotel name tr7143, hotel pricerange expensive, hotel type hotel, train arriveby 20:45, train bookpeople 1, train day saturday, train departure broxbourne, train destination cambridge, train leaveat dontcare
 
+
+ normal prompt →  Model → x_n (one token logit)
+“Be careful about you reasoning, pay attention…” + normal prompt → Model → x_c (one token logit)
+
+
+Q1 ) What happens when we move from x_n to x_c?
+
+Q2 ) fine tuning data set = D= {z_1, …, z_N} , where z_i  = (q_i, a_i)
+Generate a new dataset: D’ = {z_1’, …, z_N’} After adding the “Be careful” to every data entry q_i.
+
+Add a regularizer |M(q_i) - M(q’_i)|, play with regularizer
+
+
+Q3) Observation : Talk in last neurips. After fine-tuning LLMs seem to behave lineary in the weight space. 
+W = pretrained model
+W1 = fine tuned for solving math equations
+\delta W1 = W1 - W 
+W2 = fine-tuned for chess
+\delta W2 = W2 - W 
+
+W’ = W + delta W1 + \delta W2 → able to solve both math and chess 
+
+Task → Find the paper
+
+===============
+This can be done on top of Q2.
+
+W* = fine tuned model
+W’ = fine tuned with “careful” prompting
+
+Use the weight W’’ = (1+alpha) W’ - alpha W*
+
+W* – W’ — W’’
+
+================
+
+
+
+
+
+
+
+Q1:
+
+Ideal case:
+
+Q → A = [a1, a2, a3, .., an]
+Q + be careful → A’ = [a’_1, a’_2, a’_3, …, a’_m]
+
+k= min(m,n)
+
+a’’_l =a’_l + \alpha * (a’_l - a_l)
+1<=l<=k
+
+
+===
+Regular decoding
+Q→a1
+Q+be careful →a1’
+
+Q+a1 →a2
+Q+be careful + a1’-->a2’
+=== 
+
+Regular decoding
+Q→a1
+Q+be careful →a1’
+a1’’ = a1’ + alpha * (a1’-a1)
+
+Q+a1’’ →a2
+Q+be careful + a1’’-->a2’
+a2’’ = a2’ + alpha * (a2’-a2)
+==========
+A = [8:30 is the time for me to go to school now]
+A’ = [I have to go to school at 9:00]
+
+
+
+
