@@ -271,7 +271,7 @@ def manage_checkpoints(output_dir, max_checkpoints=2):
 
 # Training loop with logging, saving model, and progress bar
 global_step = 0
-save_every = 1000 
+save_every = 2500 
 
 
 for epoch in range(num_epochs):
